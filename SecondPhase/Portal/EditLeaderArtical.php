@@ -90,7 +90,7 @@ if(isset($_POST['Submit'])){
 </head>
 
 
-<?php require_once("menu.php");?>
+<?php //require_once("menu.php");?>
 
 
 <div class="container">
@@ -158,7 +158,11 @@ if($pageid){
 							<div class="cols-sm-10">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
-                                    <input type="text" class="form-control" name="Description" id="Description"  value='<?php echo $Description;?>' placeholder=" Description"/>
+                                   <!-- <input type="text" class="form-control" name="Description" id="Description"  value='<?php echo $Description;?>' placeholder=" Description"/>
+									-->
+									<textarea rows="4" cols="50" placeholder="Description enter here" class="form-control" name="Description" id="Description" >
+									<?php echo $Description;?>
+									</textarea>
 								</div>
 							</div>
                         </div>

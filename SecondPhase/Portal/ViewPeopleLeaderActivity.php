@@ -20,6 +20,11 @@ session_start();
     <link href="./css/ace-responsive-menu.css" rel="stylesheet" type="text/css" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     <link href="./css/registerUserCss.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+   function validate(){
+       alert('hello');
+    }
+</script>
 </head>
 <body>
 <?php require_once("menu.php");?>
@@ -43,69 +48,75 @@ session_start();
 }?>
 
 <div class="main-login main-center">
-<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>"  method="post" enctype="multipart/form-data" id="importFrm">
+<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>"  onsubmit="return validate()" method="post" enctype="multipart/form-data" id="importFrm">
                <?php 
 if($_SERVER['REQUEST_METHOD'] == 'POST'){
-    //validate whether uploaded file is a csv file
     $csvMimes = array('text/x-comma-separated-values', 'text/comma-separated-values', 'application/octet-stream', 'application/vnd.ms-excel', 'application/x-csv', 'text/x-csv', 'text/csv', 'application/csv', 'application/excel', 'application/vnd.msexcel', 'text/plain');
-   if(!empty($_FILES['file']['name']) && in_array($_FILES['file']['type'],$csvMimes)){
-    if(is_uploaded_file($_FILES['file']['tmp_name'])){ 
-        //open uploaded csv file with read only mode
-        $csvFile = fopen($_FILES['file']['tmp_name'], 'r');
-        //skip first line
-        fgetcsv($csvFile);
-        $i=0;
-        $updatedRow="";
-        $pattern="/^'/";
-        $replacement="&#8217;";
-        //parse data from csv file line by line
-        while(($line = fgetcsv($csvFile)) !== FALSE){
-           // check whether member already exists in database with same email
-           $prevQuery = "SELECT ID FROM leaderassociation WHERE ID = '".mysqli_real_escape_string($link,$line[0])."'";
-            $prevResult = mysqli_query($link, $prevQuery) or die(mysql_error());
-            $count = mysqli_num_rows($prevResult);
-          if($line[1]!=""){
-              $updatedRow.=$line[1]."<br/>";
-              $Title=(preg_match($pattern, $line[1]) )? preg_replace($pattern, $replacement, $line[1]): $line[1] ;
-              $series=(preg_match($pattern, $line[2]) )? preg_replace($pattern, $replacement, $line[2]): $line[2] ;
-              $strapline=(preg_match($pattern, $line[3]) )? preg_replace($pattern, $replacement, $line[3]): $line[3] ;
-              $Description=(preg_match($pattern, $line[4]) )? preg_replace($pattern, $replacement, $line[4]): $line[4] ;
-              $Links=(preg_match($pattern, $line[5]) )? preg_replace($pattern, $replacement, $line[5]): $line[5] ;
-              $ActivityDuration=(preg_match($pattern, $line[6]) )? preg_replace($pattern, $replacement, $line[6]): $line[6] ;
-              $MainCategory=(preg_match($pattern, $line[7]) )? preg_replace($pattern, $replacement, $line[7]): $line[7] ;
-              $Category=(preg_match($pattern, $line[8] ))? preg_replace($pattern, $replacement, $line[8]): $line[8] ;
-              $Filter=(preg_match($pattern, $line[9]) )? preg_replace($pattern, $replacement, $line[9]): $line[9] ;
-              $CapabilityTag= (preg_match($pattern, $line[10]) )? preg_replace($pattern, $replacement, $line[10]): $line[10] ;
-              $TopicSearchTags=(preg_match($pattern, $line[11]) )? preg_replace($pattern, $replacement, $line[11]): $line[11] ;
-              $Keyword=(preg_match($pattern, $line[12]) )? preg_replace($pattern, $replacement, $line[12]): $line[12] ;
-              $SecondaryLeadership=(preg_match($pattern, $line[13]) )? preg_replace($pattern, $replacement, $line[13]): $line[13] ;
-             $pageRanking=(preg_match($pattern, $line[14]) )? preg_replace($pattern, $replacement, $line[14]): $line[14] ;
-              $imageName=(preg_match($pattern, $line[15]) )? preg_replace($pattern, $replacement, $line[15]): $line[15] ;
-            if($count > 0){
-                //update member data
-                $updateQuery="UPDATE leaderassociation SET Title = '".mysqli_real_escape_string($link,$Title)."', series = '".mysqli_real_escape_string($link,$series)."', strapline = '".mysqli_real_escape_string($link,$strapline)."', Description = '".mysqli_real_escape_string($link,$Description)."', Links = '".mysqli_real_escape_string($link,$Links)."',ActivityDuration= '".mysqli_real_escape_string($link,$ActivityDuration)."',MainCategory='".mysqli_real_escape_string($link,$MainCategory)."',Category= '".mysqli_real_escape_string($link,$Category)."',Filter= '".mysqli_real_escape_string($link,$Filter)."',CapabilityTag= '".mysqli_real_escape_string($link,$CapabilityTag)."',TopicSearchTags= '".mysqli_real_escape_string($link,$TopicSearchTags)."',Keyword= '".mysqli_real_escape_string($link,$Keyword)."',SecondaryLeadership= '".mysqli_real_escape_string($link,$SecondaryLeadership)."',pageRanking= '".mysqli_real_escape_string($link,$pageRanking)."',imageName= '".mysqli_real_escape_string($link,$imageName)."',updateOn=NOW() WHERE ID = '".mysqli_real_escape_string($link,$line[0])."'";
-              // echo $updateQuery;
-               $result= mysqli_query($link, $updateQuery) or die(mysql_error());               
-            }else{
-                //insert member data into database
-                $insertQuery="INSERT INTO leaderassociation (Title,series,strapline,Description,Links,ActivityDuration,MainCategory,Category,Filter,CapabilityTag,TopicSearchTags,Keyword,SecondaryLeadership,pageRanking,imageName,updateOn) VALUES ('".mysqli_real_escape_string($link,$Title)."','".mysqli_real_escape_string($link,$series)."','".mysqli_real_escape_string($link,$strapline)."','".mysqli_real_escape_string($link,$Description)."','".mysqli_real_escape_string($link,$Links)."','".mysqli_real_escape_string($link,$ActivityDuration)."','".mysqli_real_escape_string($link,$MainCategory)."','".mysqli_real_escape_string($link,$Category)."','".mysqli_real_escape_string($link,$Filter)."','".mysqli_real_escape_string($link,$CapabilityTag)."','".mysqli_real_escape_string($link,$TopicSearchTags)."','".mysqli_real_escape_string($link,$Keyword)."','".mysqli_real_escape_string($link,$SecondaryLeadership)."','".mysqli_real_escape_string($link,$pageRanking)."','".mysqli_real_escape_string($link,$imageName)."',NOW())";
-             // echo $insertQuery;
-              $result= mysqli_query($link, $insertQuery) or die(mysql_error());               
-              
-            }
-        }
-        $i++;
-        }
-        
-        //close opened csv file
-        fclose($csvFile);
-        echo "Total Number of Rows updated ".$i." and Title of those Rows are as following";
-        echo "<br/>".$updatedRow;
-        echo "<a href='/Portal/ViewPeopleLeaderActivity.php'>Click here to view All updates </a>";
-        
-    }
-}
 
+    //validate whether uploaded file is a csv file
+    if(empty($_FILES['file']['name']){
+        echo "ERROR: Please upload a valid CSV file";
+        $_SESSION['message']="ERROR: Please upload a valid CSV file";
+
+    }else{
+        if(!empty($_FILES['file']['name']) && in_array($_FILES['file']['type'],$csvMimes)){
+                if(is_uploaded_file($_FILES['file']['tmp_name'])){ 
+                    //open uploaded csv file with read only mode
+                    $csvFile = fopen($_FILES['file']['tmp_name'], 'r');
+                    //skip first line
+                    fgetcsv($csvFile);
+                    $i=0;
+                    $updatedRow="";
+                    $pattern="/^'/";
+                    $replacement="&#8217;";
+                    //parse data from csv file line by line
+                    while(($line = fgetcsv($csvFile)) !== FALSE){
+                    // check whether member already exists in database with same email
+                    $prevQuery = "SELECT ID FROM leaderassociation WHERE ID = '".mysqli_real_escape_string($link,$line[0])."'";
+                        $prevResult = mysqli_query($link, $prevQuery) or die(mysql_error());
+                        $count = mysqli_num_rows($prevResult);
+                    if($line[1]!=""){
+                        $updatedRow.=$line[1]."<br/>";
+                        $Title=(preg_match($pattern, $line[1]) )? preg_replace($pattern, $replacement, $line[1]): $line[1] ;
+                        $series=(preg_match($pattern, $line[2]) )? preg_replace($pattern, $replacement, $line[2]): $line[2] ;
+                        $strapline=(preg_match($pattern, $line[3]) )? preg_replace($pattern, $replacement, $line[3]): $line[3] ;
+                        $Description=(preg_match($pattern, $line[4]) )? preg_replace($pattern, $replacement, $line[4]): $line[4] ;
+                        $Links=(preg_match($pattern, $line[5]) )? preg_replace($pattern, $replacement, $line[5]): $line[5] ;
+                        $ActivityDuration=(preg_match($pattern, $line[6]) )? preg_replace($pattern, $replacement, $line[6]): $line[6] ;
+                        $MainCategory=(preg_match($pattern, $line[7]) )? preg_replace($pattern, $replacement, $line[7]): $line[7] ;
+                        $Category=(preg_match($pattern, $line[8] ))? preg_replace($pattern, $replacement, $line[8]): $line[8] ;
+                        $Filter=(preg_match($pattern, $line[9]) )? preg_replace($pattern, $replacement, $line[9]): $line[9] ;
+                        $CapabilityTag= (preg_match($pattern, $line[10]) )? preg_replace($pattern, $replacement, $line[10]): $line[10] ;
+                        $TopicSearchTags=(preg_match($pattern, $line[11]) )? preg_replace($pattern, $replacement, $line[11]): $line[11] ;
+                        $Keyword=(preg_match($pattern, $line[12]) )? preg_replace($pattern, $replacement, $line[12]): $line[12] ;
+                        $SecondaryLeadership=(preg_match($pattern, $line[13]) )? preg_replace($pattern, $replacement, $line[13]): $line[13] ;
+                        $pageRanking=(preg_match($pattern, $line[14]) )? preg_replace($pattern, $replacement, $line[14]): $line[14] ;
+                        $imageName=(preg_match($pattern, $line[15]) )? preg_replace($pattern, $replacement, $line[15]): $line[15] ;
+                        if($count > 0){
+                            //update member data
+                            $updateQuery="UPDATE leaderassociation SET Title = '".mysqli_real_escape_string($link,$Title)."', series = '".mysqli_real_escape_string($link,$series)."', strapline = '".mysqli_real_escape_string($link,$strapline)."', Description = '".mysqli_real_escape_string($link,$Description)."', Links = '".mysqli_real_escape_string($link,$Links)."',ActivityDuration= '".mysqli_real_escape_string($link,$ActivityDuration)."',MainCategory='".mysqli_real_escape_string($link,$MainCategory)."',Category= '".mysqli_real_escape_string($link,$Category)."',Filter= '".mysqli_real_escape_string($link,$Filter)."',CapabilityTag= '".mysqli_real_escape_string($link,$CapabilityTag)."',TopicSearchTags= '".mysqli_real_escape_string($link,$TopicSearchTags)."',Keyword= '".mysqli_real_escape_string($link,$Keyword)."',SecondaryLeadership= '".mysqli_real_escape_string($link,$SecondaryLeadership)."',pageRanking= '".mysqli_real_escape_string($link,$pageRanking)."',imageName= '".mysqli_real_escape_string($link,$imageName)."',updateOn=NOW() WHERE ID = '".mysqli_real_escape_string($link,$line[0])."'";
+                        // echo $updateQuery;
+                        $result= mysqli_query($link, $updateQuery) or die(mysql_error());               
+                        }else{
+                            //insert member data into database
+                            $insertQuery="INSERT INTO leaderassociation (Title,series,strapline,Description,Links,ActivityDuration,MainCategory,Category,Filter,CapabilityTag,TopicSearchTags,Keyword,SecondaryLeadership,pageRanking,imageName,updateOn) VALUES ('".mysqli_real_escape_string($link,$Title)."','".mysqli_real_escape_string($link,$series)."','".mysqli_real_escape_string($link,$strapline)."','".mysqli_real_escape_string($link,$Description)."','".mysqli_real_escape_string($link,$Links)."','".mysqli_real_escape_string($link,$ActivityDuration)."','".mysqli_real_escape_string($link,$MainCategory)."','".mysqli_real_escape_string($link,$Category)."','".mysqli_real_escape_string($link,$Filter)."','".mysqli_real_escape_string($link,$CapabilityTag)."','".mysqli_real_escape_string($link,$TopicSearchTags)."','".mysqli_real_escape_string($link,$Keyword)."','".mysqli_real_escape_string($link,$SecondaryLeadership)."','".mysqli_real_escape_string($link,$pageRanking)."','".mysqli_real_escape_string($link,$imageName)."',NOW())";
+                        // echo $insertQuery;
+                        $result= mysqli_query($link, $insertQuery) or die(mysql_error());               
+                        
+                        }
+                    }
+                    $i++;
+                    }
+                    
+                    //close opened csv file
+                    fclose($csvFile);
+                    echo "Total Number of Rows updated ".$i." and Title of those Rows are as following";
+                    echo "<br/>".$updatedRow;
+                    echo "<a href='/Portal/ViewPeopleLeaderActivity.php'>Click here to view All updates </a>";
+                    
+                }
+            }
+    }
 
 
    
