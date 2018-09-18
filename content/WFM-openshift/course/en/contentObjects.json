@@ -1,0 +1,210 @@
+[
+  {
+    "_id": "595af3eed13ae8c563bd8feb",
+    "_courseId": "595af3eed13ae8c563bd8fe8",
+    "_parentId": "595af3eed13ae8c563bd8fe8",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "58e2f9bbaf77c6741fdb193e",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": null
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ac6d023c4e71532e3c51600"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "5ac6d023c4e71532e3c51600",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "New Page",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "595af3eed13ae8c563bd8ff2",
+      "5acd88751e16803cc70f91bd",
+      "595af3eed13ae8c563bd8ff5",
+      "595c38265bfc8db91b21cd84",
+      "5982be95ebca4a4008794d78",
+      "5acd88c21e16803cc70f91c1"
+    ],
+    "_childrenIds": [
+      "595af3eed13ae8c563bd8ff0",
+      "5acd88751e16803cc70f91bb",
+      "595af3eed13ae8c563bd8ff3",
+      "595c38265bfc8db91b21cd82",
+      "5982be95ebca4a4008794d76",
+      "5acd88c21e16803cc70f91be"
+    ]
+  }
+]

@@ -1,0 +1,1253 @@
+[
+  {
+    "_id": "596fffc032b40dca201c4c1f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "596fffa032b40dca201c4c1e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "596fffc032b40dca201c4c1f",
+    "body": "<p style=\"text-align: right;\">Myer Customer<br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19401",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19400",
+    "__v": 0,
+    "_refId": "5962bdf53b3d31444afd3a07",
+    "displayTitle": "Steps 1 &amp; 2: Measure the bust",
+    "body": "<p style=\"text-align: center;\">First we measure a customer’s ‘under bust’ or diaphragm.  This measurement needs to be very firm – as the frame provides the majority of the support within the bra. Remember the frame size will be a number 8 and 24 in selected brands. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Next we measure the customer’s ‘over bust’, or breast. This measurement can be more generous. This gives us their cup size – remember this is a letter between A and G in selected brands.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch the video to learn how we measure a customer. </p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "ariaLabel": "This button will play the video",
+      "poster": {
+        "_id": "5981411debca4a4008794cad",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_shouldHidePlayButton": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldAutoPlay": false,
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5983cf1cebca4a4008794da1"
+      },
+      "mp4": {
+        "_id": "5983cf1cebca4a4008794da1",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "_isExternalLink": false
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "STEP 1 & 2: MEASURE THE BUST",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19403",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19402",
+    "__v": 0,
+    "_refId": "5962bc813b3d31444afd3a01",
+    "body": "<p style=\"text-align: center;\">Bra sizes can vary between brands. Our Myer Bra Size Chart makes it easy for us to fit our customers no matter the brand.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Always have a Myer Bra Size Chart to hand, during every fitting. Ask your sales manager to provide you with one for your Myer lanyard.&nbsp;</p>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "_isColumnItemGraphicAtBottom": false,
+        "_graphic": {
+          "small": {
+            "_id": "5962bd163b3d31444afd3a05",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          },
+          "columnSrc": {
+            "_id": "5962e28c3b3d31444afd3a4a",
+            "_extension": "png",
+            "_type": "image"
+          }
+        },
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_id": "5962bc9e3b3d31444afd3a02",
+        "itemIndex": 0
+      }
+    ],
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 2,
+    "_isColumnLayout": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19405",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19404",
+    "__v": 0,
+    "_refId": "5962ceed3b3d31444afd3a1e",
+    "displayTitle": "Step 3: Fit the frame",
+    "body": "<p style=\"text-align: center;\">Next we check to see the ‘under bust’ fits firmly. We do this by running our fingers under the clasped hooks and eyes. If you can pull this easily, there is too much give and our customer should go down a frame size. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch the video to learn how to correctly fit the frame.</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "59794770e97e2c5170b326a7"
+      },
+      "mobileMp4": {
+        "_id": "59794770e97e2c5170b326a7",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": true,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59814260ebca4a4008794cae"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 3: FIT THE FRAME",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19407",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19406",
+    "__v": 0,
+    "_refId": "5962cf403b3d31444afd3a20",
+    "displayTitle": "Step 4: Fit the centre front",
+    "body": "<p style=\"text-align: center;\">The centre front of the bra must be firm against the body, sitting flat to the breast bone with no gap at the top or bottom.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch to learn how to fit the centre front.&nbsp;</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "59794795e97e2c5170b326a8",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "59794795e97e2c5170b326a8"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59814289ebca4a4008794caf"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 4: FIT THE CENTRE FRONT",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19409",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19408",
+    "__v": 0,
+    "_refId": "5962cfa13b3d31444afd3a22",
+    "displayTitle": "Step 5: Fit the wire",
+    "body": "<p style=\"text-align: center;\">Check to ensure that the wire is sitting firm against the customer’s diaphragm.&nbsp;To do this, check that the wire-channelling sits in the infra-mammary crease.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch to learn more. &nbsp;</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "597947c9e97e2c5170b326a9",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "597947c9e97e2c5170b326a9"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "598142dbebca4a4008794cb1"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 5: FIT THE WIRE",
+    "_type": "component",
+    "_courseOrder": "0-3-4-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db1940d",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db1940c",
+    "__v": 0,
+    "_refId": "5962d1273b3d31444afd3a29",
+    "displayTitle": "Step 6: Fit the cup",
+    "body": "<p style=\"text-align: center;\">Next we need to check that the cup fits. A good fitting cup will enclose the breast and have a natural silhouette without any under- or over-spill.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch to learn how to fit the cup.&nbsp;</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5979481ae97e2c5170b326aa",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5979481ae97e2c5170b326aa"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "598142f7ebca4a4008794cb2"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 6: FIT THE CUP",
+    "_type": "component",
+    "_courseOrder": "0-3-5-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db1940f",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db1940e",
+    "__v": 0,
+    "_refId": "5962d1583b3d31444afd3a2a",
+    "displayTitle": "Step 7: Fit the strap",
+    "body": "<p style=\"text-align: center;\">Fit each strap independently to allow for differences in left and right breast sizes. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch to learn how to fit the strap. &nbsp;</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "59794849e97e2c5170b326ab",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "59794849e97e2c5170b326ab"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59814312ebca4a4008794cb3"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Step7_FitTheStrap",
+    "_type": "component",
+    "_courseOrder": "0-3-6-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19412",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19411",
+    "__v": 0,
+    "_refId": "5962d1ec3b3d31444afd3a2d",
+    "body": "<p style=\"text-align: center;\">When a size is unavailable on the shop floor, a ‘cross-fitted bra’ is the next best thing. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">To get the best fit possible we fasten the bra on the tightest hook.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch to learn how to cross fit a bra. &nbsp;</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5979488fe97e2c5170b326ac",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5979488fe97e2c5170b326ac"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59814335ebca4a4008794cb4"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19414",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19413",
+    "__v": 0,
+    "_refId": "5962d21c3b3d31444afd3a2f",
+    "body": "<p style=\"text-align: center;\">Our customer measures as a 14B, what <i>two</i> bra sizes would we recommend if cross fitting?</p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Incorrect.&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The correct answers are <b>16A</b> and <b>12C</b>.</p><p style=\"text-align: center;\">Remember, if we go up a cup size, we should go down a back size.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not quite...</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The correct answers are <b>16A</b> and <b>12C</b>.<br></p><p style=\"text-align: center;\">Remember, if we go up a cup size, we should go down a back size.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Correct!&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember, if we go up a cup size, we should go down a back size.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "16A",
+        "_id": "5962d2373b3d31444afd3a30",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5962d23f3b3d31444afd3a31",
+        "text": "12C"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5962d2443b3d31444afd3a32",
+        "text": "8D"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "10B",
+        "_id": "5962d24e3b3d31444afd3a33",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "59657b2af5bba3477db19417",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db19416",
+    "__v": 0,
+    "_refId": "5962d3783b3d31444afd3a36",
+    "body": "<p style=\"text-align: center;\">Here are some signs that a bra does not fit correctly. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1.\tThe shoulder straps are too tight.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2.\tThe cup is too shallow, causing the breast to overspill the cup.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">3.\tThe band is too big, causing it to ride up and provide no support.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">4.\tThe cup is too shallow, causing the wire to sit away from the diaphragm.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">5.\tThe cup wire is too narrow, causing it to dig into the breast tissue.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch the video to learn how to recognise the five signs of a poorly fitting bra.&nbsp;</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "597948c4e97e2c5170b326ad",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "597948c4e97e2c5170b326ad"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59814358ebca4a4008794cb5"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5981356febca4a4008794ca5",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "59657b2af5bba3477db1941b",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "598135ecebca4a4008794ca6"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5981356febca4a4008794ca5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5970369f32b40dca201c4c3c",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "5970369f32b40dca201c4c3b",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/the-bra-wardrobe/index.html",
+        "itemTitle": "THE BRA WARDROBE",
+        "itemIndex": 1,
+        "_id": "596ef1ea32b40dca201c4c17",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "592cf808cc6c57255d381329",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5970369f32b40dca201c4c3c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "597ffc3cebca4a4008794add",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59657b2af5bba3477db193e8",
+    "_parentId": "597036c432b40dca201c4c3e",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597ffc3cebca4a4008794add",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

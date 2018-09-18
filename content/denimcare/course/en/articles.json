@@ -1,0 +1,1039 @@
+[
+  {
+    "_id": "5a4ec8f93865607d6dc9f07f",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "57fc3e674ea87d56dd3ea507",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-6",
+    "title": "HomeBtnDenimCareTop",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f046",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "57a2797329095f9a6b9a4b8c",
+    "displayTitle": "SHOW SOME LOVE",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": true,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "DenimGIF",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f04b",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_refId": "57a2806e29095f9a6b9a4c33",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Denim_Rule1",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f04f",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 3,
+    "__v": 0,
+    "_refId": "57a283c729095f9a6b9a4c3a",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": true,
+            "_height": 3,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5760e2031d1a15230b437099"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5760e2031d1a15230b437099"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a29b1f29095f9a6b9a4c47"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-9",
+    "title": "denimHotTip1",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f054",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 4,
+    "__v": 0,
+    "_refId": "57a29b4e29095f9a6b9a4c49",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Denim_Rule2",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f058",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 5,
+    "__v": 0,
+    "_refId": "57a29ee929095f9a6b9a4c53",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Denim_Rule3",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f060",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 6,
+    "__v": 0,
+    "_refId": "57a2a01329095f9a6b9a4c64",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": true,
+            "_height": 3,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5760e2031d1a15230b437099"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5760e2031d1a15230b437099"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a29b1f29095f9a6b9a4c47"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-9",
+    "title": "denimHotTip2",
+    "_type": "article",
+    "_courseOrder": "0-6"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f05c",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 7,
+    "__v": 0,
+    "_refId": "57a29f4a29095f9a6b9a4c5c",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": true,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Denim_Rule4",
+    "_type": "article",
+    "_courseOrder": "0-7"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f065",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 8,
+    "__v": 0,
+    "_refId": "57a2a15629095f9a6b9a4c6c",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": true,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Denim_Rule5",
+    "_type": "article",
+    "_courseOrder": "0-8"
+  },
+  {
+    "_id": "5a4ec8f93865607d6dc9f078",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 9,
+    "__v": 0,
+    "_refId": "57b3c3101c1761fb0126a69b",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": true,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-3",
+    "title": "KNOWLEDGE CHECK",
+    "_type": "article",
+    "_courseOrder": "0-9"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f069",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 10,
+    "__v": 0,
+    "_refId": "57a2b23b29095f9a6b9a4c78",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": true,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 3,
+            "src": {
+              "_id": "5760e2031d1a15230b437099",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "denim_Lowdown",
+    "_type": "article",
+    "_courseOrder": "0-10"
+  },
+  {
+    "_id": "5a4ec8f93865607d6dc9f073",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f045",
+    "_sortOrder": 11,
+    "__v": 0,
+    "_refId": "57a2b66229095f9a6b9a4c98",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5760e09d1d1a15230b437096",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-11"
+  }
+]

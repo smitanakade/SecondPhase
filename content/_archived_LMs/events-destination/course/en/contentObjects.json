@@ -1,0 +1,234 @@
+[
+  {
+    "_id": "5aceb53ba122467b7b8681a5",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53aa122467b7b8681a2",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5a4b003fec1ad576d99ed5fc",
+    "displayTitle": "The Events Destination",
+    "body": "<p>A SPECIAL LOOK FOR EVERY SPECIAL OCCASION</p>",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "body": "",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5add6aabe8024540d2801e59"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "5add6aabe8024540d2801e5a",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 100,
+      "layout": "bottom",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Events-Destination",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "5aceb53ba122467b7b8681ad",
+      "5aceb53ba122467b7b8681a8",
+      "5ad5b6016d2ab7538d0b80a0",
+      "5ad4056a7fcdd6610b4066c3",
+      "5aceb53ba122467b7b8681bc",
+      "5aceb53ba122467b7b8681b9",
+      "5ad6a20f916a693cd1476575",
+      "5ad6a574916a693cd1476578",
+      "5aceb53ba122467b7b8681b6",
+      "5ad413bd7fcdd6610b4066ca",
+      "5ad4141c7fcdd6610b4066cc",
+      "5ad589166d2ab7538d0b8072",
+      "5ad414ab7fcdd6610b4066d1",
+      "5aceb53ba122467b7b8681b3",
+      "5aceb53ba122467b7b8681b0"
+    ],
+    "_childrenIds": [
+      "5aceb53ba122467b7b8681a9",
+      "5aceb53ba122467b7b8681a6",
+      "5ad404e37fcdd6610b4066bf",
+      "5aceb53ba122467b7b8681ba",
+      "5aceb53ba122467b7b8681b7",
+      "5aceb53ba122467b7b8681b4",
+      "5ad413627fcdd6610b4066c8",
+      "5ad589166d2ab7538d0b8070",
+      "5ad414587fcdd6610b4066cd",
+      "5aceb53ba122467b7b8681b1",
+      "5aceb53ba122467b7b8681ae"
+    ]
+  }
+]

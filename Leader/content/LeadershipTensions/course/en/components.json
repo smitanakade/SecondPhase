@@ -1,0 +1,977 @@
+[
+  {
+    "_id": "59950174e1545e6a6582e2f6",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "59950174e1545e6a6582e2f5",
+    "__v": 0,
+    "_refId": "5966cd6d4c480da3627be7f6",
+    "displayTitle": "<br>",
+    "body": "",
+    "instruction": "",
+    "_numberOfColumns": 2,
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-7",
+          "_fontSize": "26",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_id": "59a4e448052917a2552bf6f4",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "@swatch-2",
+          "_textAlign": "center",
+          "_fontSize": "16"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "599d2ea9052917a2552bf6a4"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "frontText": "Leading Self",
+        "itemIndex": 0,
+        "_id": "5966cd734c480da3627be7f7",
+        "backText": "Managing your responsibilities <br>-    achieving personal goals <br>&nbsp;-    investing in your own development <br>&nbsp;-    seeking and responding to feedback from others"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-7",
+          "_textAlign": "center",
+          "_fontSize": "26"
+        },
+        "_frontGraphic": {
+          "_id": "59954eef052917a2552bf583",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "@swatch-2",
+          "_fontSize": "16",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "599d2ea9052917a2552bf6a4"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "itemIndex": 1,
+        "_id": "5966cd764c480da3627be7f9",
+        "frontText": "Leading Others",
+        "backText": "Empowering people &nbsp; <br>- &nbsp; coaching and mentoring &nbsp; <br>- &nbsp; leveraging team strengths &nbsp; <br>- &nbsp; aligning people towards shared objectives"
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "center",
+    "_flipCardsContainerMaxWidth": "900px",
+    "_canSetContainerMaxWidth": true,
+    "_backTextStyles": {
+      "_fontSize": "9",
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontSize": "9",
+      "_fontColor": "transparent"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5965ad18bea2592d2ad002a2"
+    },
+    "_shouldDisableCardFocus": true,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_incomplete": {
+        "icon": null
+      },
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "59950174e1545e6a6582e2f8",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "59950174e1545e6a6582e2f7",
+    "__v": 0,
+    "_refId": "596846a36fbf12474b4a84f6",
+    "displayTitle": "<br>",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-7",
+          "_fontSize": "26"
+        },
+        "_frontGraphic": {
+          "_id": "59ae38c5052917a2552bf78d",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_textAlign": "center",
+          "_fontSize": "16"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "599d2ea9052917a2552bf6a4"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "Providing direction and enabling resources&nbsp;<div><span style=\"font-size: 16px;\">- &nbsp; removing roadblocks&nbsp;<br></span><span style=\"font-size: 16px;\">- &nbsp; giving performance feedback<br></span><span style=\"font-size: 16px;\">- &nbsp; getting things done and getting good results</span></div>",
+        "_id": "596846b96fbf12474b4a84f7",
+        "itemIndex": 0,
+        "frontText": "Working in the Business"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-7",
+          "_fontSize": "26"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59ae3d2d052917a2552bf78e"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "16"
+        },
+        "_backGraphic": {
+          "_id": "599d2ea9052917a2552bf6a4",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "itemIndex": 1,
+        "_id": "596846ba6fbf12474b4a84f8",
+        "frontText": "Working on the Business",
+        "backText": "Strategising for the day / week / month / year &nbsp; <br>- &nbsp; understanding retail trends and shifts in the external environment &nbsp; <br>- &nbsp; reflecting on what went well and what can be done differently next time"
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": true,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": true,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "16"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "59950174e1545e6a6582e2fa",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "59950174e1545e6a6582e2f9",
+    "__v": 0,
+    "_refId": "59683b376fbf12474b4a84ee",
+    "displayTitle": "<br>",
+    "body": "<p style=\"text-align: center;\">Now <b>slide the scale</b> to indicate where you focus the most and <b>press</b>&nbsp;<b>submit</b>.<br></p><p style=\"text-align: center;\"><b><br></b></p><p class=\"\" style=\"text-align: center;\"><b>Leading self &nbsp; vs. &nbsp;Leading others</b><br></p>",
+    "instruction": "",
+    "_feedbackItems": [
+      {
+        "_range": {
+          "_min": 1,
+          "_max": 1
+        },
+        "_id": "5968419a6fbf12474b4a84ef",
+        "itemIndex": 0,
+        "feedback": "<p style=\"text-align: center;\">Appears you’re doing well focusing on what it is that you need to get done. Remember to balance this with enabling team goals.</p>"
+      },
+      {
+        "_range": {
+          "_min": 2,
+          "_max": 2
+        },
+        "feedback": "<p style=\"text-align: center;\">Great job at managing between these two leadership priorities. Both are important.</p>",
+        "_id": "5968420b6fbf12474b4a84f1",
+        "itemIndex": 1
+      },
+      {
+        "_range": {
+          "_min": 3,
+          "_max": 3
+        },
+        "feedback": "<p style=\"text-align: center;\">Looks like most of your time is spent focusing on others. Reserve some energy for working on your own goals and skills.</p>",
+        "itemIndex": 2,
+        "_id": "596842296fbf12474b4a84f3"
+      }
+    ],
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_hideFeedbackIcon": true,
+    "_labels": {
+      "_selected": "",
+      "_max": " ",
+      "_min": " "
+    },
+    "_step": 1,
+    "_range": {
+      "_max": 3,
+      "_min": 1
+    },
+    "_interactionLabel": {
+      "_complete": {
+        "label": "Reload the web browser if you would like to move the slider",
+        "icon": "lamp"
+      },
+      "_location": "after widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Confidence Slider Title",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "59950174e1545e6a6582e2fc",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "59950174e1545e6a6582e2fb",
+    "__v": 0,
+    "_refId": "59684a6d6fbf12474b4a84f9",
+    "displayTitle": "<br>",
+    "body": "<p style=\"text-align: center;\"><b>Working in the business vs. Working on the business</b><br></p>",
+    "_feedbackItems": [
+      {
+        "_range": {
+          "_min": 1,
+          "_max": 1
+        },
+        "itemIndex": 0,
+        "_id": "59817e8be1545e6a6582e053",
+        "feedback": "<p style=\"text-align: center;\">You’ve indicated more of your time is spent on ‘today’ rather than ‘tomorrow’. Each day, focus on creating opportunities to look a little further ahead.</p><p><br></p><p>Other tensions you may need to balance include<span style=\"font-size: 16px;\">:</span></p><p></p><ul><li><span style=\"font-size: 16px;\">Short-term vs long-term objectives</span><br></li><li><span style=\"font-size: 16px;\">Internal (Business) vs external (Customer) focus</span><br></li><li><span style=\"font-size: 16px;\">Change vs consistency</span><br></li></ul><p></p>"
+      },
+      {
+        "_range": {
+          "_min": 2,
+          "_max": 2
+        },
+        "feedback": "<p style=\"text-align: center;\">It’s tricky keeping an eye on the horizon while also attending to what needs to happen right now. Well done for not trading one off for the other.</p><p style=\"font-size: 16px;\"><br></p><p style=\"text-align: left; font-size: 16px;\">Other tensions you may need to balance include:</p><p style=\"font-size: 16px;\"></p><ul><li style=\"text-align: left;\"><span style=\"font-size: 16px;\">Short-term vs long-term objectives</span><br></li><li style=\"text-align: left;\"><span style=\"font-size: 16px;\">Internal (Business) vs external (Customer) focus</span><br></li><li style=\"text-align: left;\"><span style=\"font-size: 16px;\">Change vs consistency</span><br></li></ul><p></p><p></p>",
+        "itemIndex": 1,
+        "_id": "59817e8ce1545e6a6582e055"
+      },
+      {
+        "_range": {
+          "_min": 3,
+          "_max": 3
+        },
+        "itemIndex": 2,
+        "_id": "59817e8ee1545e6a6582e057",
+        "feedback": "<p style=\"text-align: center;\">Taking a long term perspective is good, as long as this isn’t at the expense of what needs to be achieved in the short term.</p><p><br></p><ul><p style=\"text-align: left;\">Other tensions you may need to balance include:</p><li style=\"text-align: left;\"><span style=\"font-size: 16px;\">Short-term vs long-term objectives</span><br></li><li style=\"text-align: left;\"><span style=\"font-size: 16px;\">Internal (Business) vs external (Customer) focus</span><br></li><li style=\"text-align: left;\"><span style=\"font-size: 16px;\">Change vs consistency</span><br></li></ul><p></p>"
+      }
+    ],
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_hideFeedbackIcon": true,
+    "_labels": {
+      "_selected": "",
+      "_max": " ",
+      "_min": " "
+    },
+    "_step": 1,
+    "_range": {
+      "_max": 3,
+      "_min": 1
+    },
+    "_interactionLabel": {
+      "_complete": {
+        "label": "Reload the web browser if you would like to move the slider",
+        "icon": "lamp"
+      },
+      "_location": "after widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "title": "Confidence Slider Title",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "59953bf5052917a2552bf562",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "59953b85052917a2552bf55b",
+    "__v": 0,
+    "_refId": "59953bf5052917a2552bf562",
+    "body": "<p>Every leader and every company faces the problem of how to make progress on seemingly conflicting objectives at the same time. </p><p><br></p><p>In each case, more progress on one front usually comes at the expense of progress on another.</p><p><br></p><p>The balancing act required by leadership tensions can create a great deal of uncertainty, ambiguity and discomfort. </p><p><br></p><p>The trick is to focus on 'AND' not 'OR' solutions.</p><p><br></p><p>Move through the images below to read about&nbsp;some practical ways for you to balance leadership tensions.</p><p><br></p>",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c4825e104748562e807c47"
+          }
+        },
+        "title": "",
+        "itemIndex": 0,
+        "_id": "59953c1b052917a2552bf565",
+        "body": "<p><b>Name it</b><br></p><p><br></p><p>Name the tension to balance it effectively in decision-making. Tensions occur in areas where the business has always struggled to agree and where conflict exists.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59c4a261104748562e807c4f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p><b>Embrace it</b></p><p><b><br></b></p><p>Admit what you ‘do not know’. Make the best decision possible with incomplete data. Accept ambiguity and explore contradictions and inconsistencies rather than stamp them out.</p>",
+        "itemIndex": 1,
+        "_id": "59953ddd052917a2552bf568",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c4a266104748562e807c51"
+          }
+        },
+        "body": "<p><b>Make meaning</b></p><p><b><br></b></p><p>Sometimes we create mixed messages if we know there is no clear ‘right or wrong’. If you connect the different messages to Myer’s purpose and strategy you can help to create meaning.</p>",
+        "_id": "59953e35052917a2552bf569",
+        "itemIndex": 2,
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59c4a25d104748562e807c4e",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "itemIndex": 3,
+        "_id": "59953e74052917a2552bf56a",
+        "body": "<p><b>Support competing priorities</b><br></p><p><b><br></b></p><p>Communicate with multiple stakeholders, align competing agendas, and make decisions regarding one goal over another on a case-by-case manner.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c4a263104748562e807c50"
+          }
+        },
+        "title": "",
+        "body": "<p><b>Think of the big picture<br></b></p><p><b><br></b></p><p>Look for the bigger picture and how different perspectives may be interrelated. Sometimes we use the analogy of ‘getting off the dance floor’ and ‘getting onto the balcony’ to explain how to get a view of the bigger picture.&nbsp;</p>",
+        "_id": "59953e9f052917a2552bf56b",
+        "itemIndex": 4
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Carousel - How to View Tensions",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5995443d052917a2552bf576",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "5995443d052917a2552bf575",
+    "__v": 0,
+    "_refId": "5995443d052917a2552bf576",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59965226052917a2552bf5cd"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "link": "https://www.youtube.com/watch?v=RZ0tS2vBEIA ",
+        "_id": "59952f33052917a2552bf556",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "59954480052917a2552bf57a",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "59954480052917a2552bf579",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59954480052917a2552bf57a",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59953a17052917a2552bf559",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "https://www.acast.com/andystanleyleadershippodcast/managing-tension"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "599544a8052917a2552bf57e",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "599544a8052917a2552bf57d",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "599544a8052917a2552bf57e",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "599654bf052917a2552bf5ce"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.ccl.org/blog/managing-the-tension-between-innovation-and-operational-effectiveness/",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "59c98fafaeab875c6c490ed1",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59950174e1545e6a6582e2f0",
+    "_parentId": "59c98fafaeab875c6c490ed0",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59c98fafaeab875c6c490ed1",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59c99078aeab875c6c490ed3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_type": "resources",
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "59c9c5e1aeab875c6c490f01"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  }
+]

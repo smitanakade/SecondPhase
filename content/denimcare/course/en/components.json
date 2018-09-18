@@ -1,0 +1,1886 @@
+[
+  {
+    "_id": "5a4ec8f93865607d6dc9f081",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f93865607d6dc9f080",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_refId": "57fc3e674ea87d56dd3ea509",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f048",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f047",
+    "_layout": "left",
+    "_component": "gif",
+    "__v": 0,
+    "_refId": "57a27a5729095f9a6b9a4c2d",
+    "_shouldReplayOnPageRevisit": false,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "57a27f9029095f9a6b9a4c30"
+      }
+    },
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f04a",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f049",
+    "_layout": "left",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>So you’ve splurged on a new pair of jeans. They look like they were made especially for you and make you feel a million dollars. </p><p><br></p><p>Show them some love and follow these five rules of denim care to maximise the look and life of your new favourite jeans.</p><p><br></p></div>",
+    "_refId": "57a2803129095f9a6b9a4c32",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f04d",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f04c",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57a2808729095f9a6b9a4c35",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a2832429095f9a6b9a4c37"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f04e",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f04c",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Avoid washing your jeans too often as denim fades with every wash. Some denim fanatics will tell you to wash them only once every six months.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If you own more than one pair, rotate your jeans so they can be aired out between wears, to minimise bacteria (and smell) build up.</p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "RULE 1 - DON’T OVERWASH DENIM",
+    "_refId": "57a2808c29095f9a6b9a4c36",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-1"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f051",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f050",
+    "_layout": "right",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "<p class=\"\">HOT TIP<br>",
+    "body": "<p style=\"text-align: center;\">Press the image below to learn more.</p>",
+    "_refId": "57a2848329095f9a6b9a4c40",
+    "_itemLayout": {
+      "small": 50,
+      "medium": 50,
+      "large": 50
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a29e9d29095f9a6b9a4c51",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>SMELL FREE-ZE</b>"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\">A trick to get rid of smells is to place your jeans in a zip-lock bag in the freezer.</p>",
+        "itemIndex": 0,
+        "_id": "57a2848929095f9a6b9a4c41"
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f053",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f052",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "_refId": "57ad7879792a5c405c181132",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f056",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f055",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57a29b4e29095f9a6b9a4c4c",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a29bfe29095f9a6b9a4c4f"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f057",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f055",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Can’t hold off the wash any longer? Denim technology has resulted in new fabric blends, dye methods and wash techniques, so your denim may have specific care instructions. Follow the care tag instructions to preserve the look of your jeans.<br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "<p class=\"\">RULE 2 - FOLLOW THE CARE TAGS",
+    "_refId": "57a29b4e29095f9a6b9a4c4d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f05a",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f059",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57a29eea29095f9a6b9a4c56",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a29f0629095f9a6b9a4c5a"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f05b",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f059",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">HINT: Don’t mix new jeans with white towels.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Denim dyes tend to bleed, especially for new garments and darker dyes. Turn them inside out and wash with similar colours to minimise colour fade and avoid unwanted colour transfer.</p>",
+    "displayTitle": "<p class=\"\">RULE 3 - WASH WITH SIMILAR COLOURS",
+    "_refId": "57a29eea29095f9a6b9a4c57",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-1"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f062",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f061",
+    "_layout": "right",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "<p class=\"\">HOT TIP<br>",
+    "body": "<p style=\"text-align: center;\"><sup>Press the image below to learn more.</sup></p>",
+    "_refId": "57a2a01329095f9a6b9a4c68",
+    "_itemLayout": {
+      "small": 100,
+      "medium": 50,
+      "large": 50
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a2a12229095f9a6b9a4c6a",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>SNAP BACK</b>"
+        },
+        "_shouldSetCompletion": false,
+        "_id": "57a2848929095f9a6b9a4c41",
+        "itemIndex": 0,
+        "text": "<p style=\"text-align: center;\">Some denim jeans will stretch a little when worn, particularly if they contain an elastane blend. To snap them back into shape without washing them, throw them into the tumble dryer with another load of clothes for the final 20 minutes of the cycle.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The heat will shrink them slightly and voilà! Your jeans will fit like new again.</p><p style=\"text-align: center;\"><br></p>"
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f064",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f063",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "",
+    "_refId": "57ad78cb792a5c405c181134",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f05e",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f05d",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57a29f4a29095f9a6b9a4c5f",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a2b0a929095f9a6b9a4c76"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f05f",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f05d",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Did you know denim can shrink up to a size when washed in hot water? Wash your jeans in cold or luke-warm water to prevent over-shrinkage and to preserve the denim colour.<br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "<p class=\"\">RULE 4 - WASH IN COLD WATER",
+    "_refId": "57a29f4a29095f9a6b9a4c60",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-1"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f067",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f066",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57a2a15629095f9a6b9a4c6f",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a2a1e629095f9a6b9a4c74"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f068",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f066",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">The quickest way to age and deteriorate denim jeans is to pop them in the tumble dryer from wet to dry. The time spent in extreme heat over-shrinks the denim fibres, and the tumbling unnecessarily distresses the garment.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Instead, hang jeans to dry in the shade. This is gentle on the denim, minimises fading and is kindest on the environment.<br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "<p class=\"\">RULE 5 - DRY IN SHADE",
+    "_refId": "57a2a15629095f9a6b9a4c70",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-1"
+  },
+  {
+    "_id": "5a4ec8f93865607d6dc9f07c",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f93865607d6dc9f07b",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><span>Select three things you can do to prevent jeans from over-fading when they're washed.</span><br></p>",
+    "_refId": "57b3df6a1c1761fb0126a6b8",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Spot on.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prevent denim jeans from over-fading by washing them inside-out in cold water, and drying them in the shade.<br></p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Almost.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span>Prevent denim jeans from over-fading by washing them inside-out in cold water, and drying them in the shade.</span><br></p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prevent denim jeans from over-fading by washing them inside-out in cold water, and drying them in the shade.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "57b3e0831c1761fb0126a6bc",
+        "text": "Wash them regularly"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Wash them in cold water",
+        "_id": "57b3dfef1c1761fb0126a6b9",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "57b3e03e1c1761fb0126a6ba",
+        "text": "Wash them inside-out"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Dry them in the shade",
+        "_id": "57b3e0581c1761fb0126a6bb",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5a4ec8f93865607d6dc9f07a",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f93865607d6dc9f079",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57b3c3641c1761fb0126a69d",
+    "body": "<p style=\"text-align: center;\">According to the care tag displayed, what temperature should these jeans be washed at?</p>",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57b3c3851c1761fb0126a69e"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  },
+  {
+    "_id": "5a4ec8f93865607d6dc9f07e",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f93865607d6dc9f07d",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_refId": "57b3c3ce1c1761fb0126a6a0",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The number '40' on the washing symbol indicates the jeans should be washed at 40<sup>o</sup> or less. This is a luke-warm temperature that will ensure the garment doesn't over-shrink in the wash.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>That's right.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The number '40' on the washing symbol indicates the jeans should be washed at 40<sup>o</sup> or less. This is a luke-warm temperature that will ensure the garment doesn't over-shrink in the wash.</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57b3c44c1c1761fb0126a6a1",
+        "itemIndex": 0,
+        "text": "0<sup>o</sup>"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "57b3c4511c1761fb0126a6a7",
+        "text": "10<sup>o</sup>"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57b3c4b31c1761fb0126a6b6",
+        "itemIndex": 2,
+        "text": "30<sup>o</sup>"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57b3c4b31c1761fb0126a6b5",
+        "itemIndex": 3,
+        "text": "40<sup>o</sup>"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-9-2-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f06b",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f06a",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57a2b23b29095f9a6b9a4c7b",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a2b25e29095f9a6b9a4c81"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5a4ec8f83865607d6dc9f06d",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f83865607d6dc9f06c",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\" class=\"\">In summary, if you love your denim:</p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\">•\tDon’t overwash it</p><p style=\"text-align: center;\">•\tFollow the care tags</p><p style=\"text-align: center;\">•\tWash with similar colours</p><p style=\"text-align: center;\">•\tWash in cold water</p><p style=\"text-align: center;\">•\tDry in shade</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">With proper care, your favourite pair of jeans will last for many years.</p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "THE DENIM LOW-DOWN",
+    "_refId": "57a2b2b829095f9a6b9a4c85",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  },
+  {
+    "_id": "5a4ec8f93865607d6dc9f075",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f93865607d6dc9f074",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_refId": "57fc3e9d4ea87d56dd3ea50b",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57fc3eab4ea87d56dd3ea50c",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5a4ec8f93865607d6dc9f077",
+    "_courseId": "5a4ec8f83865607d6dc9f042",
+    "_parentId": "5a4ec8f93865607d6dc9f076",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57fc3ef74ea87d56dd3ea50e",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-1-0"
+  }
+]

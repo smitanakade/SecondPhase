@@ -1,0 +1,229 @@
+[
+  {
+    "_id": "583678f6948c8b50476dbe42",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "583678f6948c8b50476dbe41",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "583678f6948c8b50476dbe42",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Logo",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "583678f6948c8b50476dbe43",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "583678f6948c8b50476dbe41",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "583678f6948c8b50476dbe43",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Strapline",
+    "_type": "block",
+    "_courseOrder": "0-0-1"
+  },
+  {
+    "_id": "583679eb948c8b50476dbe4d",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "583679eb948c8b50476dbe4c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "583679eb948c8b50476dbe4d",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "578429e3229249f3601cff79",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e3229249f3601cff73",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "578429e3229249f3601cff79",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "CS_TheBrand",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff3f",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff3d",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "578429e2229249f3601cff3f",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "CS_SellingPoints",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "578429e3229249f3601cff6f",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff6c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "578429e3229249f3601cff6f",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "CS_WhoShops",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff50",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff4c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "body": "",
+    "_refId": "578429e2229249f3601cff50",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "CS_FavouriteLooks",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff48",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff43",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "578429e2229249f3601cff48",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "CS_TheFinePrint",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff5c",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff58",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "578429e2229249f3601cff5c",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "CS_GMCQ",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff62",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff58",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "578429e2229249f3601cff62",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "CS_MCQ",
+    "_type": "block",
+    "_courseOrder": "0-7-1"
+  },
+  {
+    "_id": "578429e2229249f3601cff68",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff64",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "578429e2229249f3601cff68",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "two-thirds-left",
+    "_classes": "",
+    "title": "CS_StyleExtras",
+    "_type": "block",
+    "_courseOrder": "0-8-0"
+  },
+  {
+    "_id": "58367a14948c8b50476dbe54",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "58367a14948c8b50476dbe51",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "58367a14948c8b50476dbe54",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "LogoBtm",
+    "_type": "block",
+    "_courseOrder": "0-9-0"
+  }
+]

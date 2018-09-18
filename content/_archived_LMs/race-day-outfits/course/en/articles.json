@@ -1,0 +1,686 @@
+[
+  {
+    "_id": "5a4ad404ec1ad576d99ed167",
+    "_sortOrder": 0,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b88e7b5dfae0c5453cd4b8",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b7484e04ca08ee3b3a9e1d",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b883b55dfae0c5453cd4b4",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed14b",
+    "_sortOrder": 1,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b1fa1fdd5a5f5706c391ec",
+    "displayTitle": "Styling for the season",
+    "body": "<p style=\"text-align: center;\">Each key carnival event has it's own dress standards. Keep the look chic, while maintaining personal comfort and individual style. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Coordination is key and putting together a race day outfit takes planning.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Start with the foundations - a dress or suit - and build on these with shoes, headwear and accessories to finish off a look.&nbsp;</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b7484e04ca08ee3b3a9e1d"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b883b55dfae0c5453cd4b4"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b7484e04ca08ee3b3a9e1d",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b883b55dfae0c5453cd4b4",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "STYLING FOR THE SEASON",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed140",
+    "_sortOrder": 2,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59a5f982ebca4a4008795195",
+    "displayTitle": "Styling for her",
+    "body": "<p style=\"text-align: center;\">Let's take a look at how to put a race day outfit together for the ladies, using this season's latest trends.</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b7484e04ca08ee3b3a9e1d"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b883b55dfae0c5453cd4b4"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "STYLING FOR HER",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed15e",
+    "_sortOrder": 3,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b35b1b388a12ca3fce7a16",
+    "displayTitle": "Styling for him",
+    "body": "<p style=\"text-align: center;\">Let's take a look at how to put a race day outfit together for the gents, using this season's latest trends.</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b7484e04ca08ee3b3a9e1d"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b883b55dfae0c5453cd4b4"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "STYLING FOR HIM",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed156",
+    "_sortOrder": 4,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b33d47388a12ca3fce79f3",
+    "displayTitle": "Dressing for the season",
+    "body": "<div style=\"text-align: center;\"><p>The racing calendar spans the entire year, so it’s important to know how to dress for the key events in the different seasons.</p></div>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b7484e04ca08ee3b3a9e1d"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "59b883b55dfae0c5453cd4b4"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "DRESSING FOR THE SEASON",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed14e",
+    "_sortOrder": 5,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b1fcccdd5a5f5706c391f0",
+    "displayTitle": "Conversation starters&nbsp;",
+    "body": "<p style=\"text-align: center;\">Try these useful tips to help customers put together a &nbsp;stylish race day outfit.</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b7484e04ca08ee3b3a9e1d",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b883b55dfae0c5453cd4b4",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "CONVERSATION STARTERS TO ASSIST CUSTOMERS",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed151",
+    "_sortOrder": 6,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b20195dd5a5f5706c391f9",
+    "displayTitle": "Need to know more?",
+    "body": "<p style=\"text-align: center;\">Check out these links for more information on how you can help customers put a look together this racing season.&nbsp;Need some styling tips for men? Start with the GO-TO GUY.</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b7484e04ca08ee3b3a9e1d",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 60,
+            "src": {
+              "_id": "59b883b55dfae0c5453cd4b4",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Need to know more?",
+    "_type": "article",
+    "_courseOrder": "0-6"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed15b",
+    "_sortOrder": 7,
+    "_parentId": "5a4ad403ec1ad576d99ed13f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b35a72388a12ca3fce7a11",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "bottom",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "LogoStackEnd",
+    "_type": "article",
+    "_courseOrder": "0-7"
+  }
+]

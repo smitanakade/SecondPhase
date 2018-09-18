@@ -1,0 +1,366 @@
+@font-face {
+    font-family: "MillerBannerItalic";
+    src: url("/myer/Leader/assets/fonts/FontBureau-MillerBannerItalic.eot");
+    src: 
+    url("/myer/Leader/assets/fonts/FontBureau-MillerBannerItalic.woff") format("woff"),
+    url("/myer/Leader/assets/fonts/FontBureau-MillerBannerItalic.woff2") format("woff2"),
+    url("/myer/Leader/assets/fonts/FontBureau-MillerBannerItalic.ttf") format("truetype"),
+    url("/myer/Leader/assets/fonts/FontBureau-MillerBannerItalic.otf") format("opentype"),
+    url("/myer/Leader/assets/fonts/FontBureau-MillerBannerItalic.svg") format("svg");
+    }
+
+@font-face {
+        font-family: "MillerBanner-Roman";
+        src: url("/myer/Leader/assets/fonts/MillerBanner-Roman.eot");
+        src: 
+        url("/myer/Leader/assets/fonts/MillerBanner-Roman.woff") format("woff"),
+        url("/myer/Leader/assets/fonts/MillerBanner-Roman.woff2") format("woff2"),
+        url("/myer/Leader/assets/fonts/MillerBanner-Roman.ttf") format("truetype"),
+        url("/myer/Leader/assets/fonts/MillerBanner-Roman.otf") format("opentype"),
+        url("/myer/Leader/assets/fonts/MillerBanner-Roman.svg") format("svg");
+      }
+    @font-face {
+        font-family: "SackersGothicLight";
+        src: url("/myer/Leader/assets/fonts/Monotype  - Sackers Gothic Light.ttf");
+        
+        }
+@font-face{
+    font-family: "ApercuLight";
+    src:url("/myer/Leader/assets/fonts/Apercu Light.ttf");
+}
+          
+.main{
+    background-color: #FFF;max-width:100%;margin:11px;min-height: 300px;
+}
+.srchimg{
+float:left; max-width:35%;margin-right: 5px;max-width: 300px;
+}
+.srchdisc{
+float:left;max-width:60% ;min-height:auto;
+font-family: 'ApercuLight';font-size:17px;line-height:24px;
+}
+.srchH1{
+    text-align: center;
+    font-family: 'MillerBanner-Roman';
+    font-size: 25px;
+    text-decoration: underline;
+    color: #454545;
+}
+.beforeTopHeader{
+    font-family: 'ApercuLight';font-size:12px;line-height:2px;padding:13px 20px 10px 20px;max-width:768px;
+}
+.link{
+    color: black;
+    font-weight: bold;
+    border-color: black;
+    display: inline-block;
+    outline: none;
+    background: none;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: none;
+    border-top: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid #000000;
+    padding: 11px 16px 11px 16px;
+    margin: 8px 0px 8px 0px;
+    font-family: 'SackersGothicLight';
+    font-size: 18px;
+    font-weight: Bold;
+    line-height: 3;
+  
+}
+.glyphicon{
+color:#e95130;
+}
+.headspan{
+    text-decoration:underline;color: rgba(69, 69, 69, 0.4);
+    font-family: 'SackersGothicLight';
+}
+.headLine{
+    color: #454545;
+    text-align: center;
+    font-family: 'MillerBannerItalic';
+    font-size: 32px;
+    font-weight: 410;
+    line-height: 1.1;
+    text-transform:uppercase;
+}
+.LeaderHome{
+    float:left; 
+    margin:10px 10px 10px 13px; 
+    max-width:48%;
+
+}
+
+.navbar-nav > li > .dropdown-menu {     background-color: #471010;  }
+
+.headLine2{
+    color: #454545;
+    text-align: center;
+    font-family: 'MillerBannerItalic';
+    font-size: 27px;
+    font-weight: 410;
+    line-height: 1.25;
+}
+.subtitle{
+    text-align:center;
+    color: rgba(69, 69, 69, 0.4);
+     text-align: center; 
+     font-family: 'SackersGothicLight';
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 1.1;
+}
+
+.fa-comment {
+    font-size:30px;
+    font-weight: normal;
+    color:#f8dad5
+    
+  }
+  .fa-thumbs-up{
+    color:#f8dad5
+  }
+   .fa-eye,.fa-heart   {
+    font-size:30px;
+    font-weight: normal;    
+    color:#f8dad5
+   }
+   .fa-home, .fa-envelope-o, .fa-sign-out{
+       color:#e95130;
+   }
+  .calendar-text { margin-top: .3em; color:#000; }
+  .file-text {
+      font-size: 10px;
+    color: #000;
+    font-weight: normal;}
+  .fa-inverse {
+    color: #000;
+    font-size: 18px;
+}    
+.para{
+    margin: 5px;
+    vertical-align: bottom;
+    font-family:Montserrat;
+    color:rgba(69, 69, 69, 0.4);
+    display: table;
+    position: relative;
+    text-decoration: underline;
+    }
+.fa-stack{color:#000;
+margin: 10px;
+}
+
+.keyword{
+    max-width: 100%;
+    margin: 5px;
+}
+.keyword span{
+    margin: 3px;
+    text-decoration: underline;
+    text-justify: center;
+    font-size: 10px;
+    text-transform: uppercase;
+    
+}
+.my-icon {
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+.my-text {
+    font-family: "Courier-new";
+}
+
+.my-fancy-container {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    display: inline-block;
+    margin: 60px;
+    padding: 10px;
+}
+#filter{
+width:80%;
+}
+.LeaderHeroImg{
+    max-width:100%;padding: 5px;
+}
+.LeaderHearoContent{
+    font-family: 'ApercuLight';
+    font-size: 17px;
+    line-height: 24px;
+    /* padding: 40px 20px 0px 20px; */
+    max-width: 768px;
+    color: #000;
+}
+
+ .navbar li>a {
+        padding-top:5px;
+        padding-bottom:5px;
+        text-decoration: underline;
+    }
+    .navbar-brand {
+        padding:20px;
+    }
+
+.bar{
+        color: #ff4d1b;
+}
+a:hover, a:focus{
+    color: #ff4d1b;
+    
+}
+.fa-bars{
+    width: 13px;float: left;margin: 13px 0px 0px 2px;
+}
+.button_cust:hover, .button_cust:active, .button_cust:focus {
+    outline: none;
+    background-color: #f8dad5;
+    color: #000000;
+    border-color: #000000;}
+
+    .button_cust {
+        -webkit-transition: background-color 0.25s ease-in, color 0.25s ease-in, border-color 0.25s ease-in;
+        transition: background-color 0.25s ease-in, color 0.25s ease-in, border-color 0.25s ease-in;
+        display: inline-block;
+        outline: none;
+        background: none;
+        text-decoration: none;
+        background-color: #ffffff;
+        color: #000000;
+        border-radius: 2px 2px 2px 2px;
+        -webkit-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.26);
+        box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.26);
+        border-top: 1px solid #000000;
+        border-right: 1px solid #000000;
+        border-bottom: 1px solid #000000;
+        border-left: 1px solid #000000;
+        padding: 11px 16px 11px 16px;
+        margin: 8px 0px 8px 0px;
+        font-family: 'SackersGothicLight';
+        font-size: 12px;
+        font-weight: 300;
+        line-height: 1}
+/*styles form rating and like button*/
+
+.rating {
+    overflow: hidden;
+    display: inline-block;
+}
+
+.rating-input {
+    float: right;
+    width: 16px;
+    height: 16px;
+    padding: 0;
+    margin: 0 0 0 -16px;
+    opacity: 0;
+}
+.rating-star {
+    position: relative;
+    float: right;
+    display: block;
+    width: 16px;
+    height: 16px;
+    background: url('/myer/Leader/assets/images/star.png') 0 -16px;
+}
+
+.rating:hover .rating-star:hover,
+.rating:hover .rating-star:hover ~ .rating-star,
+.rating-input:checked ~ .rating-star {
+    background-position: 0 0;
+}
+
+.rating-star,
+.rating:hover .rating-star {
+    position: relative;
+    float: right;
+    display: block;
+    width: 16px;
+    height: 16px;
+    background: url('/myer/Leader/assets/images/star.png') 0 -16px;
+}
+#read{
+    max-width: 76%;
+    padding: 5px;
+    min-height: 80px;
+}
+.title{
+    max-width: 20%;
+    float: left;
+    margin-left: 30px;
+    font-weight: bold;
+    padding: 5px;
+}
+.comment{
+    max-width: 60%;
+    float: left;
+        text-align: justify;
+    padding: 5px;
+}
+.topHeader{
+    max-width: 36%;margin:0 auto;min-height: 70px;
+}
+@media screen and (max-width:450px){
+    .LeaderHome{
+        float:left; 
+        margin:10px 10px 10px 13px; 
+        max-width:100%;
+    
+    }
+}
+@media screen and (max-width: 450px){
+    .topHeader{
+       margin:0px 0px 10px 25px;min-height: 70px;
+       max-width: 100%;
+    }
+.navbar-nav>li {
+    float: left;
+}
+.navbar-nav {
+    float: left;
+    margin: 0;
+    
+}
+.nav{
+    max-width:100%;
+}
+}
+@media screen and (max-width:1600px){
+    .nav{
+        max-width:100%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    #filter{
+        width:60%;
+        }
+        .nav{
+            max-width:100%;
+        }
+}
+@media screen and (max-width: 300px) {
+    .headLine2{
+        color: #454545;
+        text-align: center;
+        font-family: 'MillerBanner-Roman';
+        font-size: 19px;
+        font-weight: 410;
+        line-height: 1.25;
+    }
+    .subtitle{
+        text-align:center;
+        color: rgba(69, 69, 69, 0.4);
+         text-align: center; 
+         font-family: 'Montserrat';
+         font-size: 19px;
+         font-weight: 400;
+         line-height: 1.25;
+    }
+    
+}    

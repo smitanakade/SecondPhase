@@ -1,0 +1,2740 @@
+[
+  {
+    "_id": "59151f74ad04f4d3201a7b08",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b07",
+    "__v": 0,
+    "_refId": "58e6bbd1af77c6741fdb1c4b",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58e48cf2af77c6741fdb1b18",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59250dc1ad04f4d3201a7d6c",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59250dc1ad04f4d3201a7d6a",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5924e5eaad04f4d3201a7d4f",
+        "itemTitle": "SKIP THIS SECTION",
+        "_type": "articles",
+        "link": "58e6c1bdaf77c6741fdb1c62",
+        "body": ""
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59250dc1ad04f4d3201a7d6c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "59250dc1ad04f4d3201a7d6d",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59250dc1ad04f4d3201a7d69",
+    "__v": 0,
+    "displayTitle": "The colour wheel",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_graphic": {
+          "large": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "58e33ad5af77c6741fdb1998"
+          },
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "58e33af5af77c6741fdb199c"
+          }
+        },
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "58e59bc5af77c6741fdb1b33",
+        "body": ""
+      },
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_id": "58e59bffaf77c6741fdb1b36",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Colours are represented on a colour wheel. The colour wheel allows us to explore relationships between colours. Black and white, which are more accurately referred to as shades, don’t appear on the wheel.    </p>"
+      }
+    ],
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59250dc1ad04f4d3201a7d6d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "59250dc1ad04f4d3201a7d6b",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59250dc1ad04f4d3201a7d68",
+    "__v": 0,
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5924bea0ad04f4d3201a7d2e"
+          }
+        },
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><b>Warm and cool</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The colour wheel is divided into warm and cool colours. The red-orange-yellow part of the wheel evokes warmth, and these colours are a popular choice for bold, statement pieces.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The green-blue-purple range of colours evoke a sense of coolness, and they tend to recede from view. As a result, cool colours are frequently chosen to create a sense of calm. <br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Paired together, warm and cool colours create a sense of balance.</p>",
+        "itemIndex": 0,
+        "_id": "58e333d9af77c6741fdb1990"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58e34185af77c6741fdb19a0",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>Harmonious</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Colours that are close to each other on the colour wheel – eg blue-purple-red, or shades of the same colour eg shades of blue - are refererred to as harmonious colours. Together, they create harmony and communicate a sense of calm.</p>",
+        "itemIndex": 1,
+        "_id": "58e33588af77c6741fdb1991"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58e44d92af77c6741fdb1a03",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>Contrasting colours&nbsp;</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Colours that are opposite each other on the colour wheel have a high level of contrast. They make the colour they’re paired with appear even more vibrant. They compete for attention, and make a big impact. High contrast pairs include: </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tRed and green </p><p style=\"text-align: center;\">•\tBlue and orange</p><p style=\"text-align: center;\">•\tViolet and yellow</p><p style=\"text-align: center;\">•\tBlack and white&nbsp;</p>",
+        "_id": "58e33589af77c6741fdb1992",
+        "itemIndex": 2,
+        "title": ""
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_complete": {
+        "icon": null
+      },
+      "_incomplete": {
+        "icon": null
+      },
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59250dc1ad04f4d3201a7d6b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "59152278ad04f4d3201a7b6f",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59152278ad04f4d3201a7b6e",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\">You can wear black at any time. You can wear it at any age. You may wear it for almost any occasion; a ‘little black frock’ is essential to a woman’s wardrobe.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><sup>- Christian Dior</sup></p>",
+    "displayTitle": "",
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "592518bead04f4d3201a7d7b"
+      },
+      "small": {
+        "_id": "592517e2ad04f4d3201a7d79",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 3,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59152278ad04f4d3201a7b6f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b0e",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b0c",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6c16caf77c6741fdb1c5f",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591523d6ad04f4d3201a7b70"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b11",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b0f",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6e362af77c6741fdb1c76",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5927637d12738a8767f99122"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "591524bdad04f4d3201a7b74",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "591524bdad04f4d3201a7b72",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591527c2ad04f4d3201a7b75"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "591524bdad04f4d3201a7b74",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b14",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b12",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6e66aaf77c6741fdb1c83",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591cfcbead04f4d3201a7c25"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-4-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b17",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b15",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6e705af77c6741fdb1c89",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59251cd6ad04f4d3201a7d7c"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-5-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b1a",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b18",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6e7e6af77c6741fdb1c8f",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "592765ef12738a8767f99123"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-6-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b20",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b1e",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6e93aaf77c6741fdb1c9b",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591cfcbead04f4d3201a7c22"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-8-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b23",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b21",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6ea27af77c6741fdb1ca1",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d4a87ad04f4d3201a7c54"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-9-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b26",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b24",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6eb1faf77c6741fdb1ca7",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5926bb04ad04f4d3201a7ecf"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-10-0"
+  },
+  {
+    "_id": "59151f74ad04f4d3201a7b29",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f74ad04f4d3201a7b27",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6eba9af77c6741fdb1cad",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d4c33ad04f4d3201a7c56"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-11-0"
+  },
+  {
+    "_id": "592522dbad04f4d3201a7d7f",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "592522dbad04f4d3201a7d7e",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\">Women think of all colours except the absence of colour. I have said that black has it all. White too. Their beauty is absolute. It is the perfect harmony.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><sup>― Coco Chanel&nbsp;</sup></p>",
+    "displayTitle": "",
+    "body": "",
+    "_graphic": {
+      "small": {
+        "_id": "592517e2ad04f4d3201a7d79",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "592518bead04f4d3201a7d7b"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 3,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "592522dbad04f4d3201a7d7f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-12-0"
+  },
+  {
+    "_id": "59151f75ad04f4d3201a7b3f",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f75ad04f4d3201a7b3d",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6edafaf77c6741fdb1cd9",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d4f6cad04f4d3201a7c57"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59151f75ad04f4d3201a7b42",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f75ad04f4d3201a7b40",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6edafaf77c6741fdb1cd7",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "592766e712738a8767f99124"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "59151f75ad04f4d3201a7b45",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f75ad04f4d3201a7b43",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6edafaf77c6741fdb1cd5",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d541cad04f4d3201a7c5a"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "59151f75ad04f4d3201a7b48",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f75ad04f4d3201a7b46",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6edafaf77c6741fdb1cd3",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d5c74ad04f4d3201a7c5b"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-3-0"
+  },
+  {
+    "_id": "59151f75ad04f4d3201a7b4b",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f75ad04f4d3201a7b49",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6edb0af77c6741fdb1ce3",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d5cefad04f4d3201a7c5c"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-4-0"
+  },
+  {
+    "_id": "5925282bad04f4d3201a7d84",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "5925281bad04f4d3201a7d83",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59252560ad04f4d3201a7d82"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5925282bad04f4d3201a7d84",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-5-0"
+  },
+  {
+    "_id": "591cd6aaad04f4d3201a7bf0",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "591cd6aaad04f4d3201a7be1",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d6f9fad04f4d3201a7c65"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "591cd6aaad04f4d3201a7bf0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "591cd6aaad04f4d3201a7bee",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "591cd6aaad04f4d3201a7be2",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d6f9fad04f4d3201a7c69"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "591cd6aaad04f4d3201a7bee",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "591cd6abad04f4d3201a7c03",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "591cd6aaad04f4d3201a7bec",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d6f9fad04f4d3201a7c63"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "591cd6abad04f4d3201a7c03",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  },
+  {
+    "_id": "591d5ebead04f4d3201a7c5f",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "591d5ebead04f4d3201a7c5d",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d6f9fad04f4d3201a7c64"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "591d5ebead04f4d3201a7c5f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-3-0"
+  },
+  {
+    "_id": "591d5ee5ad04f4d3201a7c62",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "591d5ee5ad04f4d3201a7c60",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591d70fdad04f4d3201a7c6a"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "591d5ee5ad04f4d3201a7c62",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-4-0"
+  },
+  {
+    "_id": "591ce177ad04f4d3201a7c04",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59151f75ad04f4d3201a7b62",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>You’re a bit off-colour</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The warmth of red and gold creates a sense of opulence.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>You've passed with flying colours!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The warmth of red and gold creates a sense of opulence.&nbsp;</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Sporty",
+        "itemIndex": 0,
+        "_id": "591ce17cad04f4d3201a7c05"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Serenity",
+        "_id": "591ce17dad04f4d3201a7c06",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "591ce17ead04f4d3201a7c07",
+        "text": "Opulence"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Mystery",
+        "_id": "591ce181ad04f4d3201a7c08",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "591ce177ad04f4d3201a7c04",
+    "displayTitle": "<br>",
+    "body": "<p style=\"text-align: center;\">Which word best describes the effect when gold and red are worn together?<br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "591ce20cad04f4d3201a7c0a",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "591ce20cad04f4d3201a7c09",
+    "__v": 0,
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>That's not right.&nbsp;</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">High-contrast black and white are a classic colour combination that is both timeless and elegant.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Almost there</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">High-contrast black and white are a classic colour combination that is both timeless and elegant.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Spot on!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">High-contrast black and white are a classic colour combination that is both timeless and elegant.<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Classic colour combination",
+        "itemIndex": 0,
+        "_id": "591ce17cad04f4d3201a7c05"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Low-key and unpretentious",
+        "_id": "591ce17dad04f4d3201a7c06",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "591ce17ead04f4d3201a7c07",
+        "text": "A high-contrast pair"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Timeless and elegant&nbsp;<br>",
+        "_id": "591ce181ad04f4d3201a7c08",
+        "itemIndex": 3
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 4,
+        "_id": "591ce241ad04f4d3201a7c0b",
+        "text": "Show off the natural textures of the fabrics<br>"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_refId": "591ce20cad04f4d3201a7c0a",
+    "body": "<p style=\"text-align: center;\">Which three statements describe the combination of black and white?</p>",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  },
+  {
+    "_id": "5926bc0fad04f4d3201a7ed8",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "5926bc0fad04f4d3201a7ed4",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Visit the Styling with colour learning moment:</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "",
+        "itemTitle": "STYLING WITH COLOUR",
+        "_id": "58e48938af77c6741fdb1b07",
+        "itemIndex": 0,
+        "link": "http://www.myeracademy.com.au/content/styling-with-colour/index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5926bc0fad04f4d3201a7ed8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5926bc0fad04f4d3201a7ed9",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "5926bc0fad04f4d3201a7ed5",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Observe how outfits are styled using colours. Check out Emporium magazine and Myer’s Instagram feed for ideas</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeremporium.com.au/",
+        "body": "",
+        "_id": "58e48938af77c6741fdb1b06",
+        "itemIndex": 0,
+        "itemTitle": "EMPORIUM MAGAZINE"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.instagram.com/missshopofficial/",
+        "_id": "5926b1e9ad04f4d3201a7ecb",
+        "itemIndex": 1,
+        "itemTitle": "@ MISS SHOP OFFICIAL"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "MYER MAN INSTAGRAM",
+        "_id": "5926b28aad04f4d3201a7ecc",
+        "itemIndex": 2,
+        "link": "https://www.instagram.com/themyerman/"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5926bc0fad04f4d3201a7ed9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  },
+  {
+    "_id": "5926bc0fad04f4d3201a7eda",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "5926bc0fad04f4d3201a7ed6",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Follow Pantone on Facebook for the latest colour trends </p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "FACEBOOK",
+        "itemIndex": 0,
+        "_id": "58e48939af77c6741fdb1b08",
+        "body": "",
+        "link": "https://www.facebook.com/PantoneColor/"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5926bc0fad04f4d3201a7eda",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-2-0"
+  },
+  {
+    "_id": "592cf804cc6c57255d381328",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "592cf7eccc6c57255d381327",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "592cf808cc6c57255d381329",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "592cf804cc6c57255d381328",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "59252be1ad04f4d3201a7d87",
+    "_courseId": "59151f74ad04f4d3201a7b02",
+    "_parentId": "59252be1ad04f4d3201a7d86",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59252be1ad04f4d3201a7d87",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  }
+]

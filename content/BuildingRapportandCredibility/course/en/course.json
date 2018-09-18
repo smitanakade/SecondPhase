@@ -1,0 +1,412 @@
+{
+  "_id": "58c8bb26ed2155973abb8183",
+  "_createdAt": 1489550118898,
+  "_modifiedAt": 1531453396175,
+  "__v": 8,
+  "displayTitle": "Building Rapport and Credibility  ",
+  "_theme": "58ddb8a0a72b52de374f14ce",
+  "_refId": "58c8bb26ed2155973abb8183",
+  "_editLog": [
+    {
+      "_id": "5a5bcdc53865607d6dca0025",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-01-14T21:38:13.566Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "58ddbda3a72b52de374f14dd"
+    },
+    {
+      "_id": "5a5bcda33865607d6dca0024",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-01-14T21:37:39.126Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "58ddbc38a72b52de374f14d7"
+    },
+    {
+      "_id": "5a5bcda03865607d6dca0023",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-01-14T21:37:36.981Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "58ddbc38a72b52de374f14d7"
+    },
+    {
+      "_id": "5a2f393a3cc5a458a173bf5d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-12-12T02:04:42.603Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "58ddbc38a72b52de374f14d7"
+    },
+    {
+      "_id": "5a2f39363cc5a458a173bf5c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-12-12T02:04:38.773Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "58ddbc38a72b52de374f14d7"
+    },
+    {
+      "_id": "5a05314fd9f1d573fdb21d6b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-11-10T04:55:43.776Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "59d5996b0482522d25a0be57",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:31:07.710Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "58ddbdb6a72b52de374f14df"
+    },
+    {
+      "_id": "59d599660482522d25a0be56",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:31:02.320Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "58ddbdb6a72b52de374f14df"
+    },
+    {
+      "_id": "59d599640482522d25a0be55",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:31:00.165Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "58ddbdb6a72b52de374f14df"
+    },
+    {
+      "_id": "59d5995a0482522d25a0be54",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:30:50.471Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "58ddbdb6a72b52de374f14df"
+    }
+  ],
+  "_swipeMenu": {
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    },
+    "_shouldHideDisabledControl": false,
+    "_shouldShowControlsOnHover": false,
+    "_shouldPartiallyShowNextItem": false,
+    "_shouldAlwaysShowItems": false,
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics",
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_desktopBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    }
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerWidth": 0
+  },
+  "_coverMenu": {
+    "homeButtonAriaLabel": "Home",
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View"
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_itemsPerRowMedium": 2,
+    "_itemsPerRowLarge": 2,
+    "itemCompletionText": "Complete",
+    "_showCompletionStatusInFooter": false,
+    "_showCompletionStatusOnMenus": false,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_pageCompletionMethod": "components",
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": true,
+      "_position": "center",
+      "_size": "initial"
+    }
+  },
+  "_courseTags": [
+    "58210764f060d447962a6c7a",
+    "58bdd6a2ed2155973abb7fd4"
+  ],
+  "_fonts": {
+    "_installed": [
+      "Apercu-Light",
+      "MillerBanner-Italic"
+    ],
+    "_google": [
+      "Playfair Display"
+    ]
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "incorrectIconAriaLabel": "incorrect",
+    "correctIconAriaLabel": "correct",
+    "_feedbackText": {
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "Close"
+    },
+    "_showFeedback": {
+      "_isDisabled": false,
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "Show Feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "Hide Answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "Show Answer"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "Submit"
+    }
+  },
+  "_footerNav": {
+    "_hasHomeButton": false,
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": false
+  },
+  "_notify": {
+    "_shouldHideNotifyButton": false,
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "_shouldShowDashboardButton": true,
+    "_useHomeIconForDashboardButton": false,
+    "_useHamburgerMenu": false,
+    "_isHamburgerMenuOnRightSide": false,
+    "_shouldHideTopNavigation": false,
+    "_shouldHideSideNavigation": false,
+    "navigationLogoAlt": "",
+    "notifyButtonAriaLabel": "",
+    "navigationSkipContentAriaLabel": "",
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": false
+  },
+  "_version": {
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
+  },
+  "_reviews": {
+    "_reviews": [],
+    "_isUnderReview": false
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "title": "Building Rapport and Credibility",
+  "_type": "course",
+  "_childrenIds": [
+    "58c8bb27ed2155973abb8186"
+  ]
+}

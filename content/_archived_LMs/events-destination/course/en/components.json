@@ -1,0 +1,1436 @@
+[
+  {
+    "_id": "5aceb53ba122467b7b8681ad",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53ba122467b7b8681ac",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">From a School Formal to a Daughter&rsquo;s wedding, our Events Hub brings the best of the Wayne Cooper and Trent Nathan exclusive designs for our customers&rsquo; special occasions.<br><br>Available in store or as a specialised online portal, our Events Hub offers the perfect background for your impeccable service to shine through.&nbsp;</p>",
+    "_refId": "5a4b044fec1ad576d99ed654",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_Text_Intro",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5aceb53ba122467b7b8681a8",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53ba122467b7b8681a7",
+    "__v": 0,
+    "_refId": "5a4b0331ec1ad576d99ed62b",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.html",
+        "itemTitle": "BACK",
+        "_id": "59dbf149960db223cd2d175a",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_Link_BackBtnTop",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5ad5b6016d2ab7538d0b80a0",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad5b5f96d2ab7538d0b809f",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad5b6246d2ab7538d0b80a1"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad5b6016d2ab7538d0b80a0",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5ad4056a7fcdd6610b4066c3",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad4055d7fcdd6610b4066c2",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad4056a7fcdd6610b4066c3",
+    "displayTitle": "",
+    "body": "<p>Customers shopping for an Event choose Myer to get everything they need in the one store with the help of fashion specialists - that&rsquo;s you!<br><br>It is your service that turns this expectation into reality: from how you assess their needs to your guidance to their next in-store stop.<br><br>Customers have a heightened service expectation when they are shopping for a special outfit.&nbsp;</p><p><br></p><p>We will show you what this means for your customer so you feel confident to guide them through their shopping experience once you&rsquo;ve identified they are looking for Event wear.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_Text_Events-Hub",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5aceb53ba122467b7b8681bc",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53ba122467b7b8681bb",
+    "__v": 0,
+    "_refId": "5a4b1055ec1ad576d99ed76a",
+    "_numberOfColumns": 2,
+    "body": "<p style=\"text-align: center;\">Flip the cards to discover the benefits of the Events Hub to the customer and to you and Myer.</p>",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-24",
+          "_fontSize": "36",
+          "_textAlign": "center"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "<p>Weddings, christenings, charity balls, a dress for the Logies... &nbsp;Customers looking for an outfit solution for a special occasion will find it in our Events Hub.</p><p><br>At the Events Hub, we offer an exceptional range of:<br>&middot; special occasion apparel,<br>&middot; accessories and<br>&middot; services (from bra fitting to make up).</p>",
+        "frontText": "<p>OUR CUSTOMERS</p>",
+        "_id": "5a4b1086ec1ad576d99ed772",
+        "itemIndex": 0
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-24",
+          "_fontSize": ""
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "<p>The Events Hub is your opportunity to showcase your fashion knowledge and expert service.<br><br></p><p>Don&rsquo;t be shy to use your personal brand to create a shopping experience for the customer.</p>",
+        "frontText": "<p>YOU AND MYER</p>",
+        "itemIndex": 1,
+        "_id": "5a4b1086ec1ad576d99ed774"
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "@swatch-13",
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "@swatch-24",
+      "_fontSize": "36"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "599ceb49ebca4a400879508a"
+    },
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "599ceabeebca4a4008795089"
+    },
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "displayTitle": "WHO BENEFITS FROM THE EVENTS HUB<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_component_FlipCards",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5aceb53ba122467b7b8681b9",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53ba122467b7b8681b8",
+    "__v": 0,
+    "_refId": "5a4b0ccdec1ad576d99ed734",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6a91f916a693cd1476593",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><strong>WAYNE COOPER EVENTS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Designed in Melbourne in collaboration with Wayne Cooper himself. The signature style is cheeky with a provocative attitude, to mirror the passionate and outgoing woman who wears it.</p>",
+        "_id": "5a4b0cd7ec1ad576d99ed736",
+        "itemIndex": 0,
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad6a91f916a693cd1476592"
+          }
+        },
+        "title": "",
+        "itemIndex": 1,
+        "_id": "5a4b0cd8ec1ad576d99ed738",
+        "body": "<p style=\"text-align: center;\"><strong>WHO SHOPS WAYNE COOPER EVENTS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">She is passionate about fashion and is always on the hunt for the hottest looks. Her social calendar is important to her, as is dressing to the nines and going out.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">She loves clothes that make a statement, suit her socially active lifestyle and reflect her buoyant personality.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad6a91f916a693cd1476591"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><strong>WAYNE COOPER EVENTS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This brand also includes a range of accessories, so you can form the perfect outfit with their jewellery, shoes or handbags.</p>",
+        "title": "",
+        "_id": "5a4b0cd8ec1ad576d99ed73a",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "displayTitle": "ABOUT THE BRANDS",
+    "body": "<p style=\"text-align: center;\">The Events Hub brands were selected for their gorgeous gowns and garments that suit every special occasion. &nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Events-Destination_Narrative_About-The-Brands",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5ad6a20f916a693cd1476575",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad6a1fd916a693cd1476574",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6aff8916a693cd14765a2",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "itemIndex": 0,
+        "_id": "5a4b0cd7ec1ad576d99ed736",
+        "body": "<p style=\"text-align: center;\"><strong>TRENT NATHAN EVENTS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Trent Nathan offers classic styles in versatile collections.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The brand is feminine and sophisticated, featuring beautiful fabrics in quality and flattering fits.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6aff7916a693cd14765a1",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><strong>WHO SHOPS TRENT NATHAN EVENTS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">She has a refined, feminine style and wants clothing that flatters her figure.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">She is looking for modern yet classic pieces that can be worn to a variety of occasions.</p>",
+        "_id": "5a4b0cd8ec1ad576d99ed738",
+        "itemIndex": 1,
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6aff8916a693cd14765a3",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5a4b0cd8ec1ad576d99ed73a",
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>TRENT NATHAN EVENT&#39;S OFFER</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&middot; Soft overlay dresses<br>&middot; Lace dresses<br>&middot;Sateen frocks</p><p style=\"text-align: center;\">&middot; Jaccquard sets</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6a20f916a693cd1476575",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Events-Destination_Narrative_Trent Nathan",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5ad6a574916a693cd1476578",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad6a238916a693cd1476577",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">&nbsp;</p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad983f0958735596ee16370",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5a4b0cd8ec1ad576d99ed73a",
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>OTHER BRANDS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You&rsquo;ll also need to be aware of other brands who offer special occasion solutions that may suit your customer taste or price range.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These brands are offered in limited stores so make sure you know if they&#39;re offered in yours.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These 5 brands that are part of our offer:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1. BRONX AND BANCO</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad983f0958735596ee1636e",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><strong>OTHER BRANDS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&nbsp;2. ASILIO</p><p style=\"text-align: center;\"><br></p>",
+        "_id": "5a4b0cd8ec1ad576d99ed738",
+        "itemIndex": 1,
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad983f0958735596ee1636f"
+          }
+        },
+        "title": "",
+        "itemIndex": 2,
+        "_id": "5a4b0cd7ec1ad576d99ed736",
+        "body": "<p style=\"text-align: center;\"><strong>OTHER BRANDS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&nbsp;3. FAME AND PARTNERS</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad983ef958735596ee1636c"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><strong>OTHER BRANDS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">4. grace &amp; hart</p><p style=\"text-align: center;\"><br></p>",
+        "_id": "5ad6b3f0916a693cd14765b6",
+        "itemIndex": 3
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad983ef958735596ee1636d",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "5ad6b408916a693cd14765b8",
+        "body": "<p style=\"text-align: center;\"><strong>OTHER BRANDS</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">5. LIPSY London</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6a574916a693cd1476578",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Events-Destination_Narrative_About-The-Brands",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "5aceb53ba122467b7b8681b6",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53ba122467b7b8681b5",
+    "__v": 0,
+    "_refId": "5a4b0684ec1ad576d99ed6d7",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "5a4b0827ec1ad576d99ed6fe",
+        "title": "STEP 1: IDENTIFY",
+        "body": "<p style=\"text-align: center;\">Identify the event and who they&rsquo;re shopping for. Don&rsquo;t make assumptions - for example, don&rsquo;t think a mature looking lady is looking for a &lsquo;Mother of the Bride&rsquo; outfit, or prefers the Trent Nathan range.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Ask questions, then guide your customer to the Event Hub and draw their attention to our Exclusive brands.</p><p style=\"text-align: center;\"><br>You could say:<br>&middot; &ldquo;What occasion are you shopping for today?&rdquo;,<br>&middot; We have a beautiful range of Wayne Cooper Events dresses in 3 lengths, depending on what you&rsquo;re after&rdquo;,<br>&middot; &ldquo;When is the wedding?&rdquo;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "5a4b0827ec1ad576d99ed700",
+        "itemIndex": 1,
+        "title": "STEP 2: EXPLAIN",
+        "body": "<p style=\"text-align: center;\">Time to show your knowledge: explain the DNA of the brands and show your styling flair.</p><p style=\"text-align: center;\"><br>&nbsp;You could say: &nbsp;<br>&middot; &ldquo;If you&rsquo;re looking for coverage, Trent Nathan has long sleeve options and also matching jackets&rdquo;<br>&middot; &nbsp;&ldquo;Trent Nathan&rsquo;s classic dress shapes suit everyone&rdquo;<br>&middot; &ldquo;If you&rsquo;re looking for a show stopping dress for your formal, Wayne Cooper Events has statement colours and prints&rdquo;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "STEP 3: OFFER",
+        "itemIndex": 2,
+        "_id": "5a4b0828ec1ad576d99ed702",
+        "body": "<p style=\"text-align: center;\">Offer our products, but tailor your approach according to what the customer is gravitating towards.</p><p style=\"text-align: center;\"><br>You could say:<br>&middot; &ldquo;I can see you appreciate Wayne Cooper&rsquo;s silhouettes, we have three options in this shape&rdquo;<br>&middot; &nbsp;&ldquo;If you like sheer fabrics, Trent Nathan has a number of prints you can try on&rdquo; &nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Help the customer carry their items, place in the fitting room and inform them you&rsquo;ll be back &ndash; this way you can confirm which fitting room they&rsquo;ll be in but also ensure the fitting room is clear and welcoming for the customer.</p><p style=\"text-align: center;\"><br>You could say:<br>&middot; &ldquo;I&rsquo;ll come back to check you have the right sizes&rdquo;,</p><p style=\"text-align: center;\">&middot; &ldquo;While you try the midi dress, I&rsquo;ll go and see if we have the same print in a full length&rdquo;</p><p style=\"text-align: center;\">&middot; &ldquo;Let me know if that bolero is the right colour or if you want to see others once you have the dress on&rdquo;<br><br></p>",
+        "itemIndex": 3,
+        "_id": "5ad40dda7fcdd6610b4066c4",
+        "title": "STEP 4: GUIDE<br>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "STEP 5: SUPPORT<br>",
+        "_id": "5ad40e057fcdd6610b4066c5",
+        "itemIndex": 4,
+        "body": "<p style=\"text-align: center;\">Support the customer as they try the dresses, by offering different sizes, colour and style options.<br>&nbsp;</p><p style=\"text-align: center;\">Wayne Cooper Events and Trent Nathan have standard sizing: a size 12 will fit the same in any &nbsp;style within the brand. This is handy if you need to place an MCO order for your customer when your store doesn&#39;t have their size in the model they want.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You will be most effective to assist a customer if you know your stuff, so check our online occasion wear page to get to know how the dresses fall and fit and see our range of accessories and beauty services.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "STEP 6: SOLVE<br>",
+        "_id": "5ad40e457fcdd6610b4066c6",
+        "itemIndex": 5,
+        "body": "<p style=\"text-align: center;\">Don&rsquo;t be shy to suggest add-ons to create total outfit solutions, your customer is expecting it! &nbsp;This includes intimates such as foundation garments (the right strapless bra), footwear and accessories. &nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You could say:<br>&middot; &ldquo;We have the perfect strapless bra for that plunge dress in Level 3&rdquo;,<br>&nbsp;&middot; &ldquo;This Dress would go great with nude shoes&rdquo;<br>&middot; &ldquo;we have a great range of clutches in Level 2&rdquo;<br><br></p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">A customer getting ready for a special occasion will appreciate your suggestion for our additional services:<br>&middot; personal shopping<br>&middot; &nbsp;intimate apparel fitting<br>&middot; &nbsp;beauty services (make up and even blow bar in some stores)</p><p style=\"text-align: center;\">&middot; special occasion children wear.</p><p style=\"text-align: center;\"><br>You could say:<br>&middot; &ldquo;With your formal coming up it&rsquo;s a good idea to book your make up as early as possible&rdquo;<br>&middot; &nbsp;&ldquo;If you are also shopping for the flower girl dress, be sure to check our Origami range&rdquo;<br><br></p>",
+        "itemIndex": 6,
+        "_id": "5ad4115f7fcdd6610b4066c7",
+        "title": "STEP 7: SUGGEST<br>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "displayTitle": "MEETING THE CUSTOMERS&rsquo; SERVICE EXPECTATIONS<br>",
+    "body": "<p>Customers shopping for an Event want an assisted experience with your expert guidance and expect you to offer full outfit solutions including add-ons! With this type of customer, a more &lsquo;hands on&rsquo; approach is usually preferred. Select each item below to discover more about how you can make shopping for an event an event in itself.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_component_Accordian",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5ad413bd7fcdd6610b4066ca",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad413627fcdd6610b4066c9",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": null,
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad413bd7fcdd6610b4066ca",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_Graphic_Exceed-Expectations_Image",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5ad4141c7fcdd6610b4066cc",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad414037fcdd6610b4066cb",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad4141c7fcdd6610b4066cc",
+    "displayTitle": "THEN - EXCEED THEM!",
+    "body": "<p style=\"text-align: center;\">Think &lsquo;Services&rsquo; and &lsquo;Finishing Touches&rsquo;:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&bull; Use your great listening and questioning skills to understand the need before offering a solution</p><p style=\"text-align: center;\">&bull; Make &nbsp;every customer you serve feel they have 100% of your attention</p><p style=\"text-align: center;\">&bull; Know the products and services we offer so you can find a solution for the customer every time</p><p style=\"text-align: center;\">&bull; Don&rsquo;t forget your Fitting Room service to make the customer feel &lsquo;taken care of&rsquo;</p><p style=\"text-align: center;\">&bull; Tell the customer about offers that relate to their purchase</p><p style=\"text-align: center;\">&bull; Make sure the customer has everything they need to get the most from their purchase by suggesting add-ons such as shoes, a bag or beauty services</p><p style=\"text-align: center;\">&bull; Take the customer to their next destination and introduce them to someone that can help them</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_component_Exceed-Expectations_Text",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5ad589166d2ab7538d0b8072",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad589166d2ab7538d0b8071",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><span style=\"color: rgb(51, 51, 51);\">&ldquo;You should put on the best version of yourself when you go out in the world because that is a show of respect to the other people around you.&rdquo;</span></p><p style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><br></span></p><p style=\"text-align: center;\"><span style=\"color: rgb(102, 102, 102);\"><em>&nbsp;</em>&ndash; Tom Ford</span></p>",
+    "_graphicTextStyles": {
+      "_desktop": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent",
+        "_fontSize": "22"
+      },
+      "_mobile": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ac3070ecb93e62ac43fc8fd"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ac306ffcb93e62ac43fc8fc"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 3,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad589166d2ab7538d0b8072",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5ad414ab7fcdd6610b4066d1",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5ad414a17fcdd6610b4066d0",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5ad423e27fcdd6610b4066d5",
+        "itemTitle": "OCCASION WEAR PAGE<br>",
+        "link": "https://www.myer.com.au/shop/mystore/women/occasionwear-events"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "WAYNE COOPER LEARNING MOMENT",
+        "body": "",
+        "_id": "5ad423e17fcdd6610b4066d4",
+        "itemIndex": 1,
+        "link": "http://myeracademy.com.au/content/wayne-cooper/index.html#/page/57848a6a229249f3601d00a3"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://myeracademy.com.au/content/index.php?sec=OUR%20SALES%20AND%20SERVICE%20EXPERIENCE",
+        "itemIndex": 2,
+        "_id": "5ad422797fcdd6610b4066d2",
+        "body": "",
+        "itemTitle": "SHRINKAGE MANAGEMENT LEARNING MOMENT<br>"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad414ab7fcdd6610b4066d1",
+    "body": "<p>Be better prepared for the Events Hub by checking out these links:</p>",
+    "displayTitle": "BEFORE YOU GO<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Events-Destination_Links_Before-you-go",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5aceb53ba122467b7b8681b3",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53ba122467b7b8681b2",
+    "__v": 0,
+    "_refId": "5a4b0518ec1ad576d99ed67c",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.html",
+        "itemTitle": "BACK",
+        "_id": "592cf808cc6c57255d381329",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5aceb53ba122467b7b8681b0",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5aceb53aa122467b7b8681a2",
+    "_parentId": "5aceb53ba122467b7b8681af",
+    "__v": 0,
+    "_refId": "5a4b04f2ec1ad576d99ed670",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  }
+]

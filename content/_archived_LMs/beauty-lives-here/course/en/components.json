@@ -1,0 +1,818 @@
+[
+  {
+    "_id": "59941389ebca4a4008794fd6",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "59941389ebca4a4008794fd5",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5994135aebca4a4008794fd3",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59941389ebca4a4008794fd6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5993bd75ebca4a4008794fb5",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "5993bd6debca4a4008794fb4",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "599ccd61ebca4a4008795080"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5993bd75ebca4a4008794fb5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "598bd6c6ebca4a4008794ed0",
+    "_component": "media",
+    "_layout": "right",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "599cd5e0ebca4a4008795081",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "599d0f75ebca4a4008795090"
+      },
+      "_isExternalLink": false,
+      "mobileMp4": {
+        "_id": "599d0fe9ebca4a4008795091",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5994c760ebca4a4008794fe1"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598bd6c6ebca4a4008794ed0",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5993bf0debca4a4008794fb8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "5993bf07ebca4a4008794fb7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5993bf0debca4a4008794fb8",
+    "displayTitle": "\"Feeling beautiful is following your passion.\"",
+    "body": "<p style=\"text-align: center;\">&nbsp;- Jessica Kahawaty</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "598bd93febca4a4008794ed9",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "598bd921ebca4a4008794ed8",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Think Beauty - think Myer!</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Myer is the no. 1 beauty retailer in Australia and we want to keep it that way!&nbsp;</span><br></p>",
+        "title": "WE ARE THE NO. 1 BEAUTY RETAILER IN AUSTRALIA",
+        "_id": "598bd962ebca4a4008794eda",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "WE OWN BEAUTY&nbsp;",
+        "_id": "598bd994ebca4a4008794edb",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">As the No.1 beauty retailer in Australia, we have the biggest range and exclusive brands available nationwide.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We have products and brands to suit everyone!</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "598bd9a5ebca4a4008794edc",
+        "title": "WE CARE ABOUT PROFITABLE SALES",
+        "body": "<div style=\"text-align: center;\"><p>We’re in retail. We sell. </p><p><br></p><p><span style=\"font-size: 16px;\">Our aim is to increase our average transaction value (ATV). You can help by increasing your units per transaction (UPT) by keeping your focus on selling.</span><br></p></div>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>For existing MYER one customers, check we have their correct email address. If they are not a MYER one customer, invite them to sign-up.</p>",
+        "itemIndex": 3,
+        "_id": "59964b26ebca4a400879503b",
+        "title": "WE WANT TO INCREASE OUR MYER one DATABASE"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598bd93febca4a4008794ed9",
+    "displayTitle": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Campaign importance to Myer",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "598bdaceebca4a4008794edf",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "598bdaaeebca4a4008794ede",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-17",
+          "_fontSize": "40"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "599ceabeebca4a4008795089"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "599ceb49ebca4a400879508a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "frontText": "EXCITE",
+        "_id": "598bdaddebca4a4008794ee0",
+        "itemIndex": 0,
+        "backText": "Excite customers about Myer Beauty - find out what's happening in your store and share it with team members and customers.<br><br><i>\"To get the most out of your purchase why not head to the Revlon masterclass - it starts in about 15 minutes!\"</i>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-17",
+          "_fontSize": "40"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "599ceabeebca4a4008795089"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "599ceb49ebca4a400879508a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "frontText": "EMBRACE",
+        "_id": "598bdb39ebca4a4008794ee1",
+        "itemIndex": 1,
+        "backText": "Embrace what makes YOU beautiful and encourage customers to embrace what makes them beautiful too!<div><br><i><br></i><i>\"Our eye colour is almost identical! &nbsp;I use this shade all the time - it would really bring out your eyes!\"</i></div>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-17",
+          "_fontSize": "40"
+        },
+        "_frontGraphic": {
+          "_id": "599ceabeebca4a4008795089",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "599ceb49ebca4a400879508a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backText": "Encourage customers to have fun. Suggest they book a beauty consultation to make the most of what makes THEM beautiful.&nbsp;<br><br><i>\"I'd love to try out these great new lip shades on you - do you have time for a consultation?\"&nbsp;</i>",
+        "itemIndex": 2,
+        "_id": "598bdb73ebca4a4008794ee2",
+        "frontText": "ENCOURAGE"
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598bdaceebca4a4008794edf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "WHAT CAN I DO TO HELP? ",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59938d1febca4a4008794fa7",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "59938d06ebca4a4008794fa6",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">This is a ticketed learning series for guests to gain knowledge from&nbsp;<span style=\"font-size: 16px;\">beauty experts and insiders and interact with featured products. Masterclasses are held at these stores:</span></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\">Melbourne</p><p style=\"text-align: center;\">Sydney</p><p style=\"text-align: center;\">Perth</p><p style=\"text-align: center;\">Adelaide</p><p style=\"text-align: center;\">Bondi</p><p style=\"text-align: center;\">Chadstone</p><p style=\"text-align: center;\">Brisbane</p><p><br></p>",
+        "title": "MASTERCLASSES",
+        "_id": "59938da0ebca4a4008794fa8",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "COMPLIMENTS BOOTH",
+        "_id": "59938dc5ebca4a4008794fac",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">A specially designed booth for our team of illustrators to create beautifully handwritten&nbsp;<span style=\"font-size: 16px;\">compliments cards.&nbsp;</span></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Customers&nbsp;</span><span style=\"font-size: 16px;\">can choose to have a personal note beautifully hand-written,&nbsp;</span><span style=\"font-size: 16px;\">or to select from some pre-written cards, illustrated by the artist.&nbsp;</span><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">Compliments Booths are available at these stores:</span></p><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p style=\"text-align: center;\">Melbourne</p><p style=\"text-align: center;\">Sydney</p><p style=\"text-align: center;\">Perth</p><p style=\"text-align: center;\">Adelaide</p><p style=\"text-align: center;\">Bondi</p><p style=\"text-align: center;\">Chadstone</p><p style=\"text-align: center;\">Brisbane</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "THE BEAUTY BRIGADE",
+        "body": "<div style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">The Beauty Brigade is a choreographed performance piece, cast from local dance schools, to celebrate Australia’s cultural diversity and the fact that ‘everyone deserves to feel beautiful’. The Beauty Brigades</span><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">&nbsp;will be performing at these stores:</span></div><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\">Melbourne</p><p style=\"text-align: center;\">Sydney</p><p style=\"text-align: center;\">Perth</p><p style=\"text-align: center;\">Adelaide</p><p style=\"text-align: center;\">Bondi</p><p style=\"text-align: center;\">Chadstone</p><p style=\"text-align: center;\">Brisbane</p>",
+        "_id": "59964d66ebca4a400879503d",
+        "itemIndex": 3
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<div style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">These two events will be featured in Melbourne and Sydney flagship stores.</span></div><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">The Beauty Platform Ground Floor Stage is a dedicated location for brands to provide express beauty services or tutorials.</span></p><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p style=\"text-align: center;\">The wonderful drag queen ‘Karen from Finance’ will perform and interact with guests in Melbourne. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">In Sydney, 'Hannah Conda' will be performing.</p>",
+        "itemIndex": 2,
+        "_id": "59964cabebca4a400879503c",
+        "title": "ADDITIONAL MELBOURNE AND SYDNEY EVENTS"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59938d1febca4a4008794fa7",
+    "displayTitle": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "WHAT'S ON IN-STORE?",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5994d05eebca4a4008794fe5",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "5994d05eebca4a4008794fe4",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "BEAUTY LIVES HERE CATALOGUE",
+        "_id": "598cfe96ebca4a4008794eed",
+        "itemIndex": 0,
+        "link": "http://catalogues.myer.com.au/catalogue/myer-catalogue-ss17-beauty-beauty-lives-here/5bpnn6adg.html#pageNo=0"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "59925c2cebca4a4008794f95",
+        "itemIndex": 1
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5994d05eebca4a4008794fe5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59941ca9ebca4a4008794fdf",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "598a5b7cebca4a4008794e9c",
+    "_parentId": "59941c97ebca4a4008794fde",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59941ca9ebca4a4008794fdf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  }
+]

@@ -1,0 +1,2228 @@
+[
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fb9",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fb8",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "583678f6948c8b50476dbe45",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "586c69fbcb51ba21e7a23c2d"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "586c699bcb51ba21e7a23c2b"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "CooperSt_Logo",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fbb",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fba",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "Effortless chic",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_refId": "583678f6948c8b50476dbe44",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "26"
+    },
+    "title": "Strapline",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fbe",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fbd",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_refId": "583679eb948c8b50476dbe4e",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fb4",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fb3",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "578429e3229249f3601cff7a",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "caption": "",
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd53865607d6dca313c"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fb6",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fb5",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE BRAND",
+    "body": "<p style=\"text-align: center;\">Beautifully crafted, wearable and on-trend, the Cooper St philosophy centres on contemporary design, individuality and the unique Australian lifestyle.</p>",
+    "_refId": "578429e3229249f3601cff7c",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23f9a",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23f99",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "578429e2229249f3601cff40",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd53865607d6dca313b"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_SellingPoints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23f9c",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23f9b",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">•\tBeautiful drape silhouettes</p><p style=\"text-align: center;\">•\tExclusive prints<br></p><p style=\"text-align: center;\">•\tReliable and flattering fits</p><p style=\"text-align: center;\">•\tPolished and refined</p><p style=\"text-align: center;\">•\tOn-trend.</p>",
+    "displayTitle": "SELLING POINTS",
+    "_refId": "578429e2229249f3601cff42",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_SellingPoiints",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23faf",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fae",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "578429e3229249f3601cff70",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd53865607d6dca313d"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5ab9ca07428a2e3e00f23fc7",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9f1428a2e3e00f23fc4",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ab9ca07428a2e3e00f23fc7",
+    "displayTitle": "<p style=\"text-align: center;\">WHO SHOPS COOPER ST?",
+    "body": "<p style=\"text-align: center;\">She loves to look good and stays up-to-date with current looks through social media and magazines. She is on-trend, urban chic and beautifully presented.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5ab9ca36428a2e3e00f23fc8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9f2428a2e3e00f23fc5",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ab9ca36428a2e3e00f23fc8",
+    "displayTitle": "<p style=\"text-align: center;\">WEARING COOPER ST",
+    "body": "<p style=\"text-align: center;\">The Cooper St style is feminine, playful, fashionable and polished, perfect for special dates, weekend lunches, parties, and even work.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "5ab9ca57428a2e3e00f23fca",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9f4428a2e3e00f23fc6",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ab9ca57428a2e3e00f23fca",
+    "displayTitle": "<p style=\"text-align: center;\">OTHER LOVED BRANDS",
+    "body": "<p style=\"text-align: center;\">A fan of Cooper St may also be a fan of brands like Elliatt, Stella, and Wayne Cooper.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-3-0"
+  },
+  {
+    "_id": "5ab9caa6428a2e3e00f23fd2",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9caa6428a2e3e00f23fcc",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd53865607d6dca3141"
+      },
+      "_isLightboxEnabled": true
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9caa6428a2e3e00f23fd2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5ab9caa6428a2e3e00f23fd1",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9caa6428a2e3e00f23fcc",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">&bull; Exclusive prints</p><p style=\"text-align: center;\">&bull; Flattering fits</p><hr><p><br></p>",
+    "displayTitle": "FEMININE SILHOUETTES",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9caa6428a2e3e00f23fd1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-1"
+  },
+  {
+    "_id": "5ab9caa6428a2e3e00f23fd0",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9caa6428a2e3e00f23fcd",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd63865607d6dca3142"
+      },
+      "_isLightboxEnabled": true,
+      "caption": ""
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9caa6428a2e3e00f23fd0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5ab9caa6428a2e3e00f23fcf",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9caa6428a2e3e00f23fcd",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">&bull; Signature draping</p><p style=\"text-align: center;\">&bull; Statement colours</p><hr><p><br></p>",
+    "displayTitle": "CONTEMPORARY LOOKS",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9caa6428a2e3e00f23fcf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-1"
+  },
+  {
+    "_id": "5ab9caa6428a2e3e00f23fd4",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9caa6428a2e3e00f23fce",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd63865607d6dca3143"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9caa6428a2e3e00f23fd4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5ab9caa6428a2e3e00f23fd3",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9caa6428a2e3e00f23fce",
+    "__v": 0,
+    "displayTitle": "EVENT DRESSES",
+    "body": "<p style=\"text-align: center;\">&bull; Intricate lace fabrications</p><p style=\"text-align: center;\">&bull; Sophisticated designs</p><hr><p><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9caa6428a2e3e00f23fd3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-1"
+  },
+  {
+    "_id": "5ab9cb38428a2e3e00f23fd7",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9cb38428a2e3e00f23fd5",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd63865607d6dca3144"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9cb38428a2e3e00f23fd7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "5ab9cb38428a2e3e00f23fd6",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9cb38428a2e3e00f23fd5",
+    "__v": 0,
+    "displayTitle": "COOL CONFIDENCE",
+    "body": "<p style=\"text-align: center;\">&bull; Elegant styling</p><p style=\"text-align: center;\">&bull; Quality fabrics</p><hr><p><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ab9cb38428a2e3e00f23fd6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-1"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23f9f",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23f9e",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "578429e2229249f3601cff49",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab0dd73865607d6dca3145"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fa1",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fa0",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "<div><span style=\"color: rgb(67, 74, 84);\">THE FINE PRINT</span><br></div>",
+    "body": "<div style=\"text-align: center;\"><p>Fashion is inspiration through expression. Each collection reveals yet another playful, eclectic side of the Cooper St identity.</p><p><br></p><p><b>PRICE POINT</b></p><p>Basic knits are priced from $100, and event dresses are priced up to $260.</p><p><br></p><p><b>SIZES</b></p><p>Offers clothing in a broad 6 - 16 size range.</p></div>",
+    "_refId": "578429e2229249f3601cff4b",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "CS_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fa7",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fa6",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Select the image which portrays the</p><p style=\"text-align: center;\">Cooper St style.&nbsp;<br></p>",
+    "_refId": "578429e2229249f3601cff5d",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Spot on!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Cooper St style is feminine, effortlessly chic, and often features intricate lace fabrications.</p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Cooper St style is feminine, effortlessly chic, and often features exclusive prints.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Refer to Image B.<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5aab0dfb3865607d6dca314a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "575f556e1d1a15230b436fc3",
+        "itemIndex": 0,
+        "text": "Image A"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5aab0dd53865607d6dca3140",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "575f55861d1a15230b436fc4",
+        "text": "Image B"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59e6cfb6960db223cd2d26d2",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "575f559c1d1a15230b436fc5",
+        "itemIndex": 2,
+        "text": "Image C"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a4ec5d93865607d6dc9f032",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "575f55ab1d1a15230b436fc6",
+        "text": "Image D"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_ThinkYouKnow?",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fa9",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fa8",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select three Cooper St selling points.</p>",
+    "_refId": "578429e2229249f3601cff63",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Precisely.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Cooper St offers on-trend styles in reliable and flattering fits. They're also known for garments with beautiful drape silhouettes.</p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Almost.</b></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\">Cooper St offers on-trend styles in reliable and flattering fits. They're also known for garments with beautiful drape silhouettes.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Cooper St offers on-trend styles in reliable and flattering fits. They're also known for garments with beautiful drape silhouettes.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Beautiful drape silhouettes",
+        "itemIndex": 0,
+        "_id": "57730108253db5b503cbbf94"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Understated luxury",
+        "_id": "57730109253db5b503cbbf95",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Reliable and flattering fits<br>",
+        "_id": "5773010b253db5b503cbbf97",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "On-trend styles",
+        "itemIndex": 3,
+        "_id": "5773010c253db5b503cbbf98"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Bold designs",
+        "_id": "57730117253db5b503cbbf99",
+        "itemIndex": 4
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fac",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fab",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Get a little more of Cooper St from any of the links below.<br></p>",
+    "_refId": "578429e2229249f3601cff6b",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.youtube.com/user/cooperstclothing",
+        "itemTitle": "COOPER ST YOUTUBE CHANNEL",
+        "itemIndex": 4,
+        "_id": "5902adc407f3540c73fdc8c8"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "575a3cca1d1a15230b436f92",
+        "itemTitle": "COOPER ST WEBSITE",
+        "link": " http://www.cooperst.com.au/",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.facebook.com/CooperSt.Clothing",
+        "_id": "575a42581d1a15230b436f93",
+        "itemIndex": 1,
+        "itemTitle": "FACEBOOK",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.instagram.com/cooperst_clothing/?hl=en",
+        "itemTitle": "INSTAGRAM",
+        "_id": "575a43541d1a15230b436f96",
+        "itemIndex": 2
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 3,
+        "_id": "575a43631d1a15230b436f97",
+        "itemTitle": "PINTEREST",
+        "link": "https://au.pinterest.com/cooperstreet"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "StyleExtras",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fc3",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fc2",
+    "__v": 0,
+    "_refId": "5aab1d3b3865607d6dca3213",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5aab1d633865607d6dca3217",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5ab9c9e0428a2e3e00f23fc1",
+    "_courseId": "5ab9c9e0428a2e3e00f23f94",
+    "_parentId": "5ab9c9e0428a2e3e00f23fc0",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "58367a14948c8b50476dbe55",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  }
+]

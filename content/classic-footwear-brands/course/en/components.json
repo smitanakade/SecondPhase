@@ -1,0 +1,1834 @@
+[
+  {
+    "_id": "583b7bab8fcead09e170ce62",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bab8fcead09e170ce61",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "",
+        "itemTitle": "BACK",
+        "_id": "582bd21e31ac1413a6b3ddf5",
+        "itemIndex": 0,
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce62",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "583b7baa8fcead09e170ce45",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7baa8fcead09e170ce44",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ac6df90c4e71532e3c5160a"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "583b7baa8fcead09e170ce45",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "583b7baa8fcead09e170ce47",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5ac6dec5c4e71532e3c51605",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE CLASSIC EDIT",
+    "body": "<p style=\"text-align: center;\">Signature classics with a nod to more contemporary looks, Myer’s classic fashion brands feature beautiful, timeless designs. With a focus on quality construction, our classic footwear is comfortable enough to be worn every day. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Read on to get the edit of the classic fashion   footwear brands we love.&nbsp;</p>",
+    "_isQuestionType": false,
+    "_refId": "583b7baa8fcead09e170ce47",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "THE_CLASSIC_EDIT",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "583b7bac8fcead09e170ce97",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bac8fcead09e170ce96",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "FROM THE EXPERT",
+    "body": "<p style=\"text-align: center;\">\"Our classic footwear range works back beautifully with items we all have in our wardrobes, providing easy-to-wear outfit solutions.\"<br></p><p style=\"text-align: center;\"><i><br></i></p><p class=\"\" style=\"text-align: right;\"><b>Michelle Baumann</b><br></p><p class=\"\" style=\"text-align: right;\">Category Buyer, Classic Footwear&nbsp;<br></p>",
+    "_isQuestionType": false,
+    "_refId": "583b7bac8fcead09e170ce97",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5af10418bf7f0030d055b7f9",
+    "_component": "gif",
+    "_layout": "left",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5af10412bf7f0030d055b7f8",
+    "_shouldReplayOnPageRevisit": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af10418bf7f0030d055b7f9",
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "5af10436bf7f0030d055b7fa"
+      }
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce6a",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5ac6decec4e71532e3c51606",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>Polished and refined, Basque footwear is the perfect complement to a work-wear look. Basque features timeless designs, and on-trend details. All styles feature breathable leather uppers, socks and linings combined with non-slip, flexible rubber outsoles and padded under foot memory foam.&nbsp;</p><p><br></p><p>&nbsp;This makes the shoes not only supremely comfortable but also great value for money.  </p><p><br></p><p>Basque footwear is exclusive to Myer.</p><p><br></p><p>Prices from $99.95.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce6a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce70",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bab8fcead09e170ce6f",
+    "_layout": "left",
+    "_component": "gif",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "5ac6e38cc4e71532e3c5160f"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce70",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce72",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5ac6ded5c4e71532e3c51607",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>Zazou is not for the meek and mild with pops of colour, interesting fabrications and details that express personality.  Zazou urban casuals with leather uppers and linings provide not only style but also comfort for those with a busy lifestyle.&nbsp;</p><p><br></p><p>&nbsp;Zazou is exclusive to Myer.&nbsp;</p><p><br></p><p>Prices from $89.95 for sneakers and up to $289.95 for leg boots.&nbsp;<br></p></div>",
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce72",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "583b7bad8fcead09e170ceb1",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bad8fcead09e170ceb0",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "HOT TIP",
+    "body": "<p style=\"text-align: center;\"><sup>Press the image below to learn more.</sup></p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5af11512bf7f0030d055b7fb",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>COMFORT SOLUTIONS</b>"
+        },
+        "_shouldSetCompletion": false,
+        "itemIndex": 0,
+        "_id": "57e47337ab3d8759a1a58c80",
+        "text": "<p style=\"text-align: center;\"><b>COMFORT SOLUTIONS</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Beautiful heeled shoes can come at the cost of comfort! Tana’s range of comfort solutions that slip discretely into heels are available at Myer. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tGel ball of foot cushions act as great shock-absorbers, and also stop feet slipping inside the shoe</p><p style=\"text-align: center;\">•\tHeel liners and back of heel cushions prevent blistering and slipping at the heel </p><p style=\"text-align: center;\">•\tSpot cushions minimize blisters at pressure points</p><p style=\"text-align: center;\">•\tStrappy strips keep straps firmly and comfortably in place.&nbsp;</p>"
+      }
+    ],
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_isQuestionType": false,
+    "_refId": "583b7bad8fcead09e170ceb1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a95d2cd3865607d6dca222d",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bab8fcead09e170ce77",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ac6e7f9c4e71532e3c51611"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a95d2cd3865607d6dca222d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce7a",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5a95d2a23865607d6dca2228",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>Founded in 1979, Diana Ferrari is one of Australia’s most recognised and much loved brands. Not only feminine and fashionable, their footwear is all-leather lined for superior comfort. </p><p><br></p><p>Prices from $99.95 for sneakers and up to $279.95 for leg boots.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce7a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5af11ae8bf7f0030d055b7fd",
+    "_component": "gif",
+    "_layout": "left",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5af11ae3bf7f0030d055b7fc",
+    "_shouldReplayOnPageRevisit": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af11ae8bf7f0030d055b7fd",
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "5af11d48bf7f0030d055b7fe"
+      }
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "583bbdbf8fcead09e170ced7",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5ac6dee4c4e71532e3c51608",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>The Sandler brand is appreciated by women who follow fashion and understand the value of quality leather and craftsmanship. Sandler’s contemporary styling strikes the perfect balance between fashion, quality and fit.</p><p><br></p><p>Prices from $99.95 and up to $259.95 for leg boots.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "583bbdbf8fcead09e170ced7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "583babe28fcead09e170cec7",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583babe28fcead09e170cec6",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "HOT TIP",
+    "body": "<p style=\"text-align: center;\"><sup>Press the image below to learn more.</sup></p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6ebd0c4e71532e3c51614",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>PREENED AND POLISHED</b>"
+        },
+        "_shouldSetCompletion": false,
+        "itemIndex": 0,
+        "_id": "57e47337ab3d8759a1a58c80",
+        "text": "<p style=\"text-align: center;\"><b>PREENED AND POLISHED</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Get into the habit of polishing leather shoes regularly. This helps to condition the leather while masking scuffs and marks. Opt for a shoe polish that also adds a waterproofing layer to protect the shoe from rain and stain.<br></p><p style=\"text-align: center;\"><br></p>"
+      }
+    ],
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_isQuestionType": false,
+    "_refId": "583babe28fcead09e170cec7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce80",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bab8fcead09e170ce7f",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "THE CLASSIC COLLECTIVE",
+    "body": "<p style=\"text-align: center;\">You’re spoilt for choice with Myer’s footwear range in classic fashion brands. Here are a few more of our favourites.</p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ac6edacc4e71532e3c51615"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Leona by Leona Edmiston footwear is always elegant, never casual. Quintessentially feminine, this beautiful quality footwear has an enduring and timeless appeal. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The brand is available at Myer and Leona Edmiston boutiques.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prices from $169.95 and up to $199.95.</p>",
+        "itemIndex": 0,
+        "_id": "57e4c3fdab3d8759a1a58cfe"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6f9acc4e71532e3c51617",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Trent Nathan is an iconic Australian brand built on a foundation of classic style and quality. The brand is known for full leather lining, premium leather uppers, and heels of a wearable height.   </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Trent Nathan is exclusive to Myer.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prices from $139.95 to and up to $259.95.</p>",
+        "_id": "57e4c3f8ab3d8759a1a58cfd",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6f983c4e71532e3c51616",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Jane Debster is an Australian fashion footwear brand that delivers sleek and polished styles inspired by European luxury. Count on Jane Debster for comfort, quality and craftsmanship.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prices from $189.95, and up to $299.95 for knee-length boots.</p>",
+        "_id": "57e4c401ab3d8759a1a58d01",
+        "itemIndex": 2
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce80",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "583b7bac8fcead09e170cea3",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bac8fcead09e170cea2",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Strut your stuff and show how much you know about footwear.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Select the three classic fashion footwear brands in this list.</p>",
+    "displayTitle": "KNOWLEDGE CHECK",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Basque, Trent Nathan and Jane Debster are the classic fashion footwear brands i<span>n this list.</span></p><p style=\"text-align: center;\"><span><br></span></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Not quite.</b></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\" class=\"\">Basque, Trent Nathan and Jane Debster are the classic fashion footwear brands in this list.<br></p><p style=\"text-align: center;\" class=\"\"><br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>You got it.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Basque, Trent Nathan and Jane Debster are the classic fashion footwear brands in this list.<br></p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_id": "57730108253db5b503cbbf94",
+        "itemIndex": 0,
+        "text": "Jane Debster"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 1,
+        "_id": "57730109253db5b503cbbf95",
+        "text": "Basque"
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 2,
+        "_id": "5773010b253db5b503cbbf97",
+        "text": "Wayne Cooper<br>"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_id": "5773010c253db5b503cbbf98",
+        "itemIndex": 3,
+        "text": "Trent Nathan"
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 4,
+        "_id": "57730117253db5b503cbbf99",
+        "text": "Piper"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "583b7bac8fcead09e170cea3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "583b7bac8fcead09e170ce9d",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bac8fcead09e170ce9c",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Which of the following shoes features the classic fashion style?</p>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Exactly right.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Classic fashion footwear feature timeless designs that can be worn almost everyday.</p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "final": "",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Not exactly.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Classic fashion footwear feature timeless designs that can be worn almost everyday, as shown in Shoe D.</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ac6fb21c4e71532e3c5161b"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe A",
+        "itemIndex": 0,
+        "_id": "575f556e1d1a15230b436fc3"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6fb20c4e71532e3c51618",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe B",
+        "_id": "575f55861d1a15230b436fc4",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6fb21c4e71532e3c5161a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe C",
+        "itemIndex": 2,
+        "_id": "575f559c1d1a15230b436fc5"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6fb20c4e71532e3c51619",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe D",
+        "_id": "575f55ab1d1a15230b436fc6",
+        "itemIndex": 3
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "583b7bac8fcead09e170ce9d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "KNOWLEDGE_CHECK",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce55",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bab8fcead09e170ce54",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ac6fe54c4e71532e3c5161c"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce55",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce57",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5ac6deeec4e71532e3c51609",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE RUNDOWN",
+    "body": "<p style=\"text-align: center;\">Footwear trends can come and go, but classic fashion footwear never goes out of style. They form part of our essential wardrobe because their elegant and timeless designs can effortlessly complete an outfit.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Go ahead and check out the huge range of classic fashion footwear brands at any Myer store.<br></p>",
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce57",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-11-1-0"
+  },
+  {
+    "_id": "583b7bab8fcead09e170ce5d",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bab8fcead09e170ce5c",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE EXTRA MILE",
+    "body": "<p style=\"text-align: center;\">Check out these Learning Moments to step up your knowledge about women&rsquo;s footwear:</p>",
+    "_isQuestionType": false,
+    "_refId": "583b7bab8fcead09e170ce5d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5af11e08bf7f0030d055b800",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5af11dffbf7f0030d055b7ff",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5af11e0bbf7f0030d055b801",
+        "itemTitle": "FOOTWEAR CONSTRUCTION",
+        "link": "http://myeracademy.com.au/content/footwear-construction/index.html"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "itemTitle": "YOUNG AND CONTEMPORARY FOOTWEAR",
+        "link": "http://myeracademy.com.au/content/young-and-contemporary-footwear/index.html",
+        "_id": "5af11eacbf7f0030d055b804"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_id": "5af11eb0bf7f0030d055b805",
+        "itemIndex": 2,
+        "itemTitle": "FOOTWEAR SIZES &amp; TRENDS",
+        "link": "http://myeracademy.com.au/content/footwear-sizes-&-trends/index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af11e08bf7f0030d055b800",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-12-1-0"
+  },
+  {
+    "_id": "5af11fe3bf7f0030d055b808",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "5af11fddbf7f0030d055b807",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "",
+        "itemTitle": "WOMEN&#39;S FOOTWEAR @ MYER",
+        "_id": "5af11fe7bf7f0030d055b809",
+        "itemIndex": 0,
+        "link": "https://www.myer.com.au/shop/mystore/women/shoes"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af11fe3bf7f0030d055b808",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">And explore our huge range of women&rsquo;s footwear available online:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-12-2-0"
+  },
+  {
+    "_id": "583b7bac8fcead09e170cea7",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bac8fcead09e170cea6",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "583b7bac8fcead09e170cea7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "583b7bac8fcead09e170cea9",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7bac8fcead09e170cea8",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "583b7bac8fcead09e170cea9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-1-0"
+  }
+]

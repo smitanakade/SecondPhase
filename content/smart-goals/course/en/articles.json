@@ -1,0 +1,668 @@
+[
+  {
+    "_id": "59dbf00f960db223cd2d1750",
+    "_sortOrder": 0,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "59dbf00f960db223cd2d1750",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 1
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 1
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 1,
+            "src": null
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 1
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "BackBtnTop",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  },
+  {
+    "_id": "5a139705d9f1d573fdb22851",
+    "_sortOrder": 1,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "5a139705d9f1d573fdb22851",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
+    "_id": "59dbf3be960db223cd2d178a",
+    "_sortOrder": 2,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "59dbf3be960db223cd2d178a",
+    "displayTitle": "WHY SET GOALS?",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Take a look at why we set goals at Myer.</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 1,
+            "src": null
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 1
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "WHY SET GOALS?",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "59dbf60a960db223cd2d17bc",
+    "_sortOrder": 3,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "59dbf60a960db223cd2d17bc",
+    "displayTitle": "WHAT ARE SMART GOALS?",
+    "body": "<p style=\"text-align: center;\">The SMART method is one of the most popular and effective tools for creating goals.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">It is a framework for creating effective goals, and each letter stands for one of the five qualities of great goals.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let's take a look at each letter.&nbsp;</p><p style=\"text-align: center;\"><br></p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 1,
+            "src": null
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 1
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "WHAT ARE SMART GOALS?",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "59dbf94a960db223cd2d17f5",
+    "_sortOrder": 4,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "59dbf94a960db223cd2d17f5",
+    "displayTitle": "SETTING YOUR SMART GOAL",
+    "body": "<p style=\"text-align: center;\">Let’s set a SMART goal using an example from a store environment.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><i>Note: team members who use D.A.R.E to set their performance objectives will find a link to the Creating SMART Objectives Fact Sheet at the end of this Learning Moment. </i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: center;\">Imagine you want to increase your units per transaction (UPT).</p><p style=\"text-align: center;\"><br></p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 1,
+            "src": null
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 1
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-6",
+    "title": "SETTING YOUR SMART GOAL",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "59dbf9dd960db223cd2d180c",
+    "_sortOrder": 5,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "59dbf9dd960db223cd2d180c",
+    "displayTitle": "AND FINALLY...",
+    "body": "<div style=\"text-align: center;\">Let's recap some key points.&nbsp;&nbsp;<br></div>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "CONCLUSION",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "5a12292ad9f1d573fdb223b3",
+    "_sortOrder": 6,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "5a12292ad9f1d573fdb223b3",
+    "displayTitle": "WANT TO LEARN MORE?",
+    "body": "<p style=\"text-align: center;\">Check out these links for goal setting inspiration for your personal and professional life.</p><p><br></p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Want to learn more?",
+    "_type": "article",
+    "_courseOrder": "0-6"
+  },
+  {
+    "_id": "59dbfb20960db223cd2d1831",
+    "_sortOrder": 7,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "59dbfb20960db223cd2d1831",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-7"
+  },
+  {
+    "_id": "59dbfcc6960db223cd2d1844",
+    "_sortOrder": 8,
+    "_parentId": "59d4182d5fe351093583e9ee",
+    "_courseId": "59d418195fe351093583e9eb",
+    "__v": 0,
+    "_refId": "59dbfcc6960db223cd2d1844",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "LogoStackEnd",
+    "_type": "article",
+    "_courseOrder": "0-8"
+  }
+]

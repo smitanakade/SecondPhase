@@ -1,0 +1,1946 @@
+[
+  {
+    "_id": "59dbf130960db223cd2d1758",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbf00f960db223cd2d1751",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59dbf149960db223cd2d175a",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbf130960db223cd2d1758",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59dd69c1960db223cd2d19db",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dd69b7960db223cd2d19d9",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dd69c1960db223cd2d19db",
+    "body": "<p style=\"text-align: center;\">If I gave you a bow and arrow and asked you to shoot, how would you respond? </p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "how would you respond",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a139838d9f1d573fdb22854",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dd6a3f960db223cd2d19ef",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a139838d9f1d573fdb22854",
+    "body": "<br><p style=\"text-align: center;\">When there is no target there is no purpose for shooting. You could shoot the arrow anywhere, and wherever the arrow ended up, would be where the arrow ended up. Not much to it!<br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "not much to it",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "5a139842d9f1d573fdb22858",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a13983dd9f1d573fdb22856",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59dd765d960db223cd2d1a3e"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a139842d9f1d573fdb22858",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-3-0"
+  },
+  {
+    "_id": "5a139849d9f1d573fdb2285c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a139844d9f1d573fdb2285a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a139849d9f1d573fdb2285c",
+    "body": "<p style=\"text-align: center;\">On the other hand, if I gave you a target and challenged you to hit the bulls-eye, everything would change.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You have something to aim at, something to challenge your skills against, something to measure your progress with, and something that gives all of your efforts a purpose. All by adding in a simple target.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "on the other hand",
+    "_type": "component",
+    "_courseOrder": "0-0-4-0"
+  },
+  {
+    "_id": "5a139850d9f1d573fdb22860",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a13984bd9f1d573fdb2285e",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59dd7829960db223cd2d1a41"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a139850d9f1d573fdb22860",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-5-0"
+  },
+  {
+    "_id": "5a139963d9f1d573fdb2286c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a139705d9f1d573fdb22852",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a139963d9f1d573fdb2286c",
+    "body": "<div style=\"text-align: center;\">That’s what a goal does – it guides you to your purpose and changes everything.<br></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let's dig a little deeper.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Let's dig a little deeper.",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59dbf499960db223cd2d1793",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbf3be960db223cd2d178b",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbf499960db223cd2d1793",
+    "displayTitle": "Measure success",
+    "body": "<div style=\"text-align: center;\">We are constantly trying to improve and grow as a business. A goal provides a way for us to measure our success. <br></div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Measure success",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "59dbf4a5960db223cd2d1797",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbf49d960db223cd2d1795",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbf4a5960db223cd2d1797",
+    "displayTitle": "Working together",
+    "body": "<div style=\"text-align: center;\">Setting goals ensures we all understand how we are contributing to the business.<br></div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Working together",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "59dbf4b1960db223cd2d179b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbf4ab960db223cd2d1799",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbf4b1960db223cd2d179b",
+    "body": "<div style=\"text-align: center;\">Once goals are defined, we have a clear understanding of the impact of our decisions.<br></div>",
+    "displayTitle": "Knowledge is power",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Knowledge is power",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "59dbf4b9960db223cd2d179f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbf4b3960db223cd2d179d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbf4b9960db223cd2d179f",
+    "displayTitle": "Monitor progress",
+    "body": "<div style=\"text-align: center;\">Measuring progress towards goals means we can quickly and easily see where we need to add extra effort.<br></div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Monitor progress",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "5a150931d9f1d573fdb2299b",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a150919d9f1d573fdb22993",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "_backContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "frontTextStyles": {
+      "_fontColor": "@swatch-17",
+      "_textAlign": "center",
+      "_fontSize": "160"
+    },
+    "_frontContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_flipCardItemContentAlignment": "center",
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a150931d9f1d573fdb2299b",
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59dd7fa7960db223cd2d1a52"
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "599ceb49ebca4a400879508a"
+    },
+    "frontText": "S",
+    "backText": "SPECIFIC<br><br>S is for ‘specific’. The more specific the description, the greater the chance you'll achieve it.",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a150a6cd9f1d573fdb229bb",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a150a6cd9f1d573fdb229ba",
+    "__v": 0,
+    "frontText": "M",
+    "backText": "MEASURABLE<br><br>M is for ‘measurable’. You need to be able to measure your achievements so you can monitor your progress.&nbsp;&nbsp;",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "_backContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "599ceb49ebca4a400879508a"
+    },
+    "frontTextStyles": {
+      "_textAlign": "center",
+      "_fontSize": "130",
+      "_fontColor": "@swatch-17"
+    },
+    "_frontContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59dd7fa7960db223cd2d1a52"
+    },
+    "_flipCardItemContentAlignment": "center",
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a150a6cd9f1d573fdb229bb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a150a7ad9f1d573fdb229be",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a150a7ad9f1d573fdb229bd",
+    "__v": 0,
+    "frontText": "A",
+    "backText": "ACHIEVABLE<br><br>A is for ‘achievable’. The goal should stretch you so you feel challenged, but still be achievable. Ensure you have the knowledge, skills and capabilities to achieve the goal.<br>",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "_backContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "599ceb49ebca4a400879508a"
+    },
+    "frontTextStyles": {
+      "_fontColor": "@swatch-17",
+      "_textAlign": "center",
+      "_fontSize": "160"
+    },
+    "_frontContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59dd7fa7960db223cd2d1a52"
+    },
+    "_flipCardItemContentAlignment": "center",
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a150a7ad9f1d573fdb229be",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "5a150a86d9f1d573fdb229c1",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a150a86d9f1d573fdb229c0",
+    "__v": 0,
+    "frontText": "R",
+    "backText": "RELEVANT<br><br>R is for 'relevant'.&nbsp;<span style=\"font-size: 16px;\">Is your goal relevant?&nbsp;</span>Your goal must be relevant to those of the team, and those of the business in general.",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "_backContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "599ceb49ebca4a400879508a"
+    },
+    "frontTextStyles": {
+      "_fontColor": "@swatch-17",
+      "_textAlign": "center",
+      "_fontSize": "160"
+    },
+    "_frontContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59dd7fa7960db223cd2d1a52"
+    },
+    "_flipCardItemContentAlignment": "center",
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a150a86d9f1d573fdb229c1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "5a150a96d9f1d573fdb229c4",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a150a96d9f1d573fdb229c3",
+    "__v": 0,
+    "frontText": "T",
+    "backText": "TIMELY<br><br>T is for 'timely'. When will you achieve your goal? A deadline will help you switch into action. ",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "_backContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "599ceb49ebca4a400879508a"
+    },
+    "frontTextStyles": {
+      "_fontColor": "@swatch-17",
+      "_textAlign": "center",
+      "_fontSize": "160"
+    },
+    "_frontContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59dd7fa7960db223cd2d1a52"
+    },
+    "_flipCardItemContentAlignment": "center",
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a150a96d9f1d573fdb229c4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-4-0"
+  },
+  {
+    "_id": "59dbfaec960db223cd2d182e",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbf94a960db223cd2d17f6",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">The more specific your description, the greater the chance you'll achieve it.</p><p style=\"text-align: center;\">What exactly do you want to achieve? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Store example</b></p><p style=\"text-align: center;\">My goal is to increase my UPT result from 2.0 to 2.3.</p>",
+        "itemIndex": 0,
+        "_id": "59dbfd8a960db223cd2d184c",
+        "title": "SPECIFIC"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "59dbfd90960db223cd2d184f",
+        "title": "MEASURABLE",
+        "body": "<p style=\"text-align: center;\">You need to be able to measure your achievements so you can monitor your progress.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Store example</b></p><p style=\"text-align: center;\">I will measure my progress weekly using MyMetrics. (See your people leader if you need assistance with MyMetrics.)</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">The goal should stretch you so you feel challenged, but still be achievable. Ensure you have the knowledge, skills and capabilities to achieve the goal.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Store example</b></p><p style=\"text-align: center;\">I will suggest appropriate add-ons to every sale. You might also challenge yourself to learn more about add-ons to help make this more achievable. See the Add-On Selling Learning Moment for examples.&nbsp;<b><br></b></p>",
+        "itemIndex": 2,
+        "_id": "59dbfd93960db223cd2d1852",
+        "title": "ACHIEVABLE"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 3,
+        "_id": "59dbfd96960db223cd2d1855",
+        "title": "RELEVANT",
+        "body": "<p> </p><p style=\"text-align: center;\">Your goal must be relevant to the team’s goals, and those of the business in general. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Store example</b></p><p style=\"text-align: center;\">Ensure your goal is relevant and aligned with our New Myer objectives, as well as your team's objectives.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">When will you achieve your goal? A deadline will help you switch into action. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Store example</b></p><p style=\"text-align: center;\">I expect to achieve my goal of 2.3 UPT within three weeks.</p>",
+        "title": "TIMELY",
+        "_id": "59dbfd9b960db223cd2d1859",
+        "itemIndex": 4
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbfaec960db223cd2d182e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a14a730d9f1d573fdb2289d",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a14a714d9f1d573fdb2289b",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a14a730d9f1d573fdb2289d",
+    "body": "<div style=\"text-align: center;\"><br></div><p style=\"text-align: center;\">Set SMART goals that motivate you and write them down to make them real - then plan the steps you must take to achieving your goals, and cross off each one as you work through them.</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a14a7c6d9f1d573fdb228a8",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a14a7b9d9f1d573fdb228a6",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59dd79ce960db223cd2d1a44"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a14a7c6d9f1d573fdb228a8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5a14a884d9f1d573fdb228af",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbf9dd960db223cd2d180d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a14a884d9f1d573fdb228af",
+    "body": "<p style=\"text-align: center;\">By knowing precisely what you want to achieve, you know where you must concentrate your efforts. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">It allows you to measure and take pride in the achievement of those goals, and see your progress. It’ll help your self-confidence, and you will start to see you have the ability and dedication to achieve your goals!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5a14a913d9f1d573fdb228cd",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a14a87bd9f1d573fdb228ad",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59dd7d27960db223cd2d1a47"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a14a913d9f1d573fdb228cd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "59dbfa81960db223cd2d1827",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbfa79960db223cd2d1825",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_itemBodyColor": "transparent",
+        "itemIndex": 0,
+        "_id": "59dbfa94960db223cd2d182b"
+      }
+    ],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbfa81960db223cd2d1827",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-4-0"
+  },
+  {
+    "_id": "5a122a2bd9f1d573fdb223cd",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a12292ad9f1d573fdb223b4",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.youtube.com/watch?v=2IvfAldCOrs",
+        "itemIndex": 2,
+        "_id": "5a122a49d9f1d573fdb223d5",
+        "itemTitle": "WILDLY IMPORTANT GOALS"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.youtube.com/watch?v=YBraIGG-Gfs",
+        "itemIndex": 0,
+        "_id": "5a122a2fd9f1d573fdb223cf",
+        "itemTitle": "THE POWER OF GOALS"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.youtube.com/watch?v=gzx3qhEgyZQ",
+        "itemIndex": 1,
+        "_id": "5a122a42d9f1d573fdb223d2",
+        "itemTitle": "HOW TO SET GOALS"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a122a2bd9f1d573fdb223cd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a24a46ad72b3d35167993b3",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a24a463d72b3d35167993b1",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a24a46ad72b3d35167993b3",
+    "body": "<div style=\"text-align: center;\"><p><br></p><p>Team members who use D.A.R.E to set their performance objectives can use the 'Creating SMART Objectives Fact Sheet' located here.&nbsp;</p></div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5a24a4b9d72b3d35167993be",
+    "_component": "links",
+    "_layout": "left",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "5a24a4add72b3d35167993bc",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5a24a4c8d72b3d35167993c1",
+        "itemTitle": "CREATING SMART OBJECTIVES",
+        "link": "https://myer.southrock.com/shared/Learning_Moments/SMARTgoals/FactSheet_CreatingSMARTObjectives.pdf"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a24a4b9d72b3d35167993be",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "59dbfb3b960db223cd2d1836",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbfb20960db223cd2d1832",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59dbfc49960db223cd2d183d",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbfb3b960db223cd2d1836",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "59dbfd12960db223cd2d1848",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59d418195fe351093583e9eb",
+    "_parentId": "59dbfcc6960db223cd2d1845",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59dbfd12960db223cd2d1848",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

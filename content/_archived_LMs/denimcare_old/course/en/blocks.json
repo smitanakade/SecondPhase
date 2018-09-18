@@ -1,0 +1,406 @@
+[
+  {
+    "_id": "57fc3e674ea87d56dd3ea508",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57fc3e674ea87d56dd3ea507",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "57fc3e674ea87d56dd3ea508",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "HomeBtn",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "57a2797329095f9a6b9a4b8e",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2797329095f9a6b9a4b8c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "57a2797329095f9a6b9a4b8e",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "DenimW_Txt",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "59cc47432ebabce63c060b38",
+    "_sortOrder": 1,
+    "_parentId": "57a2797329095f9a6b9a4b8c",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "__v": 0,
+    "_refId": "59cc47432ebabce63c060b38",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-1-1"
+  },
+  {
+    "_id": "57a2806e29095f9a6b9a4c34",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2806e29095f9a6b9a4c33",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a2806e29095f9a6b9a4c34",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "57a283c729095f9a6b9a4c3b",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a283c729095f9a6b9a4c3a",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a283c729095f9a6b9a4c3b",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "42"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "57ad7691792a5c405c18112a",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a283c729095f9a6b9a4c3a",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "57ad7691792a5c405c18112a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-1"
+  },
+  {
+    "_id": "57a29b4e29095f9a6b9a4c4b",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a29b4e29095f9a6b9a4c49",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a29b4e29095f9a6b9a4c4b",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "57a29eea29095f9a6b9a4c55",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a29ee929095f9a6b9a4c53",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a29eea29095f9a6b9a4c55",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "57a2a01329095f9a6b9a4c67",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2a01329095f9a6b9a4c64",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a2a01329095f9a6b9a4c67",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "42"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "57ad78c7792a5c405c181133",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2a01329095f9a6b9a4c64",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "57ad78c7792a5c405c181133",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-1"
+  },
+  {
+    "_id": "57a29f4a29095f9a6b9a4c5e",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a29f4a29095f9a6b9a4c5c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a29f4a29095f9a6b9a4c5e",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  },
+  {
+    "_id": "57a2a15629095f9a6b9a4c6e",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2a15629095f9a6b9a4c6c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a2a15629095f9a6b9a4c6e",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-8-0"
+  },
+  {
+    "_id": "57b3df5f1c1761fb0126a6b7",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57b3c3101c1761fb0126a69b",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "KNOWLEDGE CHECK",
+    "_refId": "57b3df5f1c1761fb0126a6b7",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-9-0"
+  },
+  {
+    "_id": "57b3c3101c1761fb0126a69c",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57b3c3101c1761fb0126a69b",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_refId": "57b3c3101c1761fb0126a69c",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-9-1"
+  },
+  {
+    "_id": "59cc4c0c2ebabce63c060b39",
+    "_sortOrder": 2,
+    "_parentId": "57b3c3101c1761fb0126a69b",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "__v": 0,
+    "_refId": "59cc4c0c2ebabce63c060b39",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-9-2"
+  },
+  {
+    "_id": "57a2b23b29095f9a6b9a4c7a",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2b23b29095f9a6b9a4c78",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a2b23b29095f9a6b9a4c7a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-10-0"
+  },
+  {
+    "_id": "59cc4c232ebabce63c060b3a",
+    "_sortOrder": 1,
+    "_parentId": "57a2b23b29095f9a6b9a4c78",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "__v": 0,
+    "_refId": "59cc4c232ebabce63c060b3a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-10-1"
+  },
+  {
+    "_id": "57a2b2ef29095f9a6b9a4c88",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2b2ef29095f9a6b9a4c86",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57a2b2ef29095f9a6b9a4c88",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-11-0"
+  },
+  {
+    "_id": "59cc4c382ebabce63c060b3b",
+    "_sortOrder": 1,
+    "_parentId": "57a2b2ef29095f9a6b9a4c86",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "__v": 0,
+    "_refId": "59cc4c382ebabce63c060b3b",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-11-1"
+  },
+  {
+    "_id": "57fc3e964ea87d56dd3ea50a",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2b66229095f9a6b9a4c98",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "57fc3e964ea87d56dd3ea50a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-12-0"
+  },
+  {
+    "_id": "57fc3ef74ea87d56dd3ea50d",
+    "_courseId": "57a2797229095f9a6b9a4b80",
+    "_parentId": "57a2b66229095f9a6b9a4c98",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "57fc3ef74ea87d56dd3ea50d",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "LogoBtm",
+    "_type": "block",
+    "_courseOrder": "0-12-1"
+  }
+]

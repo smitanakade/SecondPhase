@@ -1,0 +1,1588 @@
+[
+  {
+    "_id": "57bbaa7a77d124f759962e3f",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57bbaa2b77d124f759962e3e",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57bbac2f77d124f759962e42"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57bbad3277d124f759962e44"
+      }
+    },
+    "_refId": "57bbaa7a77d124f759962e3f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "57bbbe7577d124f759962e47",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57bbbe6b77d124f759962e46",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><i>Glamour with attitude</i></p><p style=\"text-align: center;\"><i><br></i></p>",
+    "_refId": "57bbbe7577d124f759962e47",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5823dbc2fc489d639338756a",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5823dbc2fc489d6393387569",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5823dbc2fc489d639338756a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00c1",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6a229249f3601d00bf",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5abc29eaef73ff4f4ffdaa70"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_isQuestionType": false,
+    "_refId": "57848a6a229249f3601d00c1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "WC_Gr",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00c0",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5abc29f6ef73ff4f4ffdaa71",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE BRAND",
+    "body": "<p style=\"text-align: center;\">Designed in Melbourne in collaboration with Wayne Cooper himself, the brand offers effortless glamour for women who dare to take risks. The signature style is cheeky with a provocative attitude, to mirror the passionate and outgoing woman who wears it.</p>",
+    "_isQuestionType": false,
+    "_refId": "57848a6a229249f3601d00c0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "WC_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00c8",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6a229249f3601d00c6",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ab482c651afe207463537ce"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_isQuestionType": false,
+    "_refId": "57848a6a229249f3601d00c8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00c7",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5abc29feef73ff4f4ffdaa72",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><span>• Unique prints, lace, faux fur and beaded designs</span><br></p><p style=\"text-align: center;\">•\tDraping and fitted cuts that highlight the feminine shape</p><p style=\"text-align: center;\">•\tExcellent price points</p><p style=\"text-align: center;\">•\tExclusive to Myer</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wayne Cooper is available at all Myer stores.<br></p>",
+    "displayTitle": "SELLING POINTS",
+    "_isQuestionType": false,
+    "_refId": "57848a6a229249f3601d00c7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "WCSellingPnts",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00ab",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6a229249f3601d00a9",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ab4867f51afe207463537cf"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_isQuestionType": false,
+    "_refId": "57848a6a229249f3601d00ab",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00aa",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5abc2a0aef73ff4f4ffdaa73",
+    "_layout": "full",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">She is passionate about fashion and always on the hunt for the hottest looks. Her social calendar is important to her, as is dressing to the nines and going out. She loves clothes that make a statement, suit her socially active lifestyle and reflect her buoyant personality.<br></p>",
+    "displayTitle": "<div><font color=\"#434a54\">WHO SHOPS WAYNE COOPER?</font></div>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">The brand is known for its stylish wardrobe staples, which can be worn in casual day-to-day settings. Wayne Cooper also offers a gorgeous event range for more formal occasions.<br></p>",
+        "title": "WEARING WAYNE COOPER",
+        "_id": "5757745b1d1a15230b436ed6",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "title": "OTHER LOVED BRANDS",
+        "body": "<p style=\"text-align: center;\">A Wayne Cooper fan may also love brands like Asilio and Finders.</p>",
+        "_id": "57731168253db5b503cbbf9e",
+        "itemIndex": 1
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57848a6a229249f3601d00aa",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "WC_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "57848a6b229249f3601d00cf",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6b229249f3601d00ce",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ab1c958a937fd7383c9816c",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "57453330a613ebf65864bba8",
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><b>SHOW-STOPPING PRINTS<font color=\"#434a54\"><br></font></b></div><p style=\"text-align: center;\"><br></p><span><div style=\"text-align: center;\">Abstract, geometric and floral prints in contrasting and complementary colours steal the show in every collection</div></span><p></p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ab1c96ca937fd7383c98178",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57453232a613ebf65864bba5",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><b>THAT LEATHER LOOK<br></b></div><p style=\"text-align: center;\"><br></p><span><div style=\"text-align: center;\">Find rock attitude in winter collections with soft, glove-like leathers<br></div><p style=\"text-align: center;\"><br></p></span><p></p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ab1c97ea937fd7383c9817e",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<div style=\"text-align: center;\"><b>SIMPLE YET SENSUAL<br></b></div><p style=\"text-align: center;\"><br></p><span><div style=\"text-align: center;\">Block colours and bold prints complement sensual, uncomplicated shapes<br></div><p style=\"text-align: center;\"><br></p></span>",
+        "title": "",
+        "itemIndex": 1,
+        "_id": "5745322ea613ebf65864bba4"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ab1c992a937fd7383c98187",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "57858163a981863c15650a5e",
+        "body": "<p style=\"text-align: center;\"><b>TEXTURAL INTEREST</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Inject some cosy glam into your life with faux fur: from full-length coats to fur-trimmed jackets in playful colours</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "57c37c8be78e4ccd1140e17b"
+          }
+        },
+        "_id": "5785815ca981863c15650a5d",
+        "itemIndex": 4,
+        "body": "<p style=\"text-align: center;\"><b>WINTER FABRICS</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Layer up in winter with luxurious Merino wool, ponte, and faux fur</p><p style=\"text-align: center;\"><br></p>"
+      }
+    ],
+    "_narrativeLayout": "Left",
+    "_isQuestionType": false,
+    "_refId": "57848a6b229249f3601d00cf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "WC_Narrative ",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "57848a6b229249f3601d00db",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6b229249f3601d00d9",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ab48c6e51afe207463537d0"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_isQuestionType": false,
+    "_refId": "57848a6b229249f3601d00db",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "WC_FinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "57848a6b229249f3601d00da",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5abc2a1def73ff4f4ffdaa76",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Wayne Cooper is a stand-out designer diffusion brand, with the look sought after by confident, fashion conscious, outgoing women.&nbsp;<span>Complementary ranges by Wayne Cooper include Wayne Cooper Woman, shoes, bags and&nbsp;</span><span>accessories which are also available at Myer.</span></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>SIZES</b></p><p style=\"text-align: center;\">Main Range: Sizes range from 6-18</p><p style=\"text-align: center;\">Woman Range: Sizes range from 16-22</p>",
+    "displayTitle": "THE FINE PRINT",
+    "_isQuestionType": false,
+    "_refId": "57848a6b229249f3601d00da",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "WC_FinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5aa992423865607d6dca2da8",
+    "_component": "table",
+    "_layout": "full",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5aa992383865607d6dca2da6",
+    "_hasColumnHeading": true,
+    "_hasRowHeading": false,
+    "_hasMobileLayout": false,
+    "_rows": [
+      [
+        "",
+        "Priced from:",
+        "To"
+      ],
+      [
+        "DRESSES",
+        "$129.95",
+        "$249.95"
+      ],
+      [
+        "TOPS",
+        "$99.95",
+        "$129.95"
+      ],
+      [
+        "SHIRTS",
+        "$89.95",
+        "$119.95"
+      ],
+      [
+        "KNITWEAR",
+        "$129.95",
+        "$169.95"
+      ],
+      [
+        "JACKETS",
+        "$139.95",
+        "$229.95"
+      ],
+      [
+        "COATS",
+        "$199.95",
+        "$229.95"
+      ],
+      [
+        "PANTS",
+        "$99.95",
+        "$129.95"
+      ],
+      [
+        "SKIRTS",
+        "$129.95",
+        "-"
+      ],
+      [
+        "SHORTS",
+        "$99.95",
+        "-"
+      ]
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5aa992423865607d6dca2da8",
+    "displayTitle": "PRICE ARCHITECTURE<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Table Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00b6",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6a229249f3601d00b5",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Which image portrays the Wayne Cooper style?<br></p>",
+    "displayTitle": "THINK YOU KNOW WAYNE COOPER?<br>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wayne Cooper often uses block colours and bold prints to complement sensual, uncomplicated shapes.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Incorrect.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wayne Cooper often uses block colours and bold prints to complement sensual, uncomplicated shapes.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Refer to Image B.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5785894ca981863c15650a6c",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57638d065317199730b37c41",
+        "itemIndex": 0,
+        "text": "Image A<br>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ab1c5dca937fd7383c9814d",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "57638d075317199730b37c42",
+        "text": "Image B"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "578589dda981863c15650a6f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57638d085317199730b37c43",
+        "itemIndex": 2,
+        "text": "Image C"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59efd63b960db223cd2d2a3c",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "57638d095317199730b37c44",
+        "text": "Image D"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57848a6a229249f3601d00b6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "GMCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00b4",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6a229249f3601d00b3",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Which three are selling points for Wayne Cooper?<br></p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>Missed it.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wayne Cooper is known for stylish staples created with interesting fabrics. Loved for their unique designs and prints, Wayne Cooper offers excellent price points.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>&nbsp;Almost.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wayne Cooper is known for stylish staples created with interesting fabrics. Loved for their unique designs and prints, Wayne Cooper offers excellent price points.</p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Exactly.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wayne Cooper is known for stylish staples created with interesting fabrics. Loved for their unique designs and prints, Wayne Cooper offers excellent price points.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Edgy statement pieces with interesting details",
+        "_id": "57468f311888e3b9604a8ce4",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Range of raw, untreated denim",
+        "itemIndex": 1,
+        "_id": "57468f321888e3b9604a8ce5"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Seasonal celebrity collaborations",
+        "_id": "57468f331888e3b9604a8ce6",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Unique designs and prints",
+        "_id": "574f75771d1a15230b436e7e",
+        "itemIndex": 3
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 4,
+        "_id": "574f757f1d1a15230b436e7f",
+        "text": "Excellent price points"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "57848a6a229249f3601d00b4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "WC_MCQ_01",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  },
+  {
+    "_id": "5823e008fc489d639338757c",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5823dfedfc489d639338757b",
+    "_layout": "full",
+    "_component": "media",
+    "_audio": {
+      "_isEnabled": false,
+      "_buttonText": "AD",
+      "ariaLabel": "This button will play an audio description of the video"
+    },
+    "_media": {
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5785ac86a981863c15650a7a"
+      },
+      "ariaLabel": "This button will play the video",
+      "_shouldAutoPlay": false,
+      "_isExternalLink": false,
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "578591f4a981863c15650a77"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "STYLE EXTRAS",
+    "body": "<p style=\"text-align: center;\">Wayne Cooper shares his fashion advice and isn’t afraid to tell it like it is.&nbsp;</p>",
+    "_refId": "5823e008fc489d639338757c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "57848a6a229249f3601d00b1",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "57848a6a229249f3601d00b0",
+    "_layout": "left",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Get a little more of Wayne Cooper from any of the links below.</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myer.com.au/webapp/wcs/stores/servlet/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&orderBy=0&maxPrice=&showResultsPage=true&langId=-1&beginIndex=0&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=&catalogId=10051&pageView=image&searchTerm=&facet=mfName_ntk_cs%253A%2522Wayne%2BCooper%2522&minPrice=&categoryId=17808&showFacet=Y&storeId=10251",
+        "itemTitle": "WAYNE COOPER @ MYER",
+        "itemIndex": 0,
+        "_id": "577b4b7a1ee1bc520af684b9"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.facebook.com/waynecooperclothing/",
+        "itemTitle": "FACEBOOK",
+        "_id": "577b4b7e1ee1bc520af684ba",
+        "itemIndex": 1
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 2,
+        "_id": "5785924fa981863c15650a79",
+        "itemTitle": "TWITTER",
+        "link": "https://twitter.com/WayneCooper"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.instagram.com/waynecooperclothing/",
+        "itemIndex": 3,
+        "_id": "5a9f37153865607d6dca2808",
+        "itemTitle": "INSTAGRAM"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57848a6a229249f3601d00b1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  },
+  {
+    "_id": "58363a82948c8b50476dbd99",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "58363a7b948c8b50476dbd98",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58363a92948c8b50476dbd9a",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58363a82948c8b50476dbd99",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5823dcdefc489d6393387573",
+    "_courseId": "57848a6a229249f3601d009f",
+    "_parentId": "5823dcdefc489d6393387572",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5823dcdefc489d6393387573",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  }
+]

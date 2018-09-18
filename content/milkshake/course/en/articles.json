@@ -1,0 +1,1210 @@
+[
+  {
+    "_id": "5a9f384c3865607d6dca281d",
+    "_sortOrder": 0,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "592cf7eccc6c57255d381326",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa8ae7f3865607d6dca2d8a"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa8ae603865607d6dca2d86"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "BackBtnTop",
+    "_type": "article",
+    "_courseOrder": "0-0",
+    "_childrenIds": [
+      "5ab04ce7a937fd7383c97ea2",
+      "5ab04d7ca937fd7383c97eb4",
+      "5a9f384c3865607d6dca281e",
+      "5aa74e4b3865607d6dca2b2b"
+    ]
+  },
+  {
+    "_id": "5a9f37fc3865607d6dca2817",
+    "_sortOrder": 1,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5a9f37fc3865607d6dca2817",
+    "displayTitle": "What&#39;s the story with Milkshake?<br>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa9bd2f3865607d6dca2ee1"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ab0655aa937fd7383c97edd"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aa8aa893865607d6dca2d81"
+      }
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5aa8aa893865607d6dca2d81",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What's the Story?",
+    "_type": "article",
+    "_courseOrder": "0-1",
+    "_childrenIds": [
+      "5a9f37fc3865607d6dca2818"
+    ]
+  },
+  {
+    "_id": "5aaefe32a937fd7383c97d82",
+    "_sortOrder": 2,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aaefe32a937fd7383c97d82",
+    "displayTitle": "Did you know?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_id": "5aa9bd2f3865607d6dca2ee1",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Did you know?",
+    "_type": "article",
+    "_courseOrder": "0-2",
+    "_childrenIds": [
+      "5aaefea7a937fd7383c97d8a"
+    ]
+  },
+  {
+    "_id": "5a9f37fd3865607d6dca281a",
+    "_sortOrder": 3,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5a9f37fd3865607d6dca281a",
+    "body": "<div><p style=\"text-align: center;\">There’s much to love about Milkshake, not least the fact that it has many selling points, which equals many opportunities to sell!<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><i>Press the pictures of cutie pies to learn more.</i></span></p><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><i><br></i></span></p></div>",
+    "displayTitle": "Milkshake's selling points",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Milkshake Selling Points",
+    "_type": "article",
+    "_courseOrder": "0-3",
+    "_childrenIds": [
+      "5a9f37fd3865607d6dca281b"
+    ]
+  },
+  {
+    "_id": "5aa873463865607d6dca2d50",
+    "_sortOrder": 4,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aa873463865607d6dca2d50",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Milkshake Selling Points",
+    "_type": "article",
+    "_courseOrder": "0-4",
+    "_childrenIds": [
+      "5aa873463865607d6dca2d51"
+    ]
+  },
+  {
+    "_id": "5aa877883865607d6dca2d60",
+    "_sortOrder": 5,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aa877883865607d6dca2d60",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Milkshake Selling Points",
+    "_type": "article",
+    "_courseOrder": "0-5",
+    "_childrenIds": [
+      "5aa877883865607d6dca2d61"
+    ]
+  },
+  {
+    "_id": "5aa86caa3865607d6dca2d44",
+    "_sortOrder": 6,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aa86caa3865607d6dca2d44",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Milkshake Selling Points",
+    "_type": "article",
+    "_courseOrder": "0-6",
+    "_childrenIds": [
+      "5aa86caa3865607d6dca2d45"
+    ]
+  },
+  {
+    "_id": "5a9f37f73865607d6dca2814",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_sortOrder": 7,
+    "__v": 0,
+    "_refId": "5a9f37f73865607d6dca2814",
+    "displayTitle": "Fashion comes in all sizes<br>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_id": "5aa9bd2f3865607d6dca2ee1",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ab0655aa937fd7383c97edd"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa8ae7f3865607d6dca2d8a"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa8ae603865607d6dca2d86"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aa8aa893865607d6dca2d81"
+      }
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aa8aa893865607d6dca2d81"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Fashion Comes in All Sizes",
+    "_type": "article",
+    "_courseOrder": "0-7",
+    "_childrenIds": [
+      "5a9f37f73865607d6dca2815"
+    ]
+  },
+  {
+    "_id": "5aab0c473865607d6dca3125",
+    "_sortOrder": 8,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aab0c473865607d6dca3125",
+    "displayTitle": "Stories for girls and boys",
+    "body": "<p style=\"text-align: center;\">No matter what kind of kid your customer is shopping for, Milkshake can tell their story through its unique range, priced between $9.95 and $74.95. The following outfits are just the beginning of the story… see the current catalogue in your store for the full tale.</p><p style=\"text-align: center;\"><br></p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Stories for girls and boys",
+    "_type": "article",
+    "_courseOrder": "0-8",
+    "_childrenIds": [
+      "5aab0c473865607d6dca3126"
+    ]
+  },
+  {
+    "_id": "5aa764e33865607d6dca2b46",
+    "_sortOrder": 9,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aa764e33865607d6dca2b46",
+    "displayTitle": "How to sell the story",
+    "body": "<p style=\"text-align: center;\">Delight customers with your Milkshake knowledge by trying these conversation starters.&nbsp;</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa9bd2f3865607d6dca2ee1"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa8ae7f3865607d6dca2d8a"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa8ae603865607d6dca2d86"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-6",
+    "title": "How to sell the story",
+    "_type": "article",
+    "_courseOrder": "0-9",
+    "_childrenIds": [
+      "5aa764e33865607d6dca2b47"
+    ]
+  },
+  {
+    "_id": "5aab094f3865607d6dca311d",
+    "_sortOrder": 10,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aab094f3865607d6dca311d",
+    "body": "",
+    "displayTitle": "<br>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "image only",
+    "_type": "article",
+    "_courseOrder": "0-10",
+    "_childrenIds": [
+      "5aab094f3865607d6dca311e"
+    ]
+  },
+  {
+    "_id": "5aa791713865607d6dca2c25",
+    "_sortOrder": 11,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aa791713865607d6dca2c25",
+    "displayTitle": "Check your knowledge",
+    "body": "<p>Which three of the following descriptions represent some of Milkshake's selling points?</p><p><br></p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa9bd2f3865607d6dca2ee1"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ab0655aa937fd7383c97edd"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-3",
+    "title": "Knowledge Check",
+    "_type": "article",
+    "_courseOrder": "0-11",
+    "_childrenIds": [
+      "5aa791713865607d6dca2c26"
+    ]
+  },
+  {
+    "_id": "5aa794c23865607d6dca2c57",
+    "_sortOrder": 12,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "5aa794c23865607d6dca2c57",
+    "displayTitle": "Happily ever after<br>",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_id": "5aa9c15a3865607d6dca2ee9",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ab1c3fea937fd7383c98145"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa8ae7f3865607d6dca2d8a"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_id": "5aa8ae603865607d6dca2d86",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aa8aa893865607d6dca2d81"
+      }
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": {
+        "_id": "5aa8aa893865607d6dca2d81",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Happily Ever After",
+    "_type": "article",
+    "_courseOrder": "0-12",
+    "_childrenIds": [
+      "5aa794c23865607d6dca2c58",
+      "5ab04c2ea937fd7383c97e8e"
+    ]
+  },
+  {
+    "_id": "5aa7957d3865607d6dca2c5c",
+    "_sortOrder": 13,
+    "_parentId": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "__v": 0,
+    "_refId": "592cf7eccc6c57255d381326",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "BackBtnBtm",
+    "_type": "article",
+    "_courseOrder": "0-13",
+    "_childrenIds": [
+      "5aa7957d3865607d6dca2c5d",
+      "5aa7963f3865607d6dca2c69"
+    ]
+  }
+]

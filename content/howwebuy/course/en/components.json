@@ -1,0 +1,972 @@
+[
+  {
+    "_id": "589a6e441dd3934329759c12",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "581aa8ce5537fc14128453e7",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "589a6e4a1dd3934329759c13",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "589a6e441dd3934329759c12",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "58117343019c6a723ad55355",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "58117337019c6a723ad55354",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p class=\"\" style=\"text-align: center;\">Understanding the buying decision process ensures you know how to help customers shop. In this learning moment we look at buying process and show you how you can support the customer at each stage to ensure they leave delighted with their purchases and make plans to come back!</p>",
+    "_refId": "58117343019c6a723ad55355",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "589d2baced2155973abb6eed",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "589d2b9bed2155973abb6eec",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "589d2c69ed2155973abb6eee"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "589a656d1dd3934329759bed"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "",
+    "_refId": "589d2baced2155973abb6eed",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59d5941f0482522d25a0bdfc",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "589d2cbbed2155973abb6ef1",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d5941f0482522d25a0bdfc",
+    "body": "<p style=\"text-align: center;\">There are four steps to the buying decision process:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "58118cbc7c7ece1356121d0f",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "5811777c019c6a723ad5535d",
+    "_layout": "full",
+    "_component": "narrative",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58a39ac9ed2155973abb6f5f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><span>Myer makes customers aware of needs and wants through marketing and advertising. By creating beautiful window displays, we invite customers into the store to explore our inspiring merchandise.</span><br></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\">Once in the store, our thoughtful and creative displays continue to stimulate their wants and needs.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">And, when you talk to customers, you can share your excitement for new products, ranges and brands.</p>",
+        "itemIndex": 0,
+        "_id": "58118cd37c7ece1356121d10"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58a39ef4ed2155973abb6f61",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><span>A customer that needs assistance considering their options needs you to have a sound understanding of their objectives, and an extensive knowledge of our products, to be able to provide the right recommendations.</span><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">To help a customer gain confidence with a particular item, you can share your knowledge and insights into relevant and exciting aspects of it.</p>",
+        "_id": "58118cd57c7ece1356121d11",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "589a6a401dd3934329759bfb",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><span>Once the decision is made, you can help the customer by reassuring them of the value of the item.</span><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This is an opportunity to demonstrate how the product meets their needs and to highlight other features such as quality fabrication and craftsmanship, or versatility. This is also an opportunity to remind customers of the ‘No Regrets’ policy.&nbsp;</p>",
+        "itemIndex": 2,
+        "_id": "58118cd67c7ece1356121d12"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "589d3f0ced2155973abb6ef2",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "body": "<p style=\"text-align: center;\">Listening carefully to the customer throughout the interaction will ensure any products you recommend will meet their needs. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">In addition, advising them of the best way to care for the product once they get home, will ensure they get the most from the item after the purchase has taken place.&nbsp;</p>",
+        "_id": "58118cd77c7ece1356121d13",
+        "itemIndex": 3
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Let’s look at each step in turn.&nbsp;</p>",
+    "_refId": "58118cbc7c7ece1356121d0f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "58117c4f019c6a723ad55365",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "58117c44019c6a723ad55364",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "589a931c1dd3934329759c15",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "top",
+        "title": "THE RESEARCHED PURCHASE&nbsp;<br>",
+        "body": "<p style=\"text-align: center;\">A customer who needs a specific product, for example a food processor, might spend weeks researching and seeking recommendations while they are in the consideration stage. </p>",
+        "_id": "58117c85019c6a723ad55366",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "589a93311dd3934329759c17",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "top",
+        "body": "<p style=\"text-align: center;\">Another customer might spend only moments in each stage of the buying decision process as they pass through the store spontaneously, see a dress they love, consider it briefly and then decide to buy it.</p>",
+        "title": "THE IMPULSE BUY",
+        "itemIndex": 1,
+        "_id": "58117c88019c6a723ad55367"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p class=\"\" style=\"text-align: center;\">Of course, the time spent at each of the four steps can vary.</p>",
+    "displayTitle": "VARIATIONS IN THE PROCESS",
+    "_refId": "58117c4f019c6a723ad55365",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5811964e7c7ece1356121d26",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "5811963e7c7ece1356121d25",
+    "_layout": "left",
+    "_component": "ordering",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The four steps are:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1. Awareness</p><p style=\"text-align: center;\">2. Consideration</p><p style=\"text-align: center;\">3. Purchase</p><p style=\"text-align: center;\">4. After-purchase</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "correct": "<p style=\"text-align: center;\"><b>WINNING!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The four steps are:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1. Awareness</p><p style=\"text-align: center;\">2. Consideration</p><p style=\"text-align: center;\">3. Purchase</p><p style=\"text-align: center;\">4. After-purchase</p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "itemIndex": 0,
+        "_id": "581196627c7ece1356121d2a",
+        "text": "AWARENESS"
+      },
+      {
+        "_id": "581196617c7ece1356121d29",
+        "itemIndex": 1,
+        "text": "CONSIDERATION"
+      },
+      {
+        "_id": "581196607c7ece1356121d27",
+        "itemIndex": 2,
+        "text": "PURCHASE"
+      },
+      {
+        "itemIndex": 3,
+        "_id": "581196617c7ece1356121d28",
+        "text": "AFTER-PURCHASE"
+      }
+    ],
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "cancelButtonAriaLabel": "This button cancels the current selected option",
+    "_isQuestionType": true,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Put the four steps in the correct order.</p>",
+    "_refId": "5811964e7c7ece1356121d26",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Ordering Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "581197e87c7ece1356121d2b",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "5811963e7c7ece1356121d25",
+    "_layout": "right",
+    "_component": "mcq",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Actually...</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Customers don't always know what they are looking for when they come in-store.<b><br></b></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Top notch!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Customers don't always know what they are looking for when they come in-store.<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_id": "581198027c7ece1356121d2c",
+        "itemIndex": 0,
+        "text": "TRUE"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 1,
+        "_id": "581198047c7ece1356121d2d",
+        "text": "FALSE"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><span>True or false, customers always know what they are looking for when they come into store.</span><br></p>",
+    "_refId": "581197e87c7ece1356121d2b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "589a6c9c1dd3934329759c02",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "589a6c311dd3934329759c01",
+    "_layout": "left",
+    "_component": "graphic",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "589a6cd81dd3934329759c04"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "589a6c9c1dd3934329759c02",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "589a6ca21dd3934329759c03",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "589a6c311dd3934329759c01",
+    "_layout": "right",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\" class=\"\">Reflect on a recent purchase decision you have made and the part that the sales professional played in helping you make the right choice. Apply what you learn from this reflection to your future interactions with customers and help bring the love of shopping to life for customers.</p>",
+    "_refId": "589a6ca21dd3934329759c03",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-1"
+  },
+  {
+    "_id": "589a6d111dd3934329759c09",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "589a6d071dd3934329759c08",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "589a6d231dd3934329759c0c",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "589a6d111dd3934329759c09",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "589a6d1c1dd3934329759c0b",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "589a6d151dd3934329759c0a",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "589a6d1c1dd3934329759c0b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "589a6dc31dd3934329759c0e",
+    "_courseId": "581162ed019c6a723ad5533b",
+    "_parentId": "589a6dba1dd3934329759c0d",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "589a6dc31dd3934329759c0e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  }
+]

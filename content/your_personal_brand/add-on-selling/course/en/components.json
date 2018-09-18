@@ -1,0 +1,1901 @@
+[
+  {
+    "_id": "59490ffad923276a1f77e4a4",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "59490ff4d923276a1f77e4a3",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59491012d923276a1f77e4a5",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59490ffad923276a1f77e4a4",
+    "displayTitle": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5949106fd923276a1f77e4a7",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "59491068d923276a1f77e4a6",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5949106fd923276a1f77e4a7",
+    "body": "<p style=\"text-align: center;\">Imagine if by doing one simple thing, you could increase the sales in your store by two million dollars!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5945c2c5d923276a1f77e433",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e432",
+    "__v": 0,
+    "_refId": "592fd800ab4951b364eb110a",
+    "displayTitle": "WHAT WOULD THAT GROWTH IN SALES MEAN FOR MYER AS A WHOLE?&nbsp;<br>",
+    "body": "<p style=\"text-align: center;\">•\tRenewed opportunities to reinvest in the business? &nbsp;<br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "5945c2c5d923276a1f77e435",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e434",
+    "__v": 0,
+    "_refId": "59412981d923276a1f77e391",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59490cd1d923276a1f77e4a1"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-3-0"
+  },
+  {
+    "_id": "594a043ad923276a1f77e542",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e449",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "SALES METRICS",
+        "itemIndex": 0,
+        "_id": "594a0443d923276a1f77e543",
+        "body": "",
+        "link": "http://www.myeracademy.com.au/content/sales-metrics/index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594a043ad923276a1f77e542",
+    "displayTitle": "IN THE 'SALES METRICS' LEARNING MOMENT, WE MENTIONED THAT IF YOU FOCUS ON TWO OF THE FOUR METRICS, THE OTHER METRICS WILL GO UP AS WELL.",
+    "body": "<p style=\"text-align: center;\">If you haven’t done that learning moment, you might want to take a look at it now.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5945c2c5d923276a1f77e44a",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "594a0418d923276a1f77e541",
+    "__v": 0,
+    "_refId": "59413677d923276a1f77e3a4",
+    "displayTitle": "IN THIS LEARNING MOMENT WE LOOK AT:",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "body": "<p style=\"text-align: center;\">•\thow increasing our units per transaction impacts other sales metrics, and </p><p style=\"text-align: center;\">•\tthe sales techniques to make this happen!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5945c2c5d923276a1f77e430",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e42f",
+    "__v": 0,
+    "_refId": "5941d546d923276a1f77e3a5",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59490e19d923276a1f77e4a2"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5945c2c5d923276a1f77e42e",
+    "_component": "dialog",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e42d",
+    "__v": 0,
+    "_refId": "593f3077d923276a1f77e36b",
+    "displayTitle": "LET’S LOOK AT WHAT HAPPENS WHEN JAMES STARTS TO SELL MORE UNITS IN SOME OF HIS TRANSACTIONS.&nbsp;",
+    "body": "<p style=\"text-align: center;\">Press the button below to begin.</p><p style=\"text-align: center;\"><br></p>",
+    "_items": [
+      {
+        "_delay": 3000,
+        "_isOnRightSide": false,
+        "_dialogItemWidth": 100,
+        "_personId": "593f309cd923276a1f77e36c",
+        "itemIndex": 0,
+        "_id": "593f30c7d923276a1f77e36f",
+        "body": "<p>In the next hour, James sold a total of 18 items in four separate transactions. </p><p><br></p><p>His <b>units per transaction (UPT)</b> for this hour increased to four and a half.&nbsp;</p>"
+      },
+      {
+        "_delay": 3000,
+        "_isOnRightSide": true,
+        "_dialogItemWidth": 100,
+        "body": "<p>The items were of a similar value, but because James sold a half a unit more per transaction the <b>average transaction value (ATV) </b>went up.</p>",
+        "itemIndex": 2,
+        "_id": "59486b3ad923276a1f77e48f",
+        "_personId": "593f3196d923276a1f77e373"
+      },
+      {
+        "_delay": 3000,
+        "_isOnRightSide": false,
+        "_dialogItemWidth": 100,
+        "_personId": "593f309dd923276a1f77e36d",
+        "_id": "59486b36d923276a1f77e48e",
+        "itemIndex": 1,
+        "body": "<p>And, as a result, James’ <b>sales per hour (SPH)</b> rose too.</p>"
+      }
+    ],
+    "_people": [
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "5941e0b3d923276a1f77e3a7"
+        },
+        "_dialogTextColor": "@swatch-13",
+        "_dialogBackgroundColor": "@swatch-22",
+        "_id": "593f309cd923276a1f77e36c",
+        "itemIndex": 0,
+        "name": "UPT"
+      },
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "5941e48bd923276a1f77e3a9"
+        },
+        "_dialogTextColor": "@swatch-13",
+        "_dialogBackgroundColor": "@swatch-22",
+        "itemIndex": 2,
+        "_id": "593f3196d923276a1f77e373",
+        "name": "ATV"
+      },
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "5941e382d923276a1f77e3a8"
+        },
+        "_dialogTextColor": "@swatch-13",
+        "_dialogBackgroundColor": "@swatch-22",
+        "name": "SPH",
+        "itemIndex": 1,
+        "_id": "593f309dd923276a1f77e36d"
+      }
+    ],
+    "_dialogItemsContainerWidth": 100,
+    "_shouldShowPersonNameOnItem": false,
+    "_dialogItemAvatarWidth": "80px",
+    "_dialogStartAvatarWidth": "400px",
+    "_inviewStartDelay": 2000,
+    "_isStartDialogInView": false,
+    "dialogStartButtonText": "START",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Dialog Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5945c2c5d923276a1f77e44d",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e44c",
+    "__v": 0,
+    "displayTitle": "IF JAMES MAINTAINS THIS HIGHER UPT FOR A YEAR, WORKING FULLTIME, HIS SALES FOR THE YEAR WILL IMPROVE BY CLOSE TO $40,000!<div><br>IN A TEAM OF FIVE THIS WOULD BE AN INCREASE OF ALMOST $200,000 FOR THE YEAR.</div><br>IN A STORE WITH 50 FULL TIME TEAM MEMBERS, THIS WOULD BE AN INCREASE OF AROUND $2,000,000 FOR THE YEAR.&nbsp;<br>",
+    "_refId": "59421c13d923276a1f77e3dd",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5945c2c5d923276a1f77e447",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e446",
+    "__v": 0,
+    "_refId": "594219b0d923276a1f77e3d8",
+    "frontText": "<br>",
+    "backText": "<br>",
+    "body": "",
+    "backTextStyles": {
+      "_textAlign": "center",
+      "_fontSize": "30",
+      "_fontColor": "@swatch-19"
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "594912c4d923276a1f77e4a9"
+    },
+    "frontTextStyles": {
+      "_textAlign": "center",
+      "_fontSize": "30",
+      "_fontColor": "@swatch-19"
+    },
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "594912b1d923276a1f77e4a8"
+    },
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59491527d923276a1f77e4ab",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5945c2c5d923276a1f77e437",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59491573d923276a1f77e4ac"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59491527d923276a1f77e4ab",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "594915c0d923276a1f77e4ae",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "594915b8d923276a1f77e4ad",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594915c0d923276a1f77e4ae",
+    "body": "<p style=\"text-align: center;\">•\tWas it a dinner suit AND all the extras you needed for the ball?</p><p style=\"text-align: center;\">•\tWas it a completely new look for the party on Saturday, not just a new dress?</p><p style=\"text-align: center;\">•\tWas it the boots and the belt that mean you can wear the white shirt on the weekend too?</p><p style=\"text-align: center;\">•\tTwo new appliances, instead of one, because they look fantastic together on the bench top?</p><p style=\"text-align: center;\">•\tWas it a new slow cooker AND a recipe book containing all the cooking inspiration to get you started?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Just as we are happy when we have a successful shopping trip, so are our customers. Customers frequently tell us they are delighted when we add value to, or enhance their purchase.&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "594918d9d923276a1f77e4bd",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "594918d2d923276a1f77e4bc",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "594918f7d923276a1f77e4be"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594918d9d923276a1f77e4bd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "594917a2d923276a1f77e4b7",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "59491798d923276a1f77e4b6",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594917a2d923276a1f77e4b7",
+    "displayTitle": "RULE 1: FIND OUT WHAT THE CUSTOMER IS LOOKING FOR",
+    "body": "<p style=\"text-align: center;\">Equipped with this information, for example that the customer is looking for a suit for Spring Carnival, you can help them find the suit, the shirt, the tie, the cufflinks and perhaps a hat too. </p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "594917abd923276a1f77e4b9",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "594917a4d923276a1f77e4b8",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594917abd923276a1f77e4b9",
+    "displayTitle": "RULE 2: CHOOSE YOUR APPROACH",
+    "body": "<p style=\"text-align: center;\">Where and when you’re having the conversation will determine your approach. If you’re on the shop floor you will have more time to have an in-depth conversation about what the customer is looking for. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If you’re processing the sale on POS, your conversation will be shorter. However, you can still suggest add-ons such as mattress protectors and shoe care solutions, as well as POS Must Haves.&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "594917b3d923276a1f77e4bb",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "594917acd923276a1f77e4ba",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594917b3d923276a1f77e4bb",
+    "displayTitle": "RULE 3: KNOW YOUR PRODUCT",
+    "body": "<p style=\"text-align: center;\">To ensure you can always provide the right recommendations, you need to know what to suggest. For ideas on how you can add value to a sale: </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>1.\tObserve how items are displayed in store: </b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">a.\tLook at the items in a range, and observe how they work together to create a ‘look’, the other items in the range can all be added to a sale </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">b.\tLook at the in-store displays, where items are frequently shown with items from other categories, these items will give you ideas on other items you can add to sale </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>2. Use the acronym M.A.N to help you think of more items</b></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-3-0"
+  },
+  {
+    "_id": "59491d45d923276a1f77e4ca",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "59491d3cd923276a1f77e4c9",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59491d45d923276a1f77e4ca",
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59491d74d923276a1f77e4cf"
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5945c637d923276a1f77e44f"
+    },
+    "backText": "Do they want more of the same item?<br><br>Would they like this t-shirt in black as well?&nbsp;",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "59491d4ed923276a1f77e4cc",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "59491d48d923276a1f77e4cb",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59491d4ed923276a1f77e4cc",
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59491dadd923276a1f77e4d0"
+    },
+    "backText": "What accessories will make this item into a full solution?&nbsp;<div><br><br>Will a scarf and shoes turn this dress into an outfit?&nbsp;</div>",
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5945c637d923276a1f77e44f"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "59491d54d923276a1f77e4ce",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "59491d4fd923276a1f77e4cd",
+    "backTextStyles": {
+      "_fontColor": "transparent",
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59491d54d923276a1f77e4ce",
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "59491dd0d923276a1f77e4d1"
+    },
+    "backText": "What else do they need to be able to use the product?<br><br>Will they need extra bottles to go with the Sodastream?&nbsp;",
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5945c637d923276a1f77e44f"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  },
+  {
+    "_id": "59491e5cd923276a1f77e4d4",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "59491e3ad923276a1f77e4d3",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "WOMENSWEAR",
+        "itemIndex": 0,
+        "_id": "59491e6ed923276a1f77e4d5",
+        "body": "<p style=\"text-align: center;\"><b>M: </b></p><p style=\"text-align: center;\">•\tThat fits you really well, did you know it also comes in red and black? </p><p style=\"text-align: center;\">•\tThat’s a great basic item that works really well under everything. Have you thought about getting one in every colour!</p><p style=\"text-align: center;\">•\tHave you considered the dress too? It’s made of the same fabric as the jacket, so you can alternate between the dress and the skirt. </p><p style=\"text-align: center;\">•\tWe have a special offer on Basque today, if you buy two or more items. Can I show you the full range? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>A: </b></p><p style=\"text-align: center;\">•\tDo know which shoes you’ll wear with this dress when you go to the wedding? Can I show you some I think would work really well?</p><p style=\"text-align: center;\">•\tWe have some shoes that have just come in that would look great with it. Would you like me to show you? </p><p style=\"text-align: center;\">•\tWe’ve got a great clutch that will work really well with this! Can I show you? </p><p style=\"text-align: center;\">•\tThere are some great new scarves that would work really well with this suit. Can I show you? </p><p style=\"text-align: center;\"><br></p><p> </p><p style=\"text-align: center;\"><b>N:</b></p><p style=\"text-align: center;\">•\tHave you seen this Hollywood tape? It will help keep the dress in place all day. </p><p style=\"text-align: center;\">•\tDo you have a strapless bra at home that will work, or would you like me to recommend one? </p><p style=\"text-align: center;\">•\tCan I help you find the right pair of tights to go with this?&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "59491e6fd923276a1f77e4d6",
+        "itemIndex": 1,
+        "title": "FOOTWEAR &amp; ACCESSORIES&nbsp;",
+        "body": "<p style=\"text-align: center;\"><b>M: </b></p><p style=\"text-align: center;\">•\tIt’s a good idea to give your shoes a rest between wears. Have you got a second pair for work that you can alternate between? </p><p style=\"text-align: center;\">•\tThis handbag works really well with the shoes in our new range. Can I show you what we have? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>A:</b></p><p style=\"text-align: center;\">•\tYou can wear this scarf in many different ways. Can I show you? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>N: </b></p><p style=\"text-align: center;\">•\tIt’s a really good idea to give these a spray with a leather protector every now and again to keep them looking their best. Can I show you what we have? </p><p style=\"text-align: center;\">•\tSince you’re going to be on your feet all day, you might want to think about getting some gel inserts. Can I show you what we have?&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "YOUTH",
+        "itemIndex": 2,
+        "_id": "59491e70d923276a1f77e4d7",
+        "body": "<p class=\"\" style=\"text-align: center;\"><b>M:</b></p><p class=\"\" style=\"text-align: center;\">•\tWe have that t-shirt in a variety of colours. Can I show you what we have? </p><p class=\"\" style=\"text-align: center;\">•\tThe jeans are a perfect fit. Have you thought about getting the indigo wash too? </p><p class=\"\" style=\"text-align: center;\">•\tHave you thought about getting a couple of extras for when this one’s in the wash? </p><p class=\"\" style=\"text-align: center;\"><br></p><p class=\"\" style=\"text-align: center;\"><b>A:</b></p><p class=\"\" style=\"text-align: center;\">•\tA belt would finish off this look. Would you like me to show you what I’m thinking?</p><p class=\"\" style=\"text-align: center;\">•\tYou can dress this up and down with the right scarf. Can I show you what I mean? </p><p class=\"\" style=\"text-align: center;\">•\tWhat are you planning to wear with this dress? There are some amazing statement jackets that I think would be perfect. Can I show you? </p><p class=\"\" style=\"text-align: center;\"><br></p><p class=\"\" style=\"text-align: center;\"><b>N:</b></p><p class=\"\" style=\"text-align: center;\">•\tHave you got the right underwear for this dress? Can I show what I recommend? </p><p style=\"text-align: center;\">To keep your denim at its best for longer, I recommend you use this denim wash. Can I show you?&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "59491e71d923276a1f77e4d8",
+        "itemIndex": 3,
+        "title": "MENSWEAR",
+        "body": "<p style=\"text-align: center;\"><b>M: </b></p><p style=\"text-align: center;\">•\tHave you thought about getting another pair of pants to go with the jacket for when the first pair are being dry cleaned?</p><p style=\"text-align: center;\">•\tLet me show the range of ties and pocket squares that will complement your suit.</p><p style=\"text-align: center;\">•\tWe have some great tie pins and cufflinks. They will complete the look for the races, what do you think? </p><p style=\"text-align: center;\">•\tIf you’re getting a new suit, you might want to consider getting some new shoes too! What do you reckon? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>A: </b></p><p style=\"text-align: center;\">•\tCan I show you the new range of ties that has just come in for the racing season? </p><p style=\"text-align: center;\">•\tThese jeans are great because you can dress them up and down. Can I show you the belt that I think works really well with them? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>N:</b></p><p style=\"text-align: center;\">•\tTo maintain the colour of this denim, I recommend you use denim wash. Can I show you?</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\"><b>M:</b><br></p><p style=\"text-align: center;\">•\tThis bra comes in a wide range of colours and patterns. Would you like me to show you? </p><p style=\"text-align: center;\">•\tWhen I find a bra that fits really well, I like to get it in a neutral colour too. Would you like me to show you what we have?</p><p style=\"text-align: center;\">•\tHave you thought about getting it in a neutral colour as well, so you can’t see it under pale clothing?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>A:</b></p><p style=\"text-align: center;\">•\tHave you considered getting the matching briefs? I can show you our range. </p><p style=\"text-align: center;\">•\tWe have some robes that would work really well with this. Would you like to see? </p><p style=\"text-align: center;\">•\tHave you thought about adding a candle to make it a really special gift for your mum? </p><p style=\"text-align: center;\">•\tThese candle holders look stunning on the table at a party. What do you think?</p><p style=\"text-align: center;\">•\tCan I suggest you take a look at the matching decanter while you’re here? They go really well with these wine glasses.</p><p style=\"text-align: center;\">•\tI’d love to show you the teapots that have just arrived. We’ve just put them out on the floor today. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>N:</b></p><p style=\"text-align: center;\">•\tHave you got a wash bag? Although this bra is machine washable, it’s still really important that you wash it in the delicates wash bag. </p><p style=\"text-align: center;\">•\tThis Hollywood tape is a lifesaver! It will make sure your straps stay put. Have you seen it before?&nbsp;</p>",
+        "title": "INTIMATE APPAREL&nbsp;",
+        "itemIndex": 4,
+        "_id": "59491e72d923276a1f77e4d9"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\"><b>M: </b></p><p style=\"text-align: center;\">•\tDo you need an extra set of sheets for when these are in the wash? </p><p style=\"text-align: center;\">•\tThe wineglasses come in boxes of six. Would you like another box so you have some spares, just in case? </p><p style=\"text-align: center;\">•\tHow many guests have you got coming to your party? Do you need some more glasses? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>A: </b></p><p style=\"text-align: center;\">•\tCan I show you the bath mat that matches this? </p><p style=\"text-align: center;\">•\tWe have tags for each guest to attach to their wineglass and keep track of which one is theirs. Would you like to see them? </p><p style=\"text-align: center;\">•\tHave you thought about how you’re going to dress the table for your dinner party? Can I show you some ideas? </p><p style=\"text-align: center;\">•\tThese plates look really good when paired with the charger plate. Would you like to see?</p><p style=\"text-align: center;\">•\tThese cushions look really good styled with the European pillows. </p><p style=\"text-align: center;\">•\tYou can NEVER have too many cushions? Don’t you agree? Can I show you my favourites?</p><p style=\"text-align: center;\">•\tFeel how soft this velvet cushion is! It will go perfectly with your new bed linen!</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>N: </b></p><p style=\"text-align: center;\">•\tI recommend a pillow protector to keep this pillow at its best for longer. Would you like me to get one for you? </p><p style=\"text-align: center;\">•\tYou will need some extra Sodastream bottles to have as spares. Can I show you?&nbsp;</p>",
+        "_id": "59491e72d923276a1f77e4da",
+        "itemIndex": 5,
+        "title": "HOMEWARES"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 6,
+        "_id": "59491e73d923276a1f77e4db",
+        "title": "KIDS AND TOYS &nbsp;",
+        "body": "<p style=\"text-align: center;\"><b>M:</b></p><p style=\"text-align: center;\">•\tHave you thought about getting books for all your grandchildren? We have some great titles in right now. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>A:</b></p><p style=\"text-align: center;\">•\tHave you seen the Paddington Bear toy? With this book it would make a perfect gift for your new nephew. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>N: </b></p><p style=\"text-align: center;\">•\tDo you need some batteries so your grandson can play with the toy as soon as he gets it on Christmas Day?&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "TRAVEL GOODS &nbsp; &nbsp;",
+        "_id": "59491e74d923276a1f77e4dc",
+        "itemIndex": 7,
+        "body": "<p style=\"text-align: center;\"><b>M:</b></p><p style=\"text-align: center;\">•\tMatching smaller suit case to use for carry-on luggage<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>A: </b></p><p style=\"text-align: center;\">•\tHave you seen our huge range of travel accessories? We have all the extras you’ll need. Can I show what I always take when I travel? </p><p style=\"text-align: center;\">•\tThis also comes in a matching carry-on size case. Would you like to see it? </p><p style=\"text-align: center;\">•\tLet me show you our range of luggage tags, a really important item to have attached to your new suitcases. You don’t want to lose them!</p><p style=\"text-align: center;\">•\tYou mentioned that you’re going to China. Have you thought about getting a travel plug so you can still use your hair straighteners while you’re away?  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>N:</b></p><p style=\"text-align: center;\">•\tTSA lock if travelling internationally which will save damage to your suitcase if it needs to be inspected</p><p style=\"text-align: center;\">•\tScale to ensure your bags remain under the weight limit</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\"><b>M:</b></p><p style=\"text-align: center;\">• Wow, these are a great price today; have you got a holiday house or a caravan where you may use one of these too?<b><br></b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>A:</b></p><p style=\"text-align: center;\">•\tI have one of these. I find this makes slicing bread straight from the bread maker really easy. Can I show you how it works?</p><p style=\"text-align: center;\">•\tDid you know there’s a matching toaster with this kettle? They will look so smart together on the bench top. </p><p style=\"text-align: center;\">•\tThis kettle looks great next to the matching toaster. Can I show you?</p><p style=\"text-align: center;\">•\tHave you thought about how you will carry your new laptop around? Would you like me to show you our range of laptop bags? </p><p style=\"text-align: center;\">•\tYou mentioned this phone is for personal use and your business. Do you need to get an extra charger to leave at the office?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>N:</b></p><p style=\"text-align: center;\">•\tI recommend you get a screen protector to extend the life of the phone. Would you like me to show you what we have?&nbsp;</p>",
+        "itemIndex": 8,
+        "_id": "59491e76d923276a1f77e4dd",
+        "title": "ELECTRICAL"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\"><b>M:</b></p><p style=\"text-align: center;\">•\tThese makeup brushes are fantastic! Have you thought about taking another one to keep in your purse for touch-ups throughout the day?</p><p style=\"text-align: center;\">•\tThere are so many beautiful scents in this range of candles, have you thought about another one for your bathroom?&nbsp;</p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>A:</b></p><p style=\"text-align: center;\">•\tDid you know that you can make your fragrance last longer if you layer it with the matching body cream; let me put some on you.</p><p style=\"text-align: center;\">•\tThis fake tan is so natural looking. Have you seen the applicator mitt that you can use to apply the product? It helps keep your hands clean and makes sure the tan goes on evenly.</p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>N:</b></p><p style=\"text-align: center;\">•\tLet me show you this primer that you can use under your foundation to make sure it goes on smoothly. </p><p style=\"text-align: center;\">•\tThis is such an amazing night cream that you’re taking today.  Can I show you the day cream too?&nbsp;</p>",
+        "title": "BEAUTY",
+        "_id": "59491e76d923276a1f77e4de",
+        "itemIndex": 9
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59491e5cd923276a1f77e4d4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5949218dd923276a1f77e4e1",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5949214fd923276a1f77e4e0",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "594921a7d923276a1f77e4e2"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5949218dd923276a1f77e4e1",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "594a1800d923276a1f77e549",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "594a17f6d923276a1f77e548",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594a1800d923276a1f77e549",
+    "displayTitle": "AND FINALLY...<br><br>IT’S IMPORTANT TO UNDERSTAND THAT SOME CUSTOMERS WON’T BE INTERESTED IN LEARNING ABOUT ADDITIONAL ITEMS. MAKE SURE YOU RESPECT THIS. REMEMBER THERE IS ALWAYS THE NEXT CUSTOMER.&nbsp;",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5949aac8d923276a1f77e4e8",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5949aaa2d923276a1f77e4e5",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5949aadfd923276a1f77e4e9",
+        "itemTitle": "CONVERTING SALES",
+        "link": "http://www.myeracademy.com.au/content/converting-sales/index.html"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "_id": "5949ab52d923276a1f77e4ea",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5949aac8d923276a1f77e4e8",
+    "body": "<p style=\"text-align: center;\">If you haven’t already, complete the learning moment Converting Sales for more great ideas.&nbsp;</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5949acb3d923276a1f77e4f3",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5949acb3d923276a1f77e4f2",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5949acb3d923276a1f77e4f3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5949ac0fd923276a1f77e4ed",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5945c2c5d923276a1f77e416",
+    "_parentId": "5949abb1d923276a1f77e4ec",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5949ac0fd923276a1f77e4ed",
+    "displayTitle": "Thanks to the team at Myer Eastland for helping with this learning moment!<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "14"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  }
+]

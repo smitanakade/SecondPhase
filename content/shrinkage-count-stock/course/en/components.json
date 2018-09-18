@@ -1,0 +1,1760 @@
+[
+  {
+    "_id": "5a4a9ef9ec1ad576d99ecec6",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99ecec5",
+    "__v": 0,
+    "_refId": "59e56860960db223cd2d246c",
+    "body": "<p style=\"text-align: center;\">Welcome to a series of Shrinkage Learning Moments, designed to highlight the importance of shrinkage at Myer.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This Learning Moment outlines the What, Why and How, of financial stocktakes at Myer.</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ecec4",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99ecec3",
+    "__v": 0,
+    "_refId": "59bf3a0fc7eab8472b8cb6f9",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf3a14c7eab8472b8cb6fa",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ecead",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99eceac",
+    "__v": 0,
+    "_refId": "5a2078ad314de23e85a9d868",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a66a94c3865607d6dca04c9"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a66a9c73865607d6dca04cd",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a67b8153865607d6dca0555",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a66a9c73865607d6dca04cd",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We break up the stocktaking process into Cycle Scan Counts. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These occur on a rolling basis, taking in selected class groups in each fixed cycle, made up of six counts in every financial year.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ecea9",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef8ec1ad576d99ecea8",
+    "__v": 0,
+    "_refId": "5a1f46fc5a3fb67debaf10c8",
+    "displayTitle": "Why?",
+    "body": "<p style=\"text-align: center;\">It is imperative that we have an accurate understanding of our actual Stock on Hand (SOH) versus our book stock, so that we can:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tProvide a successful shopping outcome for our customers – the right stock in the right place at the right time</p><p style=\"text-align: center;\">•\tAllow the buying teams to purchase and allocate accurate levels of stock to the stores</p><p style=\"text-align: center;\">•\tEnable the financial teams to calculate accurate budgets and company profits.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Why?",
+    "_type": "component",
+    "_courseOrder": "0-1-2-0"
+  },
+  {
+    "_id": "5a4aad54ec1ad576d99ecf33",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4aad4cec1ad576d99ecf31",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c07a36d9d8aeaf135a2b7a"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a4aad54ec1ad576d99ecf33",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-3-0"
+  },
+  {
+    "_id": "5a67b1723865607d6dca052b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a67b8593865607d6dca0559",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a67b1723865607d6dca052b",
+    "body": "<p style=\"text-align: center;\">The outcome of a financial stocktake is to:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tUpdate the dollar value of our book stock</p><p style=\"text-align: center;\">•\tUpdate the number of stock on hand units by item</p><p style=\"text-align: center;\">•\tIdentify the physical stock variance.&nbsp;</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-4-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99eceab",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99eceaa",
+    "__v": 0,
+    "_refId": "5a1f47105a3fb67debaf10ca",
+    "displayTitle": "How?",
+    "body": "<div style=\"text-align: center;\"><p>All store team members have a role to play in the successful outcome of the three functions of a financial stocktake:</p><p><br></p><p>•\tPrepare</p><p>•\tCount</p><p>•\tInvestigate, verify and adjust.</p><p><br></p><p>Let’s explore.</p></div>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "How?",
+    "_type": "component",
+    "_courseOrder": "0-1-5-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ececb",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99ececa",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Effective preparation leads to a more accurate scan and stocktake outcome. Everyone has a part to play in preparing for the stocktake.&nbsp;</p>",
+    "displayTitle": "PREPARE",
+    "_refId": "5a04fff1d9f1d573fdb21d54",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "PREPARE",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ececd",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99ececc",
+    "__v": 0,
+    "_refId": "5a25fc83d72b3d35167994f2",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "5a25fc8fd72b3d35167994f5",
+        "itemIndex": 0,
+        "title": "STORE MANAGER",
+        "body": "<p style=\"text-align: center;\">The store manager has overall accountability for the stocktake process.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">They ensure the management team has a focus on, and understanding of, the financial implications of stocktake, and the impact on the store's financial results.&nbsp;<br></p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Business and retail managers have responsibility for all processes associated with stocktake.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&nbsp;They manage and implement the stocktake action plan, drawing on appropriate resources to ensure the agreed time frames are met.&nbsp;<br></p><p style=\"text-align: center;\"><br></p>",
+        "itemIndex": 1,
+        "_id": "5a25fc91d72b3d35167994fa",
+        "title": "BUSINESS AND RETAIL MANAGERS"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5a667bd43865607d6dca04ad",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "title": "MERCHANDISE SUPPORT MANAGER",
+        "itemIndex": 2,
+        "_id": "5a25fc91d72b3d35167994f9",
+        "body": "<p style=\"text-align: center;\">Merchandise support managers and service managers play an essential role in all phases of the stocktake. Their responsibilities include:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tCommunicating to store teams the relevant stocktake information and the scheduled stocktake dates</p><p style=\"text-align: center;\">•\tCreating accurate floor plans, taking care to include all fixtures containing the class groups to be counted, including the selling floor, reserves and docks, outposts and displays and any on loan or off-site merchandise</p><p style=\"text-align: center;\">•\tEnsuring that all merchandise is ticketed with scan-able bar-coded tickets - this is an essential step and should be applied all day, every day of the trading year</p><p style=\"text-align: center;\">•\tEnsuring that the store nominated cut off dates for any claims, merchandise transfers, central stock requisitions and merchandise returns (MRs) are adhered to.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5a56af4f3865607d6dc9f9af",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">Managing the housekeeping in reserves is an essential part of any accurate stocktake. Keep the following in mind:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tAll soiled and damaged merchandise should be managed according to company policy and either claimed back to the supplier or written off in a timely manner</p><p style=\"text-align: center;\">•\tAll claims, MRs and transfers should be cleared from the departments in advance of the stocktake according to the stores action plan</p><p style=\"text-align: center;\">•\tMerchandise should be kept tidy, organised and saleable</p><p style=\"text-align: center;\">•\tFloors should be clear of rubbish and trip hazards</p><p style=\"text-align: center;\">•\tNew merchandise deliveries should be unpacked and sorted daily.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Re-ticketed merchandise means the customer enjoys a relaxed, efficient and professional experience.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Online teams can find the merchandise quickly, meaning prompt customer order deliveries. Shrinkage is also reduced by maintaining an accurate inventory.</p><p style=\"text-align: center;\"><br></p>",
+        "itemIndex": 3,
+        "_id": "5a5d17f03865607d6dca005c",
+        "title": "HOUSEKEEPING"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a4aafb2ec1ad576d99ecf54",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4aafabec1ad576d99ecf52",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a4aafb2ec1ad576d99ecf54",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This is the physical activity of 'taking' the stock. Accuracy is important and attention to detail is vital.</p>",
+    "displayTitle": "COUNT",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "COUNT",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5a4aafbfec1ad576d99ecf58",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4aafbaec1ad576d99ecf56",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5a6660f83865607d6dca049f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "title": "CONTROLLERS",
+        "_id": "5a4ab049ec1ad576d99ecf70",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">Controllers are the key between those doing the scanning, and the business and retail managers performing the overall coordination of stocktake. Controllers are responsible for:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tUnderstanding the stocktake processes and stocktake equipment</p><p style=\"text-align: center;\">•\tLeading and coordinating teams and issuing appropriate floor plans to ensure counters are compliant with the counting process</p><p style=\"text-align: center;\">•\tHaving specific knowledge of the merchandise area being counted</p><p style=\"text-align: center;\">•\tLiaising with the support team to confirm the accuracy of the count and ensure all fixtures are counted</p><p style=\"text-align: center;\">•\tParticipating in a counter’s training session in advance of the stocktake to familiarise themselves with the Portable Data Terminal (PDT) and essential stocktake procedures.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a667bd43865607d6dca04b1"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "title": "COUNTERS",
+        "_id": "5a4ab06aec1ad576d99ecf75",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Counters perform the physical count of all merchandise in the store and at any off-site reserves, if applicable, via a scan process using a PDT. Other responsibilities include:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tAccurately and efficiently completing the counting process with every item individually scanned</p><p style=\"text-align: center;\">•\tRemaining focused and following the counting process correctly</p><p style=\"text-align: center;\">•\tParticipating in a training session prior to commencing any merchandise count, that includes the basic operation of the PDT and the essential stocktake counting process.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember, errors in counting increase the amount of time spent investigating and can lead to unnecessary shrinkage.</p><p style=\"text-align: center;\"><br></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a4aafbfec1ad576d99ecf58",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "5a4aafceec1ad576d99ecf60",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4aafc8ec1ad576d99ecf5e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a4aafceec1ad576d99ecf60",
+    "displayTitle": "INVESTIGATE",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This is where we investigate any variances and inconsistencies identified during the stocktake. This way we can determine the 'actual' stock in our business.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "INVESTIGATE",
+    "_type": "component",
+    "_courseOrder": "0-2-4-0"
+  },
+  {
+    "_id": "5a4aafd5ec1ad576d99ecf64",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4aafd0ec1ad576d99ecf62",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a667bd53865607d6dca04b9"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">It is important to check the count to be certain it is an accurate record of the physical merchandise the store holds. Checkers are responsible for:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tVerifying the accuracy of the merchandise counts performed by the counters - a check consisting of 10% of the total number of fixtures for the day of stocktake is required in order to fulfil minimum audit requirements</p><p style=\"text-align: center;\">•\tIdentifying fixtures to be checked that are identified on the fixture audit report issues by the stocktake support team </p><p style=\"text-align: center;\">• Checking all key codes&nbsp;and unit quantities against the report.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Any discrepancies in the count are reported to the controller, who will decide if a recount is necessary.&nbsp;</p><p style=\"text-align: center;\"><br></p>",
+        "itemIndex": 0,
+        "_id": "5a4ab154ec1ad576d99ecf7f",
+        "title": "CHECKERS"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a667bd43865607d6dca04ae"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">The investigation is carried out to determine and correct errors or omissions that have caused store shrinkage.The investigation team validates the accuracy of the merchandise counted after the count day. Investigators are responsible for:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tInterpreting the various reports used in a stocktake</p><p style=\"text-align: center;\">•\tUsing the stock count variance report to validate the entries against the merchandise counted and note any discrepancies</p><p style=\"text-align: center;\">•\tVerifying that the count was accurate and if necessary investigate further using RETEK and the Wrong Stock Wrong Store reports to attempt to correct any variances</p><p style=\"text-align: center;\">•\tParticipating in a store training session for investigators prior to stocktake.&nbsp;</p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\">Any variances found are written up on the stocktake adjustment sheets, authorised by either the retail manager or business manager and then submitted for processing by the support team.<span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\"><br></p>",
+        "itemIndex": 1,
+        "_id": "5a4ab18eec1ad576d99ecf84",
+        "title": "INVESTIGATORS"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5a6943863865607d6dca075a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 2,
+        "_id": "5a4ab1acec1ad576d99ecf89",
+        "title": "SUPPORT TEAM",
+        "body": "<p style=\"text-align: center;\">The stocktake support team assists the management and store teams throughout the stocktake process. The support team is responsible for:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tEnsuring all paperwork for processing is up-to-date and completed by the cut-off dates for the store</p><p style=\"text-align: center;\">•\tAssisting on the day of the count by working in cooperation with the people leaders and controllers to ensure all fixtures are counted and all PDT issues are addressed</p><p style=\"text-align: center;\">•\tMonitoring and helping to deliver an accurate and efficient count using the RETEK stocktake processes and the store action plan.</p><p style=\"text-align: center;\"><br></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a4aafd5ec1ad576d99ecf64",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-5-0"
+  },
+  {
+    "_id": "5a4ab3a8ec1ad576d99ecf9d",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4ab39dec1ad576d99ecf9b",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<b>Not quite.&nbsp;</b><p><br></p><p>We perform a stocktake at regular intervals to count the value of our stock, determine the number of stock and to identify any variances between our stock on hand and our book stock.</p>",
+        "notFinal": "<br>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p><b>Not quite. </b></p><p><br></p><p>We perform a stocktake at regular intervals to count the value of our stock, determine the number of stock and to identify any variances between our stock on hand and our book stock.</p>",
+        "notFinal": "<br>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!</b></p><p><br></p><p> </p><p>These are all important reasons why we perform a financial stocktake at regular intervals.</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "To count the value of our stock.",
+        "itemIndex": 0,
+        "_id": "5a4ab4a9ec1ad576d99ecfad"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "To make accurate maps of our floor stock locations.",
+        "_id": "5a4ab4b2ec1ad576d99ecfaf",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "To determine the number of stock on hand units by item in stores.&nbsp;",
+        "itemIndex": 2,
+        "_id": "5a4ab4b3ec1ad576d99ecfb1"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "5a4ab4b4ec1ad576d99ecfb3",
+        "itemIndex": 3,
+        "text": "To identify the variance between our stock on hand and our book stock.&nbsp;"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 4,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5a4ab3a8ec1ad576d99ecf9d",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Select all that are correct.<br></p>",
+    "displayTitle": "WHY DO WE PERFORM A STOCKTAKE?",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Why do we perform a stocktake?",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a4ac8a0ec1ad576d99ed033",
+    "_component": "matching",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4ac894ec1ad576d99ed031",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Not quite.</b></p><p><br></p><p>Counters, controllers, checkers and investigators each have specific roles to play during the counting and investigating stages of financial stocktake. Review these topics of the Learning Moment to find out about responsibilities.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p><b>Not quite.</b></p><p><br></p><p>Counters, controllers, checkers and investigators each have specific roles to play during the counting and investigating stages of financial stocktake. Review these topics of the Learning Moment to find out about responsibilities.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!</b></p><p><br></p><p>Counters, controllers, checkers and investigators each have specific roles to play during the counting and investigating stages of financial stocktake.</p><p><br></p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Controller",
+            "_id": "5a4ac8cdec1ad576d99ed041"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "5a4ac8dbec1ad576d99ed043",
+            "text": "Counter"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5a4ad8aaec1ad576d99ed1ab",
+            "text": "Checker"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Investigator",
+            "_id": "5a4ad8c3ec1ad576d99ed1ad"
+          }
+        ],
+        "_id": "5a4ac8b6ec1ad576d99ed036",
+        "itemIndex": 0,
+        "text": "Who is primarily responsible for counting merchandise using a PDT?"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Counter",
+            "_id": "5a4ad921ec1ad576d99ed1c3"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "5a4ad92aec1ad576d99ed1c5",
+            "text": "Controller"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Checker",
+            "_id": "5a4ad932ec1ad576d99ed1c7"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5a4ad93aec1ad576d99ed1ca",
+            "text": "Investigator"
+          }
+        ],
+        "text": "Who is primarily responsible for counting merchandise using a PDT?<br>",
+        "itemIndex": 1,
+        "_id": "5a4ac8b7ec1ad576d99ed038"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "5a4ad975ec1ad576d99ed1e6",
+            "text": "Counter"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Controller",
+            "_id": "5a4ad97dec1ad576d99ed1eb"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "5a4ad985ec1ad576d99ed1ed",
+            "text": "Checker"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Investigator",
+            "_id": "5a4ad98dec1ad576d99ed1f0"
+          }
+        ],
+        "_id": "5a4ac8b7ec1ad576d99ed03a",
+        "itemIndex": 2,
+        "text": "Who is primarily responsible for verifying the accuracy of the count by checking 10% of the fixtures counted?<br>"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "5a4ad9c5ec1ad576d99ed205",
+            "text": "Counter"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Controller",
+            "_id": "5a4ad9ccec1ad576d99ed207"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5a4ad9d3ec1ad576d99ed20d",
+            "text": "Checker"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Investigator",
+            "_id": "5a4ad9daec1ad576d99ed20f"
+          }
+        ],
+        "text": "Who is primarily responsible for validating the stocktake variance report and escalating adjustments?",
+        "itemIndex": 3,
+        "_id": "5a4ac8b8ec1ad576d99ed03c"
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5a4ac8a0ec1ad576d99ed033",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Who is responsible?",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99eceb7",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99eceb6",
+    "__v": 0,
+    "_refId": "5a1f65255a3fb67debaf1218",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The stocktake process allows stores to maintain an accurate understanding of their stock on hand, versus their book stock.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">An accurate stocktake allows the buying teams to order and fulfil the stores merchandise needs and assists in the delivery of a profitable business result.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">It is crucial to our business success to track and maintain accurate data on our merchandise quantities, so that we can provide positive customer experiences, both in-store and online.<br></p>",
+    "displayTitle": "LET’S RECAP SOME KEY POINTS<br>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ecebb",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99eceba",
+    "__v": 0,
+    "_refId": "5a20b0af314de23e85a9da18",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a667bd53865607d6dca04be"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99eceb9",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99eceb8",
+    "__v": 0,
+    "_refId": "5a20afe9314de23e85a9da11",
+    "body": "<p style=\"text-align: center;\">You can help to make your store a shrinkage success story by:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tFollowing procedures and policies built to support the stores stocktake activities</p><p style=\"text-align: center;\">•\tAttending training opportunities that are provided.&nbsp;</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ecebe",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99ecebd",
+    "__v": 0,
+    "_refId": "59bf2a9fc7eab8472b8cb6dd",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf2aa5c7eab8472b8cb6de",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a4a9ef9ec1ad576d99ecec1",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4a9ef8ec1ad576d99ece9e",
+    "_parentId": "5a4a9ef9ec1ad576d99ecec0",
+    "__v": 0,
+    "_refId": "59bf2b05c7eab8472b8cb6e1",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "large": {
+        "_id": "599b80eaebca4a4008795070",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  }
+]

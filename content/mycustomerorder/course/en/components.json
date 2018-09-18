@@ -1,0 +1,1015 @@
+[
+  {
+    "_id": "5a4efdc93865607d6dc9f232",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a4efdc93865607d6dc9f231",
+    "__v": 0,
+    "_refId": "5a4b0331ec1ad576d99ed62b",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59dbf149960db223cd2d175a",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a558ebf3865607d6dc9f678",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a558eaf3865607d6dc9f675",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a558ebf3865607d6dc9f678",
+    "body": "<p style=\"text-align: center;\">Did you know you have all Myer’s products at your finger-tips? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Using the myCustomer Orders (MCO) app on your store iPad you can locate products at every Myer location in Australia.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You can access an endless aisle of products – in the size, colour and quantity your customer wants.&nbsp;</p>",
+    "displayTitle": "Endless aisle at your finger tips",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a4efdc93865607d6dc9f235",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a4efdc93865607d6dc9f234",
+    "__v": 0,
+    "_refId": "5a4b044fec1ad576d99ed655",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a56af4f3865607d6dc9f9af"
+      },
+      "alt": "Guy on beach"
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a5588cb3865607d6dc9f5fb",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a55883f3865607d6dc9f5f5",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a5588cb3865607d6dc9f5fb",
+    "body": "<p>There’s no need for a customer to leave the store disappointed because they can’t find what they’re looking for. You can locate the product using MCO, or help them find an alternative in store. Saving the sale is another way to delight your customer. </p><p><br></p><p>Using MCO to make a sale will also benefit you and your store:</p><p>• You will be recognised for the sale - track your MCO sales in My metrics.</p><p>•\tEvery sale is a sale for your store.</p>",
+    "displayTitle": "myCustomer order... endless delight",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "myCustomer order... endless delight",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a558c1b3865607d6dc9f656",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a5588873865607d6dc9f5f9",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a56afc83865607d6dc9f9b2"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a558c1b3865607d6dc9f656",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a96606e3865607d6dca2382",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a9660e73865607d6dca238d",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": ""
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false,
+          "alt": ""
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "599ceb49ebca4a400879508a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "In some cases you will be able to find an alternative item that will do the job just as well!&nbsp;<div><br>Perhaps you know of another brand that carries a similar black jacket. <br>If so, you can ask the customer: “Would you like me to see if I can find something similar for you in store?”&nbsp;</div><div><br>If the customer is set on a highly specific product (for example an appliance or gadget), use MCO to confirm availability, and to order it.&nbsp;&nbsp;</div>",
+        "itemIndex": 0,
+        "_id": "5a9662263865607d6dca23ac",
+        "frontText": "When do I use MCO?"
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "@swatch-1",
+      "_fontSize": "36"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a96606e3865607d6dca2382",
+    "displayTitle": "Tailor your MCO Approach",
+    "body": "<p>A customer comes to you looking for a particular item. You’ve checked and can't find the colour, size or quantity they want in your store. </p><p><br></p><p>Time to use MCO in a tailored manner.&nbsp;</p>",
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5a57fe463865607d6dc9fe51"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5a57fe2f3865607d6dc9fe4e"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a4efdc93865607d6dc9f240",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a4efdc93865607d6dc9f23f",
+    "__v": 0,
+    "_refId": "5a4b0684ec1ad576d99ed6d7",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">“<i>Would you like me to see if we have the item in stock at another Myer location?&nbsp;</i></p><p style=\"text-align: center;\"><i>If we do, I can arrange for you to collect it from another store, or to have it delivered to your home – we have many different delivery options available</i>.” </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If the customer says yes, explain that you will spend a few moments looking for the item up on iPad.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Check they have an email address – they will need this to place an order using MCO.&nbsp;</p>",
+        "title": "OFFER TO FIND THE ITEM AT ANOTHER LOCATION<br>",
+        "_id": "5a4b0827ec1ad576d99ed6fe",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<div style=\"text-align: center;\"><p>Finding a product  in MCO is very simple: scan or search by description, item number or brand.</p><p><br></p><p>Once you’ve found the item, you will need to ‘check it out’ to see the current delivery options available to the customer. </p><p><br></p><p>Talk the customer through the delivery options.</p><p><br></p><p>Finally, confirm they would like to place the order. </p><p><br></p><p>If the customer does not have an account, you can set one up for them.&nbsp;</p></div>",
+        "title": "FIND THE ITEM AND PLACE AN ORDER",
+        "itemIndex": 1,
+        "_id": "5a4b0827ec1ad576d99ed700"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "5a5d9f7d3865607d6dca0238",
+        "body": "<p>Once you have placed the order, say: </p><p><br></p><p><span style=\"font-size: 16px;\"><i>\"Thanks for placing your order. You will receive an email to confirm your order, and to let you know when it’s on its way.\"</i></span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">There are other benefits you could highlight to your customer whilst using MCO. Here are some examples :</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><i style=\"font-size: 16px;\">\"With these accessories your order qualifies for free delivery!\"</i><br></p><p><span style=\"font-size: 16px;\"><i><br></i></span></p><p><span style=\"font-size: 16px;\"><i>\"You will receive notifications about the status of your order in your email so you'll know it has been dispatched.\"</i>&nbsp;</span>&nbsp;</p>",
+        "title": "KEEP YOUR CUSTOMER DELIGHTED WHILST YOU CONFIRM THE ORDER"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "displayTitle": "Opening the endless aisle to your customer",
+    "body": "<p>MCO might be a completely new service for your customer. Here are some tips about communicating with your customer when using MCO.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Opening the endless aisle_Accordion",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a5d9b713865607d6dca0217",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a5d9e363865607d6dca022f",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5a98a6373865607d6dca2529"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a5d9b713865607d6dca0217",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a5605043865607d6dc9f8cf",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a5604b03865607d6dc9f8ca",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a5605043865607d6dc9f8cf",
+    "displayTitle": "Before you go",
+    "body": "<p style=\"text-align: center;\">Let's recap!</p><p style=\"text-align: center;\"><br></p><p>MCO puts the products of all our stores at your fingertips to help you delight the customer and always save the sale.</p><p><br></p><p>You have many opportunities to use MCO:</p><p>• <span style=\"font-size: 16px;\">If a product is out of stock in your store,&nbsp;</span></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">• I</span><span style=\"font-size: 16px;\">f </span><span style=\"font-size: 16px;\">a catalogue/online product is not available in your store,</span></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">• I</span><span style=\"font-size: 16px;\">n the change rooms and on the selling floor – to offer an alternative size, colour or complete an outfit,</span></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">• If</span><span style=\"font-size: 16px;\">&nbsp;the customer would like more quantities of the product than those available in your store.</span><span style=\"font-size: 16px;\">&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p>Finally, MCO is user friendly. Here are some resources to help get you confident using MCO in no time:<br></p>",
+    "instruction": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Block_Before you go",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a560c513865607d6dc9f96c",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a560b6b3865607d6dc9f96a",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://myerconnect.myer.internal/wps/portal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9SP0o83j_IG8nZzcPIwMDA2NDA6MAN3PjENMAA1cXQ_2w3MSKzNzMqtQU_RD9CP0oMyTF_mYuQMU-LpaeJmGGBqFGQPlI3PLuRgR0h4Mch18_SN4AB3A0IKDfUN_PIz83Vb8gN8C3rMA1zdFRUREAcSZIqA!!/dl2/d1/L0lDU0lKSmdvS1VRb0tVUW9LVVEhL29Gb2dBRUlRaGpFQ1VKUm1FQUJBbkJjRXprbFNVeVEhL1lBNDU0NTAtNUYwc3V5dDBzanlyMHNueXZ3ISEvN19PUktCQ0ZIMjAwMDMxMDJQRjczVDVQMEVEMS86al9HOTM2OTQwMjAxL2dldEZvbGRlci9mb2xkZXJOYW1lL215Q3VzdG9tZXIgT3JkZXJzIFVzZXIgR3VpZGUvcGF0aC8lMGNvbnRlbnRSb290JTBpY206bGlicmFyaWVzWzddJTBTdG9yZSBPcGVyYXRpb25zJTBUb29scyUwVXNlciBHdWlkZXMlMG15Q3VzdG9tZXIgT3JkZXJzIFVzZXIgR3VpZGU!/#7_ORKBCFH20003102PF73T5P0ED1",
+        "itemTitle": "MYER CONNECT&gt;OMNI CHANNEL",
+        "_id": "5a560c7f3865607d6dc9f96e",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a560c513865607d6dc9f96c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5a560d043865607d6dc9f978",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a560cf93865607d6dc9f976",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a56b04d3865607d6dc9f9b5"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a560d043865607d6dc9f978",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "5a4efdc93865607d6dc9f23d",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a4efdc93865607d6dc9f23c",
+    "__v": 0,
+    "_refId": "5a4b0518ec1ad576d99ed67c",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "592cf808cc6c57255d381329",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a4efdc93865607d6dc9f23a",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4efdc93865607d6dc9f22c",
+    "_parentId": "5a4efdc93865607d6dc9f239",
+    "__v": 0,
+    "_refId": "5a4b04f2ec1ad576d99ed670",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

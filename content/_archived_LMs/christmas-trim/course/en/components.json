@@ -1,0 +1,2304 @@
+[
+  {
+    "_id": "59b872b65dfae0c5453cd492",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b872a25dfae0c5453cd491",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemIndex": 0,
+        "_id": "59b872cf5dfae0c5453cd495",
+        "itemTitle": "BACK"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b872b65dfae0c5453cd492",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59a8034bebca4a40087952a4",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59a65107ebca4a400879529c",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59a8034bebca4a40087952a4",
+    "displayTitle": "Santa's on his way!",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59ba2d0744d3b79942b0d8cf",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b75e7904ca08ee3b3a9e49",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59ba2d1744d3b79942b0d8d0"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59ba2d0744d3b79942b0d8cf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "59b72db904ca08ee3b3a9e09",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b72db904ca08ee3b3a9e08",
+    "__v": 0,
+    "displayTitle": "Why it's important to Myer",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59b72db904ca08ee3b3a9e09",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "59ba2ddf44d3b79942b0d8d1",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b7354004ca08ee3b3a9e14",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59ba2dee44d3b79942b0d8d2"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59ba2ddf44d3b79942b0d8d1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59a81020ebca4a40087952aa",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59a81020ebca4a40087952a9",
+    "__v": 0,
+    "displayTitle": "This year's themes",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59a81020ebca4a40087952aa",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59b74e1c04ca08ee3b3a9e20",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b74e0104ca08ee3b3a9e1f",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59b9dbb644d3b79942b0d8bc"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b74e1c04ca08ee3b3a9e20",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59b8d0615dfae0c5453cd4e2",
+    "_component": "narrative",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b8d03f5dfae0c5453cd4e1",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9d88d44d3b79942b0d8bb"
+          }
+        },
+        "title": "WREATH WITH WHITE BERRIES AND PINECONES<br>",
+        "itemIndex": 0,
+        "_id": "59b8d0655dfae0c5453cd4e3",
+        "body": "<p style=\"text-align: center;\">$89.99</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9d88c44d3b79942b0d8ba"
+          }
+        },
+        "_id": "59b8d0665dfae0c5453cd4e4",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">$89.99</p>",
+        "title": "LIT WREATH WITH BERRIES AND BOW"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9d88c44d3b79942b0d8b9"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "59b8d0665dfae0c5453cd4e5",
+        "body": "<p style=\"text-align: center;\">$49.99</p>",
+        "title": "STANDING REINDEER WITH SCARF"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b8d0615dfae0c5453cd4e2",
+    "displayTitle": "AUSTRALIAN HOUSE &amp; GARDEN EUCALYPTUS TOP THREE BEST SELLERS",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "59b74e2204ca08ee3b3a9e22",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b74e1e04ca08ee3b3a9e21",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59b9dc5b44d3b79942b0d8bd"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b74e2204ca08ee3b3a9e22",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "59b8d2635dfae0c5453cd4e7",
+    "_component": "narrative",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b8d2635dfae0c5453cd4e6",
+    "__v": 0,
+    "displayTitle": "TOP THREE BEST SELLERS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59b9e71e44d3b79942b0d8cc",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "GLITTER TRIANGLE LEAF CONE TREE: CHAMPAGNE",
+        "itemIndex": 0,
+        "_id": "59b8d0655dfae0c5453cd4e3",
+        "body": "<p style=\"text-align: center;\">$29.99</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59b9e15044d3b79942b0d8cb",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "59b8d0665dfae0c5453cd4e4",
+        "itemIndex": 1,
+        "title": "METAL PRANCING REINDEER WITH JEWEL ANTLERS<br>",
+        "body": "<p style=\"text-align: center;\">$69.99</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59b9e76244d3b79942b0d8cd",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">$99.99</p>",
+        "title": "60 CM WREATH W/PINK FLOWER AND PINECONES<br>",
+        "itemIndex": 2,
+        "_id": "59b8d0665dfae0c5453cd4e5"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59b8d2635dfae0c5453cd4e7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-3-0"
+  },
+  {
+    "_id": "59b74e2904ca08ee3b3a9e25",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b74e2404ca08ee3b3a9e24",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59b9e14d44d3b79942b0d8c0"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b74e2904ca08ee3b3a9e25",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-4-0"
+  },
+  {
+    "_id": "59b8d2895dfae0c5453cd4e9",
+    "_component": "narrative",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b8d2895dfae0c5453cd4e8",
+    "__v": 0,
+    "displayTitle": "TOP THREE BEST SELLERS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9e15044d3b79942b0d8c9"
+          }
+        },
+        "body": "<p>$24.99</p>",
+        "itemIndex": 0,
+        "_id": "59b8d0655dfae0c5453cd4e3",
+        "title": "SITTING ELF"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9e14f44d3b79942b0d8c8"
+          }
+        },
+        "title": "LARGE SANTA WITH EXTENDABLE LEGS",
+        "body": "$29.99<br><br>",
+        "_id": "59b8d0665dfae0c5453cd4e4",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59c1fdb34ab19df5365f2e51",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">$49.99</p>",
+        "itemIndex": 2,
+        "_id": "59b8d0665dfae0c5453cd4e5",
+        "title": "REINDEER WITH SCARF AND EXTENDABLE LEGS "
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59b8d2895dfae0c5453cd4e9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-5-0"
+  },
+  {
+    "_id": "59b74e5104ca08ee3b3a9e2c",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b74e4704ca08ee3b3a9e28",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59b9e14d44d3b79942b0d8bf"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b74e5104ca08ee3b3a9e2c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-6-0"
+  },
+  {
+    "_id": "59b8d2b15dfae0c5453cd4eb",
+    "_component": "narrative",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b8d2b15dfae0c5453cd4ea",
+    "__v": 0,
+    "displayTitle": "TOP THREE BEST SELLERS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59b9e14f44d3b79942b0d8c6",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "GLITTER BUTTERFLY CLIP ",
+        "itemIndex": 0,
+        "_id": "59b8d0655dfae0c5453cd4e3",
+        "body": "<p style=\"text-align: center;\">$7.99</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9e14f44d3b79942b0d8c5"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">$39.99</p>",
+        "_id": "59b8d0665dfae0c5453cd4e4",
+        "itemIndex": 1,
+        "title": "PEACOCK TREE TOPPER"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9e14e44d3b79942b0d8c4"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">$59.99</p>",
+        "itemIndex": 2,
+        "_id": "59b8d0665dfae0c5453cd4e5",
+        "title": "50 CM PEACOCK FEATHER WREATH "
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59b8d2b15dfae0c5453cd4eb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-7-0"
+  },
+  {
+    "_id": "59b74e5604ca08ee3b3a9e2d",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b74e4804ca08ee3b3a9e29",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c1e80a4ab19df5365f2e4f"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b74e5604ca08ee3b3a9e2d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-8-0"
+  },
+  {
+    "_id": "59b8d2e75dfae0c5453cd4ed",
+    "_component": "narrative",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b8d2e75dfae0c5453cd4ec",
+    "__v": 0,
+    "displayTitle": "TOP THREE BEST SELLERS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59b9e14e44d3b79942b0d8c2"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">$49.99</p>",
+        "_id": "59b8d0655dfae0c5453cd4e3",
+        "itemIndex": 0,
+        "title": "TREE WITH SILVER BAUBLES"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59b9e14e44d3b79942b0d8c1",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">$39.99</p>",
+        "itemIndex": 1,
+        "_id": "59b8d0665dfae0c5453cd4e4",
+        "title": "LIT PORCELAIN TREE"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59b9e14e44d3b79942b0d8c3",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">$59.99</p>",
+        "_id": "59b8d0665dfae0c5453cd4e5",
+        "itemIndex": 2,
+        "title": "45 CM SILVER BAUBLE WREATH"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59b8d2e75dfae0c5453cd4ed",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-9-0"
+  },
+  {
+    "_id": "59b759b404ca08ee3b3a9e3a",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b759b404ca08ee3b3a9e39",
+    "__v": 0,
+    "displayTitle": "Top tips for dressing a tree",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59b759b404ca08ee3b3a9e3a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "59b75bb604ca08ee3b3a9e3f",
+    "_component": "accordion",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b759ec04ca08ee3b3a9e3c",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "59b75bff04ca08ee3b3a9e40",
+        "title": "STEP 1: FLUFF THE BRANCHES",
+        "body": "<p>Spend a good amount of time putting your tree together and fluffing the branches to give it that full and authentic look. It's all in the preparation. If you've fluffed your tree and the lights are even, you can't go wrong.&nbsp;</p><p><br></p><p>Simple.</p><p><br></p><p>To fluff each branch, separate each of the tips and splay them wide – this will ensure no gaps are left in the tree which hides all the lights' wires and makes it easier to hang decorations on. &nbsp;</p><p><br></p><p><b>Handy Tip:</b> This is the most important step of setting up a tree so don’t skimp on this step. Even the most beautifully decorated tree will look sad and spindly if it's uneven and has multiple gaps.&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p>Make sure you spend a good half an hour or so getting your Christmas lights&nbsp;positioned just right.&nbsp;Start from the top and work your way down, weaving them around every major branch moving from the trunk to the tip and back. Try to hide as much of the wiring as possible. </p><p><br></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><b>Handy tip:</b> Plug the lights before starting work.</span>&nbsp;This way you can see whether they are even as you position them and you wont be caught out by faulty lights at the end.</p><p><br></p>",
+        "itemIndex": 1,
+        "_id": "59b75c1904ca08ee3b3a9e41",
+        "title": "STEP 2: PUT ON THE LIGHTS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Either beads, ribbon or foil, garlands add texture and interest to your tree. Again, start from the top and work your way round, trying to keep it as even as possible. You may need to rearrange some of the tips to achieve this. </p><p><br></p><p><b>Handy Tip:</b>&nbsp;It's best to do this before the baubles and other decorations, so you don't knock them off while you work.</p>",
+        "itemIndex": 2,
+        "_id": "59b75c2704ca08ee3b3a9e42",
+        "title": "STEP 3: PUT ON THE GARLANDS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "STEP 4: ADD THE DECORATIONS",
+        "_id": "59b75c3204ca08ee3b3a9e43",
+        "itemIndex": 3,
+        "body": "<p>When hanging baubles, start from the inside of your tree and work out.&nbsp;Start with plain-coloured baubles&nbsp;as a base (basic multipack baubles are ideal), adding&nbsp;in more decorative, expensive baubles later.&nbsp;</p><p><br></p><p>Hang the biggest ornaments deeper into the tree to give it depth, and smaller ones on the ends of branches. Similarly, use smaller decorations towards the top of the tree and larger ones down below. Space them evenly and use a variety of shapes, sizes and materials.</p><p><br></p><p>If you find a bauble that you like, buy it in multiples because it will give your tree balance. Finish off with statement pieces like clip on flowers or birds.</p><p><br></p><p><b>Handy Tip:</b>&nbsp;Move expensive, glass baubles to the top &nbsp;- you know what will happen to them otherwise.&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 4,
+        "_id": "59b75c3e04ca08ee3b3a9e44",
+        "title": "STEP 5: ADD THE FINISHING TOUCHES",
+        "body": "<p>Cover the base of your tree with a tree skirt. Tree skirts hide wires and the tree look much cleaner and tidier.  Finish with an eye catching Christmas tree topper – stars and angels are always popular,  while snowflakes and peacocks are on trend. </p><p><br></p><p><b>Handy Tip:</b>&nbsp;Beware of toppers that are heavy - they will have to sit on the flimsiest part of your tree for several weeks so make sure your topper isn't in danger of toppling.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b75bb604ca08ee3b3a9e3f",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "59b788ce04ca08ee3b3a9e61",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b788c504ca08ee3b3a9e60",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "59b738f504ca08ee3b3a9e16"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b788ce04ca08ee3b3a9e61",
+    "body": "<p style=\"text-align: center;\">How much trim you need depends on the size of your tree.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  },
+  {
+    "_id": "59b75cf204ca08ee3b3a9e47",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b75cf204ca08ee3b3a9e46",
+    "__v": 0,
+    "displayTitle": "Talking about Christmas Trim",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59b75cf204ca08ee3b3a9e47",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "59b760dd04ca08ee3b3a9e4c",
+    "_component": "accordion",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b7609704ca08ee3b3a9e4b",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<div style=\"text-align: center;\">&nbsp;<b>Encourage customers to visit Christmas Trim.</b><br></div><p><br></p><p>Have you put up any Christmas decorations at home yet?&nbsp;</p><p><br></p><p>You should have a look at some of the decorations we have at Myer this year.  There are lots of gorgeous items all based on different themes, so you’re bound to find some that match your style!</p>",
+        "title": "STORE TEAM MEMBERS<br>",
+        "_id": "59b8691c5dfae0c5453cd47d",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\"><b>Suggesting themes, and talking about how to choose/buy decorations.<br></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Can I share with you some tips on how to decorate your tree?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">I like to treat myself to a few new decorations each year. Because we have a range of themes, I can easily find decorations that fit with my style.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We’ve started a new tradition in our family. Each year we get each other a new Christmas decoration for the tree.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">There are some really fun decorations this year that I’ve got in mind for my grandchildren.</p>",
+        "title": "CHRISTMAS TRIM TEAM MEMBERS<br>",
+        "_id": "59b8696f5dfae0c5453cd47e",
+        "itemIndex": 1
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<div style=\"text-align: center;\"><b>Myer Christmas plush characters<br></b></div><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Have you seen the animated characters in the last two years' Myer Christmas campaigns?&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Elf, Reindeer, Angel and Mouse are back again this year to save Christmas, and now they're available as plush items you can put under your tree!</p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>Spirit of Christmas CD (available in October)</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Have you thought about some Christmas music?</p><p style=\"text-align: center;\">&nbsp;</p><div><p style=\"text-align: center;\">This year is the 24th anniversary of the Spirit of Christmas CD. We’ve put together the best of the best, including Guy Sebastian, Paul Kelly, Jessica Mauboy and The Wiggles. There's something in there for everyone!</p><div><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">It’s also a wonderful gift idea, especially as all the proceeds go to The Salvation Army.&nbsp;</p></div></div>",
+        "itemIndex": 2,
+        "_id": "59b869835dfae0c5453cd47f",
+        "title": "ADD-ON IDEAS<br>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b760dd04ca08ee3b3a9e4c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "59b7611104ca08ee3b3a9e4f",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b7610404ca08ee3b3a9e4e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b7611104ca08ee3b3a9e4f",
+    "displayTitle": "Knowledge check",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "59b7614904ca08ee3b3a9e52",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b7613e04ca08ee3b3a9e51",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Not quite</b></p><p><br></p><p>This year there will be five Christmas themes:</p><p><br></p><p>1.\tAustralian House &amp; Garden Eucalyptus (all stores)</p><p>2.\tLuxe (all stores)</p><p>3.\tJingle Bells (all stores)</p><p>4.\tHoliday Opulence (43 stores)</p><p>5.\tMode (26 stores)</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p><b>So close!</b></p><p><br></p><p>This year there will be five Christmas themes:</p><p><br></p><p>1.\tAustralian House &amp; Garden Eucalyptus (all stores)</p><p>2.\tLuxe (all stores)</p><p>3.\tJingle Bells (all stores)</p><p>4.\tHoliday Opulence (43 stores)</p><p>5.\tMode (26 stores)</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>Spot on!</b></p><p><b><br></b></p><p>This year there will be five Christmas themes:</p><p><br></p><p>1.\tAustralian House &amp; Garden Eucalyptus (all stores)</p><p>2.\tLuxe (all stores) </p><p>3.\tJingle Bells (all stores)</p><p>4.\tHoliday Opulence (43 stores)</p><p>5.\tMode (26 stores)</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "59b7637704ca08ee3b3a9e53",
+        "text": "Luxe"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "59b7638604ca08ee3b3a9e54",
+        "text": "Jingle Bells"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "59b7638e04ca08ee3b3a9e55",
+        "text": "The Biggest Tree is the Best Tree"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Mode",
+        "_id": "59b7639d04ca08ee3b3a9e56",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "59b7614904ca08ee3b3a9e52",
+    "body": "<p>What are the names of <b>three </b>of this year’s Myer Christmas themes?</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Question 1",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "59b7669804ca08ee3b3a9e59",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b7668004ca08ee3b3a9e58",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Not quite</b></p><p><br></p><p><span style=\"font-size: 16px;\">A 6ft/180cm tree looks best with 400 lights.</span><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>Spot on!</b></p><p><b><br></b></p><p>A 6ft/180cm tree looks best with 400 lights.</p><p><b><br></b></p><p><b><br></b></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "200",
+        "_id": "59b766c904ca08ee3b3a9e5a",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "400",
+        "_id": "59b766cd04ca08ee3b3a9e5b",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "59b766d304ca08ee3b3a9e5c",
+        "text": "500"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "59b766d704ca08ee3b3a9e5d",
+        "text": "700"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "59b7669804ca08ee3b3a9e59",
+    "body": "<p>What is the ideal number of lights for a 6ft/180cm tree?</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Question 2",
+    "_type": "component",
+    "_courseOrder": "0-12-1-0"
+  },
+  {
+    "_id": "59c1a71d4ab19df5365f2e32",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b86b1d5dfae0c5453cd481",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c1a71d4ab19df5365f2e32",
+    "displayTitle": "Learn more",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "59b86b7b5dfae0c5453cd482",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59c0b19ad9d8aeaf135a2b96",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "CHRISTMAS TRIM SUMMER STORE PACK",
+        "itemIndex": 0,
+        "_id": "59b86c1d5dfae0c5453cd483",
+        "_type": "resources",
+        "link": "59c1ca3b4ab19df5365f2e47"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "_id": "59b86c845dfae0c5453cd484",
+        "itemTitle": "SELECTING THE PERFECT CHRISTMAS TREE",
+        "_type": "resources",
+        "link": "59c1cbae4ab19df5365f2e4b"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b86b7b5dfae0c5453cd482",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Christmas Trim Links",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "59b86fbc5dfae0c5453cd48b",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59b86fa05dfae0c5453cd48a",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59b86fcc5dfae0c5453cd48c",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59b86fbc5dfae0c5453cd48b",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-14-1-0"
+  },
+  {
+    "_id": "59c1b93e4ab19df5365f2e3a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59a65103ebca4a4008795297",
+    "_parentId": "59c1b9344ab19df5365f2e39",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c1b93e4ab19df5365f2e3a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  }
+]

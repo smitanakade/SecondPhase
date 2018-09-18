@@ -1,0 +1,262 @@
+[
+  {
+    "_id": "583b7baa8fcead09e170ce35",
+    "_courseId": "583b7baa8fcead09e170ce31",
+    "_parentId": "583b7baa8fcead09e170ce31",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "CLASSIC FOOTWEAR BRANDS",
+    "body": "<p style=\"text-align: center;\">DIGITAL FOOTWEAR WORKSHOP</p>",
+    "_refId": "583b7baa8fcead09e170ce35",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "body": "<p style=\"text-align: center;\"><br></p>",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5ac6dea2c4e71532e3c51604"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5ac6de54c4e71532e3c51603"
+          }
+        }
+      },
+      "_contentWidth": 75,
+      "layout": "center-left",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "New Page",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "583b7bab8fcead09e170ce62",
+      "583b7baa8fcead09e170ce45",
+      "583b7baa8fcead09e170ce47",
+      "583b7bac8fcead09e170ce97",
+      "5af10418bf7f0030d055b7f9",
+      "583b7bab8fcead09e170ce6a",
+      "583b7bab8fcead09e170ce70",
+      "583b7bab8fcead09e170ce72",
+      "583b7bad8fcead09e170ceb1",
+      "5a95d2cd3865607d6dca222d",
+      "583b7bab8fcead09e170ce7a",
+      "5af11ae8bf7f0030d055b7fd",
+      "583bbdbf8fcead09e170ced7",
+      "583babe28fcead09e170cec7",
+      "583b7bab8fcead09e170ce80",
+      "583b7bac8fcead09e170cea3",
+      "583b7bac8fcead09e170ce9d",
+      "583b7bab8fcead09e170ce55",
+      "583b7bab8fcead09e170ce57",
+      "583b7bab8fcead09e170ce5d",
+      "5af11e08bf7f0030d055b800",
+      "5af11fe3bf7f0030d055b808",
+      "583b7bac8fcead09e170cea7",
+      "583b7bac8fcead09e170cea9"
+    ],
+    "_childrenIds": [
+      "583b7bab8fcead09e170ce5e",
+      "583b7baa8fcead09e170ce40",
+      "583b7bac8fcead09e170ce92",
+      "583b7bab8fcead09e170ce63",
+      "583b7bab8fcead09e170ce6b",
+      "583b7bac8fcead09e170ceac",
+      "583b7bab8fcead09e170ce73",
+      "583bbdbe8fcead09e170ced1",
+      "583babe28fcead09e170cec2",
+      "583b7bab8fcead09e170ce7b",
+      "583b7bac8fcead09e170ce98",
+      "583b7bab8fcead09e170ce50",
+      "583b7bab8fcead09e170ce58",
+      "583b7bac8fcead09e170cea4"
+    ]
+  }
+]

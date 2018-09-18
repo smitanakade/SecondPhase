@@ -1,0 +1,255 @@
+[
+  {
+    "_id": "59e56857960db223cd2d246a",
+    "_sortOrder": 0,
+    "_parentId": "59c2f51d00bb5f8676575386",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "__v": 0,
+    "_refId": "59e56857960db223cd2d246a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575387",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575386",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "59bf39e8c7eab8472b8cb6f8",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-0-1"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575368",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575367",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "596d5ed832b40dca201c4bdc",
+    "displayTitle": "WHY?",
+    "body": "<p style=\"text-align: center;\">1.\tBecause potential thieves will feel uncomfortable if approached with great customer service – they don’t want the attention.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2.\tGenuine customers will appreciate our customer service.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">3.\t Great customer service can generate additional sales.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "WHY?",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575378",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575377",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "596d68dd32b40dca201c4bf0",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Ways to manage customer dishonesty",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575379",
+    "_sortOrder": 1,
+    "_parentId": "59c2f51d00bb5f8676575377",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "__v": 0,
+    "_refId": "59c0826cd9d8aeaf135a2b8a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-2-1"
+  },
+  {
+    "_id": "5a04fff1d9f1d573fdb21d52",
+    "_sortOrder": 0,
+    "_parentId": "5a04fff1d9f1d573fdb21d51",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "__v": 0,
+    "_refId": "5a04fff1d9f1d573fdb21d52",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "5a04fff1d9f1d573fdb21d53",
+    "_sortOrder": 1,
+    "_parentId": "5a04fff1d9f1d573fdb21d51",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "__v": 0,
+    "_refId": "5a04fff1d9f1d573fdb21d53",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-1"
+  },
+  {
+    "_id": "5a0a083ed9f1d573fdb21dc7",
+    "_sortOrder": 0,
+    "_parentId": "59c34ef200bb5f86765753ad",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "__v": 0,
+    "_refId": "5a0a083ed9f1d573fdb21dc7",
+    "displayTitle": "WHAT TO SAY",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "WHAT TO SAY",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "5a0a084dd9f1d573fdb21dcb",
+    "_sortOrder": 1,
+    "_parentId": "59c34ef200bb5f86765753ad",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "__v": 0,
+    "_refId": "5a0a084dd9f1d573fdb21dcb",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-1"
+  },
+  {
+    "_id": "59c2f51d00bb5f867657537c",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f867657537b",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "596d6ab532b40dca201c4bfa",
+    "displayTitle": "CONCLUSION",
+    "body": "<p style=\"text-align: center;\">Let’s recap some key points.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1.\tIf EAS gates are activated, provide customer service as a first response.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2.\tEAS gate activations must be attended by any team members who are not already serving customers.</p><p></p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Conclusion",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575381",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575380",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59bf2a58c7eab8472b8cb6dc",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Shrinkage_BackBtn_Top",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575384",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575383",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59bf2afcc7eab8472b8cb6e0",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f867657538a",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575389",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59c07c0fd9d8aeaf135a2b7c",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-8-0"
+  }
+]

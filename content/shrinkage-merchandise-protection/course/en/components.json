@@ -1,0 +1,1996 @@
+[
+  {
+    "_id": "5a1ca82d81af53733b5ccf8b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf8a",
+    "__v": 0,
+    "_refId": "59e56860960db223cd2d246c",
+    "body": "<p style=\"text-align: center;\">Welcome to a series of Shrinkage Learning Moments, designed to highlight the importance of shrinkage at Myer.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This Learning Moment outlines how to maintain, manage and recycle Electronic Article Surveillance (EAS) tags, which helps in deterring dishonest behaviour.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a1ca82d81af53733b5ccf89",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf88",
+    "__v": 0,
+    "_refId": "59bf3a0fc7eab8472b8cb6f9",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf3a14c7eab8472b8cb6fa",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a1ca82d81af53733b5ccf7a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf79",
+    "__v": 0,
+    "_refId": "59e6abbb960db223cd2d2684",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a20a159314de23e85a9d9d0"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a206d78314de23e85a9d7fb",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a206d6d314de23e85a9d7f9",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a206d78314de23e85a9d7fb",
+    "body": "<div style=\"text-align: center;\">There is a small percentage of people who visit our stores for dishonest purposes.&nbsp;<br></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">To protect our merchandise from theft, Myer has worked to develop a multi-level merchandise protection program involving Electronic Article Surveillance (EAS) tags.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let's dig a little deeper.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "UNFORTUNATELY",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a2078ad314de23e85a9d868",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a20785a314de23e85a9d85d",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a20a23a314de23e85a9d9db"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a2078ad314de23e85a9d868",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a2077be314de23e85a9d855",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a2077a3314de23e85a9d853",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a2077be314de23e85a9d855",
+    "body": "<p style=\"text-align: center;\">We all know what happens if tags are not deactivated - the EAS gate alarm will be activated and nobody wants that!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "we all know what happens",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a1f46fc5a3fb67debaf10c8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf7c",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f46fc5a3fb67debaf10c8",
+    "displayTitle": "It affects the customer experience",
+    "body": "<p style=\"text-align: center;\">•\tGenuine customers will be embarrassed by the alarm sounding as they leave the store</p><p style=\"text-align: center;\">•\tThey may be annoyed as they will need to go back to a counter to check if hard tags have been left on items</p><p style=\"text-align: center;\">•\tThey may become extremely frustrated if a hard tag is discovered on an item when they get home.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "It affects the customer experience ",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5a1f47105a3fb67debaf10ca",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf7d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f47105a3fb67debaf10ca",
+    "displayTitle": "It affects team members",
+    "body": "<div style=\"text-align: center;\">Team members are affected if the EAS gate alarm is constantly sounding as it distracts from providing a positive experience for waiting customers.<br></div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "It affects Team Members",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "5a1f48cb5a3fb67debaf10e4",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f48c45a3fb67debaf10e2",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f48cb5a3fb67debaf10e4",
+    "displayTitle": "It helps thieves",
+    "body": "<p style=\"text-align: center;\">It actually HELPS thieves as they can get away in the midst of the constant sounding EAS gate alarms.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "It helps thieves",
+    "_type": "component",
+    "_courseOrder": "0-2-4-0"
+  },
+  {
+    "_id": "5a1f494d5a3fb67debaf10f0",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f49445a3fb67debaf10ee",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a20a2c9314de23e85a9d9de"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f494d5a3fb67debaf10f0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-5-0"
+  },
+  {
+    "_id": "5a1f49565a3fb67debaf10f4",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f49515a3fb67debaf10f2",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f49565a3fb67debaf10f4",
+    "body": "<p style=\"text-align: center;\">If team members do the right thing and deactivate soft tags and detach hard tags at time of sale, the EAS gate alarm will only activate if unpaid for merchandise leaves the store.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Always check and double check all merchandise to ensure all hard tags have been removed and all soft tags have been deactivated.&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-6-0"
+  },
+  {
+    "_id": "5a1ca82d81af53733b5ccf95",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf94",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Do you know which tag to use for which item?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Large volumes of merchandise arrive in store already tagged by the supplier, but there will always be instances where tagging in store needs to take place.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let's take a look at the types of merchandise protection tags used throughout Myer stores.</p>",
+    "displayTitle": "CORRECT TAG ON THE CORRECT ITEM",
+    "_refId": "5a04fff1d9f1d573fdb21d54",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "CORRECT TAG ON THE CORRECT ITEM",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a1f4a2c5a3fb67debaf1101",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf96",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a209ab6314de23e85a9d992"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>Shell-ink tag</b></p><p style=\"text-align: center;\">These are applied to all apparel – men’s, women’s, youth and children's wear over $50. They are part of the recycling program.</p>",
+        "itemIndex": 0,
+        "_id": "5a1f4a365a3fb67debaf1105"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a209b84314de23e85a9d995"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>Apparel hard tag</b></p><p style=\"text-align: center;\">Gen 1 (dark grey) and Gen 2 (pale grey) are applied to all swimwear and lingerie over $50. These are part of the recycling program.</p>",
+        "_id": "5a1f4a375a3fb67debaf1107",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a271f62d72b3d3516799660",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5a1f4a385a3fb67debaf1109",
+        "body": "<p style=\"text-align: center;\"><b>Screamer tag</b></p><p style=\"text-align: center;\">These are applied in store to all denim apparel over $200. These are NOT part of the recycling program.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a209c07314de23e85a9d998"
+          }
+        },
+        "_id": "5a1f4a385a3fb67debaf110b",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: center;\"><b>Lanyard – 6” and 48”&nbsp;</b></p><p style=\"text-align: center;\">The 6” lanyard is applied to all handbags over $250 and all luggage over $300. The 48” lanyard is applied to all apparel over $200. These are applied in store and are NOT part of the recycling program.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a271f76d72b3d3516799663",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "5a1f4a4b5a3fb67debaf110d",
+        "body": "<p style=\"text-align: center;\"><b>Accessories Tags&nbsp;</b></p><p style=\"text-align: center;\">These are applied in store to different classes of merchandise, including:</p><p style=\"text-align: center;\">•\tHandbags and belts over $100</p><p style=\"text-align: center;\">•\tOpen sell watches over $100</p><p style=\"text-align: center;\">•\tOpen sell cookware over $100</p><p style=\"text-align: center;\">•\tAll electrical display merchandise $100 - $300</p><p style=\"text-align: center;\">•\tAll travel accessories and luggage $100 - $299.</p><p style=\"text-align: center;\">These are NOT part of the recycling program.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a209cba314de23e85a9d99f"
+          }
+        },
+        "_id": "5a1f4a4c5a3fb67debaf110f",
+        "itemIndex": 5,
+        "body": "<p style=\"text-align: center;\"><b>Spiderwraps&nbsp;</b></p><p style=\"text-align: center;\">These are applied in store on the following items:</p><p style=\"text-align: center;\">•\tAll boxed cookware over $250</p><p style=\"text-align: center;\">•\tAll bed linen over $300</p><p style=\"text-align: center;\">•\tAll electrical over $300</p><p style=\"text-align: center;\">•\tAll construction toys over $250.</p><p style=\"text-align: center;\">These are NOT part of the recycling program.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f4a2c5a3fb67debaf1101",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a1ca82d81af53733b5ccf90",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf8f",
+    "__v": 0,
+    "_refId": "5a0a084ad9f1d573fdb21dc9",
+    "body": "<p style=\"text-align: center;\">Myer has a recycling program for all EAS shell ink tags and EAS Gen 1 and Gen 2 apparel hard tags.&nbsp;<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The effectiveness of the recycling process relies on the store teams sending the bulk tags back to the Distribution Centre in a regular, timely manner. This ensures the flow of recycled tags back to the suppliers and back onto our merchandise.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a1ca82d81af53733b5ccf92",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf91",
+    "__v": 0,
+    "_refId": "5a0a0853d9f1d573fdb21dcd",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a209f48314de23e85a9d9c1"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5a1f5b725a3fb67debaf1153",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f5b6b5a3fb67debaf1151",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f5b725a3fb67debaf1153",
+    "body": "<div style=\"text-align: center;\">Once the tags are removed from merchandise at POS they are put into a specific recycling box which is cleared daily by the sales team. The tags should be pre-sorted at this stage to ensure no alpha protection devices leave the store in the recycling process.&nbsp;<br></div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "5a1f5b865a3fb67debaf115a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f5b745a3fb67debaf1155",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a209f62314de23e85a9d9c4"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f5b865a3fb67debaf115a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-3-0"
+  },
+  {
+    "_id": "5a1f5c175a3fb67debaf1165",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f5c115a3fb67debaf1163",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f5c175a3fb67debaf1165",
+    "body": "<div style=\"text-align: center;\"><p>The tags are sent back to our suppliers to be applied to new merchandise. Tagging by suppliers removes the need for in store tagging, freeing up team members to spend more time on the customer experience.</p><p><br></p><p>Next, let's check your knowledge.&nbsp;</p></div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-4-0"
+  },
+  {
+    "_id": "5a1f5c965a3fb67debaf1173",
+    "_component": "gmcq",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f5c185a3fb67debaf1167",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<div style=\"text-align: center;\"><b>Not quite.</b></div><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\">The tags that go into the EAS recycling boxes include Shell ink tags and Apparel tags Gen 1 and Gen 2. <br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b style=\"font-size: 16px;\">Almost...</b><br><br></p><p style=\"text-align: center;\">The tags that go into the EAS recycling boxes include Shell ink tags and Apparel tags Gen 1 and Gen 2.  </p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<div style=\"text-align: center;\"><b style=\"font-size: 16px;\">That’s right!&nbsp;</b></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The tags that go into the EAS recycling boxes include Shell ink tags and Apparel tags Gen 1 and Gen 2.&nbsp;</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a209ab6314de23e85a9d992"
+          },
+          "alt": "Shell ink tag"
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "5a1f5e2e5a3fb67debaf1181",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a209cba314de23e85a9d99f"
+          },
+          "alt": "Spider tag"
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "5a1f5e3d5a3fb67debaf1185",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a209b84314de23e85a9d995",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "alt": "Apparel hard tag"
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5a1f5e3e5a3fb67debaf1187"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 4,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5a1f5c965a3fb67debaf1173",
+    "displayTitle": "WHICH OF THE FOLLOWING TAGS CAN BE RECYCLED?",
+    "body": "<div style=\"text-align: center;\">Select all that are correct.<span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></div><p><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What to recycle",
+    "_type": "component",
+    "_courseOrder": "0-4-5-0"
+  },
+  {
+    "_id": "5a1f62255a3fb67debaf11cb",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f61b85a3fb67debaf11bc",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f62255a3fb67debaf11cb",
+    "body": "<p style=\"text-align: center;\">The tags are sent from the stores to the Wallara distribution centre where they are sorted and recycled back into the merchandise supply chain.</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "The tags are sent",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a209fe7314de23e85a9d9c8",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a209fe0314de23e85a9d9c6",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a209ff4314de23e85a9d9ca"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a209fe7314de23e85a9d9c8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5a1f627b5a3fb67debaf11d9",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f62745a3fb67debaf11d7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f627b5a3fb67debaf11d9",
+    "body": "<p style=\"text-align: center;\">Working in partnership with Myer, Wallara Logistics is a division of Wallara Australia.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">They are a not-for-profit disability support organisation, established over 50 years ago, providing employment and workplace training for people with intellectual or developmental disabilities.</p>",
+    "displayTitle": "Disability support organisation",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Disability support organisation",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5a1f628a5a3fb67debaf11e1",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f62845a3fb67debaf11df",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f628a5a3fb67debaf11e1",
+    "body": "<p style=\"text-align: center;\">The opportunity to work on this project has given meaningful employment to more than 25 people and through the association with Wallara this initiative is a testament to Myer’s core value to ‘Give something back’.<br></p>",
+    "displayTitle": "Meaningful employment",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "A meaningful partnership",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "5a1f65255a3fb67debaf1218",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1f65205a3fb67debaf1216",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1f65255a3fb67debaf1218",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tEnsure merchandise protection standards are followed as it deters opportunistic theft</p><p style=\"text-align: center;\">•\tDeactivate all soft tags and remove all hard tags at time of sale to keep genuine customers happy&nbsp;</p><p style=\"text-align: center;\">•\tTeam members will only have to attend the gate by exception and thieves will stand out due to EAS gate activation</p><p style=\"text-align: center;\">•\tUnderstand the recycle program requirements and sort out tags at POS to ensure only the correct tags leave the store as part of the program.</p>",
+    "displayTitle": "LET’S RECAP SOME KEY POINTS<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a20b0af314de23e85a9da18",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a20b0a9314de23e85a9da16",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a20a07c314de23e85a9d9cd"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a20b0af314de23e85a9da18",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5a20afe9314de23e85a9da11",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a20afe4314de23e85a9da0f",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a20afe9314de23e85a9da11",
+    "body": "<p style=\"text-align: center;\">Merchandise protection is a key tactic to assist in the reduction of theft from Myer stores and requires:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tManagement to ensure the tags are applied to the correct merchandise in the correct place</p><p style=\"text-align: center;\">•\tMaintenance to ensure the tags are deactivated appropriately</p><p style=\"text-align: center;\">•\tRecycling to maintain the flow of EAS tags to our suppliers.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-3-0"
+  },
+  {
+    "_id": "5a1ca82d81af53733b5ccf83",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf82",
+    "__v": 0,
+    "_refId": "59bf2a9fc7eab8472b8cb6dd",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf2aa5c7eab8472b8cb6de",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a1ca82d81af53733b5ccf86",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a1ca82d81af53733b5ccf74",
+    "_parentId": "5a1ca82d81af53733b5ccf85",
+    "__v": 0,
+    "_refId": "59bf2b05c7eab8472b8cb6e1",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "large": {
+        "_id": "599b80eaebca4a4008795070",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

@@ -1,0 +1,1300 @@
+[
+  {
+    "_id": "583678f6948c8b50476dbe45",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "583678f6948c8b50476dbe42",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "586c699bcb51ba21e7a23c2b"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "586c69fbcb51ba21e7a23c2d"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "displayTitle": "",
+    "_refId": "583678f6948c8b50476dbe45",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "center"
+    },
+    "title": "CooperSt_Logo",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "583678f6948c8b50476dbe44",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "583678f6948c8b50476dbe43",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "Effortless chic",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_isQuestionType": false,
+    "_refId": "583678f6948c8b50476dbe44",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "26"
+    },
+    "title": "Strapline",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "583679eb948c8b50476dbe4e",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "583679eb948c8b50476dbe4d",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "583679eb948c8b50476dbe4e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "578429e3229249f3601cff7a",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e3229249f3601cff79",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5902ab2e07f3540c73fdc8c5"
+      },
+      "caption": ""
+    },
+    "_isQuestionType": false,
+    "_contentWidth": 100,
+    "_shouldEnableGraphicText": false,
+    "_graphicTextTopPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextRightPadding": 0,
+    "_refId": "578429e3229249f3601cff7a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "578429e3229249f3601cff7c",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e3229249f3601cff79",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE BRAND",
+    "body": "<p style=\"text-align: center;\">Beautifully crafted, wearable and on-trend, the Cooper St philosophy centres on contemporary design, individuality and the unique Australian lifestyle.</p>",
+    "_isQuestionType": false,
+    "_refId": "578429e3229249f3601cff7c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-1"
+  },
+  {
+    "_id": "578429e2229249f3601cff40",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff3f",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5902ab2e07f3540c73fdc8c6"
+      }
+    },
+    "_isQuestionType": false,
+    "_shouldEnableGraphicText": false,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextRightPadding": 0,
+    "_refId": "578429e2229249f3601cff40",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_SellingPoints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff42",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff3f",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">•\tBeautiful drape silhouettes</p><p style=\"text-align: center;\">•\tExclusive prints<br></p><p style=\"text-align: center;\">•\tReliable and flattering fits</p><p style=\"text-align: center;\">•\tPolished and refined</p><p style=\"text-align: center;\">•\tOn-trend</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Cooper St is available at select Myer stores.</p>",
+    "displayTitle": "SELLING POINTS",
+    "_isQuestionType": false,
+    "_refId": "578429e2229249f3601cff42",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_SellingPoiints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "578429e3229249f3601cff70",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e3229249f3601cff6f",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58eac2b2af77c6741fdb1d46"
+      },
+      "_isExternalLink": false
+    },
+    "_isQuestionType": false,
+    "_shouldEnableGraphicText": false,
+    "_contentWidth": 100,
+    "_graphicTextTopPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextRightPadding": 0,
+    "_refId": "578429e3229249f3601cff70",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "578429e3229249f3601cff72",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e3229249f3601cff6f",
+    "_layout": "right",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">She loves to look good and stays up-to-date with current looks through magazines and social media. She is on-trend, urban chic and beautifully presented.</p>",
+    "displayTitle": "WHO SHOPS COOPER ST?",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "576382315317199730b37c2f",
+        "title": "WEARING COOPER ST",
+        "body": "<p style=\"text-align: center;\">The Cooper St style is feminine, playful, fashionable and polished, perfect for special dates, weekend lunches, parties, and even work.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">A fan of Cooper St may also be a fan of brands like Finders, Stella, and Wayne Cooper.</p>",
+        "title": "OTHER LOVED BRANDS",
+        "_id": "5763825f5317199730b37c30",
+        "itemIndex": 1
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "578429e3229249f3601cff72",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "578429e2229249f3601cff51",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff50",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "FAVOURITE LOOKS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58eacfc8af77c6741fdb1d48",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "576385fb5317199730b37c37",
+        "body": "<p style=\"text-align: center;\" class=\"\"><b class=\"\">FEMININE SILHOUETTES</b><br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Exclusive prints</p><p style=\"text-align: center;\">Flattering fits</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58eacfdbaf77c6741fdb1d4a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>CONTEMPORARY LOOKS</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Signature draping</p><p style=\"text-align: center;\">Statement colours</p><p style=\"text-align: center;\"><br></p>",
+        "_id": "576387055317199730b37c38",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58eacff2af77c6741fdb1d4c",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5763877c5317199730b37c39",
+        "body": "<p class=\"\" style=\"text-align: center;\"><b>EVENT DRESSES</b></p><p class=\"\" style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Intricate lace fabrications</p><p style=\"text-align: center;\">Sophisticated designs</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "583675c1948c8b50476dbe39",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>COOL CONFIDENCE</b></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\">Elegant styling</p><p style=\"text-align: center;\">Quality fabrics</p><p style=\"text-align: center;\"><br></p>",
+        "_id": "576387d55317199730b37c3a",
+        "itemIndex": 3
+      }
+    ],
+    "_narrativeLayout": "Left",
+    "_isQuestionType": false,
+    "_refId": "578429e2229249f3601cff51",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_FavouriteLooks",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff49",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff48",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "displayTitle": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5902ab2e07f3540c73fdc8c4"
+      }
+    },
+    "_isQuestionType": false,
+    "_contentWidth": 100,
+    "_graphicTextTopPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_shouldEnableGraphicText": false,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextRightPadding": 0,
+    "_refId": "578429e2229249f3601cff49",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CS_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff4b",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff48",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "<div><span style=\"color: rgb(67, 74, 84);\">THE FINE PRINT</span><br></div>",
+    "body": "<div style=\"text-align: center;\"><p>Fashion is inspiration through expression… Each collection reveals yet another playful, eclectic side of the Cooper St identity.</p><p><br></p><p><b>PRICE POINT</b></p><p>Basic knits are priced from $100, event dresses range up to $220.</p><p><br></p><p><b>SIZES</b></p><p>Offers clothing in a broad 6 - 16 size range</p></div>",
+    "_isQuestionType": false,
+    "_refId": "578429e2229249f3601cff4b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "CS_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-1"
+  },
+  {
+    "_id": "578429e2229249f3601cff5d",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff5c",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Select the image which portrays the</p><p style=\"text-align: center;\">Cooper St style.&nbsp;<br></p>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Spot on!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Cooper St style is feminine, effortlessly chic, and often features exclusive prints.</p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "final": "",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Cooper St style is feminine, effortlessly chic, and often features exclusive prints.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Refer to Image B.<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5784746d229249f3601d000f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "575f556e1d1a15230b436fc3",
+        "itemIndex": 0,
+        "text": "Image A"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58367752948c8b50476dbe3d",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "575f55861d1a15230b436fc4",
+        "text": "Image B"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5836781a948c8b50476dbe3f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "575f559c1d1a15230b436fc5",
+        "itemIndex": 2,
+        "text": "Image C"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "578474d4229249f3601d0015",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "575f55ab1d1a15230b436fc6",
+        "text": "Image D"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "578429e2229249f3601cff5d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "CS_ThinkYouKnow?",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff63",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff62",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select three Cooper St selling points.</p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Cooper St offers on-trend styles in reliable and flattering fits. They're also known for garments with beautiful drape silhouettes.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Almost.</b></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\">Cooper St offers on-trend styles in reliable and flattering fits. They're also known for garments with beautiful drape silhouettes.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Precisely.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Cooper St offers on-trend styles in reliable and flattering fits. They're also known for garments with beautiful drape silhouettes.</p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "text": "Beautiful drape silhouettes",
+        "itemIndex": 0,
+        "_id": "57730108253db5b503cbbf94"
+      },
+      {
+        "_shouldBeSelected": false,
+        "text": "Understated luxury",
+        "_id": "57730109253db5b503cbbf95",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "Reliable and flattering fits<br>",
+        "_id": "5773010b253db5b503cbbf97",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "On-trend styles",
+        "itemIndex": 3,
+        "_id": "5773010c253db5b503cbbf98"
+      },
+      {
+        "_shouldBeSelected": false,
+        "text": "Bold designs",
+        "_id": "57730117253db5b503cbbf99",
+        "itemIndex": 4
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "578429e2229249f3601cff63",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "578429e2229249f3601cff6b",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "578429e2229249f3601cff68",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Get a little more of Cooper St from any of the links below.<br></p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.youtube.com/user/cooperstclothing",
+        "itemTitle": "COOPER ST YOUTUBE CHANNEL",
+        "itemIndex": 4,
+        "_id": "5902adc407f3540c73fdc8c8"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "575a3cca1d1a15230b436f92",
+        "itemTitle": "COOPER ST WEBSITE",
+        "link": " http://www.cooperst.com.au/",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.facebook.com/CooperSt.Clothing",
+        "_id": "575a42581d1a15230b436f93",
+        "itemIndex": 1,
+        "itemTitle": "FACEBOOK",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.instagram.com/cooperst_clothing/?hl=en",
+        "itemTitle": "INSTAGRAM",
+        "_id": "575a43541d1a15230b436f96",
+        "itemIndex": 2
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 3,
+        "_id": "575a43631d1a15230b436f97",
+        "itemTitle": "PINTEREST",
+        "link": "https://au.pinterest.com/cooperstreet"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "578429e2229249f3601cff6b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "StyleExtras",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "58367a14948c8b50476dbe55",
+    "_courseId": "578429e1229249f3601cff35",
+    "_parentId": "58367a14948c8b50476dbe54",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "58367a14948c8b50476dbe55",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  }
+]

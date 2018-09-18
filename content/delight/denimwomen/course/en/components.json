@@ -1,0 +1,3427 @@
+[
+  {
+    "_id": "57fc3c3c4ea87d56dd3ea503",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57fc3c3b4ea87d56dd3ea502",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.html",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57fc3c3c4ea87d56dd3ea503",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "57984f3a547a81f90cbb1136",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57984339547a81f90cbb10eb",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57982745547a81f90cbb10ce"
+      }
+    },
+    "_refId": "57984f3a547a81f90cbb1136",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "57984377547a81f90cbb10f0",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57984339547a81f90cbb10eb",
+    "_layout": "right",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">At Myer, we stock over 150 denim styles, ensuring there is something to suit every denim taste, but how do you shop in the sea of blue to find your perfect pair of jeans?&nbsp;<span>There are four key things to consider:</span></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\">• Brand</p><p style=\"text-align: center;\">• Wash and colour</p><p style=\"text-align: center;\">• Distress and trend details</p><p style=\"text-align: center;\">• Fit.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This learning moment examines each of these topics, so you’ll know exactly what to look for on your next denim shopping journey.</p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "SHOPPING IN A SEA OF BLUE",
+    "_refId": "57984377547a81f90cbb10f0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-1"
+  },
+  {
+    "_id": "57a834237ddf807d145c9a50",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a8341b7ddf807d145c9a4f",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a823fc7ddf807d145c9a40"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a836b27ddf807d145c9a55"
+      }
+    },
+    "_refId": "57a834237ddf807d145c9a50",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5798455c547a81f90cbb10f2",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "5798455c547a81f90cbb10f1",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Did you know Myer stocks over 20 women’s denim brands?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Here are nine of our favourite brands, displayed in price order starting with the most affordable jeans.</p>",
+    "displayTitle": "OUR BRANDS",
+    "_isQuestionType": false,
+    "instruction": "",
+    "_refId": "5798455c547a81f90cbb10f2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "57a2d83229095f9a6b9a4cb7",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a2d82a29095f9a6b9a4cb6",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "caption": "",
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57a2d84d29095f9a6b9a4cb8"
+      }
+    },
+    "body": "<p style=\"text-align: center;\"><i>Press the denim cards to learn more.</i></p>",
+    "_refId": "57a2d83229095f9a6b9a4cb7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "PressCard_icon",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "579aee7d772e3ba92d8932ed",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579aee7d772e3ba92d8932ec",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a9766d5e2b660f1f728a7e"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57b136454852c2ab6eafacf0"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "backText": "&nbsp;",
+        "_id": "579aac36772e3ba92d8932c0",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $70",
+    "_refId": "579aee7d772e3ba92d8932ed",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "579aee8a772e3ba92d8932f1",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579aee8a772e3ba92d8932f0",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a976bb5e2b660f1f728a82"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a3eee5627d3d1e7b7e287c"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backText": "&nbsp;",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "_id": "579aeee3772e3ba92d8932f9",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $100",
+    "_refId": "579aee8a772e3ba92d8932f1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "579af0b8772e3ba92d89330b",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af0b8772e3ba92d89330a",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a977ab5e2b660f1f728a8a"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a977525e2b660f1f728a88"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backText": "&nbsp;",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "_id": "579aeee3772e3ba92d8932f9",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $100",
+    "_refId": "579af0b8772e3ba92d89330b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "579aef9f772e3ba92d893301",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579aef9f772e3ba92d893300",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a976e95e2b660f1f728a84"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "580fd89ae4eaff494b07a0d6"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "579aeee3772e3ba92d8932f9",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "backText": "&nbsp;"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $120",
+    "_refId": "579aef9f772e3ba92d893301",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "579af131772e3ba92d893315",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af131772e3ba92d893314",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a977cc5e2b660f1f728a8c"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a977dd5e2b660f1f728a8e"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "579aeee3772e3ba92d8932f9",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "backText": "&nbsp;"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $130",
+    "_refId": "579af131772e3ba92d893315",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "579af1a4772e3ba92d89331c",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af1a4772e3ba92d89331b",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a978065e2b660f1f728a90"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a3efd7627d3d1e7b7e288c"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backText": "&nbsp;",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "_id": "579aeee3772e3ba92d8932f9",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $170",
+    "_refId": "579af1a4772e3ba92d89331c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "579af1e3772e3ba92d893323",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af1e3772e3ba92d893322",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a978245e2b660f1f728a92"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a3f00b627d3d1e7b7e2890"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "579aeee3772e3ba92d8932f9",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "backText": "&nbsp;"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $200",
+    "_refId": "579af1e3772e3ba92d893323",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "57fda0ab4ea87d56dd3ea664",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57fd9f884ea87d56dd3ea656",
+    "_layout": "full",
+    "_component": "flipCard",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "57fda13d4ea87d56dd3ea66b"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "From $250",
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57fdc3064ea87d56dd3ea6d7"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57fdc3114ea87d56dd3ea6d9"
+    },
+    "_refId": "57fda0ab4ea87d56dd3ea664",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "579af2b6772e3ba92d89332a",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af2b6772e3ba92d893329",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a9783f5e2b660f1f728a94"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a978555e2b660f1f728a96"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backText": "&nbsp;",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "_id": "579aeee3772e3ba92d8932f9",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $290",
+    "_refId": "579af2b6772e3ba92d89332a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "579af2f2772e3ba92d893331",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af2f2772e3ba92d893330",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a978945e2b660f1f728a9a"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "57a3f0f0627d3d1e7b7e289c"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "579aeee3772e3ba92d8932f9",
+        "frontText": "<font size=\"1\"><span style=\"line-height: 0px;\">&nbsp;</span></font>",
+        "backText": "&nbsp;"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "displayTitle": "&nbsp; &nbsp;From $290",
+    "_refId": "579af2f2772e3ba92d893331",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "579af913772e3ba92d89333b",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af913772e3ba92d893339",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57b109f94852c2ab6eafacee"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "579af913772e3ba92d89333b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "579af913772e3ba92d89333a",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "579af913772e3ba92d893339",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Many people are brand-loyalists and faithfully shop for denim in the brands they know and love.&nbsp;<span>A brand-generalist will shop for specific denim attributes, like wash, colour, or distress and trend details.&nbsp;</span></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span>You may be either of these, or perhaps a mix of both. No matter your denim buying style, you will certainly crave a superb denim fit.</span></p><p style=\"text-align: center;\"><span><br></span></p>",
+    "displayTitle": "THE (UN)FAITHFUL",
+    "_isQuestionType": false,
+    "_refId": "579af913772e3ba92d89333a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-1"
+  },
+  {
+    "_id": "57a8335a7ddf807d145c9a4c",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a833467ddf807d145c9a4b",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a833787ddf807d145c9a4d"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a837747ddf807d145c9a57"
+      }
+    },
+    "_refId": "57a8335a7ddf807d145c9a4c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "57a029f7e83974f34b15a69d",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a02988e83974f34b15a69c",
+    "_layout": "full",
+    "_component": "media",
+    "_media": {
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "57a02cdee83974f34b15a69e"
+      },
+      "_shouldAutoPlay": false,
+      "_isExternalLink": false,
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57a02d28e83974f34b15a6a0"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "DENIM WASH AND COLOUR",
+    "body": "<p style=\"text-align: center;\">High on the agenda when shopping for denim, is colour.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">About 75% of all denim begins dark indigo in colour. Also known as raw denim, it feels rigid and looks plain; until it goes through a wash and treatment process to soften the fabric and give it a worn-in look. The longer the wash process, the lighter the denim colour.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Check out some innovative wash techniques in this video by True Religion.</p>",
+    "_refId": "57a029f7e83974f34b15a69d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-14-1-0"
+  },
+  {
+    "_id": "57a94ee15e2b660f1f728a61",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a94ea85e2b660f1f728a5f",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "57a94ee15e2b660f1f728a61",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-14-2-0"
+  },
+  {
+    "_id": "57a02e59e83974f34b15a6a8",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a02dcde83974f34b15a6a7",
+    "_layout": "full",
+    "_component": "narrative",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a128c15abc95075a0a5d5c",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\" class=\"\"><b>FADING<br></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Abrasive materials such as pumice stones or sandpaper are rubbed or scraped onto targeted areas of the garment to create a faded effect.</p>",
+        "title": "",
+        "_id": "57a02e77e83974f34b15a6a9",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a1292e5abc95075a0a5d5e",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>WHISKERING</b><br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The denim is folded and hand-sanded to create long, stretched lines that look like whiskers. This technique is applied to areas where denim naturally creases with wear.<b><br></b></p>",
+        "itemIndex": 1,
+        "_id": "57a02e83e83974f34b15a6aa"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a03754e83974f34b15a6b6",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>HONEYCOMBING</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Using a similar technique to whiskering, shorter, closed creases that look like the cells of a honeycomb are created to give the appearance of wear behind the knees.<br></p>",
+        "title": "",
+        "_id": "57a02e84e83974f34b15a6ab",
+        "itemIndex": 2
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a129835abc95075a0a5d60",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>RIPS</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Hand-held sanding tools and sharp scraping implements are applied to the denim to create rips and the desirable level of damage.<br></p>",
+        "itemIndex": 3,
+        "_id": "57a02e86e83974f34b15a6ac"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a03e38e83974f34b15a6bb",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>FRAYING/FRINGING</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">A seam ripper is used to pull apart the denim fibres at the hem, then they’re placed in a dryer to achieve an organic, frayed/fringed look.<br></p>",
+        "_id": "57a02e88e83974f34b15a6ad",
+        "itemIndex": 4
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a03e59e83974f34b15a6bd",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\" class=\"\"><b>PATCHWORK</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Patches are sewed or ironed on to give the denim personality and trend-appeal.</p>",
+        "itemIndex": 5,
+        "_id": "57a02e8ae83974f34b15a6ae"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a12d5d5abc95075a0a5d62",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>ROLLED CUFFS</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Rolled cuffs create an edgy look while showcasing the footwear worn.</p>",
+        "_id": "57a02e8be83974f34b15a6af",
+        "itemIndex": 6
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">With a particular denim colour in mind, the next step is to consider the distress and trend details that give your jeans character and a lived-in appearance. Look out for brands like G-Star and True Religion who are known for their innovative denim distressing techniques, often carefully crafted by hand. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Here are a few details and how they are created.</p>",
+    "displayTitle": "ALL IN THE DETAILS",
+    "_refId": "57a02e59e83974f34b15a6a8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  },
+  {
+    "_id": "57a94f325e2b660f1f728a65",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a94f2c5e2b660f1f728a64",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "57a94f325e2b660f1f728a65",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-15-1-0"
+  },
+  {
+    "_id": "57ad60e3a511ae495046f280",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57ad60cfa511ae495046f27f",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">The final consideration when shopping for denim is the fit.&nbsp;<span>Chances are, you own at least one pair of jeans and already know a little about the way they can fit.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Test your knowledge in this activity by looking at each denim fit and&nbsp;identifying the&nbsp;<b>cut </b>of the denim legs.</p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span>Press </span><b>submit</b><span> for feedback on your selection, plus a little extra information on denim rise, which is where the</span><span>&nbsp;waistband of the jeans sit on the body.</span></p>",
+    "displayTitle": "PICK THE FIT",
+    "_refId": "57ad60e3a511ae495046f280",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  },
+  {
+    "_id": "57a2d9e529095f9a6b9a4cba",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a131ff5abc95075a0a5d65",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "caption": "",
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a2da3629095f9a6b9a4cbc"
+      }
+    },
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>DENIM FIT 1</b></p>",
+    "instruction": "",
+    "_refId": "57a2d9e529095f9a6b9a4cba",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24",
+      "_textAlign": "center"
+    },
+    "title": "DenimLook1",
+    "_type": "component",
+    "_courseOrder": "0-16-1-0"
+  },
+  {
+    "_id": "57a132145abc95075a0a5d66",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a131ff5abc95075a0a5d65",
+    "_layout": "right",
+    "_component": "matching",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Precisely.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Bootcut</b> jeans look great on most people because they maintain a sleek line from hip to boot. The slight widening from the knee to ankle make this style perfect to wear with boots, although it also works well when dressed up with heels. The ideal length for a bootcut is 1-2cm from the ground when worn with footwear.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Here, it’s teamed with a <b>mid rise</b> waistband, which is flattering on most people because it maintains the look of the wearer’s body proportions.</p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>Bootcut </b>jeans look great on most people because they maintain a sleek line from hip to boot. The slight widening from the knee to ankle make this style perfect to wear with boots, although it also works well when dressed up with heels. The ideal length for a bootcut is 1-2cm from the ground when worn with footwear.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Here, it’s teamed with a <b>mid rise</b> waistband, which is flattering on most people because it maintains the look of the wearer’s body proportions.</p><p style=\"text-align: center;\"><br></p>",
+        "notFinal": "",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Bootcut</b> jeans look great on most people because they maintain a sleek line from hip to boot. The slight widening from the knee to ankle make this style perfect to wear with boots, although it also works well when dressed up with heels. The ideal length for a bootcut is 1-2cm from the ground when worn with footwear.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Here, it’s teamed with a<b> mid rise</b> waistband, which is flattering on most people because it maintains the look of the wearer’s body proportions.</p><p style=\"text-align: center;\"><br></p>",
+        "notFinal": "<p class=\"\" style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Skinny",
+            "_id": "57a133c25abc95075a0a5e02"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Straight",
+            "_id": "57a133c25abc95075a0a5e01"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Boyfriend",
+            "_id": "57a133c25abc95075a0a5e00"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Bootcut",
+            "_id": "57a133c25abc95075a0a5dff"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Cropped",
+            "_id": "57a133c25abc95075a0a5dfe"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Culottes",
+            "_id": "57a133c25abc95075a0a5dfd"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Flare",
+            "_id": "57a133c25abc95075a0a5dfc"
+          }
+        ],
+        "text": "Cut",
+        "itemIndex": 0,
+        "_id": "57a1323f5abc95075a0a5d69"
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "__v": 0,
+    "placeholder": "Select one",
+    "_refId": "57a132145abc95075a0a5d66",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-16-1-1"
+  },
+  {
+    "_id": "57a139835abc95075a0a5e17",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a137325abc95075a0a5e0d",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a139c25abc95075a0a5e18"
+      }
+    },
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>DENIM FIT 2</b><br></p>",
+    "_refId": "57a139835abc95075a0a5e17",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24",
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-17-0-0"
+  },
+  {
+    "_id": "57a137325abc95075a0a5e0e",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a137325abc95075a0a5e0d",
+    "_layout": "right",
+    "_component": "matching",
+    "__v": 0,
+    "placeholder": "Select one",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p class=\"\" style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\" class=\"\"><b class=\"\">Not sure?</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Skinny jeans</b> fit tightly from waist, down to ankle to proudly flaunt the wearer’s figure. The higher stretch content in the denim ensures comfort and a skin-tight fit. It’s a versatile cut and looks great with all footwear styles, from sandals and heels, through to sneakers.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Coupled with a <b>low rise</b> waistband, these jeans are perfect for anyone who has long legs or want to show off a trim mid-section.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Skinny</b> jeans fit tightly from waist, down to ankle to proudly flaunt the wearer’s figure. The higher stretch content in the denim ensures comfort and a skin-tight fit. It’s a versatile cut and looks great with all footwear styles, from sandals and heels, through to sneakers.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Coupled with a <b>low rise</b> waistband, these jeans are perfect for anyone who has long legs or want to show off a trim mid-section.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "correct": "<p style=\"text-align: center;\"><b>You got it.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Skinny jeans</b> fit tightly from waist, down to ankle to proudly flaunt the wearer’s figure. The higher stretch content in the denim ensures comfort and a skin-tight fit. It’s a versatile cut and looks great with all footwear styles, from sandals and heels, through to sneakers. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Coupled with a <b>low rise</b> waistband, these jeans are perfect for anyone who has long legs or want to show off a trim mid-section.</p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": true,
+            "text": "Skinny",
+            "_id": "57a133c25abc95075a0a5e02"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Straight",
+            "_id": "57a133c25abc95075a0a5e01"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Boyfriend",
+            "_id": "57a133c25abc95075a0a5e00"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Bootcut",
+            "_id": "57a133c25abc95075a0a5dff"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Cropped",
+            "_id": "57a133c25abc95075a0a5dfe"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Culottes",
+            "_id": "57a133c25abc95075a0a5dfd"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Flare",
+            "_id": "57a133c25abc95075a0a5dfc"
+          }
+        ],
+        "text": "Cut",
+        "itemIndex": 0,
+        "_id": "57a1323f5abc95075a0a5d69"
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57a137325abc95075a0a5e0e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-17-0-1"
+  },
+  {
+    "_id": "57a13a605abc95075a0a5e1a",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a137505abc95075a0a5e13",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a13acc5abc95075a0a5e1b"
+      }
+    },
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>DENIM FIT 3</b></p>",
+    "_refId": "57a13a605abc95075a0a5e1a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "24",
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-18-0-0"
+  },
+  {
+    "_id": "57a137505abc95075a0a5e15",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a137505abc95075a0a5e13",
+    "_layout": "right",
+    "_component": "matching",
+    "__v": 0,
+    "placeholder": "Select one",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Take a closer look.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Inspired by men’s denim cuts, these <b>boyfriend</b> jeans are loose fitting and cling mainly from the waist. It’s a relaxed look that can be accentuated with a <b>low rise</b>, rolled cuffs and ankle boots, as shown here. Alternatively, contrast the masculinity and show off a fine ankle by wearing it with a killer pair of heels.</p><p style=\"text-align: center;\"><br></p>",
+        "notFinal": "<p class=\"\" style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Inspired by men’s denim cuts, these <b>boyfriend</b> jeans are loose fitting and cling mainly from the waist. It’s a relaxed look that can be accentuated with a<b> low rise</b>, rolled cuffs and ankle boots, as shown here. Alternatively, contrast the masculinity and show off a fine ankle by wearing it with a killer pair of heels.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Great choices!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Inspired by men’s denim cuts, these <b>boyfriend </b>jeans are loose fitting and cling mainly from the waist. It’s a relaxed look that can be accentuated with a <b>low rise</b>, rolled cuffs and ankle boots, as shown here. Alternatively, contrast the masculinity and show off a fine ankle by wearing it with a killer pair of heels.<br></p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5e02",
+            "text": "Skinny"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5e01",
+            "text": "Straight"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "57a133c25abc95075a0a5e00",
+            "text": "Boyfriend"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dff",
+            "text": "Bootcut"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dfd",
+            "text": "Culottes"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dfc",
+            "text": "Flare"
+          }
+        ],
+        "_id": "57a1323f5abc95075a0a5d69",
+        "itemIndex": 0,
+        "text": "Cut"
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57a137505abc95075a0a5e15",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-18-0-1"
+  },
+  {
+    "_id": "57a13b565abc95075a0a5e21",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a13b565abc95075a0a5e1f",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a13baf5abc95075a0a5e23"
+      }
+    },
+    "_isQuestionType": false,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>DENIM FIT 4</b></p>",
+    "_refId": "57a13b565abc95075a0a5e21",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-19-0-0"
+  },
+  {
+    "_id": "57a13b565abc95075a0a5e20",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a13b565abc95075a0a5e1f",
+    "_layout": "right",
+    "_component": "matching",
+    "__v": 0,
+    "placeholder": "Select one",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\" class=\"\"><b class=\"\">Nice one!</b></p><p class=\"\" style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Culotte</b> denim jeans are a modern take on the 19th century French fashion to wear knee-length trousers, cut with full legs to resemble a skirt. It’s all about flashing a bit of ankle, so don’t be afraid to wear the fringe detailing with striking heels, which will also give height to balance the wide-leg.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The <b>high rise</b> on these culottes also create the illusion of longer legs, while giving shape to the waist.</p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Culotte</b> denim jeans are a modern take on the 19th century French fashion to wear knee-length trousers, cut with full legs to resemble a skirt. It’s all about flashing a bit of ankle, so don’t be afraid to wear the fringe detailing with striking heels, which will also give height to balance the wide-leg.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The <b>high rise</b> on these culottes also create the illusion of longer legs, while giving shape to the waist.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Incorrect.</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Culotte</b> denim jeans are a modern take on the 19th century French fashion to wear knee-length trousers, cut with full legs to resemble a skirt. It’s all about flashing a bit of ankle, so don’t be afraid to wear the fringe detailing with striking heels, which will also give height to balance the wide-leg.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The <b>high rise</b> on these culottes also create the illusion of longer legs, while giving shape to the waist.</p><p style=\"text-align: center;\"><br></p>",
+        "notFinal": "<p class=\"\" style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Skinny",
+            "_id": "57a133c25abc95075a0a5e02"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Straight",
+            "_id": "57a133c25abc95075a0a5e01"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Boyfriend",
+            "_id": "57a133c25abc95075a0a5e00"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Bootcut",
+            "_id": "57a133c25abc95075a0a5dff"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Cropped",
+            "_id": "57a133c25abc95075a0a5dfe"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Culottes",
+            "_id": "57a133c25abc95075a0a5dfd"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Flare",
+            "_id": "57a133c25abc95075a0a5dfc"
+          }
+        ],
+        "text": "Cut",
+        "itemIndex": 0,
+        "_id": "57a1323f5abc95075a0a5d69"
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57a13b565abc95075a0a5e20",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-19-0-1"
+  },
+  {
+    "_id": "57a13c365abc95075a0a5e28",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a13c365abc95075a0a5e27",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a13d1d5abc95075a0a5e2c"
+      }
+    },
+    "_isQuestionType": false,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>DENIM FIT 5</b></p>",
+    "_refId": "57a13c365abc95075a0a5e28",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-20-0-0"
+  },
+  {
+    "_id": "57a13c365abc95075a0a5e29",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a13c365abc95075a0a5e27",
+    "_layout": "right",
+    "_component": "matching",
+    "__v": 0,
+    "placeholder": "Select one",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p class=\"\" style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>Not quite.<br></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Straight</b> denim jeans fit tightly from waist to knee, then cut straight down from the knee to ankle. The cut is popular because it slims the figure while maintaining a balanced silhouette. Here, the proportions are enhanced with a <b>mid rise </b>waistband.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wear straight denim jeans with a fitted top to embrace the clean-cut look, and easily team it with casual flats or heels to suit the occasion.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Straight</b> denim jeans fit tightly from waist to knee, then cut straight down from the knee to ankle. The cut is popular because it slims the figure while maintaining a balanced silhouette. Here, the proportions are enhanced with a <b>mid rise</b> waistband.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wear straight denim jeans with a fitted top to embrace the clean-cut look, and easily team it with casual flats or heels to suit the occasion.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Straight</b> denim jeans fit tightly from waist to knee, then cut straight down from the knee to ankle. The cut is popular because it slims the figure while maintaining a balanced silhouette. Here, the proportions are enhanced with a <b>mid rise</b> waistband.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Wear straight denim jeans with a fitted top to embrace the clean-cut look, and easily team it with casual flats or heels to suit the occasion.</p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5e02",
+            "text": "Skinny"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "57a133c25abc95075a0a5e01",
+            "text": "Straight"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5e00",
+            "text": "Boyfriend"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dff",
+            "text": "Bootcut"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dfe",
+            "text": "Cropped"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dfd",
+            "text": "Culottes"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dfc",
+            "text": "Flare"
+          }
+        ],
+        "_id": "57a1323f5abc95075a0a5d69",
+        "itemIndex": 0,
+        "text": "Cut"
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57a13c365abc95075a0a5e29",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-20-0-1"
+  },
+  {
+    "_id": "57a13d425abc95075a0a5e31",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a13d425abc95075a0a5e30",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a13e775abc95075a0a5e36"
+      }
+    },
+    "_isQuestionType": false,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>DENIM FIT 6</b></p>",
+    "_refId": "57a13d425abc95075a0a5e31",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-21-0-0"
+  },
+  {
+    "_id": "57a13d425abc95075a0a5e32",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a13d425abc95075a0a5e30",
+    "_layout": "right",
+    "_component": "matching",
+    "__v": 0,
+    "placeholder": "Select one",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b class=\"\">Incorrect.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Flared</b> denim jeans hark back to the 70’s and are still relevant today. The cut is fitted around the waist and thighs, with a flare widening from knee to ankle to create a playfully curved silhouette. Add height to the look by wearing chunky wedges or platforms that barely peep out from beneath, or with a <b>high rise</b> waistband, as shown here.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Feeling adventurous? Try the sailor flare variation, where the flare begins from the hips.</p><p style=\"text-align: center;\"><br></p>",
+        "notFinal": "<p class=\"\" style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Flared </b>denim jeans hark back to the 70’s and are still relevant today. The cut is fitted around the waist and thighs, with a flare widening from knee to ankle to create a playfully curved silhouette. Add height to the look by wearing chunky wedges or platforms that barely peep out from beneath, or with a <b>high rise </b>waistband, as shown here.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Feeling adventurous? Try the sailor flare variation, where the flare begins from the hips.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "correct": "<p style=\"text-align: center;\"><b>That's right!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Flared</b> denim jeans hark back to the 70’s and are still relevant today. The cut is fitted around the waist and thighs, with a flare widening from knee to ankle to create a playfully curved silhouette. Add height to the look by wearing chunky wedges or platforms that barely peep out from beneath, or with a <b>high rise</b> waistband, as shown here. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Feeling adventurous? Try the sailor flare variation, where the flare begins from the hips.</p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Skinny",
+            "_id": "57a133c25abc95075a0a5e02"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Straight",
+            "_id": "57a133c25abc95075a0a5e01"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Boyfriend",
+            "_id": "57a133c25abc95075a0a5e00"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Bootcut",
+            "_id": "57a133c25abc95075a0a5dff"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Cropped",
+            "_id": "57a133c25abc95075a0a5dfe"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Culottes",
+            "_id": "57a133c25abc95075a0a5dfd"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Flare",
+            "_id": "57a133c25abc95075a0a5dfc"
+          }
+        ],
+        "text": "Cut",
+        "itemIndex": 0,
+        "_id": "57a1323f5abc95075a0a5d69"
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57a13d425abc95075a0a5e32",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-21-0-1"
+  },
+  {
+    "_id": "57a17c4e5abc95075a0a5e3b",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a17c4e5abc95075a0a5e3a",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a17d155abc95075a0a5e41"
+      }
+    },
+    "_isQuestionType": false,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>DENIM FIT 7</b></p>",
+    "_refId": "57a17c4e5abc95075a0a5e3b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-22-0-0"
+  },
+  {
+    "_id": "57a17c4e5abc95075a0a5e3c",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a17c4e5abc95075a0a5e3a",
+    "_layout": "right",
+    "_component": "matching",
+    "__v": 0,
+    "placeholder": "Select one",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b class=\"\">Incorrect.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These are <b>cropped</b> jeans, with the length ending just above the ankle. Cropped cuts offer a fun twist on any denim cut, and are a great opportunity to show off fabulous shoes. Wear chic stilettos or platform heels to create visual interest and elongate the legs.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>High rise</b> (as shown here) and mid rise waistbands work well with this look.</p><p style=\"text-align: center;\"><br></p>",
+        "notFinal": "<p class=\"\" style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These are <b>cropped</b> jeans, with the length ending just above the ankle. Cropped cuts offer a fun twist on any denim cut, and are a great opportunity to show off fabulous shoes. Wear chic stilettos or platform heels to create visual interest and elongate the legs.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>High rise</b> (as shown here) and mid rise waistbands work well with this look.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Exactly.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These are <b>cropped</b>&nbsp;jeans, with the length ending just above the ankle. Cropped cuts offer a fun twist on any denim cut, and are a great opportunity to show off fabulous shoes. Wear chic stilettos or platform heels to create visual interest and elongate the legs.</p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>High rise </b>(as shown here) and mid rise waistbands work well with this look.</p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5e01",
+            "text": "Straight"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5e00",
+            "text": "Boyfriend"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dff",
+            "text": "Bootcut"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "57a133c25abc95075a0a5dfe",
+            "text": "Cropped"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dfd",
+            "text": "Culottes"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "57a133c25abc95075a0a5dfc",
+            "text": "Flare"
+          }
+        ],
+        "_id": "57a1323f5abc95075a0a5d69",
+        "itemIndex": 0,
+        "text": "Cut"
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57a17c4e5abc95075a0a5e3c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-22-0-1"
+  },
+  {
+    "_id": "57a951545e2b660f1f728a6e",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a9514b5e2b660f1f728a6d",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "57a951545e2b660f1f728a6e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-22-1-0"
+  },
+  {
+    "_id": "57a17dfc5abc95075a0a5e45",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a17de25abc95075a0a5e44",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "_id": "57a17e235abc95075a0a5e46",
+        "itemIndex": 0,
+        "title": "SIZE vs FIT",
+        "body": "<p style=\"text-align: center;\">Slight variations in cut and fabrication can change the way a pair of denim jeans fit. This can happen within a given brand and is common between brands.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">When buying denim, use sizes as a guide and experiment until you find the perfect fit; firm but not uncomfortable, to account for the natural stretch in new denim.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "57a17e255abc95075a0a5e47",
+        "title": "LEG LENGTHS",
+        "body": "<p style=\"text-align: center;\">Unless specified, all denim legs are regular length. There are also selected brands that stock variations, ranging between 28 to 33 inches, measured from the crotch of the denim to the ankle.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_id": "57a17e265abc95075a0a5e48",
+        "itemIndex": 2,
+        "title": "FABRIC CONTENT",
+        "body": "<p style=\"text-align: center;\">Denim can be made from a blend of cotton, polyester and/or elastane. While denim that has more cotton content will be more durable, skinnier styles usually have a higher elastane content to ensure a close and comfortable fit. Denim surfaces can also be finished with a matte leather-like coating to achieve a slick biker look.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 3,
+        "_id": "57a17e275abc95075a0a5e49",
+        "body": "<p class=\"\" style=\"text-align: center;\">A denim purchase is an investment in quality, craftsmanship and design that with good care, should last many years. Refer to the <b>Rules of Denim Care</b> learning moment for tips that will ensure your new purchase goes the distance.</p>",
+        "title": "CARE"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "NEED-TO-KNOWS",
+    "body": "<p style=\"text-align: center;\">When it comes to shopping for denim, knowing what to look for can make a good choice, a great one. Here are some need-to-knows that can make that difference for you.</p>",
+    "_refId": "57a17dfc5abc95075a0a5e45",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-23-0-0"
+  },
+  {
+    "_id": "57a9529f5e2b660f1f728a72",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a952985e2b660f1f728a71",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "57a9529f5e2b660f1f728a72",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-23-1-0"
+  },
+  {
+    "_id": "57a17ef25abc95075a0a5e4d",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a17ee95abc95075a0a5e4c",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57a17f625abc95075a0a5e4f"
+      }
+    },
+    "_refId": "57a17ef25abc95075a0a5e4d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-24-0-0"
+  },
+  {
+    "_id": "57a17efa5abc95075a0a5e4e",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a17ee95abc95075a0a5e4c",
+    "_layout": "right",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "THE DENIM<br>LOW-DOWN",
+    "body": "<p style=\"text-align: center;\">Now that you’ve completed this learning moment, you should be feeling confident about denim shopping and talking the denim talk. Your denim repoirtoire includes knowledge of:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tPopular brands</p><p style=\"text-align: center;\">•\tWash and colour</p><p style=\"text-align: center;\">•\tDistress and trend details</p><p style=\"text-align: center;\">•\tDenim fit.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Get the word out there and share your love for shopping and wearing denim.</p>",
+    "_refId": "57a17efa5abc95075a0a5e4e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-24-0-1"
+  },
+  {
+    "_id": "57fc3dea4ea87d56dd3ea505",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57fc3de44ea87d56dd3ea504",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58045a153567a35f594c44fe",
+        "itemTitle": "WOMEN'S DENIM @ MYER",
+        "link": "http://www.myer.com.au/shop/mystore/women/women-jeans-and-denim"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.html",
+        "itemTitle": "BACK",
+        "_id": "57fc3dfd4ea87d56dd3ea506",
+        "itemIndex": 1
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Take a look at the women's denim range at Myer.</p>",
+    "_refId": "57fc3dea4ea87d56dd3ea505",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-24-1-0"
+  },
+  {
+    "_id": "57a182255abc95075a0a5e53",
+    "_courseId": "5797027a8a1cda1705d10c61",
+    "_parentId": "57a1821c5abc95075a0a5e52",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "599b80eaebca4a4008795070",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "body": "<div><br></div>",
+    "_refId": "57a182255abc95075a0a5e53",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-24-2-0"
+  }
+]

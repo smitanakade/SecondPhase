@@ -1,0 +1,1197 @@
+[
+  {
+    "_id": "59462ccdd923276a1f77e48b",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "59462ccdd923276a1f77e48a",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "BACK",
+        "_id": "59462bf8d923276a1f77e487",
+        "itemIndex": 0,
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59462ccdd923276a1f77e48b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5938e0f7866a8e4433624ce2",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "5938e0f7866a8e4433624ce1",
+    "__v": 0,
+    "_refId": "592fd800ab4951b364eb110a",
+    "displayTitle": "REMEMBER: YOU CAN REFER TO THIS LEARNING MOMENT AS MANY TIMES AS YOU LIKE.<br>",
+    "body": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59413061d923276a1f77e394",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "5941305bd923276a1f77e393",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5948ffb2d923276a1f77e494"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59413061d923276a1f77e394",
+    "displayTitle": "<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5938e0f7866a8e4433624cd3",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "5938e0f7866a8e4433624cd2",
+    "__v": 0,
+    "_refId": "5925779dad04f4d3201a7d92",
+    "displayTitle": "<br>",
+    "body": "<div align=\"center\">Units per transaction (or UPT) is the sales metric that shows the average number of items customers purchase in a transaction.  </div>",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "592577d4ad04f4d3201a7d93",
+        "title": "HOW IS IT CALCULATED?<br>",
+        "body": "<p style=\"text-align: center;\">UPT is calculated by simply dividing the number of items purchased by the number of transactions for the period of time. So, if you sold 20 items in five transactions in an hour, UPT would be four. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><u><b>The calculation is: 20/5=4&nbsp;</b></u></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "IAFS_Accordion_01",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "594132ecd923276a1f77e399",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "594132ecd923276a1f77e397",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59490116d923276a1f77e495"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594132ecd923276a1f77e399",
+    "displayTitle": "<br>",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "594132ecd923276a1f77e398",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "594132ecd923276a1f77e396",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div align=\"center\">Average transaction value (or ATV) is the sales metric that shows the average value of transactions over a period of time.   </div>",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "592577d4ad04f4d3201a7d93",
+        "title": "HOW IS IT CALCULATED?<br>",
+        "body": "<p style=\"text-align: center;\">ATV is calculated by dividing the total value of the transactions by the number of transactions. So, if your sales for an hour reached $550, and you have five transactions, your ATV for that hour would be $110. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b><u>The calculation is: $550/5=$110</u></b></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594132ecd923276a1f77e398",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "IAFS_Accordion_02",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "594133c9d923276a1f77e39e",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "594133c9d923276a1f77e39c",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "594901c4d923276a1f77e496"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594133c9d923276a1f77e39e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "594133c9d923276a1f77e39d",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "594133c9d923276a1f77e39b",
+    "__v": 0,
+    "displayTitle": "<br>",
+    "body": "<div align=\"center\">Sales per hour (or SPH) is the sales metric that shows how much you are selling an hour.    </div>",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Sales per hour (or SPH) is calculated by dividing the total sales by the number of hours worked. If your sales were $900 over a four hour shift, your sales per hour would be $225.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b><u>The calculation is: $900/4=$225</u></b></p>",
+        "title": "HOW IS IT CALCULATED?<br>",
+        "_id": "592577d4ad04f4d3201a7d93",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594133c9d923276a1f77e39d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "IAFS_Accordion_03",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "594901efd923276a1f77e49b",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "594901efd923276a1f77e498",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "594902d5d923276a1f77e49c"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594901efd923276a1f77e49b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "594901efd923276a1f77e49a",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "594901efd923276a1f77e499",
+    "__v": 0,
+    "displayTitle": "<br>",
+    "body": "<div align=\"center\">Transactions per hour (or TPH) is a sales metric that shows the average number of transactions carried out in an hour.    </div>",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "592577d4ad04f4d3201a7d93",
+        "title": "HOW IS IT CALCULATED?<br>",
+        "body": "<p style=\"text-align: center;\">Transactions per hour are calculated by taking the total number of transactions and dividing them by the number of hours worked. So if you carried out 14 transactions over a four hour shift, your transactions per hour would be 3.5 </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b><u>The calculation is: 14/4=3.5</u></b></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594901efd923276a1f77e49a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "IAFS_Accordion_04",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5945c914d923276a1f77e451",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "5945c90ad923276a1f77e450",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "itemIndex": 0,
+        "_id": "5945c91ad923276a1f77e452",
+        "backText": "<br>"
+      }
+    ],
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5945c914d923276a1f77e451",
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5945c5fdd923276a1f77e44e"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5949070dd923276a1f77e49d"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "594605f8d923276a1f77e456",
+    "_component": "matching",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "594605f3d923276a1f77e455",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b>&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The correct answers are...</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average number of items customers purchase on a single occasion: </p><p style=\"text-align: center;\"><b><u>Units per transaction</u></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average value of transactions over a period of time:</p><p style=\"text-align: center;\"><b><u>Average transaction value</u></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">How much you are selling an hour:</p><p style=\"text-align: center;\"><b><u>Sales per hour</u></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average number of transactions carried out in an hour:</p><p style=\"text-align: center;\"><b><u>Transactions per hour</u></b></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Almost right.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The correct answers are... </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average number of items customers purchase on a single occasion:&nbsp;<br></p><p style=\"text-align: center;\"><u><b>Units per transaction</b></u></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">The average value of transactions over a period of time:</span></p><p style=\"text-align: center;\"><u><b>Average transaction value</b></u></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">How much you are selling an hour:</p><p style=\"text-align: center;\"><u><b><span style=\"font-size: 16px;\">Sales per hour</span><br></b></u></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average number of transactions carried out in an hour:<br></p><p style=\"text-align: center;\"><u><span style=\"font-size: 16px;\"><b>Transactions per hour</b></span></u></p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Spot on!&nbsp;</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The correct answers are...</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average number of items customers purchase on a single occasion: </p><p style=\"text-align: center;\"><b><u>Units per transaction</u></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average value of transactions over a period of time:</p><p style=\"text-align: center;\"><b><u>Average transaction value</u></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">How much you are selling an hour:</p><p style=\"text-align: center;\"><b><u>Sales per hour</u></b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The average number of transactions carried out in an hour:</p><p style=\"text-align: center;\"><b><u>Transactions per hour</u></b></p>"
+    },
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": true,
+            "text": "Units per transaction",
+            "_id": "59460603d923276a1f77e458"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Average transaction value",
+            "_id": "59460637d923276a1f77e45c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59460644d923276a1f77e45d",
+            "text": "Sales per hour"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Transactions per hour",
+            "_id": "59460644d923276a1f77e45e"
+          }
+        ],
+        "text": "<span style=\"font-size: 16px;\">The average number of items customers purchase on a single occasion</span>",
+        "_id": "594605fcd923276a1f77e457",
+        "itemIndex": 0
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Units per transaction",
+            "_id": "59461b85d923276a1f77e46f"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "59461b85d923276a1f77e470",
+            "text": "Average transaction value"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Sales per hour",
+            "_id": "59461b86d923276a1f77e471"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59461b87d923276a1f77e472",
+            "text": "Transactions per hour"
+          }
+        ],
+        "itemIndex": 1,
+        "_id": "59461b4bd923276a1f77e46c",
+        "text": "The average value of transactions over a period of time"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Units per transaction",
+            "_id": "59461b88d923276a1f77e473"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59461b89d923276a1f77e474",
+            "text": "Average transaction value"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Sales per hour",
+            "_id": "59461b8ad923276a1f77e475"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59461b8ad923276a1f77e476",
+            "text": "Transactions per hour"
+          }
+        ],
+        "text": "How much you are selling an hour",
+        "_id": "59461b4cd923276a1f77e46d",
+        "itemIndex": 2
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Units per transaction",
+            "_id": "59461b8cd923276a1f77e477"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59461b8ed923276a1f77e478",
+            "text": "Average transaction value"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Sales per hour",
+            "_id": "59461b8ed923276a1f77e479"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "59461b8fd923276a1f77e47a",
+            "text": "Transactions per hour"
+          }
+        ],
+        "itemIndex": 3,
+        "_id": "59461b4dd923276a1f77e46e",
+        "text": "The average number of transactions carried out in an hour"
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "594605f8d923276a1f77e456",
+    "placeholder": "Press to select...",
+    "body": "",
+    "displayTitle": "MATCH EACH OF THE DESCRIPTIONS BELOW WITH THE RIGHT METRIC:",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "59462729d923276a1f77e47f",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "59462722d923276a1f77e47e",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "CONVERTING SALES",
+        "link": "http://www.myeracademy.com.au/content/converting-sales/index.html",
+        "itemIndex": 0,
+        "_id": "5946272ed923276a1f77e480",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "_id": "59462ba6d923276a1f77e484",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59462729d923276a1f77e47f",
+    "body": "<p style=\"text-align: center;\">To learn what you can do to influence all these metrics, have a look at some of the other learning moments, starting with:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "59462b4fd923276a1f77e483",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5938e0f7866a8e4433624cca",
+    "_parentId": "59462b33d923276a1f77e482",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59462b4fd923276a1f77e483",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  }
+]

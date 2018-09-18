@@ -1,0 +1,535 @@
+[
+  {
+    "_id": "595c343a5bfc8db91b21cd7c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "595c343a5bfc8db91b21cd73",
+    "_parentId": "595c343a5bfc8db91b21cd7b",
+    "__v": 0,
+    "displayTitle": "CHANGING AVAILABILITY<br>",
+    "body": "<p style=\"text-align: center;\"><b>Team Members </b>can request&nbsp;an&nbsp;<b>availability</b>&nbsp;change for a selected day or days.</p><p style=\"text-align: center;\"><b>Availability </b>change request approval is solely upon <b>Manager's </b>discretion.</p>",
+    "_refId": "590bcfbb181f3a535bb6ac50",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5acd89901e16803cc70f91c5",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "595c343a5bfc8db91b21cd73",
+    "_parentId": "5acd89901e16803cc70f91c4",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "5994135aebca4a4008794fd3",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acd89901e16803cc70f91c5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "595d8200089cab463b892036",
+    "_courseId": "595c343a5bfc8db91b21cd73",
+    "_parentId": "595d8200089cab463b892035",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "REQUESTING AN AVAILABILITY CHANGE ON A SMARTPHONE",
+    "body": "<div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Please follow the steps outlined below to&nbsp;</span>request an <strong>availability</strong> change<span style=\"color: rgb(67, 74, 84);\"><strong>&nbsp;</strong>on a <strong>smartphone</strong>.</span></div><p><br></p><div style=\"text-align: center;\"><p style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">There are five screens in this sequence.</span></p><p style=\"text-align: center;\"><b style=\"color: rgb(67, 74, 84);\">CLICK ON THE ARROW ON THE IMAGE TO SEE OTHER SCREENS.</b></p><p style=\"text-align: center;\"><br></p></div>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "595d8223089cab463b892037",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "58b75833ed2155973abb7ee4",
+        "body": "<p></p><ol><li>Click on <b>Requests</b>.<br></li><li>Click on the&nbsp;'<b>+</b>'<b> </b>icon.</li></ol><p></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "595d9c29089cab463b892039",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p>3. Select <b>Availability</b> from the drop-down.<br></p><p>4. Click on the <b>Tick</b> icon.</p><p>5. Click on the <b>Pencil</b> icon.</p>",
+        "_id": "58b75db5ed2155973abb7ee7",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "595dcd49089cab463b89203a",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "58b7a4b4ed2155973abb7fca",
+        "body": "<p>6. Click on the <b>Available&nbsp;dates </b>you wish to change.</p><p>7. &nbsp;Click on <b>Set Availability</b>.</p><p>8. Click on <b>Unavailable</b>.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "595dd3fb089cab463b89203d"
+          }
+        },
+        "body": "<p>9. &nbsp; Click on the <b>Cross</b> icon.</p><p>10. &nbsp;Click on <b>Review</b>.</p>",
+        "_id": "595dd351089cab463b89203b",
+        "itemIndex": 3
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "595dd78a089cab463b89203f"
+          }
+        },
+        "_id": "595dd780089cab463b89203e",
+        "itemIndex": 4,
+        "body": "<p>11. &nbsp;Type in the appropriate <b>Notes </b>(optional).</p><p>12. Click on <b>Submit</b>.</p><p>13. <b>Availability </b>Request is submitted pending <b>Manager's</b> approval (Check for Request Approval <b>Alerts</b> from <b>Manager</b>).</p>"
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "595d8200089cab463b892036",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "595dda73089cab463b892042",
+    "_courseId": "595c343a5bfc8db91b21cd73",
+    "_parentId": "595dda73089cab463b892041",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "displayTitle": "HELPFUL NOTE<br>",
+    "body": "",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_id": "58bf95dfed2155973abb809e",
+        "itemIndex": 0
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "5a1b4e5181af53733b5cce5c"
+    },
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "58a666a3ed2155973abb7007"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "595dda73089cab463b892042",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "40"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5982bb9febca4a4008794d70",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "595c343a5bfc8db91b21cd73",
+    "_parentId": "5982bb9febca4a4008794d6f",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myerwfmportal.com.au",
+        "itemTitle": "WWW.MYERWFMPORTAL.COM.AU",
+        "_id": "59826522ebca4a4008794cf0",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5982bb9febca4a4008794d70",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5acd89bc1e16803cc70f91c8",
+    "_courseId": "595c343a5bfc8db91b21cd73",
+    "_parentId": "5acd89bc1e16803cc70f91c7",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57fc395a4ea87d56dd3ea4fa",
+        "itemTitle": "BACK",
+        "link": "../index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acd89bc1e16803cc70f91c8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  }
+]

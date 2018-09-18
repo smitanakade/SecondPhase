@@ -1,0 +1,250 @@
+[
+  {
+    "_id": "5b0dda6e51c44801a268fa73",
+    "_courseId": "5b0dda6c51c44801a268fa70",
+    "_parentId": "5b0dda6c51c44801a268fa70",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5b0dda6e51c44801a268fa73",
+    "displayTitle": "",
+    "body": "",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5b0e204951c44801a268fa78"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "5b0e202851c44801a268fa77",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "New Content Object Title",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "5b0e206851c44801a268fa79",
+      "5b0e251c51c44801a268fa8a",
+      "5b0f6d0387eee63542614e3c",
+      "5b1777db87eee63542614eb7",
+      "5b1094fc87eee63542614e86",
+      "5b0f7fe487eee63542614e59",
+      "5b17792b87eee63542614ebb",
+      "5b17793a87eee63542614ebd",
+      "5b173bd387eee63542614ea3",
+      "5b173bdc87eee63542614ea4",
+      "5b0f824a87eee63542614e61",
+      "5b1042fe87eee63542614e70",
+      "5b1e108b87eee63542614ecb",
+      "5b10479a87eee63542614e73",
+      "5b10486b87eee63542614e75",
+      "5b1889a987eee63542614ec3",
+      "5b104b2387eee63542614e7f",
+      "5b10a0e487eee63542614e94"
+    ],
+    "_childrenIds": [
+      "5b0dda6e51c44801a268fa74",
+      "5b0e251c51c44801a268fa88",
+      "5b0f6b8687eee63542614e38",
+      "5b0f715787eee63542614e42",
+      "5b0f7f2687eee63542614e57",
+      "5b17791587eee63542614eb9",
+      "5b173bb687eee63542614ea1",
+      "5b0f81e387eee63542614e5f",
+      "5b1041d287eee63542614e6a",
+      "5b10477587eee63542614e71",
+      "5b104c1b87eee63542614e80",
+      "5b104b2387eee63542614e7d",
+      "5b10a0e487eee63542614e92"
+    ]
+  }
+]

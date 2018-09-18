@@ -1,0 +1,1256 @@
+[
+  {
+    "_id": "57900a59f25e69d85b9f17a7",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a59f25e69d85b9f17a6",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "PNG",
+        "_id": "579008f4f25e69d85b9f1753"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "PNG",
+        "_id": "57900937f25e69d85b9f1756"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57900a59f25e69d85b9f17a7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "BASQUE_Logo",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "57900cc6f25e69d85b9f17ab",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900cb7f25e69d85b9f17aa",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><i>Modern, feminine, work chic</i></p>",
+    "_refId": "57900cc6f25e69d85b9f17ab",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BASQUE_Strapline",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "57fc34fb4ea87d56dd3ea4d5",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57fc34da4ea87d56dd3ea4d4",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57fc35024ea87d56dd3ea4d6",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "57fc34fb4ea87d56dd3ea4d5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "57900a59f25e69d85b9f17a2",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a59f25e69d85b9f17a1",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57fd77db4ea87d56dd3ea5e4"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57900a59f25e69d85b9f17a2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "BASQUE_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "57900a59f25e69d85b9f17a4",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a59f25e69d85b9f17a1",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE BRAND",
+    "body": "<p style=\"text-align: center;\"><span>Basque is a modern workwear brand famous for soft-structure, quality fabrication and cut. The polished and refined look makes it a staple in the modern workplace.</span></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span>Basque is designed in Melbourne and takes inspiration from leading international brands.</span><br></p>",
+    "_isQuestionType": false,
+    "_refId": "57900a59f25e69d85b9f17a4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BASQUE_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-1"
+  },
+  {
+    "_id": "57900a57f25e69d85b9f176a",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a57f25e69d85b9f1769",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57fd786f4ea87d56dd3ea5e6"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57900a57f25e69d85b9f176a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "BASQUE_SellingPoints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "57900a57f25e69d85b9f176c",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a57f25e69d85b9f1769",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">•\tConsistent, reliable fits</p><p style=\"text-align: center;\">•\tCoordinating range</p><p style=\"text-align: center;\">• Exclusive prints</p><p style=\"text-align: center;\">• Quality and value for money</p><p style=\"text-align: center;\">•\tOn-trend</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Basque is available in all Myer stores.</p>",
+    "displayTitle": "SELLING POINTS",
+    "_isQuestionType": false,
+    "_refId": "57900a57f25e69d85b9f176c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BASQUE_SellingPoiints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f1798",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f1797",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57fd7dbe4ea87d56dd3ea5fa"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57900a58f25e69d85b9f1798",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "BASQUE_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f179a",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f1797",
+    "_layout": "right",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\" class=\"\">The Basque woman is a working professional who leads a busy lifestyle. She is modern, refined and effortless. She also has a love of shopping, whether in-store or online, and seeks on-trend pieces to keep her look continually fresh and interesting.<br></p><p style=\"text-align: center;\" class=\"\"><br></p>",
+    "displayTitle": "WHO SHOPS BASQUE?",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Structured tailoring, fashion dresses, knitwear and blouses make Basque a go-to label for workwear and beyond.<br></p>",
+        "title": "WEARING BASQUE",
+        "_id": "576382315317199730b37c2f",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5763825f5317199730b37c30",
+        "title": "OTHER LOVED BRANDS",
+        "body": "<p style=\"text-align: center;\">If she loves Basque, she might also like Cue, Witchery and Veronika Maine.</p>"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57900a58f25e69d85b9f179a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BASQUE_TheDevoted",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f177b",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f177a",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "FAVOURITE LOOKS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57b3ac531c1761fb0126a693",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "576387055317199730b37c38",
+        "body": "<p style=\"text-align: center;\"><b>EFFORTLESS COORDINATION</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Basque offers fashion tops and blouses in the latest prints and colours, which easily co-ordinate across a range of pants and skirts.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a811567ddf807d145c9a3a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>DRESSES FOR EVERY OCCASION</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Basque has a range of occasion dresses to effortlessly take you from desk to dinner, covering all the latest trends of the season from florals, to lace and stripes.</p><p style=\"text-align: center;\"><br></p>",
+        "_id": "57901d07f25e69d85b9f17ad",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57fd7bc54ea87d56dd3ea5ea",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>COMFORT IN THE DETAIL</b><br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><span>All tailored skirts, dresses and jackets are fully lined in the highest quality poly-satin stretch fabric. This ensures every garment is comfortable to wear and looks great.</span><br></p><p style=\"text-align: center;\"><br></p>",
+        "_id": "5763877c5317199730b37c39",
+        "itemIndex": 2
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57a811fa7ddf807d145c9a3c",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>SUITS ME, SUITS YOU</b><br></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span>Basque has an extensive suiting range made from quality easy-care polyester, viscose and elastane. Underpinned by a collection of black essential suits, they can be mixed and matched, and updated seasonally by adding new on-trend pieces in the same fabric.</span></p>",
+        "_id": "576385fb5317199730b37c37",
+        "itemIndex": 3
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57fd7c864ea87d56dd3ea5ec",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "576387d55317199730b37c3a",
+        "body": "<p style=\"text-align: center;\"><b>PREMIUM KNITWEAR</b><br></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\">Basque knitwear uses premium yarns including Merino wool, silk, viscose and cotton. They’re blended for easy-care properties, zero pilling and a super soft feel.<br></p><p style=\"text-align: center;\"><br></p>"
+      }
+    ],
+    "_narrativeLayout": "Left",
+    "_isQuestionType": false,
+    "_refId": "57900a58f25e69d85b9f177b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BASQUE_FavouriteLooks",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f1773",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f1772",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "displayTitle": "",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57b3b0201c1761fb0126a699"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57900a58f25e69d85b9f1773",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "BASQUE_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f1775",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f1772",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "<div><span style=\"color: rgb(67, 74, 84);\">THE FINE PRINT</span><br></div>",
+    "body": "<div style=\"text-align: center;\"><p>Basque is available exclusively at Myer, in conjunction with Basque Woman which specialises in size 18 – 24 clothing, and a range of stylish Basque footwear and accessories. </p><p><br></p><p><b>PRICE POINT</b></p><p>Camisoles are priced from $25, while coats range up to $230.</p><p><br></p><p><b>SIZES</b></p><p>The brand is true to size and ranges from 6 to 16.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "57900a58f25e69d85b9f1775",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "35"
+    },
+    "title": "BASQUE_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-1"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f1787",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f1786",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Select the image which portrays the Basque style.&nbsp;<br></p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Basque style is tailored, polished and refined; perfect for the workplace.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Refer to Image B.<br></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": ""
+      },
+      "correct": "<p style=\"text-align: center;\"><b>You got it.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Basque style is tailored, polished and refined; perfect for the workplace.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57885729abeb85a33035b795",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image A",
+        "itemIndex": 0,
+        "_id": "575f556e1d1a15230b436fc3"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57fd7d4a4ea87d56dd3ea5f2",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image B",
+        "_id": "575f55861d1a15230b436fc4",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57885678abeb85a33035b791",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image C",
+        "itemIndex": 2,
+        "_id": "575f559c1d1a15230b436fc5"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57885686abeb85a33035b793",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image D",
+        "_id": "575f55ab1d1a15230b436fc6",
+        "itemIndex": 3
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57900a58f25e69d85b9f1787",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BYJOHNNY_ThinkYouKnow?",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f178d",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f178c",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select three Basque selling points.</p>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>That’s right.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Basque is an on-trend label with easy to coordinate ranges and consistent, reliable fits.<br></p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Partly correct.</b></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\" class=\"\">Basque is an on-trend label with easy to coordinate ranges and consistent, reliable fits.<br></p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Incorrect.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Basque is an on-trend label with easy to coordinate ranges and consistent, reliable fits.<br></p>",
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_id": "57730108253db5b503cbbf94",
+        "itemIndex": 0,
+        "text": "Consistent, reliable fits "
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 1,
+        "_id": "57730109253db5b503cbbf95",
+        "text": "Bohemian inspired"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 2,
+        "_id": "5773010b253db5b503cbbf97",
+        "text": "Coordinating range <br>"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_id": "5773010c253db5b503cbbf98",
+        "itemIndex": 3,
+        "text": "On-trend "
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 4,
+        "_id": "57730117253db5b503cbbf99",
+        "text": "Denim collection"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "57900a58f25e69d85b9f178d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "57900a58f25e69d85b9f1793",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57900a58f25e69d85b9f1792",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "STYLE EXTRAS",
+    "body": "<p style=\"text-align: center;\">Take a look at the Basque range of clothes, footwear and accessories here.</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "BASQUE @ MYER",
+        "body": "<p style=\"text-align: center;\"><br></p>",
+        "link": "http://www.myer.com.au/shop/mystore/featured-brand-basque",
+        "_id": "57832d54229249f3601cfed2",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57900a58f25e69d85b9f1793",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BASQUE_StyleExtras",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "57fc36b74ea87d56dd3ea4dd",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57fc36b74ea87d56dd3ea4dc",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57fc36b74ea87d56dd3ea4dd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "57fc373a4ea87d56dd3ea4df",
+    "_courseId": "57900a57f25e69d85b9f175f",
+    "_parentId": "57fc373a4ea87d56dd3ea4de",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57fc373a4ea87d56dd3ea4df",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  }
+]

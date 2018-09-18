@@ -1,0 +1,511 @@
+{
+  "_id": "57d9dacd9e3a4b79899f124a",
+  "_menu": "standardMenu",
+  "_theme": "myerTheme",
+  "_courseId": "57d9dacd9e3a4b79899f1248",
+  "__v": 850,
+  "_themeSettings": {
+    "_colors": {
+      "_labelAlternative": {
+        "@label-alt-text-color": "#454545",
+        "@label-alt-background-color": "rgba(238,238,238,1)"
+      },
+      "_markingAlternative": {
+        "@marking-alt-incorrect-color": "rgba(0,0,0,1)",
+        "@marking-alt-correct-color": "rgba(0,0,0,1)",
+        "@marking-alt-icon-color": "rgba(139,93,93,0)"
+      },
+      "_captionAlternative": {
+        "@caption-alt-text-color": "#454545",
+        "@caption-alt-background-color": "#eeeeee"
+      },
+      "_attemptsCounterAlternative": {
+        "@attempts-counter-alt-text-color": "#454545",
+        "@attempts-counter-alt-border-color": "#454545",
+        "@attempts-counter-alt-background-color": "#eaeaea"
+      },
+      "_buttonAlternative": {
+        "@button-alt-text-disabled-color": "rgba(177,177,177,1)",
+        "@button-alt-text-hover-color": "rgba(0,0,0,1)",
+        "@button-alt-text-color": "rgba(0,0,0,1)",
+        "@button-alt-border-disabled-color": "rgba(177,177,177,0.8)",
+        "@button-alt-border-hover-color": "rgba(0,0,0,1)",
+        "@button-alt-border-color": "rgba(0,0,0,1)",
+        "@button-alt-background-disabled-color": "rgba(216,216,216,0.1)",
+        "@button-alt-background-hover-color": "rgba(233,81,48,0.1)",
+        "@button-alt-background-color": "rgba(255,255,255,1)"
+      },
+      "_componentItemAlternative": {
+        "@component-item-alt-body-background-color": "rgba(154,154,154,1)",
+        "@component-item-alt-body-text-color": "#454545",
+        "@component-item-alt-title-text-color": "#454545",
+        "@component-item-alt-text-visited-color": "rgba(70,70,70,1)",
+        "@component-item-alt-text-disabled-color": "rgba(153,153,153,1)",
+        "@component-item-alt-text-selected-color": "rgba(0,0,0,1)",
+        "@component-item-alt-text-hover-color": "rgba(51,51,51,1)",
+        "@component-item-alt-text-color": "#000000",
+        "@component-item-alt-border-visited-color": "rgba(0,0,0,1)",
+        "@component-item-alt-border-disabled-color": "rgba(0,0,0,1)",
+        "@component-item-alt-border-selected-color": "#000000",
+        "@component-item-alt-border-hover-color": "#000000",
+        "@component-item-alt-border-color": "rgba(0,0,0,1)",
+        "@component-item-alt-background-visited-color": "rgba(247,247,247,1)",
+        "@component-item-alt-background-disabled-color": "rgba(247,247,247,1)",
+        "@component-item-alt-background-selected-color": "rgba(253,237,234,1)",
+        "@component-item-alt-background-hover-color": "rgba(253,237,234,1)",
+        "@component-item-alt-background-color": "rgba(255,255,255,1)"
+      },
+      "_componentAlternative": {
+        "@component-alt-instruction-text-color": "#454545",
+        "@component-alt-body-text-color": "#666666",
+        "@component-alt-title-text-color": "#454545"
+      },
+      "_contentRowAlternative": {
+        "@content-row-alt-border-color": "rgba(126,211,33,0)",
+        "@content-row-alt-body-text-color": "#666666",
+        "@content-row-alt-title-text-color": "#454545"
+      },
+      "_achievements": {
+        "@achievements-lives-color": "#ed5565",
+        "@achievements-stars-color": "#ffce54",
+        "@achievements-points-color": "#48cfad"
+      },
+      "_notificationBadge": {
+        "@notification-badge-text-color": "#FFFFFF",
+        "@notification-badge-background-color": "#e95130"
+      },
+      "_loading": {
+        "@loading-text-color": "rgba(233,81,48,0.38)"
+      },
+      "_marking": {
+        "@marking-incorrect-color": "rgba(0,0,0,1)",
+        "@marking-correct-color": "rgba(0,0,0,1)",
+        "@marking-icon-color": "rgba(0,0,0,1)"
+      },
+      "_progressBar": {
+        "@progress-bar-text-color": "#454545",
+        "@progress-bar-border-color": "#ecf0f1",
+        "@progress-bar-indicator-color": "#48cfad",
+        "@progress-bar-background-color": "#e0e0e8"
+      },
+      "_score": {
+        "@score-label-color": "#454545",
+        "@score-text-color": "#ffffff",
+        "@score-background-color": "#454545"
+      },
+      "_chart": {
+        "@chart-highlight-color": "#48cfad",
+        "@chart-label-color": "#454545",
+        "@chart-text-color": "#454545",
+        "@chart-background-color": "#ccd1d9"
+      },
+      "_label": {
+        "@label-text-color": "rgba(0,0,0,1)",
+        "@label-background-color": "rgba(251,220,215,1)"
+      },
+      "_caption": {
+        "@caption-text-color": "#ffffff",
+        "@caption-background-color": "#e95130"
+      },
+      "_collection": {
+        "@collection-item-footer-text-color": "#454545",
+        "@collection-item-footer-background-color": "#ebecee",
+        "@collection-item-text-color": "#454545",
+        "@collection-item-background-color": "#ffffff"
+      },
+      "_list": {
+        "@list-text-color": "#454545",
+        "@list-background-odd-color": "rgba(228,228,228,0.3)",
+        "@list-background-color": "rgba(228,228,228,0.5)"
+      },
+      "_attemptsCounter": {
+        "@attempts-counter-text-color": "#999999",
+        "@attempts-counter-border-color": "#999999",
+        "@attempts-counter-background-color": "#ffffff"
+      },
+      "_footer": {
+        "@footer-counter-text-color": "#454545",
+        "@footer-counter-background-color": "#ebecee",
+        "@footer-link-text-hover-color": "#3bafda",
+        "@footer-link-text-color": "#4fc1e9",
+        "@footer-link-background-hover-color": "#ffffff",
+        "@footer-link-background-color": "#ffffff",
+        "@footer-background-color": "#ffffff"
+      },
+      "_buttonWarning": {
+        "@button-warning-text-disabled-color": "#bdc3c7",
+        "@button-warning-text-hover-color": "#ffffff",
+        "@button-warning-text-color": "#FFFFFF",
+        "@button-warning-border-disabled-color": "#a1a1a1",
+        "@button-warning-border-hover-color": "#ffffff",
+        "@button-warning-border-color": "#ffffff",
+        "@button-warning-background-disabled-color": "#dfdfdf",
+        "@button-warning-background-hover-color": "#f98870",
+        "@button-warning-background-color": "#e95130"
+      },
+      "_button": {
+        "@button-text-disabled-color": "rgba(255,255,255,1)",
+        "@button-text-hover-color": "rgba(0,0,0,1)",
+        "@button-text-color": "rgba(0,0,0,1)",
+        "@button-border-disabled-color": "rgba(177,177,177,1)",
+        "@button-border-hover-color": "rgba(0,0,0,1)",
+        "@button-border-color": "rgba(0,0,0,1)",
+        "@button-background-disabled-color": "rgba(233,81,48,0.1)",
+        "@button-background-hover-color": "rgba(233,81,48,0.1)",
+        "@button-background-color": "rgba(255,255,255,1)"
+      },
+      "_notify": {
+        "@notify-button-text-hover-color": "#ffffff",
+        "@notify-button-text-color": "rgba(0,0,0,1)",
+        "@notify-button-border-hover-color": "rgba(233,81,48,1)",
+        "@notify-button-border-color": "rgba(233,81,48,1)",
+        "@notify-button-background-hover-color": "rgba(233,81,48,1)",
+        "@notify-button-background-color": "rgba(251,220,215,1)",
+        "@notify-icon-color": "rgba(251,220,215,1)",
+        "@notify-body-text-color": "#666666",
+        "@notify-title-text-color": "#454545",
+        "@notify-background-color": "#ffffff"
+      },
+      "_navigation": {
+        "@navigation-mobile-icon-hover-color": "#e95130",
+        "@navigation-mobile-icon-color": "#2c3e50",
+        "@navigation-mobile-background-color": "#ecf0f1",
+        "@navigation-highlight-icon-hover-color": "#ecf0f1",
+        "@navigation-highlight-icon-color": "#ecf0f1",
+        "@navigation-highlight-hover-color": "#5d9cec",
+        "@navigation-highlight-color": "#4a89dc",
+        "@navigation-icon-selected-hover-color": "#4a89dc",
+        "@navigation-icon-selected-color": "#e95130",
+        "@navigation-icon-disabled-color": "#eeeeee",
+        "@navigation-icon-hover-color": "#e95130",
+        "@navigation-icon-color": "#e95130",
+        "@navigation-background-color": "rgba(245,249,250,1)"
+      },
+      "_componentItem": {
+        "@component-item-body-background-color": "#ffffff",
+        "@component-item-body-text-color": "#454545",
+        "@component-item-title-text-color": "#454545",
+        "@component-item-text-visited-color": "#000000",
+        "@component-item-text-disabled-color": "rgba(153,153,153,1)",
+        "@component-item-text-selected-color": "rgba(0,0,0,1)",
+        "@component-item-text-hover-color": "rgba(0,0,0,1)",
+        "@component-item-text-color": "#000000",
+        "@component-item-border-visited-color": "#000000",
+        "@component-item-border-disabled-color": "#eaeaea",
+        "@component-item-border-selected-color": "rgba(0,0,0,1)",
+        "@component-item-border-hover-color": "rgba(0,0,0,1)",
+        "@component-item-border-color": "rgba(0,0,0,1)",
+        "@component-item-background-visited-color": "rgba(253,253,253,0.6)",
+        "@component-item-background-disabled-color": "#f7f7f7",
+        "@component-item-background-selected-color": "rgba(233,81,48,0.1)",
+        "@component-item-background-hover-color": "rgba(233,81,48,0.1)",
+        "@component-item-background-color": "rgba(255,255,255,0.6)"
+      },
+      "_component": {
+        "@component-instruction-text-color": "#454545",
+        "@component-body-text-color": "#666666",
+        "@component-title-text-color": "#454545"
+      },
+      "_contentRow": {
+        "@content-row-border-color": "rgba(255,255,255,1)",
+        "@content-row-body-text-color": "#666666",
+        "@content-row-title-text-color": "#454545"
+      },
+      "_contentStandOut": {
+        "@content-stand-out-icon-color": "rgba(255,255,255,0)",
+        "@content-stand-out-icon-background-color": "rgba(255,255,255,0)",
+        "@content-stand-out-background-color": "rgba(255,255,255,0)"
+      },
+      "_contentSummary": {
+        "@content-summary-title-background-color": "#e95130",
+        "@content-summary-body-text-color": "#666666",
+        "@content-summary-title-text-color": "rgba(255,255,255,1)",
+        "@content-summary-background-color": "rgba(245,249,250,0.2)"
+      },
+      "_contentKnowledgeCheck": {
+        "@content-knowledge-check-title-background-color": "#000000",
+        "@content-knowledge-check-body-text-color": "#ffffff",
+        "@content-knowledge-check-title-text-color": "#ffffff",
+        "@content-knowledge-check-background-color": "#ffffff"
+      },
+      "_contentArticle": {
+        "@content-article-border-color": "#e95130",
+        "@content-article-body-text-color": "#666666",
+        "@content-article-title-text-color": "#454545",
+        "@content-article-background-color": "rgba(255,255,255,1)"
+      },
+      "_contentDefault": {
+        "@content-default-body-text-color": "#666666",
+        "@content-default-title-text-color": "rgba(69,69,69,1)",
+        "@content-default-background-color": "rgba(245,249,250,0.2)"
+      },
+      "_heroImage": {
+        "@hero-body-text-color": "rgba(255,255,255,1)",
+        "@hero-title-text-color": "rgba(255,255,255,1)"
+      },
+      "_header": {
+        "@header-info-background-color": "rgba(255,255,255,0)",
+        "@header-info-text-color": "rgba(51,51,51,1)",
+        "@header-body-text-color": "rgba(51,51,51,1)",
+        "@header-title-text-color": "rgba(51,51,51,1)",
+        "@header-background-color": "rgba(233,81,48,0)"
+      },
+      "_course": {
+        "@course-background-color": "rgba(255,255,255,1)"
+      }
+    },
+    "_fonts": {
+      "_contentBodyTitle": {
+        "_variables": {
+          "@component-body-font-family": "Titillium Web",
+          "@component-body-font-size": 25,
+          "@component-body-font-weight": 700,
+          "@component-body-font-line-height": 1.25
+        },
+        "_fontType": "theme",
+        "_fontFamily": "Titillium Web"
+      },
+      "_componentTitle": {
+        "_fontFamily": "Playfair Display",
+        "_fontType": "google",
+        "_variables": {
+          "@component-title-font-line-height": 1.25,
+          "@component-title-font-weight": 300,
+          "@component-title-font-size": 45,
+          "@component-title-font-family": "Playfair Display"
+        }
+      },
+      "_contentRowTitle": {
+        "_fontFamily": "Playfair Display",
+        "_fontType": "google",
+        "_variables": {
+          "@content-row-title-font-line-height": 1.25,
+          "@content-row-title-font-weight": 300,
+          "@content-row-title-font-size": 45,
+          "@content-row-title-font-family": "Playfair Display"
+        }
+      },
+      "_contentTitle": {
+        "_fontFamily": "Playfair Display",
+        "_fontType": "google",
+        "_variables": {
+          "@content-title-font-line-height": 1.25,
+          "@content-title-font-weight": 300,
+          "@content-title-font-size": 45,
+          "@content-title-font-family": "Playfair Display"
+        }
+      },
+      "_header": {
+        "_fontFamily": "Playfair Display",
+        "_fontType": "google",
+        "_variables": {
+          "@header-font-line-height": 1.25,
+          "@header-font-weight": 300,
+          "@header-font-size": 45,
+          "@header-font-family": "Playfair Display"
+        }
+      },
+      "_heroTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@hero-title-font-line-height": 1.25,
+          "@hero-title-font-weight": 700,
+          "@hero-title-font-size": 45,
+          "@hero-title-font-family": "Titillium Web"
+        }
+      },
+      "_body": {
+        "_fontFamily": "Apercu-Light",
+        "_fontType": "installed",
+        "_variables": {
+          "@body-font-weight": 200,
+          "@body-font-size": 20,
+          "@body-font-family": "Apercu-Light"
+        }
+      }
+    },
+    "_articleStyles": {
+      "stand-out": "Stand Out",
+      "summary": "Summary",
+      "knowledge-check": "Knowledge Check",
+      "content": "Content",
+      "default": "Default"
+    },
+    "_isEnabled": true
+  },
+  "_publishSettings": {
+    "_offline": {
+      "_isEnabled": false
+    },
+    "_scorm": {
+      "_shouldNotUseCDATA": false,
+      "_reporting": {
+        "_onAssessmentFailure": "incomplete",
+        "_onTrackingCriteriaMet": "passed"
+      },
+      "_tracking": {
+        "_shouldSubmitScore": false,
+        "_requireAssessmentPassed": false,
+        "_requireCourseCompleted": true
+      },
+      "_shouldUseScrollFix": false,
+      "_shouldUsePopup": false,
+      "_scormVersion": "1.2",
+      "_isEnabled": false
+    },
+    "_tracker": {
+      "_pushData": "../../api/usersCourse",
+      "_getData": "../../api/usersCourse",
+      "_login": "../../api/login",
+      "_auth": "../../api/isAuthenticated",
+      "_isEnabled": false
+    },
+    "_preset": "web"
+  },
+  "_assets": [
+    {
+      "_id": "57da01b29e3a4b79899f131c"
+    },
+    {
+      "_id": "57da024c9e3a4b79899f131e"
+    },
+    {
+      "_id": "5760e09d1d1a15230b437096"
+    },
+    {
+      "_id": "5760e2031d1a15230b437099"
+    },
+    {
+      "_id": "57b416871c1761fb0126a6d0"
+    },
+    {
+      "_id": "57da03e19e3a4b79899f1321"
+    },
+    {
+      "_id": "57a2d84d29095f9a6b9a4cb8"
+    },
+    {
+      "_id": "57ecb089ab4ef80802834ca9"
+    },
+    {
+      "_id": "57ecb098ab4ef80802834cab"
+    },
+    {
+      "_id": "57db5255be45bf072671df92"
+    },
+    {
+      "_id": "57f480ef4ea87d56dd3ea230"
+    },
+    {
+      "_id": "57ff028c4ea87d56dd3ea7d5"
+    },
+    {
+      "_id": "57f4810d4ea87d56dd3ea233"
+    },
+    {
+      "_id": "57db683dbe45bf072671dfa0"
+    },
+    {
+      "_id": "57f481524ea87d56dd3ea23a"
+    },
+    {
+      "_id": "57ff02b44ea87d56dd3ea7d7"
+    },
+    {
+      "_id": "57f4812e4ea87d56dd3ea238"
+    },
+    {
+      "_id": "57db697dbe45bf072671dfa5"
+    },
+    {
+      "_id": "57f477c84ea87d56dd3ea211"
+    },
+    {
+      "_id": "57db6eb3be45bf072671dfaf"
+    },
+    {
+      "_id": "57f47bcc4ea87d56dd3ea21c"
+    },
+    {
+      "_id": "57db6e3dbe45bf072671dfaa"
+    },
+    {
+      "_id": "57f479514ea87d56dd3ea217"
+    },
+    {
+      "_id": "57db7028be45bf072671dfb3"
+    },
+    {
+      "_id": "57f47e414ea87d56dd3ea222"
+    },
+    {
+      "_id": "57db7088be45bf072671dfb8"
+    },
+    {
+      "_id": "57f47e584ea87d56dd3ea224"
+    },
+    {
+      "_id": "57e1e93898d08a30563af097"
+    },
+    {
+      "_id": "57e1ed7598d08a30563af09a"
+    },
+    {
+      "_id": "57a837747ddf807d145c9a57"
+    },
+    {
+      "_id": "57a833787ddf807d145c9a4d"
+    },
+    {
+      "_id": "57a128c15abc95075a0a5d5c"
+    },
+    {
+      "_id": "57da0d289e3a4b79899f1325"
+    },
+    {
+      "_id": "57da0e139e3a4b79899f1327"
+    },
+    {
+      "_id": "57a129835abc95075a0a5d60"
+    },
+    {
+      "_id": "57e1c81f98d08a30563af061"
+    },
+    {
+      "_id": "57ecb0bbab4ef80802834cad"
+    },
+    {
+      "_id": "599b80eaebca4a4008795070"
+    },
+    {
+      "_id": "599b80f9ebca4a4008795071"
+    },
+    {
+      "_id": "57fc84674ea87d56dd3ea55e"
+    },
+    {
+      "_id": "57da20da9e3a4b79899f1349"
+    },
+    {
+      "_id": "57e1c9fa98d08a30563af065"
+    },
+    {
+      "_id": "57db70e2be45bf072671dfc4"
+    },
+    {
+      "_id": "57f47e744ea87d56dd3ea226"
+    }
+  ],
+  "_components": [
+    "links",
+    "graphic",
+    "text",
+    "flipCard",
+    "matching",
+    "media",
+    "narrative",
+    "accordion"
+  ],
+  "_extensions": []
+}

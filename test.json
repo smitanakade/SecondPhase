@@ -1,0 +1,37 @@
+{
+  "body": {
+    "ProgramId": 10034,
+    "CardNumber": "62734160014469980",
+    "DesignType": "VMY123",
+    "SerialNumber": "1446998",
+    "AvailableBalance": 0,
+    "CurrentBalance": 0,
+    "IssuanceDate": "2017-02-20T11:31:32.237",
+    "ExpiryDate": "2019-02-20T00:00:00",
+    "CardStatusId": 1,
+    "Timestamp": "2017-02-20T12:17:37.39",
+    "NotificationId": "2"
+  },
+  "headers": {
+    "CloudFront-Forwarded-Proto": "https",
+    "CloudFront-Is-Desktop-Viewer": "true",
+    "CloudFront-Is-Mobile-Viewer": "false",
+    "CloudFront-Is-SmartTV-Viewer": "false",
+    "CloudFront-Is-Tablet-Viewer": "false",
+    "CloudFront-Viewer-Country": "AU",
+    "Content-Type": "application/json",
+    "Host": "mgsxbzxf14.execute-api.ap-southeast-2.amazonaws.com",
+    "Via": "1.1 b4479f202bc7050d8c458896bb43d335.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "ELQ5myOV0jiIqf0qR6Yy-Fyzt0ZarYpNssHRLASBnwKNZBf9au_P8A==",
+    "X-Amzn-Trace-Id": "Root=1-58ab7569-4b988af71e5d774f62e7391a",
+    "X-Forwarded-For": "52.64.57.222, 54.240.152.81",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https",
+    "X-Vii-NotificationId": "2",
+    "X-Vii-NotificationType": "BalanceUp",
+    "X-Vii-Signature": "bul1G6/ZDQxiBfUHMf9O4R+pevB4hHUkPzDRh5JZ51g="
+  },
+  "method": "POST",
+  "params": {},
+  "query": {}
+}

@@ -1,0 +1,1635 @@
+[
+  {
+    "_id": "5aaa23c03865607d6dca30cd",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5aaa23a23865607d6dca30cb",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "BACK",
+        "_id": "5aaa23c73865607d6dca30cf",
+        "itemIndex": 0,
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5aaa23c03865607d6dca30cd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a8266bb3865607d6dca1cf6",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220323865607d6dca1724",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a8266bb3865607d6dca1cf6",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a822adf3865607d6dca17ba",
+    "_component": "gallery",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a822e6d3865607d6dca17d5",
+    "_items": [
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5a8227a53865607d6dca178f",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          },
+          "small": {
+            "_id": "5a8227a53865607d6dca178f",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5a822af43865607d6dca17bd"
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5a8227a63865607d6dca1790",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          },
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5a8227a63865607d6dca1790"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5a822b073865607d6dca17c0"
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5a8227a73865607d6dca1791",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          },
+          "small": {
+            "_id": "5a8227a73865607d6dca1791",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5a822b1a3865607d6dca17c3"
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5a8227a83865607d6dca1792",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          },
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5a8227a83865607d6dca1792"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "5a822b313865607d6dca17c6"
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5a8227a93865607d6dca1793",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          },
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5a8227a93865607d6dca1793"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "5a822b403865607d6dca17c9"
+      }
+    ],
+    "_thumbnailPosition": "bottom",
+    "_autoplaySpeed": 3000,
+    "_shouldAutoplay": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a822adf3865607d6dca17ba",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gallery Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5aa79b653865607d6dca2c90",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a83b74c3865607d6dca1ed2",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5aa79b653865607d6dca2c90",
+    "displayTitle": "So with this much diversity, how do we write rules about what colours people can and can't wear?",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The answer is: We don't! </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The idea that our hair colour, eye colour, or skin colour dictates the colours we can wear, or that we are limited to a palette of colours according to whether we are defined as 'warm' or 'cool', or 'summer' or 'autumn', is out of vogue.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The fact is, anyone can wear any colour. You just need to find the shade that works for you and what you like.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "30"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a8651be3865607d6dca1f8c",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8651ac3865607d6dca1f8a",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59276ae712738a8767f99127"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "59276c4f12738a8767f99128",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a8651be3865607d6dca1f8c",
+    "graphicText": "<p style=\"text-align: center;\">It's a new era in fashion -<br>there are no rules</p><p style=\"text-align: center;\"><sub><br></sub></p><p style=\"text-align: center;\"><sub>- Alexander McQueen</sub></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a864f5c3865607d6dca1f77",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a864f3b3865607d6dca1f75",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a864f5c3865607d6dca1f77",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a83a7e93865607d6dca1dcb",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a83a7c33865607d6dca1dc7",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_graphic": {
+          "large": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a8227aa3865607d6dca1797"
+          },
+          "small": {
+            "_id": "5a8227aa3865607d6dca1797",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_itemBodyColor": "transparent",
+        "body": "<div><div><p style=\"text-align: center;\">Hold the garment up to your skin, and observe.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Does it make you look healthy? If it does, the shade works for you. Does it make you look grey and unwell? If so, it doesn't.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Of course, you can still wear the shade, just wear it away from your face.</p><br></div></div>",
+        "_id": "5a83a8153865607d6dca1dcf",
+        "itemIndex": 0
+      }
+    ],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a83a7e93865607d6dca1dcb",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "5a83a9143865607d6dca1dee",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a83a8ef3865607d6dca1de6",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_graphic": {
+          "large": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a8227aa3865607d6dca1794"
+          },
+          "small": {
+            "_id": "5a8227aa3865607d6dca1794",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_itemBodyColor": "transparent",
+        "body": "<p style=\"text-align: center;\">Neutrals are the most difficult colours to work with as shades that are close to your own skin tone can make you appear 'washed out' or even naked!</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">So, a beige may not work alongside pale skin, whereas a neutral that has pink tones may give the wearer a fresh, youthful look. And of course, these colours may have the opposite effect on someone else.</p>",
+        "_id": "5a83a9213865607d6dca1df0",
+        "itemIndex": 0
+      }
+    ],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a83a9143865607d6dca1dee",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "5a83ab923865607d6dca1e2f",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a83ab883865607d6dca1e2d",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_graphic": {
+          "large": {
+            "_id": "5a83af9b3865607d6dca1e5d",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          },
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a83af9b3865607d6dca1e5d"
+          }
+        },
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_itemBodyColor": "transparent",
+        "itemIndex": 0,
+        "_id": "5a83aba33865607d6dca1e31",
+        "body": "<div><p style=\"text-align: center;\">Black, white and grey work well on most people, as do navy, olive and chocolate.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If red, orange and pink tones make skin appear flushed or red-faced - choose cooler tones.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If blue, green or violet tones make skin appear lifeless or grey - choose warmer tones.</p></div>"
+      }
+    ],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a83ab923865607d6dca1e2f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-4-0"
+  },
+  {
+    "_id": "5a83ad213865607d6dca1e4c",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a83acf93865607d6dca1e48",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_graphic": {
+          "large": {
+            "_id": "5a8227aa3865607d6dca1796",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          },
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a8227aa3865607d6dca1796"
+          }
+        },
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_itemBodyColor": "transparent",
+        "itemIndex": 0,
+        "_id": "5a83ad2e3865607d6dca1e4e",
+        "body": "<p style=\"text-align: center;\">It is ultimately your opinion, and how you see yourself that matters. If it makes you feel good? Wear it!</p>"
+      }
+    ],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a83ad213865607d6dca1e4c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-5-0"
+  },
+  {
+    "_id": "5a8220323865607d6dca1727",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a83cc3e3865607d6dca1f50",
+    "__v": 0,
+    "body": "",
+    "_refId": "58e6c16caf77c6741fdb1c5f",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a83af473865607d6dca1e59"
+      },
+      "small": {
+        "_id": "5a83af473865607d6dca1e59",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a8250a03865607d6dca1b3a",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220323865607d6dca1726",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a8250a03865607d6dca1b3a",
+    "body": "<p style=\"text-align: center;\">As a trusted fashion advisor, you need to give them the freedom to express personal taste, style and identity.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Your role is to support them with your knowledge.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We all see colour differently. Our brains interpret the light bouncing off a tomato and decide that it's red, however the individual interpretation varies... and as a result different people experience colours differently.<br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5a83b1193865607d6dca1e81",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a83b1073865607d6dca1e7f",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a82278e3865607d6dca178e"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a83abbf3865607d6dca1e33",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a83b1193865607d6dca1e81",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "5aa78c9a3865607d6dca2be8",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5aa78c963865607d6dca2be6",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "TO&nbsp;INTRODUCE A COLOUR THE CUSTOMER MAY NOT HAVE TRIED BEFORE:",
+        "_id": "5aa78cb33865607d6dca2bec",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">\"Have you thought about wearing a yellow?\"</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">\"Can I show you some different shades of yellow to find the one that works best with your skin tone?\"</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">\"Have you thought about wearing it away from your face?\"</p>",
+        "itemIndex": 1,
+        "_id": "5aa78d223865607d6dca2bff",
+        "title": "IF A CUSTOMER TELLS YOU A PARTICULAR SHADE DOESN'T WORK FOR THEM:"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<div style=\"text-align: center;\">\"Can I show you how it looks against your skin?\"</div>",
+        "itemIndex": 2,
+        "_id": "5aa78d523865607d6dca2c04",
+        "title": "TO INVITE A CUSTOMER TO TRY A COLOUR NEXT TO THE SKIN:<br>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "WHEN A CUSTOMER TRIES A COLOUR NEXT TO THEIR SKIN:<br>",
+        "_id": "5aa78d773865607d6dca2c08",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: center;\">\"What do you think? Do you like the way it makes your skin look?\"</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5aa78c9a3865607d6dca2be8",
+    "body": "<p style=\"text-align: center;\">Here are some suggestions on how to bring colour into style conversations:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "9"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a8220343865607d6dca1776",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220343865607d6dca1775",
+    "__v": 0,
+    "_refId": "591d26e6ad04f4d3201a7c3a",
+    "body": "",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "",
+        "itemTitle": "TED TALK: THE BEAUTY OF HUMAN SKIN IN EVERY COLOUR",
+        "_id": "58e48938af77c6741fdb1b07",
+        "itemIndex": 0,
+        "link": "https://www.ted.com/talks/angelica_dass_the_beauty_of_human_skin_in_every_color"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://humanae.tumblr.com/",
+        "itemTitle": "HUMANAE TUMBLR",
+        "_id": "5a825d753865607d6dca1c3a",
+        "itemIndex": 1
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a825f9f3865607d6dca1c8c",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a825ced3865607d6dca1c23",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "HOW DO WE SEE COLOUR?",
+        "_id": "5a825ffa3865607d6dca1c9a",
+        "itemIndex": 0,
+        "link": "https://youtu.be/pvC9MQvqHMQ"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a825f9f3865607d6dca1c8c",
+    "body": "<p style=\"text-align: center;\">To find out more about the science of seeing colour, watch 'How Do We See Colour?'</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5a8260b33865607d6dca1cb6",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8260983865607d6dca1cb1",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "STYLING WITH COLOUR",
+        "_id": "5a8260fd3865607d6dca1cc2",
+        "itemIndex": 0,
+        "link": "http://www.myeracademy.com.au/content/styling-with-colour/index.html"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/styling-with-neutrals/index.html",
+        "itemIndex": 1,
+        "_id": "5a82611f3865607d6dca1cc8",
+        "itemTitle": "STYLING WITH NEUTRALS"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a8260b33865607d6dca1cb6",
+    "body": "<div style=\"text-align: center;\">And finally, you can take a look at the other Learning Moments in the Elements of Style series here:</div>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "5aaa24723865607d6dca30d8",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5aaa24633865607d6dca30d6",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "BACK",
+        "_id": "5aaa24793865607d6dca30da",
+        "itemIndex": 0,
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5aaa24723865607d6dca30d8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a8220343865607d6dca1773",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220343865607d6dca1772",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "591d267dad04f4d3201a7c34",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

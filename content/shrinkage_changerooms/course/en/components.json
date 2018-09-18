@@ -1,0 +1,656 @@
+[
+  {
+    "_id": "59e67326960db223cd2d24e2",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "59e67317960db223cd2d24e0",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59e67326960db223cd2d24e2",
+    "body": "<p style=\"text-align: center;\">Welcome to a series of Shrinkage Learning Moments, designed to highlight the importance of shrinkage at Myer and how customer service can deter dishonest behaviour.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This Learning Moment shows you how customer service can deter customer dishonesty in the change room.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59bf3845c7eab8472b8cb6f5",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "59bf380bc7eab8472b8cb6f4",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf384fc7eab8472b8cb6f6",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf3845c7eab8472b8cb6f5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a0a0aded9f1d573fdb21dde",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "5a0a0ad5d9f1d573fdb21ddc",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0a0aded9f1d573fdb21dde",
+    "body": "<p style=\"text-align: center;\">Effective change room management is part of the shrinkage management plan.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Start your day by reviewing the plan so you have a clear understanding of your role for the day.</p>",
+    "displayTitle": "PART OF THE PLAN",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a0a0ae6d9f1d573fdb21de2",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "5a0a0ae0d9f1d573fdb21de0",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c470620005ec9f2cf646fd"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0a0ae6d9f1d573fdb21de2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "59c999dbf3194782409b1143",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "59c999d6f3194782409b1142",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "59c470620005ec9f2cf646fe",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">Maintain great housekeeping by removing clothing and hangers from the change rooms.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Report any evidence of theft via the suspected theft reporting process. Evidence includes:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tSwing tags and pricing tickets</p><p style=\"text-align: center;\">•\tEmpty packaging and boxes</p><p style=\"text-align: center;\">•\tBroken EAS tags</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These are often concealed above mirrors or under carpets and chairs.</p>",
+        "itemIndex": 0,
+        "_id": "59c999fbf3194782409b1144",
+        "title": "PREPARE"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c470620005ec9f2cf64701"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<div style=\"text-align: center;\">Greet the customer and offer to take their items to the change room.<br></div>",
+        "_id": "59c999fcf3194782409b1145",
+        "itemIndex": 1,
+        "title": "PROVIDE SERVICE"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "59c470620005ec9f2cf64700",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<div style=\"text-align: center;\">Make a mental note of the quantity of garments being taken into the change rooms and comment on the customer's choices to get them excited.<br></div>",
+        "title": "PROVIDE SERVICE",
+        "itemIndex": 2,
+        "_id": "59c999fdf3194782409b1146"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "59c470620005ec9f2cf646ff",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "_id": "59c999fef3194782409b1147",
+        "itemIndex": 3,
+        "title": "PROVIDE SERVICE",
+        "body": "<div style=\"text-align: center;\">When the customer is ready, walk them to the change room and hang up their items.<br></div>"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c470620005ec9f2cf64703"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 4,
+        "_id": "59c999fef3194782409b1148",
+        "body": "<div style=\"text-align: center;\">Check the items the customer wants to buy and those that need to be returned to the shop floor, against the items originally taken into the change rooms. Remember to thank them.<br></div>",
+        "title": "PROCESS MERCHANDISE"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c470620005ec9f2cf64705"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">Check that the merchandise protection devices are in place on all items and return the merchandise either directly to the shop floor or the staging area.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Always ensure the change room is clear for the next customer.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Merchandise from the change room should be removed regularly throughout the day in line with the change room plan. </p>",
+        "title": "PROCESS MERCHANDISE",
+        "_id": "59c999fff3194782409b1149",
+        "itemIndex": 5
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c999dbf3194782409b1143",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "PREPARE",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "59bf33d0c7eab8472b8cb6eb",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "59bf33aec7eab8472b8cb6ea",
+    "_items": [],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf33d0c7eab8472b8cb6eb",
+    "body": "<p style=\"text-align: center;\">Let’s recap some key points.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1.\tReview the shrinkage management plan at the start of each day to understand your role.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2.\tCheck change rooms after each customer for clothing, tickets, packaging and broken EAS tags.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">3.\tIf necessary, report any evidence of theft via the suspected theft process.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">4.\tProvide excellent customer service to deter dishonest behaviour in the change rooms.</p><p></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CONCLUSION",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59bf36afc7eab8472b8cb6ee",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "59bf3692c7eab8472b8cb6ed",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf36b7c7eab8472b8cb6ef",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf36afc7eab8472b8cb6ee",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59bf36fac7eab8472b8cb6f2",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5977ddb1e97c1eb7433f4071",
+    "_parentId": "59bf36f1c7eab8472b8cb6f1",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "599b80eaebca4a4008795070",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf36fac7eab8472b8cb6f2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  }
+]

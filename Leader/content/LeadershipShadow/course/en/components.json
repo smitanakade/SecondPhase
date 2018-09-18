@@ -1,0 +1,536 @@
+[
+  {
+    "_id": "59802a2e3a2dea2f1cf9e647",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "597fd6b83a2dea2f1cf9e50e",
+    "_parentId": "597ff6ec3a2dea2f1cf9e571",
+    "__v": 0,
+    "_refId": "59802a2e3a2dea2f1cf9e647",
+    "_numberOfColumns": 2,
+    "displayTitle": "",
+    "body": "",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d715052917a2552bf796"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d489052917a2552bf795"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "How I frame issues<div><br>The context I set<br><br>The stories I tell<br><br>What I emphasise&nbsp;</div>",
+        "_id": "59802a3b3a2dea2f1cf9e648",
+        "itemIndex": 0,
+        "frontText": "<br>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d72e052917a2552bf797"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d489052917a2552bf795"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "frontText": "<br>",
+        "itemIndex": 1,
+        "_id": "59802a3c3a2dea2f1cf9e649",
+        "backText": "My behaviour and symbolism of my actions<br><br>My relationships and who  I acknowledge<br><br>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d73e052917a2552bf798"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d489052917a2552bf795"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "frontText": "<br>",
+        "_id": "59802a3c3a2dea2f1cf9e64a",
+        "itemIndex": 2,
+        "backText": "My disciplines, routines and habits<br><br>Who I make time to interact with<br><br>My regular meetings"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d769052917a2552bf799"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d489052917a2552bf795"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "itemIndex": 3,
+        "_id": "59802a3d3a2dea2f1cf9e64b",
+        "frontText": "<br>",
+        "backText": "What I recognise and reward<span style=\"font-size: 16px;\"><br></span><span style=\"font-size: 16px;\"><br></span><span style=\"font-size: 16px;\">Who I give responsibility</span><span style=\"font-size: 16px;\"><br></span><span style=\"font-size: 16px;\"><br></span><span style=\"font-size: 16px;\">Who I hold accountable</span>"
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "center",
+    "_flipCardsContainerMaxWidth": "600px",
+    "_canSetContainerMaxWidth": true,
+    "_backTextStyles": {
+      "_fontSize": "18",
+      "_fontColor": "@swatch-2"
+    },
+    "_frontTextStyles": {
+      "_fontSize": "24",
+      "_fontColor": "@swatch-2"
+    },
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5980273f3a2dea2f1cf9e63a"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "599d080f052917a2552bf675",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fd6b83a2dea2f1cf9e50e",
+    "_parentId": "599d080f052917a2552bf674",
+    "__v": 0,
+    "_refId": "599d080f052917a2552bf675",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59965226052917a2552bf5cd"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "link": "https://www.youtube.com/watch?v=lDeA-oJxuBE",
+        "_id": "59952f33052917a2552bf556",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "599d082f052917a2552bf679",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fd6b83a2dea2f1cf9e50e",
+    "_parentId": "599d082f052917a2552bf678",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "599d082f052917a2552bf679",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59953a17052917a2552bf559"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.emotionallyhealthy.org/new-podcast-facing-your-shadow/",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "599d084c052917a2552bf67d",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fd6b83a2dea2f1cf9e50e",
+    "_parentId": "599d084c052917a2552bf67c",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "599d084c052917a2552bf67d",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "599654bf052917a2552bf5ce"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.heidrick.com/Knowledge-Center/Article/What-leadership-shadow-do-you-cast",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "59c9a1ccaeab875c6c490ee6",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fd6b83a2dea2f1cf9e50e",
+    "_parentId": "59c9a1ccaeab875c6c490ee5",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59c9a1ccaeab875c6c490ee6",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59c99078aeab875c6c490ed3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_type": "resources",
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "59c9a25aaeab875c6c490ee9"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  }
+]

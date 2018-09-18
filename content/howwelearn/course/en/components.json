@@ -1,0 +1,968 @@
+[
+  {
+    "_id": "5805abbb1077d56a69b4b659",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "5805abbb1077d56a69b4b658",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57fc35024ea87d56dd3ea4d6",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5805abbb1077d56a69b4b659",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "57e316cd6c7da645039171a2",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "57e316936c7da645039171a1",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "HOW WE LEARN AT MYER",
+    "body": "<p style=\"text-align: center;\">The launch of the Myer Academy marks an exciting new era at Myer. The Myer Academy brings a learning philosophy founded on the knowledge that the way people learn is changing.</p>",
+    "_refId": "57e316cd6c7da645039171a2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5808523e6643881e753771eb",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "5808523e6643881e753771ea",
+    "_layout": "full",
+    "_component": "media",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_audio": {
+      "_isEnabled": false,
+      "_buttonText": "AD",
+      "ariaLabel": "This button will play an audio description of the video"
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "_shouldAutoPlay": false,
+      "ariaLabel": "This button will play the video",
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "58084e276643881e753771e4"
+      },
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58084f426643881e753771e6"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "_refId": "5808523e6643881e753771eb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "580852486643881e753771ef",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "580852486643881e753771ee",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\" class=\"\">In this learning moment we take a look at what’s happening to the way we learn, and how the Myer Academy is bringing this to life.&nbsp;<br></p>",
+    "_isQuestionType": false,
+    "_refId": "580852486643881e753771ef",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-3-0"
+  },
+  {
+    "_id": "57f4522a4ea87d56dd3ea19b",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "57f452254ea87d56dd3ea19a",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57fefa4c4ea87d56dd3ea7bb"
+      }
+    },
+    "_refId": "57f4522a4ea87d56dd3ea19b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "57f4522d4ea87d56dd3ea19c",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "59cc3abe2ebabce63c060b30",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "57f452a04ea87d56dd3ea19e",
+        "title": "ALWAYS ON...",
+        "body": "<p style=\"text-align: center;\">There’s evidence to suggest that having access to information 24/7 is shortening our attention spans and as a result, how we want to receive information and learn.  </p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "title": "ALWAYS LEARNING...",
+        "body": "<p style=\"text-align: center;\" class=\"\">Digital technologies are facilitating a growth in informal learning; learning that isn’t led by an instructor or teacher, but is directed by the learner themselves. We are learning more&nbsp;<span>from our research, our colleagues, and from our own experiences on-the-job.</span></p>",
+        "_id": "57f452de4ea87d56dd3ea19f",
+        "itemIndex": 1
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The digital age has brought many benefits, like the ability to find an infinite number of make-up tutorials on YouTube, track down rare vinyl on eBay, and shop Myer Online at 3am! However, it’s also having a powerful impact on the way we learn.&nbsp;<br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "",
+    "_refId": "57f4522d4ea87d56dd3ea19c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "58000bc0f1042a1508a55ca1",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "58000bb1f1042a1508a55ca0",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><span>So, what does this mean for you?&nbsp;</span><br></p>",
+    "_refId": "58000bc0f1042a1508a55ca1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-2-0"
+  },
+  {
+    "_id": "57fefc614ea87d56dd3ea7c4",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "57fefc5a4ea87d56dd3ea7c3",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">With the Myer Academy you can direct your own learning and tap into a growing range of short, inspiring ‘learning moments’. You can discover more about our brands, wrap your head around our range of denim, or reflect on your own personal brand, whenever and wherever you want.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">With each learning moment taking only a few minutes to complete, they’re suitable for those of us with even the shortest of attention spans!</p>",
+    "displayTitle": "LEARNING WITH THE MYER ACADEMY",
+    "_refId": "57fefc614ea87d56dd3ea7c4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "57fefbb04ea87d56dd3ea7c2",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "57fefba24ea87d56dd3ea7c1",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57fefabd4ea87d56dd3ea7bd"
+      }
+    },
+    "_refId": "57fefbb04ea87d56dd3ea7c2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "57fefc9f4ea87d56dd3ea7c5",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "59cc3d812ebabce63c060b34",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "57fefd294ea87d56dd3ea7c7",
+        "body": "<p style=\"text-align: center;\"><span>For selected roles, eg personal shopper, a role pathway outlines recommended learning activities for you to complete in your first three months, so you can get up and running faster.</span><br></p>",
+        "title": "ROLE PATHWAYS"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">To support your development we are equipping managers with the tools to lead everyday conversations and facilitate your individual development.<br></p>",
+        "title": "YOUR DEVELOPMENT",
+        "_id": "57fefd514ea87d56dd3ea7c8",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "57ff0f804ea87d56dd3ea865",
+        "body": "<p style=\"text-align: center;\">Every Myer store has a Myer Academy Ambassador who leads and drives learning and development in the store and can help you get the most out of the Myer Academy.&nbsp;</p>",
+        "title": "ACADEMY AMBASSADORS"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">With the Myer Academy you’re empowered to get the most from informal learning opportunities too. You will be equipped to take charge of your own development, and you’ll be encouraged to share what you know with others.</p>",
+    "_refId": "57fefc9f4ea87d56dd3ea7c5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "57ff147b4ea87d56dd3ea86c",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "57ff14514ea87d56dd3ea86b",
+    "_layout": "full",
+    "_component": "mcq",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<div style=\"text-align: center;\"><br></div>",
+        "final": "<p style=\"text-align: center;\"><b>Not quite</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The Myer Academy marks the start of a new era at Myer, enabling you to direct your own learning.<b><br></b></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Partly correct</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Myer Academy marks the start of a new era at Myer, enabling you to direct your own learning.</p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>You’re a star!</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The Myer Academy marks the start of a new era at Myer, enabling you to direct your own learning.<b><br></b></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 0,
+        "_id": "57ff15424ea87d56dd3ea86f",
+        "text": "It gives you the tools to take charge of your own learning"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_id": "57ff15474ea87d56dd3ea870",
+        "itemIndex": 1,
+        "text": "It is all about learning in a training room"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 2,
+        "_id": "57ff154a4ea87d56dd3ea871",
+        "text": "It marks the start of a new era of learning at Myer"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select the correct statements about the Myer Academy from the following list:<br></p><p></p>",
+    "_refId": "57ff147b4ea87d56dd3ea86c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "57ff14994ea87d56dd3ea86e",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "57ff14994ea87d56dd3ea86d",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>You missed</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The Myer Academy provides a growing range of short, inspiring learning moments that take just a few minutes to complete.</p>",
+        "notFinal": "<p style=\"text-align: center;\"><b>Not quite</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Myer Academy provides a growing range of short, inspiring learning moments that take just a few minutes to complete.<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not quite</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Myer Academy provides a growing range of short, inspiring learning moments that take just a few minutes to complete.</p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>You've got it!</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The Myer Academy provides a growing range of short, inspiring learning moments that take just a few minutes to complete.<b><br></b></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 0,
+        "_id": "57ff1a424ea87d56dd3ea886",
+        "text": "They’re short, taking just a few minutes each to complete&nbsp;"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_id": "57ff1a434ea87d56dd3ea887",
+        "itemIndex": 1,
+        "text": "They are inspirational &nbsp;"
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 2,
+        "_id": "57ff1a444ea87d56dd3ea888",
+        "text": "They can only be completed on a desktop computer"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "body": "<p style=\"text-align: center;\">Select the correct statements about Learning Moments from the following list:</p>",
+    "_refId": "57ff14994ea87d56dd3ea86e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5807f49c6643881e753771d1",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "5807f4946643881e753771d0",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5807f4a16643881e753771d2",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5807f49c6643881e753771d1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "580586e31077d56a69b4b647",
+    "_courseId": "57e316906c7da6450391719c",
+    "_parentId": "580586d71077d56a69b4b646",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57fc76c84ea87d56dd3ea54a"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57fc76d84ea87d56dd3ea54c"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "580586e31077d56a69b4b647",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  }
+]

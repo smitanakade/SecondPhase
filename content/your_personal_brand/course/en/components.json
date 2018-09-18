@@ -1,0 +1,1223 @@
+[
+  {
+    "_id": "5833df303c0bca19a99f78b4",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "5833df303c0bca19a99f78b3",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5833df303c0bca19a99f78b4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5821156af060d447962a6cae",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58210778f060d447962a6c8d",
+    "_layout": "full",
+    "_component": "narrative",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "582a7612bfc45d7b1ff381e8",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>Serena Williams</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Tennis player Serena Williams brings her signature strength and determination to activities on and off the court. Her personal brand makes her instantly recognisable.</p>",
+        "_id": "58213253f060d447962a6cbc",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "582d1cb07459023a39ae0ec1",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>Iris Apfel</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Iris Apfel is an interior designer and fashion icon with a strong personal brand. Her trademark style inspires a younger generation of designers and bloggers. </p>",
+        "itemIndex": 1,
+        "_id": "5821323bf060d447962a6cbb"
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Your personal brand is how you bring<b> who you are</b> to <b>what you do</b>. It is a reflection of you and a reflection of everything we do at Myer.&nbsp;</p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span>Serena Williams and Iris Apfel are great examples of people with really strong personal brands.&nbsp;</span><br></p>",
+    "_refId": "5821156af060d447962a6cae",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "58213318f060d447962a6cc2",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58213312f060d447962a6cc1",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">In this learning moment we explore personal brands. We ask some Myer team members to tell us about their personal brands, and give you a few exercises to start work on defining your own. And finally we look at how you can bring this brand to life at Myer.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Before we go any further, grab a pen and some paper as there are some exercises coming up.&nbsp;</p>",
+    "_refId": "58213318f060d447962a6cc2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "582136d8f060d447962a6cc4",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "582136d2f060d447962a6cc3",
+    "_layout": "full",
+    "_component": "flipCard",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "582a77d0bfc45d7b1ff381ee"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "58337dbb3c0bca19a99f77ee"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "583380c83c0bca19a99f77f2"
+    },
+    "_refId": "582136d8f060d447962a6cc4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59d574e00482522d25a0bc93",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "5822490efc489d639338741f",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d574e00482522d25a0bc93",
+    "body": "<p style=\"text-align: center;\">There are three steps to creating your personal brand:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Step one: </b>Define Your Purpose</p><p style=\"text-align: center;\"><b>Step two:</b> Identify Your Strengths</p><p style=\"text-align: center;\"><b>Step three: </b>Determine Your Focus </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let’s look at each in turn:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "58229976fc489d63933874d9",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58223ed3fc489d6393387410",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Think about your role, and how your purpose aligns to it. Is your purpose to...</p>",
+    "_refId": "58229976fc489d63933874d9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "59d5716c0482522d25a0bc39",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "582e755c89b30f5d6a77b089",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d5716c0482522d25a0bc39",
+    "displayTitle": "Provide wonderful experiences?<br><br>Create a personal connection with everyone you serve in store?<br><br>Bring fashion to life?<br><br>Have your customers wanting to come back again and again?",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "24"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "582a7c27bfc45d7b1ff381f7",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "582a7c1fbfc45d7b1ff381f6",
+    "_layout": "full",
+    "_component": "media",
+    "_audio": {
+      "_isEnabled": false,
+      "_buttonText": "AD",
+      "ariaLabel": "This button will play an audio description of the video"
+    },
+    "_media": {
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "582e784e89b30f5d6a77b08f"
+      },
+      "ariaLabel": "This button will play the video",
+      "_shouldAutoPlay": false,
+      "_isExternalLink": false,
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "58338cda3c0bca19a99f7800"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Determine your purpose, and you will have the foundation of your personal brand. In the following video, Daniel, Nick and Megan answer the question: \"What is my purpose?\"&nbsp;</p>",
+    "_refId": "582a7c27bfc45d7b1ff381f7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "59d5712c0482522d25a0bc32",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "5833837b3c0bca19a99f77fc",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d5712c0482522d25a0bc32",
+    "body": "<p style=\"text-align: center;\">Now take a moment to think about your purpose, and jot down some ideas.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "582a8334bfc45d7b1ff38222",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "582a8317bfc45d7b1ff38221",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "582a8334bfc45d7b1ff38222",
+    "body": "<p style=\"text-align: center;\">Think about your strengths. Your strengths are <b>‘how’</b> you do what you do. Before we do a short exercise, we hear from Daniel, Nick and Megan again as they answer the question: \"What are my strengths?\"</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "582a7f27bfc45d7b1ff3820b",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58229a13fc489d63933874e1",
+    "_layout": "full",
+    "_component": "media",
+    "_audio": {
+      "_isEnabled": false,
+      "_buttonText": "AD",
+      "ariaLabel": "This button will play an audio description of the video"
+    },
+    "_media": {
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "582e786d89b30f5d6a77b091"
+      },
+      "ariaLabel": "This button will play the video",
+      "_shouldAutoPlay": false,
+      "_isExternalLink": false,
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "58338d4b3c0bca19a99f7804"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "582a7f27bfc45d7b1ff3820b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "582a82eabfc45d7b1ff3821e",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "582a82eabfc45d7b1ff3821d",
+    "_layout": "left",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Now we have heard from Daniel, Megan and Nick, and learned about the varied and unique strengths they bring to their roles, we’ll look at how you can too can start to identify your own strengths.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">List five key words describing how you deliver your purpose. What you’re passionate about and what makes you unique. You can use these words as a starting point:</p>",
+    "_isQuestionType": false,
+    "_refId": "582a82eabfc45d7b1ff3821e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "582a82eabfc45d7b1ff3821f",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "582a82eabfc45d7b1ff3821d",
+    "_layout": "right",
+    "_component": "gif",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "5834c8fc9095c73d54c9b647"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "582a82eabfc45d7b1ff3821f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-1"
+  },
+  {
+    "_id": "58229a74fc489d63933874e9",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58229a74fc489d63933874e8",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "_isQuestionType": false,
+    "body": "<p style=\"text-align: center;\">Now that you have a list of strengths, choose two that you would like to focus on. Consider whether they present any opportunities for further development. Ask yourself...</p>",
+    "_refId": "58229a74fc489d63933874e9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59d572ce0482522d25a0bc5f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "582e49a889b30f5d6a77b069",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d572ce0482522d25a0bc5f",
+    "body": "<p style=\"text-align: center;\">Next come up with a plan to bring these into focus. For example, if you’re keen to improve your fashion and product knowledge, pick up a copy of Emporium magazine in-store, follow key fashion brands online, and keep an eye on <a href=\"http://www.myeracademy.com.au\" target=\"_blank\">myeracademy.com.au</a>.</p>",
+    "displayTitle": "Can I improve my knowledge of the latest trends?<span style=\"font-size: 16px;\"><br></span><br>Does the way I communicate convey my strengths?<br><br>Does my friendly nature come across when I talk to customers?<br><br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "24"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5822951efc489d63933874d3",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58229502fc489d63933874d2",
+    "_layout": "full",
+    "_component": "media",
+    "_audio": {
+      "_isEnabled": false,
+      "_buttonText": "AD",
+      "ariaLabel": "This button will play an audio description of the video"
+    },
+    "_media": {
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "58339b703c0bca19a99f7832"
+      },
+      "ariaLabel": "This button will play the video",
+      "_shouldAutoPlay": false,
+      "_isExternalLink": false,
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58339cd13c0bca19a99f783b"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">By now, you have the foundations of your personal brand. It's a work in progress – something that will change and evolve over time. It's an important way to ensure you are always the best you can be everyday with every customer and you live and breathe your brand and the Myer brand all day, every day. Now watch the final message delivered by our GM of Brand and Consumer Strategy, Natalie Warren-Smith.&nbsp;<br></p><p style=\"text-align: center;\"><br></p>",
+    "_refId": "5822951efc489d63933874d3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59d575ab0482522d25a0bcac",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58229582fc489d63933874d7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d575ab0482522d25a0bcac",
+    "displayTitle": "<div><br></div>\"You too can create an unforgettable customer experience and always be unmistakably Myer.\"",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "24"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "58363bdb948c8b50476dbd9f",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58363bcc948c8b50476dbd9e",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58363be0948c8b50476dbda0",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58363bdb948c8b50476dbd9f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "58229ca5fc489d63933874ed",
+    "_courseId": "58210778f060d447962a6c7c",
+    "_parentId": "58229ca5fc489d63933874ec",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "58229ca5fc489d63933874ed",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  }
+]

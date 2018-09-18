@@ -1,0 +1,1317 @@
+[
+  {
+    "_id": "5970886732b40dca201c4da6",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "59657b1bf5bba3477db19274",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": null,
+      "small": null
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5970886732b40dca201c4da6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5976948032b40dca201c4e0f",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5976947c32b40dca201c4e0e",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">We educate our customers whilst fitting. Discuss each step, how a correctly fitted bra should feel and that you are happy to conclude the fit at any time.</p>",
+        "itemIndex": 0,
+        "_id": "5976949c32b40dca201c4e10",
+        "title": "COMMUNICATE THE PROCESS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">For privacy, we always keep the fitting room door closed. We knock and gain permission every time we enter.&nbsp;</p>",
+        "_id": "5976949d32b40dca201c4e11",
+        "itemIndex": 1,
+        "title": "CLOSE THE DOOR"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">We always ask before touching a customer. That way they are prepared and feel safe and secure in our presence. We make sure we have warm hands.&nbsp;</p>",
+        "title": "SEEK PERMISSION",
+        "itemIndex": 2,
+        "_id": "5976949e32b40dca201c4e14"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">We always offer a minimum choice of three bras. It is our responsibility to find the correct fitting bra for our customers. This may mean trying on a variety of brands and designs.&nbsp;</p>",
+        "title": "PROVIDE OPTIONS",
+        "itemIndex": 3,
+        "_id": "5976949e32b40dca201c4e13"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">We use discretion when fitting. Size is sensitive information to many of our customers.&nbsp;</p>",
+        "_id": "5976949f32b40dca201c4e15",
+        "itemIndex": 4,
+        "title": "SIZE MATTERS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">We educate and build customer trust by using the correct anatomical and industry language. </p>",
+        "title": "USE APPROPRIATE LANGUAGE",
+        "itemIndex": 5,
+        "_id": "5976949f32b40dca201c4e16"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5976948032b40dca201c4e0f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59708f6532b40dca201c4da8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "59708f5b32b40dca201c4da7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59708f6532b40dca201c4da8",
+    "displayTitle": "1.\tRemove the bra from the hanger",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "59708ffc32b40dca201c4daa",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "59708ff532b40dca201c4da9",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59708ffc32b40dca201c4daa",
+    "displayTitle": "2.\tUndo the hook and eye",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5970915b32b40dca201c4dac",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5970915532b40dca201c4dab",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5970915b32b40dca201c4dac",
+    "displayTitle": "3.\tExtend the shoulder strap to its full length",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5970918832b40dca201c4dae",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5970918332b40dca201c4dad",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5970918832b40dca201c4dae",
+    "displayTitle": "4.\tAsk your customer to face the wall of the fitting room for privacy",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "597091a432b40dca201c4db0",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5970919f32b40dca201c4daf",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597091a432b40dca201c4db0",
+    "displayTitle": "5.\tRemove your customer's bra",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-4-0"
+  },
+  {
+    "_id": "597091c032b40dca201c4db2",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "597091bb32b40dca201c4db1",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597091c032b40dca201c4db2",
+    "displayTitle": "6.\tPut the bra you are fitting on to your customer, straps first",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-5-0"
+  },
+  {
+    "_id": "5970945532b40dca201c4db5",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5970943d32b40dca201c4db3",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5970945532b40dca201c4db5",
+    "displayTitle": "7.\tAsk your customer to lean forward and place their breasts comfortably into the cups",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-6-0"
+  },
+  {
+    "_id": "5970946132b40dca201c4db6",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5970943d32b40dca201c4db4",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5970946132b40dca201c4db6",
+    "displayTitle": "8.\tSecure the fitted bra using the second hook and eye",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-7-0"
+  },
+  {
+    "_id": "59657b1bf5bba3477db1927a",
+    "_component": "media",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "59657b1bf5bba3477db19279",
+    "__v": 0,
+    "_refId": "5962f9dd3b3d31444afd3a93",
+    "body": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Watch to learn how to dress your customer.&nbsp;</span><br></p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "597096a932b40dca201c4db7"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "597096a932b40dca201c4db7"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "598143d9ebca4a4008794cbb"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-2-8-0"
+  },
+  {
+    "_id": "597954a0e97e2c5170b326b1",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "59795498e97e2c5170b326b0",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597954a0e97e2c5170b326b1",
+    "displayTitle": "Now you are ready to start the seven steps of fitting a bra<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-9-0"
+  },
+  {
+    "_id": "59657b1bf5bba3477db19277",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "59657b1bf5bba3477db19276",
+    "__v": 0,
+    "displayTitle": "<br>",
+    "body": "",
+    "_refId": "5962f64c3b3d31444afd3a8d",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "592577d4ad04f4d3201a7d93",
+        "title": "FIRST BRA<br><i>“It’s embarrassing enough having your mum come along, let alone having a stranger see you.”</i><br>",
+        "body": "<div style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">Many of our younger customers find their first fitting uncomfortable. They will often be accompanied by a friend or relative, who may also be unsure of what to do.&nbsp;</span></div><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p style=\"text-align: center;\">First, we explain the process, and ask them to enter the Change Room.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Then we guide their companion to a spot where they can relax.&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Many of our customers feel uncomfortable during a fitting. We never respond to any comments they may make about themselves, keeping the focus on the fit.&nbsp;<br></p>",
+        "_id": "592577d5ad04f4d3201a7d94",
+        "itemIndex": 1,
+        "title": "CONFIDENCE<br><i>“I don’t even like being in swimmers let alone my underwear!”</i><br>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "592577d6ad04f4d3201a7d95",
+        "title": "MASTECTOMY<br><i>“I found bra shopping really emotional post-surgery and still do many years on.”</i><br>",
+        "body": "<p style=\"text-align: center;\">After surgery a customer shouldn’t wear an underwire or tight bra. Always ask what their doctor has advised. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You can also let your customer know that we have information from the Cancer Council if they need further guidance.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">We always treat our customers as they present themselves. If a person is presenting as a man, guide them to the male Change Room and offer them the same professional fitting experience.<br></p>",
+        "title": "GENDER PRESENTATION<br><i>“I just want the same experience everyone else gets.”</i><br>",
+        "_id": "5962f7c73b3d31444afd3a8e",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "IAFS_Accordion_01",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5976966932b40dca201c4e1c",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5976966932b40dca201c4e1b",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">What are the steps we can take to ensure the fit experience is as comfortable as possible? </p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Nice try...</b></p><p style=\"text-align: center;\" class=\"\"><b><br></b></p><p style=\"text-align: center;\" class=\"\">We can do all of these things to ensure the fitting experience is a positive one.&nbsp;<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Nice try...</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We can do all five of these things to ensure the fitting experience is a positive one.&nbsp;</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Correct!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We can do all of these things to ensure the fitting experience is a positive one.&nbsp;<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "596301993b3d31444afd3aac",
+        "text": "Introduce ourselves with a smile"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Offer to measure every customer and discuss the process",
+        "_id": "596301a73b3d31444afd3aad",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "596301b23b3d31444afd3aae",
+        "text": "Be sensitive about sizing"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Select several items, explaining each in detail",
+        "_id": "596301c03b3d31444afd3aaf",
+        "itemIndex": 3
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 4,
+        "_id": "596301cc3b3d31444afd3ab0",
+        "text": "Advise on how to care for the products chosen&nbsp;"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 5,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_refId": "5976966932b40dca201c4e1c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5970a0e032b40dca201c4dc3",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "59657b1bf5bba3477db19281",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59813dd8ebca4a4008794cac"
+      },
+      "large": null,
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5970a0e032b40dca201c4dc3",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5970a07732b40dca201c4dbf",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5970a07732b40dca201c4dbe",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/choosing-the-right-bra/index.html",
+        "itemTitle": "CHOOSING THE RIGHT BRA",
+        "itemIndex": 1,
+        "_id": "596ef1ea32b40dca201c4c17",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "592cf808cc6c57255d381329",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5970a07732b40dca201c4dbf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5970a09832b40dca201c4dc2",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59657b19f5bba3477db19234",
+    "_parentId": "5970a09832b40dca201c4dc1",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5970a09832b40dca201c4dc2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

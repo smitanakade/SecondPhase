@@ -1,0 +1,2703 @@
+[
+  {
+    "_id": "5aab416f45656339a2ac3487",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5aab416f45656339a2ac3486",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_refId": "5aa70d563865607d6dca29e9",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57fc35024ea87d56dd3ea4d6",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5abc20f8ef73ff4f4ffdaa5f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc207eef73ff4f4ffdaa5e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc20f8ef73ff4f4ffdaa5f",
+    "body": "<p style=\"text-align: center;\">Challenging customers are any customers whose behaviour has the potential to make us feel uncomfortable or unsafe, such as:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 22px;\">&bull;&nbsp;</span>A dissatisfied customer making a complaint</p><p style=\"text-align: center;\"><span style=\"font-size: 22px;\">&bull;</span> An aggressive or threatening customer</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5abc21d8ef73ff4f4ffdaa62",
+    "_component": "singleFlipCard",
+    "_layout": "left",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc2198ef73ff4f4ffdaa61",
+    "backTextStyles": {
+      "_fontColor": "@swatch-1",
+      "_fontSize": "16"
+    },
+    "_backContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "frontTextStyles": {
+      "_fontColor": "@swatch-24",
+      "_textAlign": "center",
+      "_fontSize": "26"
+    },
+    "_frontContentGraphic": {
+      "_isBottomPosition": false
+    },
+    "_flipCardItemContentAlignment": "center",
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc21d8ef73ff4f4ffdaa62",
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5ac587ef2469de5f135cd6e0"
+    },
+    "frontText": "Why is it important to know how to deal with different customer scenarios?",
+    "backText": "Customers that have their problems solved are more likely to return.<br><br>It&#39;s important to know how to deal with challenging customers. You need to feel confident interacting with customers, resolve issues for them, and most importantly feel safe at work.",
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5ac589212469de5f135cd6e1"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Challenging Customers",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5abc236def73ff4f4ffdaa64",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc2368ef73ff4f4ffdaa63",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc236def73ff4f4ffdaa64",
+    "body": "<p>In this Learning Moment we&#39;ll take you through the four steps to dealing with challenging customers.</p><p><br></p><p>And then we&#39;ll share a few common customer scenarios you&#39;re likely to encounter and suggest some ways to handle them.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5abc7f9def73ff4f4ffdaaae",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc7f93ef73ff4f4ffdaaad",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5abc8032ef73ff4f4ffdaab1"
+      },
+      "_isExternalLink": false,
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc7f9def73ff4f4ffdaaae",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5abc7fa3ef73ff4f4ffdaab0",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc7f9eef73ff4f4ffdaaaf",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc7fa3ef73ff4f4ffdaab0",
+    "body": "<p style=\"text-align: center;\">But first, a word about challenging customers:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "5ad809da8e81821d4a96f4ac",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ad809d58e81821d4a96f4ab",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad809da8e81821d4a96f4ac",
+    "body": "<p style=\"text-align: center;\"><span style=\"font-size: 22px;\"><strong><span style=\"color: rgb(233, 81, 48);\"> don&#39;t take it personally!</span></strong></span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Complaints are rarely personal. Frequently they will be about things that happened, or didn&#39;t happen, that didn&#39;t involve you and that you had no control over.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Of course, what you do have control over is how you respond. And, as a representative of Myer you need to take responsibility for helping the customer right now.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let&#39;s get started!</p>",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-4-0"
+  },
+  {
+    "_id": "5abc248cef73ff4f4ffdaa68",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc244def73ff4f4ffdaa66",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc248cef73ff4f4ffdaa68",
+    "body": "<p>If you can see what the issue is, for example a large queue has formed at the POS, you should call Priority One to ask for help. Your people leader will tell you how to do this in your store.&nbsp;</p><p><br></p><p>Then, look up and acknowledge all the customers by making eye contact, and say:</p><p><br></p><p><em><span style=\"font-size: 20px;\"><strong><span style=\"color: rgb(233, 81, 48);\">&quot;I&#39;m so sorry you have been waiting. Someone else will be with me shortly to help.&quot;</span></strong></span></em></p><p><br></p><p>Then start to serve. However, sometimes the problem isn&rsquo;t as obvious and you will need to ask the customer how you can help.</p>",
+    "displayTitle": "Assess<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Assess",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5abc248fef73ff4f4ffdaa69",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc2485ef73ff4f4ffdaa67",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "title": "MORE... ABOUT CUSTOMERS",
+        "_id": "5abc2921ef73ff4f4ffdaa6d",
+        "itemIndex": 0,
+        "body": "<p>Consider how your behaviour changes when:<br><br><span style=\"font-size: 22px;\">&bull;&nbsp;</span>The time on your parking meter is nearly up and you&#39;re still shopping<br><span style=\"font-size: 22px;\">&bull;&nbsp;</span>Your train is coming in three minutes and you still need to get a ticket<br><span style=\"font-size: 22px;\">&bull;&nbsp;</span>You&#39;re wearing new shoes and your FEET HURT!<br><br>These factors contribute to how we feel at a particular moment and are likely to influence how patient we are when we have to wait. Our customers are just the same.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc248fef73ff4f4ffdaa69",
+    "displayTitle": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MORE... ABOUT CUSTOMERS",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5abc2a1aef73ff4f4ffdaa74",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc29caef73ff4f4ffdaa6f",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc2a1aef73ff4f4ffdaa74",
+    "body": "<p>At this stage in the interaction the emphasis is on letting the customer speak without interruption. You can nod, and say &#39;mmm&#39; to show you&#39;re listening while maintaining a calm and sincere expression.</p><p><br></p><p>When they finish talking, it&#39;s important to acknowledge the issue and show empathy for their situation.</p><p><br></p><p>You could say:</p><p><br></p><p><em><span style=\"font-size: 20px;\"><strong><span style=\"color: rgb(233, 81, 48);\">&quot;That must be very frustrating. I&#39;m sorry you&#39;ve had that experience trying to return your toaster.&quot;</span></strong></span></em></p>",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5abc2a1fef73ff4f4ffdaa77",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc2a1bef73ff4f4ffdaa75",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "MORE... ABOUT BODY LANGUAGE",
+        "_id": "5abc2ac0ef73ff4f4ffdaa78",
+        "itemIndex": 0,
+        "body": "<p>Body language plays an important role in communication. Turning your body to face the person you&#39;re talking to, making and maintaining eye contact, and nodding are all great ways of showing you are paying attention.</p><p><br></p><p>Remember, some people aren&#39;t comfortable with direct eye contact, and so you may need to adapt your approach.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc2a1fef73ff4f4ffdaa77",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MORE... ABOUT BODY LANGUAGE",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5abc3890ef73ff4f4ffdaa7b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc3878ef73ff4f4ffdaa7a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc3890ef73ff4f4ffdaa7b",
+    "body": "<p>Once you&#39;ve clarified what the issue is, you may still need to ask more questions to learn about what&#39;s happened. This information will prepare you to take the right action. Ask questions that begin Who? What? When? Where? How?</p><p><br></p><p><em><span style=\"color: rgb(233, 81, 48); font-size: 22px;\"><strong>&quot;Who did you speak to about it?&quot;</strong></span></em></p><p><strong><span style=\"font-size: 22px;\"><span style=\"color: rgb(233, 81, 48);\"><br></span></span></strong></p><p><em><span style=\"color: rgb(233, 81, 48); font-size: 22px;\"><strong>&quot;What happened then?&quot;</strong></span></em></p><p><br></p><p>Take note of any key points, and repeat them back to confirm you have fully understood what&#39;s happened.</p><p><br></p><p><em><span style=\"font-size: 20px;\"><strong><span style=\"color: rgb(233, 81, 48);\">&quot;So you spoke with Jane in our city store, and she told you to bring it here?&quot;</span></strong></span></em></p><p><br></p><p>Once you&#39;re sure you understand the situation, you&#39;re ready to move to Action.</p><p><br></p><p>You can further improve your listening skills with the Learning Moment: Are you listening? You&#39;ll find a link at the end of this Learning Moment.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5abc3896ef73ff4f4ffdaa7d",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc3892ef73ff4f4ffdaa7c",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Avoid asking questions that begin with &#39;Why&#39;.&nbsp;</p><p><br></p><p>Who, What, When, Where and How all seek concrete responses. When you ask &#39;Why&#39;, you&#39;re asking someone to explain their behaviour. They may feel the need to justify their actions, and can find this confronting.</p>",
+        "itemIndex": 0,
+        "_id": "5abc3d8fef73ff4f4ffdaa7e",
+        "title": "MORE... ABOUT ASKING QUESTIONS"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc3896ef73ff4f4ffdaa7d",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MORE... ABOUT ASKING QUESTIONS",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5abc4dbfef73ff4f4ffdaa82",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc4dabef73ff4f4ffdaa80",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc4dbfef73ff4f4ffdaa82",
+    "body": "<p>The most important thing is that you&#39;re seen to take personal responsibility for resolving the issue for the customer. So, the first thing you need to do is tell them what you are going to do.</p><p><br></p><p><em><span style=\"color: rgb(233, 81, 48); font-size: 20px;\"><strong>&quot;I&#39;m going to process your refund right now.&quot;</strong></span></em></p><p><br></p><p>Of course, it won&#39;t always be within your power to fix the problem. However, that doesn&#39;t stop you from taking ownership of what you <em>can</em> do.</p><p><br></p><p><em><span style=\"color: rgb(233, 81, 48); font-size: 20px;\"><strong>&quot;I&#39;m going to contact the sales manager for Footwear.&quot;</strong></span></em></p><p><strong><span style=\"font-size: 20px;\"><span style=\"color: rgb(233, 81, 48);\"><br></span></span></strong></p><p><em><span style=\"color: rgb(233, 81, 48); font-size: 20px;\"><strong>&quot;I&#39;m going to give the details of your issue to the store manager.&quot;</strong></span></em></p><p><br></p><p>If a customer asks you a question you can&#39;t answer - challenge yourself to find the information for future enquiries.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "ACTION",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5abc4dc2ef73ff4f4ffdaa83",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc4db7ef73ff4f4ffdaa81",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>The language we choose helps create connections with customers. Read the following statement:</p><p><br></p><p><em>&quot;You&#39;re confusing me.&quot;</em></p><p><br></p><p>How would you feel if someone said it to you? You might feel defensive because the other person appears to be blaming you for causing the confusion. What if someone said this instead:</p><p><br></p><p><em>&quot;I&#39;m confused. Let&#39;s go through it again.&quot;</em></p><p><br></p><p>Notice the difference? In this example, by saying &#39;I&#39; the team member is &#39;owning&#39; their confusion, and is inviting you to go through it with them. A customer is more likely to respond positively to this approach.</p><p><br></p><p>Consider these examples, in each instance the team member is taking responsibility for their part in the interaction. Notice the different language used in the following examples:</p><p><br></p><p>Don&#39;t say: <em>&quot;Wait here.&quot;&nbsp;</em> Say: <em>&quot;Would you mind waiting while I speak to my people leader?&quot;</em></p><p><br></p><p>Don&#39;t say: <em>&quot;It&#39;s not my job.&quot;</em>&nbsp; Say: <em>&quot;Let me see what I can do to help. John is the specialist in that area. Let me get him for you.&quot;</em></p><p><br></p><p>Don&#39;t say: <em>&quot;It&#39;s on our website.&quot;</em>&nbsp; Say: <em>&quot;Shall we have a look for it on the iPad?&quot;</em></p>",
+        "itemIndex": 0,
+        "_id": "5abc5abbef73ff4f4ffdaa86",
+        "title": "MORE... ABOUT ASKING LANGUAGE"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc4dc2ef73ff4f4ffdaa83",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MORE... ABOUT ASKING LANGUAGE",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5aab416f45656339a2ac348c",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5aab416f45656339a2ac348b",
+    "__v": 0,
+    "_refId": "5aab35b145656339a2ac341f",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab362445656339a2ac3421"
+      },
+      "_isLightboxEnabled": false,
+      "caption": ""
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "body": "",
+    "displayTitle": "Sophie&#39;s tired of waiting...",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5ac62590c4e71532e3c515bf",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ac62584c4e71532e3c515be",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac62590c4e71532e3c515bf",
+    "body": "<p>Let&rsquo;s meet Myer team member Stephanie and her customer Sophie. Sophie looks happy now, but earlier she was frustrated at having to wait so long to get served.&nbsp;</p><p><br></p><p>Press the BEGIN CONVERSATION button to see what Stephanie does to ease Sophie&#39;s frustrations.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "5aab416f45656339a2ac348a",
+    "_component": "dialog",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5aab416f45656339a2ac3489",
+    "__v": 0,
+    "_refId": "5aa70e723865607d6dca2a01",
+    "body": "",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_delay": 2000,
+        "_isOnRightSide": false,
+        "_dialogItemWidth": 100,
+        "body": "<p style=\"text-align: left;\">“About time! You should have more people working. I’ve had to wait ages just to pay.”</p>",
+        "_personId": "5aa70e783865607d6dca2a05",
+        "_id": "5aa70e7b3865607d6dca2a07",
+        "itemIndex": 0
+      },
+      {
+        "_delay": 2000,
+        "_isOnRightSide": true,
+        "_dialogItemWidth": 100,
+        "body": "<p style=\"text-align: right;\">“I’m sorry you’ve had to wait so long to be served. I’m going to place a call to get some more help and then I will serve you.” </p>",
+        "itemIndex": 1,
+        "_id": "5aa741283865607d6dca2ac3",
+        "_personId": "5aa70e773865607d6dca2a03"
+      }
+    ],
+    "_people": [
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5aab33fc45656339a2ac340d"
+        },
+        "_dialogTextColor": "#000000",
+        "_dialogBackgroundColor": "transparent",
+        "itemIndex": 0,
+        "_id": "5aa70e783865607d6dca2a05",
+        "name": ""
+      },
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5aab341a45656339a2ac3410"
+        },
+        "_dialogTextColor": "transparent",
+        "_dialogBackgroundColor": "transparent",
+        "name": "",
+        "_id": "5aa70e773865607d6dca2a03",
+        "itemIndex": 1
+      },
+      {
+        "_dialogTextColor": "transparent",
+        "_dialogBackgroundColor": "transparent",
+        "itemIndex": 2,
+        "_id": "5aab41ad45656339a2ac34b5"
+      },
+      {
+        "_dialogTextColor": "transparent",
+        "_dialogBackgroundColor": "transparent",
+        "_id": "5aab41ae45656339a2ac34b7",
+        "itemIndex": 3
+      }
+    ],
+    "_mobileBackgroundImage": {
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_position": "top",
+      "_size": "cover"
+    },
+    "_dialogItemsContainerWidth": 100,
+    "_shouldShowPersonNameOnItem": true,
+    "_dialogItemAvatarWidth": "800px",
+    "_dialogStartAvatarWidth": "0px",
+    "_inviewStartDelay": 2000,
+    "_isStartDialogInView": false,
+    "dialogStartButtonText": "BEGIN CONVERSATION",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "ChallengingCustomers_DialogueArticle_01",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  },
+  {
+    "_id": "5ac620bbc4e71532e3c515ba",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ac620b3c4e71532e3c515b9",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ade7f78eefe782bcf72d36c"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 0,
+        "_id": "5ac620eec4e71532e3c515bb",
+        "title": "HOW DID STEPHANIE DO?&nbsp;",
+        "body": "<p>Sophie is clearly frustrated, and a queue has formed behind her. Stephanie did the right thing by acknowledging Sophie&rsquo;s wait. She told Sophie exactly what she was going to do to help her.&nbsp;</p><p><br></p><p>She should make eye contact with the other customers in the queue and tell them the action she&rsquo;s taking.&nbsp;</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac620bbc4e71532e3c515ba",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5aab41d945656339a2ac34c2",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5aab41d945656339a2ac34c0",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aab426c45656339a2ac34c5"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5aab41d945656339a2ac34c2",
+    "displayTitle": "Lisa&#39;s confused by the tags...",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5ac626f9c4e71532e3c515c1",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ac626c6c4e71532e3c515c0",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac626f9c4e71532e3c515c1",
+    "body": "<p>Lisa is shopping for a dress but isn&#39;t sure if the one she wants is on sale. Stephanie has noticed Lisa seems confused and approaches to see if she can help.</p><p><br></p><p>Press the BEGIN CONVERSATION button to see what happens next.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  },
+  {
+    "_id": "5aab41d945656339a2ac34c1",
+    "_component": "dialog",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5aab41d945656339a2ac34bf",
+    "__v": 0,
+    "body": "",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_delay": 2000,
+        "_isOnRightSide": true,
+        "_dialogItemWidth": 100,
+        "itemIndex": 0,
+        "_id": "5aa70e7b3865607d6dca2a07",
+        "_personId": "5aa70e783865607d6dca2a05",
+        "body": "<p style=\"text-align: right;\">“Can you tell me how much this is? Your pricing is confusing me!”</p>"
+      },
+      {
+        "_delay": 2000,
+        "_isOnRightSide": false,
+        "_dialogItemWidth": 100,
+        "_personId": "5aa70e773865607d6dca2a03",
+        "_id": "5aa741283865607d6dca2ac3",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: left;\">&ldquo;We do have a few different offers running today. Would you like me to check the price for you?&rdquo;</p>"
+      },
+      {
+        "_delay": 2000,
+        "_isOnRightSide": true,
+        "_dialogItemWidth": 100,
+        "body": "<p style=\"text-align: right;\">&ldquo;Thank you.&rdquo;</p>",
+        "_personId": "5aab41ad45656339a2ac34b5",
+        "itemIndex": 2,
+        "_id": "5aab42d445656339a2ac34d3"
+      },
+      {
+        "_delay": 2000,
+        "_isOnRightSide": false,
+        "_dialogItemWidth": 100,
+        "itemIndex": 3,
+        "_id": "5aab43af45656339a2ac34ed",
+        "_personId": "5aab41ae45656339a2ac34b7",
+        "body": "<p style=\"text-align: left;\">&ldquo;Would you mind waiting for a moment? I&rsquo;ll scan and confirm the price for you.&rdquo;</p>"
+      }
+    ],
+    "_people": [
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5aab428c45656339a2ac34c9"
+        },
+        "_dialogTextColor": "#000000",
+        "_dialogBackgroundColor": "transparent",
+        "itemIndex": 0,
+        "_id": "5aa70e783865607d6dca2a05",
+        "name": ""
+      },
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5aab429d45656339a2ac34cd"
+        },
+        "_dialogTextColor": "transparent",
+        "_dialogBackgroundColor": "transparent",
+        "name": "",
+        "_id": "5aa70e773865607d6dca2a03",
+        "itemIndex": 1
+      },
+      {
+        "avatar": {
+          "_id": "5aab429d45656339a2ac34cb",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_dialogTextColor": "transparent",
+        "_dialogBackgroundColor": "transparent",
+        "itemIndex": 2,
+        "_id": "5aab41ad45656339a2ac34b5"
+      },
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5aab429d45656339a2ac34cc"
+        },
+        "_dialogTextColor": "transparent",
+        "_dialogBackgroundColor": "transparent",
+        "_id": "5aab41ae45656339a2ac34b7",
+        "itemIndex": 3
+      }
+    ],
+    "_mobileBackgroundImage": {
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_position": "top",
+      "_size": "cover"
+    },
+    "_dialogItemsContainerWidth": 100,
+    "_shouldShowPersonNameOnItem": false,
+    "_dialogItemAvatarWidth": "800px",
+    "_dialogStartAvatarWidth": "0px",
+    "_inviewStartDelay": 3000,
+    "_isStartDialogInView": false,
+    "dialogStartButtonText": "BEGIN CONVERSATION",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5aab41d945656339a2ac34c1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "ChallengingCustomers_Dialogue02",
+    "_type": "component",
+    "_courseOrder": "0-9-2-0"
+  },
+  {
+    "_id": "5ac62987c4e71532e3c515c2",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc62ecef73ff4f4ffdaa89",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5ade7f9deefe782bcf72d36d",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "title": "HOW DID STEPHANIE DO?&nbsp;",
+        "_id": "5ac629b5c4e71532e3c515c3",
+        "itemIndex": 0,
+        "body": "<p>Lisa is confused by the pricing. Stephanie took ownership of the problem, and offered to check the price right away. </p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac62987c4e71532e3c515c2",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5abc63f0ef73ff4f4ffdaa8f",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc63a0ef73ff4f4ffdaa8e",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5abc67a7ef73ff4f4ffdaa93"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc63f0ef73ff4f4ffdaa8f",
+    "displayTitle": "Helena&rsquo;s annoyed someone made a mistake&hellip;&nbsp;",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5ac62afbc4e71532e3c515c8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ac62af0c4e71532e3c515c7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac62afbc4e71532e3c515c8",
+    "body": "<p>Helena is annoyed that she has had to return to the store to have a security tag removed.&nbsp;</p><p><br></p><p>Press the BEGIN CONVERSATION button to see how Stephanie handles this situation.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-11-1-0"
+  },
+  {
+    "_id": "5abc6404ef73ff4f4ffdaa91",
+    "_component": "dialog",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc63ffef73ff4f4ffdaa90",
+    "_items": [
+      {
+        "_delay": 1500,
+        "_isOnRightSide": false,
+        "_dialogItemWidth": 80,
+        "body": "<p>&quot;Myer has made a mistake! You need to fix it.&quot;</p>",
+        "itemIndex": 0,
+        "_id": "5abc7257ef73ff4f4ffdaa9c",
+        "_personId": "5abc711bef73ff4f4ffdaa94"
+      },
+      {
+        "_delay": 1500,
+        "_isOnRightSide": true,
+        "_dialogItemWidth": 80,
+        "_personId": "5abc720fef73ff4f4ffdaa9a",
+        "_id": "5abc72beef73ff4f4ffdaa9f",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: right;\">&quot;I&rsquo;m so sorry, that must have been very frustrating! Let me fix that for you right now. Do you have your receipt so I can see who served you?&quot;</p>"
+      }
+    ],
+    "_people": [
+      {
+        "avatar": {
+          "_id": "5abc71f2ef73ff4f4ffdaa99",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_dialogTextColor": "#000000",
+        "_dialogBackgroundColor": "transparent",
+        "_id": "5abc711bef73ff4f4ffdaa94",
+        "itemIndex": 0
+      },
+      {
+        "avatar": {
+          "_id": "5abc7196ef73ff4f4ffdaa97",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_dialogTextColor": "#000000",
+        "_dialogBackgroundColor": "transparent",
+        "itemIndex": 1,
+        "_id": "5abc715bef73ff4f4ffdaa96"
+      },
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5abc7150ef73ff4f4ffdaa95"
+        },
+        "_dialogTextColor": "#000000",
+        "_dialogBackgroundColor": "transparent",
+        "_id": "5abc71d5ef73ff4f4ffdaa98",
+        "itemIndex": 2
+      },
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5abc7237ef73ff4f4ffdaa9b"
+        },
+        "_dialogTextColor": "#000000",
+        "_dialogBackgroundColor": "transparent",
+        "_id": "5abc720fef73ff4f4ffdaa9a",
+        "itemIndex": 3
+      }
+    ],
+    "_mobileBackgroundImage": {
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_shouldDisableProgessionAnimation": false,
+    "_dialogItemsContainerWidth": 100,
+    "_shouldShowPersonNameOnItem": true,
+    "_dialogItemAvatarWidth": "800px",
+    "_dialogStartAvatarWidth": "0px",
+    "_inviewStartDelay": 2000,
+    "_isStartDialogInView": false,
+    "dialogStartButtonText": "BEGIN CONVERSATION",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc6404ef73ff4f4ffdaa91",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "ChallengingCustomers_DialogueArticle_03",
+    "_type": "component",
+    "_courseOrder": "0-11-2-0"
+  },
+  {
+    "_id": "5ac62c6fc4e71532e3c515c9",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc77a1ef73ff4f4ffdaaa1",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ade80ceeefe782bcf72d36e"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 0,
+        "_id": "5ac62c8bc4e71532e3c515ca",
+        "title": "HOW DID STEPHANIE DO?&nbsp;",
+        "body": "<p>Once Stephanie had worked out what the situation was, she was able to empathise with Helena. Although it wasn&rsquo;t her fault, Stephanie took responsibility for resolving the issue. </p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac62c6fc4e71532e3c515c9",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5adcf46ce8024540d2801e55",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5adcf467e8024540d2801e54",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5adcf46ce8024540d2801e55",
+    "body": "<p>It&rsquo;s important you always put your safety first. If a customer becomes aggressive you should get help from your people leader and call Operator 22 for help.</p><p><br></p><p>If you feel that the interaction with the customer impacted your safety or the safety of others, you can report the incident to your people leader who will follow our Incident Management processes and complete an Incident Report and direct you to the support that is available.</p>",
+    "displayTitle": "And finally...",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "28"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "5abc7d4bef73ff4f4ffdaaa9",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc7cebef73ff4f4ffdaaa8",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc7d4bef73ff4f4ffdaaa9",
+    "displayTitle": "Challenge accepted!",
+    "body": "<p>So, by now you should feel you have the skills to deal with challenging customers.&nbsp;Remember, it&#39;s rarely personal!</p><p><br></p><p>Of course, the more experience you have dealing with these situations, the more confident you will become. You can short-cut this development time by role playing with your colleagues and debriefing together.</p><p><br></p><p>And last but not least, remember you can hone your listening skills with the following Learning Moment.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "5abc7e2fef73ff4f4ffdaaab",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5abc7e12ef73ff4f4ffdaaaa",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/are-you-listening/index.html#/id/58b64321ed2155973abb7de1",
+        "itemTitle": "ARE YOU LISTENING?",
+        "_id": "5abc7e46ef73ff4f4ffdaaac",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5abc7e2fef73ff4f4ffdaaab",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-14-1-0"
+  },
+  {
+    "_id": "5ac61cc0c4e71532e3c515b2",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ac61c9dc4e71532e3c515b1",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac61cc0c4e71532e3c515b2",
+    "body": "",
+    "displayTitle": "We&#39;d like to thank the team at Myer Chadstone for taking part in the photo shoot for this Learning Moment!<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  },
+  {
+    "_id": "5ac63404c4e71532e3c515cf",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ac633f9c4e71532e3c515ce",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "5ac63409c4e71532e3c515d0",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac63404c4e71532e3c515cf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  },
+  {
+    "_id": "5ac61dfcc4e71532e3c515b8",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5aab416f45656339a2ac3481",
+    "_parentId": "5ac61df6c4e71532e3c515b7",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "59ae1c32052917a2552bf786"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ac61dfcc4e71532e3c515b8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-16-1-0"
+  }
+]

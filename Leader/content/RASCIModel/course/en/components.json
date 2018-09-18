@@ -1,0 +1,1341 @@
+[
+  {
+    "_id": "59a6170f052917a2552bf72e",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59a61707052917a2552bf72d",
+    "__v": 0,
+    "_refId": "59a6170f052917a2552bf72e",
+    "_numberOfColumns": 3,
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59a68e64052917a2552bf73f"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "itemIndex": 0,
+        "_id": "59a61721052917a2552bf731",
+        "frontText": "<br>",
+        "backText": "This is the person that leads the delivery of the agreed work outcome, c<span style=\"font-size: 16px;\">an delegate to  others, and is a</span><span style=\"font-size: 16px;\">nswerable to 'A'. It is b</span><span style=\"font-size: 16px;\">est to have one 'R'.</span>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "59a68f2b052917a2552bf740",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "This is the person that owns the work outcome, s<span style=\"font-size: 16px;\">igns off work, and i</span><span style=\"font-size: 16px;\">s a key sponsor. There c</span><span style=\"font-size: 16px;\">an be only one 'A'.</span>",
+        "_id": "59a61723052917a2552bf732",
+        "itemIndex": 1,
+        "frontText": "<br>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59a68fa8052917a2552bf741"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "This is the person that provides resources, support, and data. They o<span style=\"font-size: 16px;\">wn delivery of agreed components contributing to the work outcome. There can</span><span style=\"font-size: 16px;\">&nbsp;be multiple 'S'.</span>",
+        "frontText": "<br>",
+        "itemIndex": 2,
+        "_id": "59a61724052917a2552bf733"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "59a6907c052917a2552bf742",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "This is the person that provides technical expertise to inform decisions, owns the advice they give, and buy-in is needed from them. There can be multiple 'C'.<br>",
+        "_id": "59a61756052917a2552bf734",
+        "itemIndex": 3
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59a69100052917a2552bf743"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "itemIndex": 4,
+        "_id": "59a61758052917a2552bf735",
+        "backText": "This is the person that needs to be kept up-to-date because of the impact on them, they need to p<span style=\"font-size: 16px;\">roactively keep themselves informed, and d</span><span style=\"font-size: 16px;\">on't need to be involved in decision making.&nbsp;</span>"
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "800px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "59a6848e052917a2552bf736"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "59a6a30e052917a2552bf776",
+    "_component": "dragAndDrop",
+    "_layout": "full",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59a6a288052917a2552bf76c",
+    "__v": 0,
+    "_refId": "59a6a30e052917a2552bf776",
+    "displayTitle": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">You correctly assigned all the roles. Well done.<br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "alt": "",
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "notFinal": "<p style=\"text-align: center;\">Only some of these are correct. Review the RASCI roles and try again.</p>",
+        "final": "<p style=\"text-align: center;\">Only some of these are correct. Review the RASCI roles and try again.</p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "notFinal": "<p style=\"text-align: center;\">That is incorrect. Review the RASCI roles and try again.&nbsp;</p>",
+        "final": "<p style=\"text-align: center;\">That is incorrect. Review the RASCI roles and try again.&nbsp;</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": true
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_hasHorizontalDropZones": false,
+    "_hasCompactDropZones": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_useItemGridLayout": false,
+    "_dropZonelayout": "drop-zones-top",
+    "_items": [
+      {
+        "_correctDropZones": [
+          "59a6a313052917a2552bf777"
+        ],
+        "_id": "59a6a69b052917a2552bf780",
+        "itemIndex": 0,
+        "text": "Accountable"
+      },
+      {
+        "_correctDropZones": [
+          "59a6a52d052917a2552bf77d"
+        ],
+        "text": "Supportive",
+        "_id": "59a6a761052917a2552bf781",
+        "itemIndex": 1
+      },
+      {
+        "_correctDropZones": [
+          "59a6a417052917a2552bf779"
+        ],
+        "_id": "59a6a76e052917a2552bf782",
+        "itemIndex": 2,
+        "text": "Inform"
+      },
+      {
+        "_correctDropZones": [
+          "59a6a418052917a2552bf77a"
+        ],
+        "itemIndex": 3,
+        "_id": "59f7b4fe20e16d2643b3fa03",
+        "text": "Responsible"
+      }
+    ],
+    "_dropZones": [
+      {
+        "_shouldUseCoverBackgroundSize": false,
+        "text": "Ryo",
+        "itemIndex": 0,
+        "_id": "59a6a313052917a2552bf777"
+      },
+      {
+        "_shouldUseCoverBackgroundSize": false,
+        "_id": "59a6a417052917a2552bf779",
+        "itemIndex": 1,
+        "text": "Samantha"
+      },
+      {
+        "_shouldUseCoverBackgroundSize": false,
+        "text": "Simon",
+        "itemIndex": 2,
+        "_id": "59a6a418052917a2552bf77a"
+      },
+      {
+        "_shouldUseCoverBackgroundSize": false,
+        "text": "Alex",
+        "_id": "59a6a52d052917a2552bf77d",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldZonesRejectIncorrect": false,
+    "_canSubmitAtAnyTime": false,
+    "_canAutoSubmit": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 2,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Drag and Drop Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59a69437052917a2552bf745",
+    "_component": "matching",
+    "_layout": "left",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59a69415052917a2552bf744",
+    "__v": 0,
+    "_refId": "59a69437052917a2552bf745",
+    "displayTitle": "",
+    "body": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">You are right! Being informed is a two way process. You will be given information but you are also responsible for finding out what is going on and seek out the information you need.&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "notFinal": "<p style=\"text-align: center;\">Not quite right. Try again.</p>",
+        "final": "<p style=\"text-align: center;\">Not quite right. Try again.</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Responsible",
+            "_id": "59a69444052917a2552bf747"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Accountable",
+            "_id": "59a69445052917a2552bf748"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59a698e4052917a2552bf74e",
+            "text": "Support"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Consulted",
+            "_id": "59a698e5052917a2552bf74f"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "59a698e6052917a2552bf750",
+            "text": "Informed"
+          }
+        ],
+        "_id": "59a6943c052917a2552bf746",
+        "itemIndex": 0,
+        "text": "<div><span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">Diya is leading a project but needs to keep herself up-to-date on another project that will impact her.</span><br></div>"
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59f7a4b520e16d2643b3f979",
+    "_component": "matching",
+    "_layout": "right",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59a69415052917a2552bf744",
+    "__v": 0,
+    "_refId": "59f7a4b520e16d2643b3f979",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">You are right. Being consulted means you own the advice or information you give and are making sure it contributes to the agreed work outcome.&nbsp;&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "notFinal": "<p style=\"text-align: center;\">Not quite right. Try again.</p>",
+        "final": "<p style=\"text-align: center;\">Not quite right. Try again.</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Responsible",
+            "_id": "59f7a3fe20e16d2643b3f960"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59f7a40320e16d2643b3f962",
+            "text": "Accountable"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Support",
+            "_id": "59f7a40420e16d2643b3f964"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "59f7a40420e16d2643b3f966",
+            "text": "Consulted"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Informed",
+            "_id": "59f7a40520e16d2643b3f968"
+          }
+        ],
+        "itemIndex": 0,
+        "_id": "59f7a3f220e16d2643b3f95c",
+        "text": "Helen has expertise in financial reporting and she is providing some insights on the expenses for a refurbishment project."
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "RASCMATCH",
+    "_type": "component",
+    "_courseOrder": "0-5-0-1"
+  },
+  {
+    "_id": "59f7a3d420e16d2643b3f95a",
+    "_component": "matching",
+    "_layout": "left",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59f7a3b020e16d2643b3f957",
+    "__v": 0,
+    "_refId": "59f7a3d420e16d2643b3f95a",
+    "body": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">You are right! Being accountable means you own the success or failure for the work. It is important you define the work outcome, benefits and ROI (Return on Investment) clearly, so others have clarity to get the job done.</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Not quite right. Try again</p>",
+        "notFinal": "<p style=\"text-align: center;\">Not quite right. Try again</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Responsible",
+            "_id": "59f7a3fe20e16d2643b3f960"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "59f7a40320e16d2643b3f962",
+            "text": "Accountable"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Support",
+            "_id": "59f7a40420e16d2643b3f964"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59f7a40420e16d2643b3f966",
+            "text": "Consulted"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Informed",
+            "_id": "59f7a40520e16d2643b3f968"
+          }
+        ],
+        "itemIndex": 0,
+        "_id": "59f7a3f220e16d2643b3f95c",
+        "text": "John is sponsoring a business case for a new product. He has signed off the cost and has defined the strategic, financial and business benefits."
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "RASCMATCH",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "59f7a4a320e16d2643b3f975",
+    "_component": "matching",
+    "_layout": "right",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59f7a3b020e16d2643b3f957",
+    "__v": 0,
+    "_refId": "59f7a4a320e16d2643b3f975",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">You are right. Being responsible means you are leading the achievement of the defined work outcome. You provide clarity to others so they know who is doing what and why it needs to be done. You may need to remove roadblocks, coach and let go so others can get the job done.</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "notFinal": "<p style=\"text-align: center;\">Not quite right. Try again.</p>",
+        "final": "<p style=\"text-align: center;\">Not quite right. Try again.</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": true,
+            "text": "Responsible",
+            "_id": "59f7a3fe20e16d2643b3f960"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59f7a40320e16d2643b3f962",
+            "text": "Accountable"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Support",
+            "_id": "59f7a40420e16d2643b3f964"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "59f7a40420e16d2643b3f966",
+            "text": "Consulted"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Informed",
+            "_id": "59f7a40520e16d2643b3f968"
+          }
+        ],
+        "itemIndex": 0,
+        "_id": "59f7a3f220e16d2643b3f95c",
+        "text": "<div><span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">Kevin is planning a piece of work that will deliver the strategic outcome for the project. His next step is to assign roles to people in his team.</span><br></div>"
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "RASCMATCH",
+    "_type": "component",
+    "_courseOrder": "0-5-1-1"
+  },
+  {
+    "_id": "59a6a118052917a2552bf768",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59a69fc0052917a2552bf766",
+    "__v": 0,
+    "_refId": "59a6a118052917a2552bf768",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5a03ffe14e5c8d6a0312c130"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5a03ffe14e5c8d6a0312c130"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "59a601d2052917a2552bf720",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59a601d2052917a2552bf71f",
+    "__v": 0,
+    "_refId": "59964b5e052917a2552bf5bd",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59965226052917a2552bf5cd"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "link": "https://www.ted.com/talks/tom_wujec_build_a_tower",
+        "_id": "59952f33052917a2552bf556",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "59e04c315ec7f6ad7d8484fd",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59e04c315ec7f6ad7d8484fc",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59e04c315ec7f6ad7d8484fd",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59953a17052917a2552bf559",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "https://artofprocurement.com/ace/"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "59a601d2052917a2552bf728",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59a601d2052917a2552bf727",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59964bb7052917a2552bf5c5",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "599654bf052917a2552bf5ce"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "https://www.forbes.com/sites/harmoncullinan/2017/08/17/i-before-c-three-back-to-school-rules-for-better-collaboration/#23136ef244c3"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "59e9993f5ec7f6ad7d848501",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59a601d2052917a2552bf6ff",
+    "_parentId": "59e9993f5ec7f6ad7d848500",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59e9993f5ec7f6ad7d848501",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59c99078aeab875c6c490ed3"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "59e99b155ec7f6ad7d848503",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen",
+        "_type": "resources"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  }
+]

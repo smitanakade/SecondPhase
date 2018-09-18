@@ -1,0 +1,711 @@
+[
+  {
+    "_id": "58ab6594ed2155973abb7029",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  },
+  {
+    "_id": "58ae437eed2155973abb71a5",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_isEnabled": true,
+        "_graphic": {
+          "_small": {
+            "src": "course/en/assets/images/58acd77ced2155973abb7043/small/69ff540543485192d26a8a880dd13527.png",
+            "_shouldRepeat": false,
+            "_height": 139
+          },
+          "_large": {
+            "src": "course/en/assets/images/58acd7d4ed2155973abb7045/large/f75e6c486cf738cda3c5b9d29e13eb9b.png",
+            "_shouldRepeat": false,
+            "_height": 139
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "src": "course/en/assets/images/58ae6985ed2155973abb7215/8dc855c9b356432b1ff9368924f554cd.png",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58ae691fed2155973abb7213/56d66cfb724a42ac96139a6ca4f637ec.png",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Here I Am - Quote 1 ",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
+    "_id": "58ae4401ed2155973abb71ab",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Here I Am - Video 1",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "58ad097ded2155973abb7047",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_isEnabled": true,
+        "_graphic": {
+          "_small": {
+            "src": "course/en/assets/images/58af8b59ed2155973abb723a/small/af18dab4ed0d2932d254fd34756bb391.png",
+            "_shouldRepeat": false,
+            "_height": 166
+          },
+          "_large": {
+            "src": "course/en/assets/images/58af8c20ed2155973abb723c/large/60431439793f5ec0fef17faa50e1b680.png",
+            "_shouldRepeat": false,
+            "_height": 166
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "src": "course/en/assets/images/58ae60dded2155973abb7200/fde415191a9cb0380031aa72e1141bd4.png",
+      "_repeat": false,
+      "_position": "top",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58ae5f52ed2155973abb71f6/130e342a5c23bd597ff0e3c1e3767d66.png",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "HereIAm_Questions01",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "58ae111aed2155973abb7080",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "HereIAm_Accordion",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "58ae5479ed2155973abb71cc",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 5,
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "bottom",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "HereIAm_NarrativeSlider01",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "58ae2654ed2155973abb7094",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 6,
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-6"
+  },
+  {
+    "_id": "58ae2b8fed2155973abb709e",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 7,
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_isEnabled": true,
+        "_graphic": {
+          "_small": {
+            "src": "course/en/assets/images/58ae2a32ed2155973abb7098/small/4d4b8a1dda82be8baa8a11a89f6a6b60.png",
+            "_shouldRepeat": false,
+            "_height": 166
+          },
+          "_large": {
+            "src": "course/en/assets/images/58ae2a63ed2155973abb709a/large/2a33a88b1ee55cd0541e3d281d20048e.png",
+            "_shouldRepeat": false,
+            "_height": 166
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "src": "course/en/assets/images/58ae6a8fed2155973abb721c/89f2f46f86ec95f6b79a5256a8387ba9.png",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58ae2ff1ed2155973abb70a6/ecd0ccf7ade8236713239c993b883bd3.png",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "HereIAm_Quote_02",
+    "_type": "article",
+    "_courseOrder": "0-7"
+  },
+  {
+    "_id": "58ae56efed2155973abb71d3",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 8,
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "right",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "bottom",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-8"
+  },
+  {
+    "_id": "58ae5abaed2155973abb71df",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb7028",
+    "_sortOrder": 9,
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "src": "course/en/assets/images/58ae664eed2155973abb7208/015825ff90c3a49958b739a400b64dc6.png",
+      "_repeat": false,
+      "_position": "right",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "right",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-9"
+  }
+]

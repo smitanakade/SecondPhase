@@ -1,0 +1,311 @@
+[
+  {
+    "_id": "58b64321ed2155973abb7de9",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64321ed2155973abb7de4",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58b64321ed2155973abb7de9",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "SS_Listening_HomeBtn",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "58b64321ed2155973abb7de7",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64321ed2155973abb7de4",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "58b64321ed2155973abb7de7",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "SS_Listening_Intro",
+    "_type": "block",
+    "_courseOrder": "0-0-1"
+  },
+  {
+    "_id": "58b64322ed2155973abb7df4",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64321ed2155973abb7deb",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Give Your Attention",
+    "body": "",
+    "_refId": "58b64322ed2155973abb7df4",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "58d326aded2155973abb82f2",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58d326aded2155973abb82ef",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "<br><i>“When people talk, listen completely. Most people never listen.”   </i>",
+    "body": "<p style=\"text-align: center;\">- Ernest Hemmingway</p><p style=\"text-align: center;\">____________________________________________</p>",
+    "_refId": "58d326aded2155973abb82f2",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "28"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "58d3264bed2155973abb82ea",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58d3264bed2155973abb82e5",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><span>To demonstrate that you are paying attention:</span><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tPut down anything that will compete for your attention and mentally screen out other distractions </p><p style=\"text-align: center;\">•\tTurn towards the speaker and make initial eye contact </p><p style=\"text-align: center;\">•\tNod, smile and offer encouragement eg “that’s great” or “uh huh”</p><p style=\"text-align: center;\">•\tMatch the speaker’s pace </p><p style=\"text-align: center;\">•\tRelate to what the speaker is feeling – when they express joy, relate to that</p>",
+    "_refId": "58d3264bed2155973abb82ea",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "28"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "58c89769ed2155973abb815b",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7df9",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Keep an Open Mind and Clarify",
+    "_refId": "58c89769ed2155973abb815b",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "58b64322ed2155973abb7e04",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7df9",
+    "_sortOrder": 1,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">The second step to great listening is to keep an open mind, and clarify.</p>",
+    "_refId": "58b64322ed2155973abb7e04",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-1"
+  },
+  {
+    "_id": "58d35d3bed2155973abb830d",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58d35d3bed2155973abb8308",
+    "_sortOrder": 0,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">When listening, it’s important to:</p>",
+    "_refId": "58d35d3bed2155973abb830d",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "58b64322ed2155973abb7e0e",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e05",
+    "_sortOrder": 0,
+    "__v": 0,
+    "body": "",
+    "displayTitle": "Summarise<br>",
+    "_refId": "58b64322ed2155973abb7e0e",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "58b64322ed2155973abb7e0a",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e05",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">The final step is to summarise what you’ve heard.<br></p>",
+    "_refId": "58b64322ed2155973abb7e0a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-1"
+  },
+  {
+    "_id": "58b64322ed2155973abb7e0f",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e05",
+    "_sortOrder": 2,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">When listening, it’s important to: </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tSummarize what you’ve understood and tell the customer how you can help. Not only will this provide an opportunity for the speaker to correct anything you’ve got wrong, it will also demonstrate that you have really listened!</p>",
+    "_refId": "58b64322ed2155973abb7e0f",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-2"
+  },
+  {
+    "_id": "58c89bc9ed2155973abb8164",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e10",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "58c89bc9ed2155973abb8164",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  },
+  {
+    "_id": "58b64322ed2155973abb7e18",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e10",
+    "_sortOrder": 1,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Customers tell us they like it when we listen! When a customer explained to Jasmine, a Myer Erina team member, that her and her family had to leave their home when asbestos was found during renovations, Jasmine helped find clothing and toys for the children. The customer told us she was grateful for the help, but most of all she felt heard! </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This is a skill we can practice, at home and at work! </p>",
+    "_refId": "58b64322ed2155973abb7e18",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-1"
+  },
+  {
+    "_id": "58c8a1a4ed2155973abb8169",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e10",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_refId": "58c8a1a4ed2155973abb8169",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-2"
+  },
+  {
+    "_id": "58c8a1efed2155973abb816c",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e10",
+    "_sortOrder": 3,
+    "__v": 0,
+    "_refId": "58c8a1efed2155973abb816c",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-3"
+  }
+]

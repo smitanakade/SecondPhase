@@ -1,0 +1,1374 @@
+[
+  {
+    "_id": "5949baded923276a1f77e503",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949baded923276a1f77e502",
+    "__v": 0,
+    "_refId": "59490ffad923276a1f77e4a4",
+    "displayTitle": "",
+    "body": "",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59491012d923276a1f77e4a5",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5949baded923276a1f77e505",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949baded923276a1f77e504",
+    "__v": 0,
+    "_refId": "5949106fd923276a1f77e4a7",
+    "body": "<p style=\"text-align: center;\">In this Learning Moment we look at:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&bull; how increasing our transactions per hour impacts other sales metrics, and</p><p style=\"text-align: center;\">&bull; the sales techniques we can use to make this happen!</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5949baded923276a1f77e501",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949baded923276a1f77e500",
+    "__v": 0,
+    "_refId": "59412981d923276a1f77e391",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5949c3e2d923276a1f77e537"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-3-0"
+  },
+  {
+    "_id": "594a318cd923276a1f77e557",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "594a318cd923276a1f77e555",
+    "__v": 0,
+    "displayTitle": "IN THE 'SALES METRICS' LEARNING MOMENT, WE MENTIONED THAT IF YOU FOCUS ON TWO OF THE FOUR METRICS, THE OTHER METRICS WILL GO UP AS WELL.",
+    "body": "<p style=\"text-align: center;\">If you haven’t done that learning moment, you might want to take a look at it now.</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/sales-metrics/index.html",
+        "body": "",
+        "_id": "594a0443d923276a1f77e543",
+        "itemIndex": 0,
+        "itemTitle": "SALES METRICS"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594a318cd923276a1f77e557",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5949baded923276a1f77e4fc",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949baded923276a1f77e4fb",
+    "__v": 0,
+    "_refId": "5941d546d923276a1f77e3a5",
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5949c4d3d923276a1f77e538"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5949baded923276a1f77e4fa",
+    "_component": "dialog",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949baded923276a1f77e4f9",
+    "__v": 0,
+    "_refId": "593f3077d923276a1f77e36b",
+    "displayTitle": "LET’S LOOK AT WHAT HAPPENS WHEN ANYA STARTS TO GENERATE MORE SALES AND INCREASES HER TRANSACTIONS PER HOUR. <br>",
+    "body": "<p style=\"text-align: center;\">Press the button below to begin.</p><p style=\"text-align: center;\"><br></p>",
+    "_items": [
+      {
+        "_delay": 3000,
+        "_isOnRightSide": false,
+        "_dialogItemWidth": 100,
+        "body": "<p>In her next five-hour shift, Anya converted an additional five sales, increasing her transactions for the shift to 20. </p><p><br></p><p>Her <b>transactions per hour (TPH)</b> for this shift was four. &nbsp;</p>",
+        "_id": "593f30c7d923276a1f77e36f",
+        "itemIndex": 0,
+        "_personId": "593f309cd923276a1f77e36c"
+      },
+      {
+        "_delay": 3000,
+        "_isOnRightSide": true,
+        "_dialogItemWidth": 100,
+        "body": "<p>The items in each transaction were of a similar value, but because Anya carried out more transactions, her <b>sales per hour (SPH)</b> also went up.<br></p>",
+        "itemIndex": 1,
+        "_id": "59486b36d923276a1f77e48e",
+        "_personId": "593f309dd923276a1f77e36d"
+      }
+    ],
+    "_people": [
+      {
+        "avatar": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "5949cfffd923276a1f77e539"
+        },
+        "_dialogTextColor": "@swatch-13",
+        "_dialogBackgroundColor": "@swatch-22",
+        "name": "TPH",
+        "itemIndex": 0,
+        "_id": "593f309cd923276a1f77e36c"
+      },
+      {
+        "avatar": {
+          "_id": "5941e382d923276a1f77e3a8",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_dialogTextColor": "@swatch-13",
+        "_dialogBackgroundColor": "@swatch-22",
+        "_id": "593f309dd923276a1f77e36d",
+        "itemIndex": 1,
+        "name": "SPH"
+      }
+    ],
+    "_dialogItemsContainerWidth": 100,
+    "_shouldShowPersonNameOnItem": false,
+    "_dialogItemAvatarWidth": "80px",
+    "_dialogStartAvatarWidth": "400px",
+    "_inviewStartDelay": 2000,
+    "_isStartDialogInView": false,
+    "dialogStartButtonText": "START",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_animations": {
+      "_easing": "slow",
+      "_scaleIn": {
+        "_from": 0,
+        "_isEnabled": false
+      },
+      "_fadeIn": {
+        "_from": 0,
+        "_isEnabled": true
+      },
+      "_slideInY": {
+        "_from": 50,
+        "_isReverseDirection": false,
+        "_isEnabled": false
+      },
+      "_slideInX": {
+        "_from": 100,
+        "_isEnabled": true
+      }
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Dialog Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e514",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e513",
+    "__v": 0,
+    "displayTitle": "<div>IF ANYA MAINTAINS THIS HIGHER TPH RESULT FOR A YEAR, WORKING FULLTIME, HER SALES COULD IMPROVE BY AS MUCH AS $150,000 FOR THE YEAR.<br></div><br>IN A TEAM OF FIVE THIS WOULD BE AN INCREASE OF ALMOST $900,000 FOR THE YEAR.<div><br></div>IN A STORE WITH 50 FULL TIME TEAM MEMBERS, THIS WOULD BE AN INCREASE OF MORE THAN $9,000,000 FOR THE YEAR!",
+    "_refId": "59421c13d923276a1f77e3dd",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e50d",
+    "_component": "singleFlipCard",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e50c",
+    "__v": 0,
+    "_refId": "594219b0d923276a1f77e3d8",
+    "frontText": "<br>",
+    "backText": "<br>",
+    "body": "",
+    "backTextStyles": {
+      "_textAlign": "center",
+      "_fontSize": "30",
+      "_fontColor": "@swatch-19"
+    },
+    "_backGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "594c559ed923276a1f77e615"
+    },
+    "frontTextStyles": {
+      "_textAlign": "center",
+      "_fontSize": "30",
+      "_fontColor": "@swatch-19"
+    },
+    "_frontGraphic": {
+      "_size": "small",
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "5949d16cd923276a1f77e53a"
+    },
+    "_shouldDisableCardFocus": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Single Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e51d",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e51c",
+    "__v": 0,
+    "_refId": "594918d9d923276a1f77e4bd",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5949d531d923276a1f77e53c"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e517",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e516",
+    "__v": 0,
+    "_refId": "594917a2d923276a1f77e4b7",
+    "displayTitle": "RULE 1: ENGAGE WITH MORE CUSTOMERS",
+    "body": "<p style=\"text-align: center;\">This means finding customers! Move into the walk ways, so you can be seen, and greet customers with offers of help. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tEngage customers in conversation about the products</p><p style=\"text-align: center;\">•\tOffer to show them the latest items that have come in </p><p style=\"text-align: center;\">•\tShare your love of what we sell!</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e519",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e518",
+    "__v": 0,
+    "_refId": "594917abd923276a1f77e4b9",
+    "displayTitle": "RULE 2: SAVE THE SALE",
+    "body": "<p style=\"text-align: center;\">This means working hard to turn every customer interaction into a sale. Can you turn a ‘no’ into a ‘yes’? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tIf we don’t stock that range of comfort footwear, ask the customer what they are looking for, and offer to help them find something similar</p><p style=\"text-align: center;\">•\tIf we don’t have any more left in that size – offer to find it through the my customer order app on iPad or POS look up and arrange for a click and collect order or home delivery</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e51b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e51a",
+    "__v": 0,
+    "_refId": "594917b3d923276a1f77e4bb",
+    "displayTitle": "RULE 3: CLOSE THE SALE",
+    "body": "<p style=\"text-align: center;\">This means recognising buying signals and closing the sale.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>&nbsp;Signals can be what the customer says:&nbsp;</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&bull;They ask questions, particularly about price</p><p style=\"text-align: center;\">&bull;They talk really positively about the item</p><p style=\"text-align: center;\">&bull;They start talking as if they already own it</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>And what the customer does:&nbsp;</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&bull;They make eye contact and nod their head</p><p style=\"text-align: center;\">&bull;You notice changes of body state, perhaps they appear to relax</p><p style=\"text-align: center;\">&bull;They hold the item as if it&rsquo;s already theirs</p><p style=\"text-align: center;\">&bull;They&rsquo;re looking around for someone or somewhere to pay</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>Close the sale:&nbsp;</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Once you see the signal, close the sale with:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&bull; Shall I wrap it for you?&nbsp;</p><p style=\"text-align: center;\">&bull; Would you like me to put it through for you?</p><p style=\"text-align: center;\">&bull; Can I take it to the counter for you?</p><p style=\"text-align: center;\">&bull; How would you like to pay? Cash or card?&nbsp;</p><p style=\"text-align: center;\">&bull; Do you have a MYER one card?</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e52a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e529",
+    "__v": 0,
+    "_refId": "5949218dd923276a1f77e4e1",
+    "body": "",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5949d869d923276a1f77e540"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e531",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e530",
+    "__v": 0,
+    "_refId": "5949ac0fd923276a1f77e4ed",
+    "displayTitle": "AND FINALLY...<div><br>ALL THESE TECHNIQUES ARE MAKING THE PROCESS EASIER FOR THE CUSTOMER, BE IT – PUTTING IT AT THE COUNTER SO THEY NO LONGER HAVE TO CARRY THE ITEM AROUND, HELPING THEM TO FIND POS, OR OFFERING TO GIFT-WRAP!<br></div>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5b481da82048887a753eca14",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5b481da32048887a753eca13",
+    "_animations": {
+      "_easing": "default",
+      "_scaleIn": {
+        "_from": 50,
+        "_isEnabled": false
+      },
+      "_fadeIn": {
+        "_from": 0,
+        "_isEnabled": false
+      },
+      "_slideInY": {
+        "_from": 50,
+        "_isReverseDirection": false,
+        "_isEnabled": false
+      },
+      "_slideInX": {
+        "_from": 50,
+        "_isReverseDirection": false,
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/add-on-selling/index.html#/id/5945c2c5d923276a1f77e419",
+        "itemTitle": "ADD-ON SALES",
+        "_id": "5b481dad2048887a753eca15",
+        "itemIndex": 0
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "itemIndex": 1,
+        "_id": "5b481e092048887a753eca18"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5b481da82048887a753eca14",
+    "body": "<p style=\"text-align: center;\">If you haven&rsquo;t already, complete the learning moment Add-On Selling for more great ideas.</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5949badfd923276a1f77e534",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "5949badfd923276a1f77e533",
+    "__v": 0,
+    "_refId": "5949acb3d923276a1f77e4f3",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "594a35d7d923276a1f77e55b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5949baded923276a1f77e4f4",
+    "_parentId": "594a35d6d923276a1f77e55a",
+    "__v": 0,
+    "displayTitle": "Thanks to the team at Myer Eastland for helping with this learning moment!<br>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "594a35d7d923276a1f77e55b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "14"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  }
+]

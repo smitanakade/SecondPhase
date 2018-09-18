@@ -1,0 +1,845 @@
+[
+  {
+    "_id": "58ae5bc7ed2155973abb71ea",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ab6594ed2155973abb702a",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58ae5bcded2155973abb71eb",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "58ae43eeed2155973abb71aa",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae43eeed2155973abb71a9",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "58ae4458ed2155973abb71ae",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae4458ed2155973abb71ad",
+    "_layout": "full",
+    "_component": "media",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">For the Myer Beauty campaign, Myer has teamed up with Eleanor Pendleton, founder and editor of global beauty phenomenon <a href=\"http://www.grittypretty.com\" target=\"_blank\">GrittyPretty.com</a>. In this video, Eleanor shares what beauty means to her.<br></p>",
+    "displayTitle": "WHAT IS BEAUTY?",
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "mp4": "course/en/assets/video/58b4c89ced2155973abb7dda/8e826c0ce2de3ad4035affed1f269c1a.mp4",
+      "_isExternalLink": false,
+      "_shouldAutoPlay": false,
+      "ariaLabel": "This button will play the video",
+      "poster": "course/en/assets/images/58ae5c9fed2155973abb71ec/small/09a48f2caa55e0f27146838f1dde0f73.jpg"
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "58ad2160ed2155973abb7069",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ad2150ed2155973abb7068",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "WHAT MAKES YOU BEAUTIFUL? ",
+    "body": "<p style=\"text-align: center;\">At Myer, we see the beauty in everyone, not least, the beauty in ourselves. Is it…&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "58ad209ded2155973abb7066",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ad207ced2155973abb7064",
+    "_layout": "full",
+    "_component": "gif",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "large": "course/en/assets/images/58ae15b4ed2155973abb7088/8ea7f9928015db27a5db49717bab6aa1.gif",
+      "small": "course/en/assets/images/58ae107eed2155973abb707b/c10e1f08ca004a3780a61b110a1a71ac.gif"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-3-6-0"
+  },
+  {
+    "_id": "58ae254eed2155973abb7090",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae111aed2155973abb7081",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "58ae256bed2155973abb7091",
+        "title": "WE ARE NO.1",
+        "body": "<p style=\"text-align: center;\">Myer is the no.1 beauty retailer in Australia. We may have the biggest share of the market, but the market’s crowded, we need to work hard to keep our spot at the top.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_id": "58ae256ced2155973abb7092",
+        "itemIndex": 1,
+        "title": "WE <b><u>OWN</u></b> BEAUTY",
+        "body": "<p style=\"text-align: center;\">Myer has the biggest range of the best beauty brands, many of which are exclusive to Myer. </p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "58ae256fed2155973abb7093",
+        "title": "WE CARE ABOUT THE BOTTOM LINE",
+        "body": "<p style=\"text-align: center;\">We’re in retail. We sell. We want an increase in units per transaction (UPT) and an increase in average transaction value (ATV). That’s the bottom line.  </p>"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "WHY IS THIS IMPORTANT TO MYER?",
+    "body": "<p style=\"text-align: center;\">This campaign is important to Myer because:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "58af654bed2155973abb722a",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae5657ed2155973abb71d2",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/58af65e3ed2155973abb722e/small/e780d093b8bbb600a1fd9dbefe6a4f88.png"
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 0,
+        "_id": "58af6550ed2155973abb722b",
+        "title": "MELBOURNE &amp; SYDNEY CITY STORES",
+        "body": "<p style=\"text-align: center;\">•\tBeauty Bell Boys performing ‘random acts of kindness’, giving out full-sized products and compliments to match!</p><p style=\"text-align: center;\">• Pressed Juices (Melbourne City) and Vida Glow (Sydney City) providing in-store hydration</p><p style=\"text-align: center;\">• Beauty beats from DJ Darlings</p><p style=\"text-align: center;\">• Wellness wonders around every corner</p><p style=\"text-align: center;\">• In-store blow-waves from Dyson and other supplier activations, including over the counter promotions </p><p style=\"text-align: center;\">•\tA range of in-store Master Classes (see the link at the end of this learning moment) </p><p style=\"text-align: center;\">•\tA Kissing Wall where customers can pucker up and send a kiss to loves, past and present, near and far</p><p style=\"text-align: center;\">•\tBranded under-badges and invitations to events<br></p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/58af6676ed2155973abb7230/small/c353c96b380f59b379f0be822baa584d.png"
+        },
+        "_itemGraphicLayout": "bottom",
+        "_id": "58af6551ed2155973abb722c",
+        "itemIndex": 1,
+        "title": "OTHER FLAGSHIP STORES",
+        "body": "<p style=\"text-align: center;\">• Beauty beats from DJ Darlings</p><p style=\"text-align: center;\">•\tSupplier activations, including over the counter promotions</p><p style=\"text-align: center;\">• A Kissing Wall where customers can pucker up and send a kiss to loves, past and present, near and far</p><p style=\"text-align: center;\">• Random acts of kindness bags, containing full-size product </p><p style=\"text-align: center;\">• Branded under-badges and invitations to events </p><p style=\"text-align: center;\">• Wellness wonders around every corner</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/58af66fbed2155973abb7232/small/d0a830dc1a77b2af31e573d768e3a208.png"
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 2,
+        "_id": "58af6553ed2155973abb722d",
+        "title": "ALL OTHER STORES ",
+        "body": "<p style=\"text-align: center;\">• A Kissing Wall where customers can pucker up and send a kiss to loves, past and present, near and far</p><p style=\"text-align: center;\">• Random acts of kindness bags, containing full-size product </p><p style=\"text-align: center;\">• Branded under-badges and invitations to events </p><p style=\"text-align: center;\">• Wellness wonders around every corner</p>"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "THIS IS BEAUTY - THE EVENT",
+    "body": "<p style=\"text-align: center;\">You can expect to see the following activities in-store: </p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "58ae2ae7ed2155973abb709d",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae2654ed2155973abb7095",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "WHAT CAN I DO?&nbsp;",
+    "body": "<p style=\"text-align: center;\"><b>1. Excite</b> customers about Myer Beauty, learn more about what’s happening in your store and share it.</p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><b>2. Embrace</b> what makes you beautiful, tell our customers about the initiative and encourage them to embrace what makes them beautiful too.</p><p style=\"text-align: center;\"><br></p><p>\t</p><p style=\"text-align: center;\"><b>3. Encourage</b> customers to have fun. Suggest they book a beauty consultation at their favourite counter to make the most of what makes THEM beautiful. (We know that the average transaction value is three times greater when a customer has a counter appointment).&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "58ae56f8ed2155973abb71d5",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae56efed2155973abb71d4",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": "course/en/assets/images/58ae585eed2155973abb71d8/large/2020e379db64c716a46b6773de7f4c8a.png",
+      "_isExternalLink": false,
+      "small": "course/en/assets/images/58ae581ded2155973abb71d6/small/30f1fa407368bb432b7f44abb2456450.jpg"
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "THE FINISHING TOUCH",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "58ae5884ed2155973abb71db",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae587ced2155973abb71da",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://catalogues.myer.com.au/catalogue/aw17-beauty---here-i-am/14860102611602.html#pageNo=0",
+        "itemTitle": "AW17 BEAUTY BOOK",
+        "body": "",
+        "_id": "58ae58b6ed2155973abb71dc",
+        "itemIndex": 0
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "_id": "58ae5a56ed2155973abb71dd",
+        "itemTitle": "MYER.COM.AU/BEAUTY",
+        "link": "https://www.myer.com.au/shop/mystore/beauty"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.instagram.com/explore/tags/myerbeauty/",
+        "itemTitle": "#MYERBEAUTY",
+        "_id": "58af784eed2155973abb7234",
+        "itemIndex": 2
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.myer.com.au/c/latest-news/the-beauty-masterclass.html",
+        "itemTitle": "MASTERCLASS TIMETABLE",
+        "_id": "58ae5a7ded2155973abb71de",
+        "itemIndex": 3
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Need to know more? You can learn more about 'Here I Am' and the events planned for your store by visiting the links below.&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  },
+  {
+    "_id": "58ae5ac2ed2155973abb71e1",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae5abaed2155973abb71e0",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "58ae5ac7ed2155973abb71e2",
+        "itemIndex": 0,
+        "_isComplete": false,
+        "_linkAlignment": "center",
+        "_linkPosition": "top",
+        "_isButton": true,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
+        "_isImageLink": false
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "58ae5b05ed2155973abb71e4",
+    "_courseId": "58ab6592ed2155973abb7025",
+    "_parentId": "58ae5afced2155973abb71e3",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "small": "course/en/assets/images/58ae678aed2155973abb7210/small/870c519c2471ba53b1fc804ff5d5f58c.png",
+      "_isExternalLink": false,
+      "large": "course/en/assets/images/58ae6754ed2155973abb720e/large/86eab2d9007cceb3e5f1bcd74724e6a9.png"
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-2-0"
+  }
+]

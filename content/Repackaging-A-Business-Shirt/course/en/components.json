@@ -1,0 +1,2236 @@
+[
+  {
+    "_id": "5acf2dc3a122467b7b8681c3",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acf2dc3a122467b7b8681c2",
+    "__v": 0,
+    "_refId": "5a4b0331ec1ad576d99ed62b",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "59dbf149960db223cd2d175a",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5acf2dc3a122467b7b8681c8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acf2dc3a122467b7b8681c7",
+    "__v": 0,
+    "displayTitle": "NOT ALL PACKAGING IS EQUAL",
+    "body": "<p style=\"text-align: center;\">At Myer we pride ourselves on presenting our products impeccably! We iron, we steam, we hang and we fold expertly again and again so a &nbsp;customer feels like they&rsquo;re the first to try a garment on!</p><p>&nbsp;&nbsp;</p><p style=\"text-align: center;\">But not all apparel is packaged and presented equally. Business shirts are packed to preserve their collar shape and require special skills to present them as new after they have been taken out of the package.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Ever wondered how to get them back in the package looking new?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We will show you how.</p>",
+    "_refId": "5a4b044fec1ad576d99ed654",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5acf32fca122467b7b8681da",
+    "_component": "hotgraphic",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acf32eaa122467b7b8681d9",
+    "_items": [
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad5893c6d2ab7538d0b8074"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 6.390153894472361,
+        "_top": 21.517857142857146,
+        "_mobileLeft": 16.50390625,
+        "_mobileTop": 5.685763888888889,
+        "_visitedHotspotText": "1 ✔",
+        "body": "<p style=\"text-align: center;\">This is one of three &#39;stays&#39;. When placed under the collar, they help to keep its shape.</p>",
+        "title": "Cardboard collar stay",
+        "itemIndex": 0,
+        "_id": "5ad02d48a60754503fe813f6",
+        "_hotspotText": "<u>1</u>"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad5893c6d2ab7538d0b8073"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 8.590511149497488,
+        "_top": 69.2609126984127,
+        "_mobileLeft": 6.642097204773859,
+        "_mobileTop": 62.06597222222222,
+        "_visitedHotspotText": "2 ✔",
+        "body": "<p style=\"text-align: center;\">This is the inside collar stay, the second &#39;stay&#39;. It gives the collar structure when placed inside it.</p>",
+        "title": "Inside collar stay",
+        "itemIndex": 1,
+        "_hotspotText": "<u>2</u>",
+        "_id": "5ad03af1a60754503fe81402"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad5893d6d2ab7538d0b8077"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 29.359100188442206,
+        "_top": 23.239087301587315,
+        "_mobileLeft": 29.325632066582912,
+        "_mobileTop": 24.539310515873012,
+        "_id": "5ad03c8ea60754503fe81405",
+        "_visitedHotspotText": "3 ✔",
+        "body": "<p style=\"text-align: center;\">This small card is the &#39;cut talker&#39;. It reveals the shirt shape/cut to our customer.</p>",
+        "title": "Cut talker",
+        "itemIndex": 2,
+        "_hotspotText": "<u>3</u>"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_id": "5ad5893d6d2ab7538d0b807a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 29.182239321608037,
+        "_top": 45.431547619047635,
+        "_mobileLeft": 29.506026224874365,
+        "_mobileTop": 45.054563492063494,
+        "_visitedHotspotText": "4 ✔",
+        "body": "<p style=\"text-align: center;\">These plastic clips have interlocking teeth to hold on the folds together.</p>",
+        "title": "Clips",
+        "itemIndex": 3,
+        "_hotspotText": "<u>4</u>",
+        "_id": "5ad03c90a60754503fe81406"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_id": "5ad5893d6d2ab7538d0b8078",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 29.565797738693462,
+        "_top": 61.230158730158735,
+        "_mobileLeft": 29.242207129396984,
+        "_mobileTop": 63.005952380952365,
+        "_visitedHotspotText": "5 ✔",
+        "body": "<p style=\"text-align: center;\">This is the butterfly clip. One of its sides is slightly raised to help you place it and adjust the tension of your folds.</p>",
+        "title": "Butterfly clip",
+        "itemIndex": 4,
+        "_hotspotText": "<u>5</u>",
+        "_id": "5ad03c8ca60754503fe81404"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_id": "5ad5893d6d2ab7538d0b8079",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 26.852720634422113,
+        "_top": 77.79761904761904,
+        "_mobileLeft": 26.765762405778894,
+        "_mobileTop": 77.68477182539681,
+        "_id": "5ad03af3a60754503fe81403",
+        "_visitedHotspotText": "6 ✔",
+        "body": "<p style=\"text-align: center;\">This is the front collar stay, the last of the &#39;stays&#39;. It supports the collar&#39;s front.</p>",
+        "title": "Front collar stay",
+        "itemIndex": 5,
+        "_hotspotText": "<u>6</u>"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_id": "5ad5893c6d2ab7538d0b8075",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 52.591571136934675,
+        "_top": 21.76587301587301,
+        "_mobileLeft": 52.53700141331659,
+        "_mobileTop": 20.644221230158713,
+        "_id": "5ad03af0a60754503fe81401",
+        "_visitedHotspotText": "7 ✔",
+        "body": "<p style=\"text-align: center;\">This is the cardboard base, it has a top T- shaped notch and a bottom triangular notch. It will guide your main shirt folds .</p>",
+        "title": "Folding board",
+        "itemIndex": 6,
+        "_hotspotText": "<u>7</u>"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_mobileTextHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad5893d6d2ab7538d0b8076"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 80.36824748743717,
+        "_top": 26.651785714285726,
+        "_mobileLeft": 8.59375,
+        "_mobileTop": 11.458333333333332,
+        "_id": "5ad03c92a60754503fe81407",
+        "_visitedHotspotText": "8 ✔",
+        "body": "<p style=\"text-align: center;\">This is the shirt bag. It&#39;s the final touch to perfectly present shirts in display.</p>",
+        "title": "Shirt bag",
+        "itemIndex": 7,
+        "_hotspotText": "<u>8</u><br>"
+      }
+    ],
+    "_mobileTextHotspotStyles": {
+      "_fontColor": "transparent"
+    },
+    "_textHotspotStyles": {
+      "_fontColor": "transparent"
+    },
+    "_visitedHotspotIcon": "checkmark-circle",
+    "_hotspotIcon": "plus-circle",
+    "_showPopupAsCarousel": false,
+    "_mobileScrollableGraphicMaxHeight": 400,
+    "_scrollableGraphicMaxHeight": 400,
+    "_hasScrollableGraphic": false,
+    "_hideInteractionLabelOnMobile": false,
+    "_canUseMobilePositions": false,
+    "_hasFullLayoutOnMobile": true,
+    "_popupCloseButton": "Close",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5acf32fca122467b7b8681da",
+    "displayTitle": "SHIRT PACKAGING TOOLS",
+    "body": "<p style=\"text-align: center;\">Up to 8 tools are the secret behind those crisply packaged business shirts - some brands might use less but the principles remain. Select each number to learn what they&#39;re called and what they do.&nbsp;</p>",
+    "_graphic": {
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad58aea6d2ab7538d0b807f"
+      }
+    },
+    "_mobileGraphic": {
+      "src": null
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Hot Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5acffe8ba60754503fe813a3",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acffe8aa60754503fe8139b",
+    "__v": 0,
+    "displayTitle": "Step 1:<br>Position the inside collar stay",
+    "body": "<p style=\"text-align: center;\">Start by checking the shirt is buttoned up.<br>Then on a flat clean surface, lay the shirt facing down.&nbsp;</p><p style=\"text-align: center;\">Place the inside collar stay underneath the collar with the score at the base.</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad44a127fcdd6610b4066df",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad44a127fcdd6610b4066df"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad04df7a60754503fe8143a"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acffe8ba60754503fe813a3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 1: Position the inside collar stay",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5ad0165ca60754503fe813d6",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acffe8aa60754503fe8139c",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad44a127fcdd6610b4066e0"
+      },
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad44a127fcdd6610b4066e0",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad04df7a60754503fe81439"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad0165ca60754503fe813d6",
+    "displayTitle": "Step 2: Fix the cardboard folding board<br>",
+    "body": "<p style=\"text-align: center;\">Now use the T-shaped notch in the cardboard folding board to secure it to the cardboard collar stay. This will keep the inside collar stay and this board in place whilst you fold.</p><p style=\"text-align: center;\"><br>Then centre the cardboard folding board by aligning the triangular notch at its base with the shirt&rsquo;s button underneath.&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Step 2: Fix the cardboard folding board",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5acffe8ba60754503fe813a6",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acffe8aa60754503fe8139d",
+    "__v": 0,
+    "displayTitle": "Step 3: Start folding!",
+    "body": "<p style=\"text-align: center;\">Use the cardboard folding board edge to guide the first fold lengthwise. If the shirt still has the factory creases follow these.</p><p style=\"text-align: center;\"><br>Fold the sleeve with the cuff&rsquo;s seams lined up with the outside of the cardboard so that the cuff can be folded to the front of the shirt to display the sleeve talker. Then fold lengthwise again placing the excess fabric under.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Repeat the same lengthwise folds for the other side.</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad44a127fcdd6610b4066e1",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad44a127fcdd6610b4066e1"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_id": "5ad04df7a60754503fe81438",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acffe8ba60754503fe813a6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 3: Start folding!",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "5acffe8ba60754503fe813a4",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acffe8aa60754503fe8139e",
+    "__v": 0,
+    "displayTitle": "Step 4: Feel the tension",
+    "body": "<p style=\"text-align: center;\">Time to secure the folds you have just done. First create a tight fit of the shirt around the cardboard by pulling the two folded sides.<br>Secure them using a butterfly clip.&nbsp;</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad44a127fcdd6610b4066e2",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad44a127fcdd6610b4066e2"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad04df6a60754503fe81436"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acffe8ba60754503fe813a4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 4: Feel the tension",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "5acffe8ba60754503fe813a7",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acffe8aa60754503fe8139f",
+    "__v": 0,
+    "displayTitle": "Step 5: Keep it tight and fold the sleeve",
+    "body": "<p style=\"text-align: center;\">With the top of the shirt wrapped around the cardboard securely, fold &nbsp;any excess material along the folds using the factory creases as a guide.<br>Fold the remaining sleeve up the middle of the back.</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad0427aa60754503fe81409",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad0427aa60754503fe81409"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad04df6a60754503fe81437"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acffe8ba60754503fe813a7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 5: Keep it tight and fold the sleeve",
+    "_type": "component",
+    "_courseOrder": "0-3-4-0"
+  },
+  {
+    "_id": "5acffe8ba60754503fe813a2",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acffe8aa60754503fe813a0",
+    "__v": 0,
+    "displayTitle": "Step 6: Tuck away the hem",
+    "body": "<p style=\"text-align: center;\">Fold up the bottom edge of the shirt against the edge of the cardboard, it&rsquo;s key you pull it slightly to ensure the shirt is wrapped tightly.<br>At this point you will notice your folds make the width of the shirt narrower towards the hem which allows you to tuck it in between the cardboard and the butterfly-clipped shoulders.</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad44a127fcdd6610b4066de",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad44a127fcdd6610b4066de"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad04df6a60754503fe81435"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acffe8ba60754503fe813a2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "STEP 6: Tuck away the hem",
+    "_type": "component",
+    "_courseOrder": "0-3-5-0"
+  },
+  {
+    "_id": "5acffe8ba60754503fe813a5",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acffe8aa60754503fe813a1",
+    "__v": 0,
+    "displayTitle": "Step 7: Display-proof the shirt",
+    "body": "<p style=\"text-align: center;\">Keep the shirt&rsquo;s hem tucked away using a clip on each side at the back. Then secure the cuff with a clip at the front of the shirt, hiding against the cuff button.</p><p style=\"text-align: center;\">&nbsp;<br>Ensure you are displaying the shirt information at the front.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Now place the inside and front collar stays to protect the structure of the collar in case shirts are piled up in display.<br>Start with the inside collar stay. This stay is adjustable so it can fit several collar sizes.</p><p style=\"text-align: center;\">The front collar stay is the final touch to keep the collar lifted: its middle slot is placed around the shirt&rsquo;s collar button.</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad44b277fcdd6610b4066e4",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad44b277fcdd6610b4066e4"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad04df6a60754503fe81434"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acffe8ba60754503fe813a5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Step7_Display-proof the shirt",
+    "_type": "component",
+    "_courseOrder": "0-3-6-0"
+  },
+  {
+    "_id": "5acfff15a60754503fe813aa",
+    "_component": "media",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acfff15a60754503fe813a9",
+    "__v": 0,
+    "displayTitle": "Step 8: Into the bag, out to the shelf",
+    "body": "<p style=\"text-align: center;\">The last step is to insert the shirt, collar first, into the bag. The bag has a pleated end that gives enough room for the collar and an adhesive seal which closes the bag at the back.</p>",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "5ad44b277fcdd6610b4066e5",
+        "_extension": "mp4",
+        "_type": "video"
+      },
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5ad44b277fcdd6610b4066e5"
+      },
+      "_shouldAutoPlay": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldHidePlayButton": false,
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad04df5a60754503fe81433"
+      },
+      "ariaLabel": "This button will play the video"
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acfff15a60754503fe813aa",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Step8_Into the bag out to the shelf",
+    "_type": "component",
+    "_courseOrder": "0-3-7-0"
+  },
+  {
+    "_id": "5ad01dc7a60754503fe813dc",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5ad01daaa60754503fe813db",
+    "_items": [],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad01dc7a60754503fe813dc",
+    "body": "<p style=\"text-align: center;\">Many of our stores have business shirts sitting in reserves as dead stock because they are unpackaged - up to 500 in some.&nbsp;</p><p style=\"text-align: center;\">With your help these shirts can be displayed again for our customers in store or online.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You can find time to fold when you&#39;re helping in our fitting rooms. And whilst you&#39;re there keep an eye out for all packaging removed by customers trying a shirt on: don&#39;t throw packaging so you can return unsold tried-on shirts to their former crisp glory! &nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The more shirts you return to the fold by keeping on top of unpackaged shirts, the less there will be in reserves and the more your store can replenish with the latest designs.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "DID YOU KNOW?",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5ad01f24a60754503fe813e3",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5ad01f18a60754503fe813e2",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad02408a60754503fe813ec"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad01f24a60754503fe813e3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5ad048d7a60754503fe81417",
+    "_component": "matching",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5ad0486ea60754503fe81415",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\">Not quite.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Revisit the steps and videos till you feel sure of the steps and can repackage shirts like a pro!</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\">Almost.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Revisit the steps and videos and practice till you can repackage shirts like a pro!&nbsp;</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\">Nailed it. &nbsp;&nbsp;</p><p style=\"text-align: center;\">Get practising and further develop your dexterity at repackaging shirts.</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "text": "Step 1&nbsp;&nbsp;",
+        "itemIndex": 0,
+        "_id": "5ad048dba60754503fe81418"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": true,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "_id": "5ad067baa60754503fe81440",
+        "text": "Step 2&nbsp;",
+        "itemIndex": 1
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "text": "Step 1&nbsp;&nbsp;",
+        "itemIndex": 2,
+        "_id": "5ad067bca60754503fe81441"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "_id": "5ad067bda60754503fe81442",
+        "text": "Step 4&nbsp;&nbsp;",
+        "itemIndex": 3
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "text": "Step 5&nbsp;&nbsp;",
+        "itemIndex": 4,
+        "_id": "5ad067bfa60754503fe81443"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "_id": "5ad067c0a60754503fe81444",
+        "text": "Step 6&nbsp;&nbsp;",
+        "itemIndex": 5
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "text": "Step 7&nbsp;&nbsp;",
+        "itemIndex": 6,
+        "_id": "5ad067c1a60754503fe81445"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Fix the cardboard folding board",
+            "_id": "5ad04900a60754503fe8141d"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad04911a60754503fe81420",
+            "text": "Keep it tight and fold the sleeve"
+          },
+          {
+            "_isCorrect": true,
+            "text": "Into the bag, out to the shelf",
+            "_id": "5ad04924a60754503fe81421"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad066f8a60754503fe8143b",
+            "text": "Position the inside collar stay"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Display-proof the shirt",
+            "_id": "5ad0670da60754503fe8143c"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670ea60754503fe8143d",
+            "text": "Start folding!"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Tuck away the hem",
+            "_id": "5ad0670ea60754503fe8143e"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "5ad0670fa60754503fe8143f",
+            "text": "Feel the tension"
+          }
+        ],
+        "_id": "5ad067c2a60754503fe81446",
+        "text": "Step 8&nbsp;&nbsp;",
+        "itemIndex": 7
+      }
+    ],
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5ad048d7a60754503fe81417",
+    "displayTitle": "CHECK YOUR UNDERSTANDING",
+    "placeholder": "Press here",
+    "body": "<p style=\"text-align: center;\">Let&#39;s test you can organise the steps to repackage a shirt.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">For each step select the correct answer.</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Matching Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5ad01e5aa60754503fe813e1",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5ad01e46a60754503fe813e0",
+    "_items": [],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad01e5aa60754503fe813e1",
+    "body": "<p style=\"text-align: center;\">Learning how to repackage a shirt is a valuable skill that helps everyone:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&middot; You who can add a new skill to your list!</p><p style=\"text-align: center;\">&middot; Customers find an impeccably presented product&nbsp;</p><p style=\"text-align: center;\">&middot; Our online fulfilment colleagues can get the shirts for online customers</p><p style=\"text-align: center;\">&middot; Your store who can sell and replenish the latest shirts.<br><br>And in case you need more packaging accessories, contact the Buying office.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">So keep on folding!</p>",
+    "displayTitle": "BEFORE YOU GO",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text and Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5ad59ce56d2ab7538d0b8082",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5ad59cdc6d2ab7538d0b8081",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ae28b397bf0ba1b809a0562"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad94656958735596ee16367"
+      },
+      "_isLightboxEnabled": false,
+      "lightboxZoomInAriaLabel": "zoom in",
+      "lightboxZoomOutAriaLabel": "zoom out",
+      "lightboxCloseAriaLabel": "close"
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad59ce56d2ab7538d0b8082",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5acf2dc3a122467b7b8681ce",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acf2dc3a122467b7b8681cd",
+    "__v": 0,
+    "_refId": "5a4b0518ec1ad576d99ed67c",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "592cf808cc6c57255d381329",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5acf2dc3a122467b7b8681cb",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5acf2dc2a122467b7b8681bd",
+    "_parentId": "5acf2dc3a122467b7b8681ca",
+    "__v": 0,
+    "_refId": "5a4b04f2ec1ad576d99ed670",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

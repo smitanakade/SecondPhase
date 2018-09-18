@@ -1,0 +1,183 @@
+* { margin: 0; padding: 0; }
+
+body, td, textarea, input {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+body {
+  background: #ffffff; color: #444; text-shadow: 0 1px 1px rgba(250, 250, 250, 0.2);
+  padding: 0 20px;
+  font-family: Open Sans, sans-serif;
+  font-size: 10pt;
+  font-weight: 400;
+}
+
+* {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-smoothing: antialiased !important;
+}
+
+a, a:visited {
+  color: #38a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #222; }
+
+/* Slideshow metrics */
+.slideshow {
+  width: 500px;
+  height: 200px; }
+
+/* ... */
+.slides img {
+  width: 100%;
+  height: 100%;
+}
+
+/* Super slide */
+.with-overlay {
+  position: relative;
+}
+
+.with-overlay img,
+.with-overlay .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.with-overlay img {
+  z-index: 1;
+}
+
+.with-overlay .overlay {
+  z-index: 2;
+  background: rgba(0, 10, 60, 0.75);
+
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3), 0 0 4px rgba(0, 0, 0, 0.3);
+
+  text-align: center;
+  line-height: 200px;
+}
+
+.with-overlay .in {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+
+  /* Compensation for dots */
+  padding-bottom: 15px;
+
+  line-height: 1.4em;
+}
+
+.with-overlay h3 {
+  color: white;
+  font-size: 1.6em;
+  font-weight: 400;
+  margin-bottom: 3px;
+}
+
+.with-overlay p {
+  margin-bottom: 20px;
+  color: #d0d0dd;
+}
+
+.with-overlay a.action {
+  display: inline-block;
+  padding: 3px 20px;
+  border: solid 2px #ddd;
+
+  text-transform: uppercase;
+  font-weight: bold;
+
+  color: white;
+  border-radius: 20px;
+}
+
+.link-to-github a:hover {
+  background-color: #ddd;
+  color: #222;
+  text-shadow: none;
+}
+
+.link-to-github a:active {
+  background-color: #37a;
+  border-color: #37a;
+  color: #fff;
+  text-shadow: none;
+}
+
+/* Github */
+.info {
+  margin: 30px auto;
+  max-width: 254px;
+  text-align: center; }
+
+.info a {
+  margin: 0 3px; }
+
+h1 {
+  margin-bottom: 5px;
+  font-size: 2.0em;
+  font-weight: 300; }
+
+p {
+  color: #888; }
+
+p + p {
+  margin-top: 15px; }
+
+.github iframe {
+  margin: 0 auto; }
+
+html, body {
+  height: 100%; }
+body {
+  width: auto;
+  margin: 0 auto;
+  display: table; }
+.all {
+  padding: 20px;
+  display: table-cell;
+  vertical-align: middle; }
+
+a.btn,
+a.btn:visited {
+  display: inline-block;
+
+  color: #333;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.8em;
+
+  padding: 2px 10px;
+  margin: 0 4px;
+
+  border: solid 2px #666;
+  border-radius: 20px;
+
+  min-width: 30px;
+}
+
+a.btn:hover {
+  background: #3b5;
+  border-color: #3b5;
+  color: white;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+a.btn:active {
+  background: #222;
+  border-color: #222;
+}
+
+.hidden {
+  display: none;
+}

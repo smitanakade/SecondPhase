@@ -1,0 +1,1460 @@
+[
+  {
+    "_id": "5850b83fcb51ba21e7a23ad1",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23ad0",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58771271cb51ba21e7a23eb9"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5877131ecb51ba21e7a23ebb"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23ad1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CommBankPWP_Logo",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23ad5",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23ad4",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><i>Rewarding our customers</i></p>",
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23ad5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Strapline",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23ad7",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23ad6",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5848b10fcb51ba21e7a23947",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23ad7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23ad9",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23ad8",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Did you know that customers can receive discounts on their purchases, just by using their CommBank credit card?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">In this learning moment we explain how to delight your customers through the CommBank Pay with Points and Points Plus Pay  program.</p>",
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23ad9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-3-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23ac9",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23ac8",
+    "_layout": "left",
+    "_component": "media",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_audio": {
+      "_isEnabled": false,
+      "_buttonText": "AD",
+      "ariaLabel": "This button will play an audio description of the video"
+    },
+    "_media": {
+      "_isExternalLink": false,
+      "_shouldAutoPlay": false,
+      "ariaLabel": "This button will play the video",
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5848b5e6cb51ba21e7a2394b"
+      },
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5848b610cb51ba21e7a2394d"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23ac9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23acc",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23ac8",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">When you see a CommBank credit card, ask the customer if they are a CommBank Awards member. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Offer to check their points value, and help process their ‘Pay with Points’ or ‘Points Plus Pay’ transaction.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch out for extra promotions for our CommBank Awards customers and tell them about it.</p>",
+    "displayTitle": "A NEW WAY TO SHOP",
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23acc",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-1"
+  },
+  {
+    "_id": "5850b83ecb51ba21e7a23a98",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83ecb51ba21e7a23a97",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5848dab9cb51ba21e7a23953"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5850b83ecb51ba21e7a23a98",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5850b83ecb51ba21e7a23a9a",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83ecb51ba21e7a23a97",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "IT'S WHAT WE DO",
+    "body": "<p style=\"text-align: center;\">At Myer we love to delight our customers. Let them know they may have CommBank Awards points to spend in-store.</p>",
+    "_isQuestionType": false,
+    "_refId": "5850b83ecb51ba21e7a23a9a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-1"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23ae7",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23ae6",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "displayTitle": "HOW CAN I HELP?",
+    "body": "<p style=\"text-align: center;\">Press the cards below to learn more...</p>",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "58758e76cb51ba21e7a23c91",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "58758e35cb51ba21e7a23c8f",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "itemIndex": 0,
+        "_id": "5848dda5cb51ba21e7a23958"
+      }
+    ],
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23ae7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Step 1",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23aeb",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23aea",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "5875904ccb51ba21e7a23c93",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "587593d7cb51ba21e7a23c97",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "itemIndex": 0,
+        "_id": "5848de82cb51ba21e7a2395f"
+      }
+    ],
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23aeb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "step 2",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23aef",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23aee",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "58759421cb51ba21e7a23c9b",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "58759402cb51ba21e7a23c99",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "itemIndex": 0,
+        "_id": "5848df63cb51ba21e7a23966"
+      }
+    ],
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23aef",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Step 3",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23af3",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83fcb51ba21e7a23af2",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">If you need to know more…&nbsp;<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Go to <b><i>MyerConnect &gt; Retail Operations &gt; Tools &gt; User Guides &gt; POS User Guide v2 &gt; 04. Section 4 - Tender Types &gt; 4.11 CBA Awards Points</i></b></p>",
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23af3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "More details",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "5850b83ecb51ba21e7a23abc",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83ecb51ba21e7a23abb",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5848e724cb51ba21e7a2397b"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5850b83ecb51ba21e7a23abc",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Need to know",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5850b83fcb51ba21e7a23abe",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83ecb51ba21e7a23abb",
+    "_layout": "right",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\" class=\"\">Equip yourself to answer frequently asked questions.<br></p>",
+    "displayTitle": "IN THE KNOW",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "5763825f5317199730b37c30",
+        "title": "HOW MANY POINTS DO I HAVE?",
+        "body": "<p style=\"text-align: center;\">You can help a customer look up their points balance at POS. The balance is automatically displayed as a dollar value e.g. $500.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">In general, 200 Awards points = $1 to spend at Myer.<br></p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Awards points can be used to purchase merchandise and gift cards in-store at Myer, <u>excluding </u>'Coles Group and Myer' gift cards.</p>",
+        "title": "WHAT CAN I BUY WITH POINTS?",
+        "_id": "5848e3fbcb51ba21e7a23973",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Customers can either use ‘Pay with Points’ for purchases paid <b>only</b> with Awards points, or 'Points Plus Pay', which combines their Awards points with any other payment method accepted at Myer.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Commbank Awards Points can only be redeemed in Myer stores and cannot be redeemed on myer.com.au or over the phone.&nbsp;</p>",
+        "title": "WHAT ARE MY PAYMENT OPTIONS?",
+        "_id": "5848e558cb51ba21e7a23975",
+        "itemIndex": 2
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Myer one shopping credits are earned on all merchandise purchases, excluding gift cards.&nbsp;</p>",
+        "title": "WILL I EARN MYER ONE CREDITS?",
+        "_id": "5848e5c9cb51ba21e7a23977",
+        "itemIndex": 3
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5850b83fcb51ba21e7a23abe",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "need to knows",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "58520c76cb51ba21e7a23b60",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "58520c5acb51ba21e7a23b5f",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58520d82cb51ba21e7a23b64"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58520fedcb51ba21e7a23b66"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58520c76cb51ba21e7a23b60",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5851d4b6cb51ba21e7a23b39",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5851d3c4cb51ba21e7a23b38",
+    "_layout": "full",
+    "_component": "mcq",
+    "_feedback": {
+      "correct": "<p align=\"center\"><b>Spot on!</b></p><p align=\"center\"><br></p><p align=\"center\">Customers must be part of the <b>CommBank Awards </b>program to pay instantly in-store at Myer with points or 'points plus pay'.&nbsp;</p><p align=\"center\"><br></p><p align=\"center\">To be part of the Awards program they must hold a CommBank Awards credit card. There are many different types such as Awards, Gold Awards,  Platinum Awards, Diamond Awards, Business Awards and Business Gold Awards. <br></p><p align=\"center\"><br></p><p align=\"center\">The easiest way to find out if they are part of the program is to ask them. <br></p>",
+      "_partlyCorrect": {
+        "final": "<p align=\"center\"><b>Not quite</b><br></p><p align=\"center\"><br></p><p align=\"center\">Customers must be part of the <b>CommBank Awards</b> program to pay instantly in-store at Myer with points or 'points plus pay'.</p><p align=\"center\"><br></p><p align=\"center\">To be part of the Awards program they must hold a CommBank Awards credit card. There are many different types such as Awards, Gold Awards, Diamond Awards, Business Awards and Business Gold Awards.</p><p align=\"center\"><br></p><p align=\"center\">The easiest way to find out if they are part of the program is to ask them. </p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p align=\"center\"><b>Not quite</b><br></p><p align=\"center\"><br></p><p align=\"center\">Customers must be part of the <b>CommBank Awards</b> program to pay instantly in-store at Myer with points or 'points plus pay'. <br></p><p align=\"center\"><br></p><p align=\"center\">To be part of the Awards program they must hold a CommBank Awards credit card. There are many different types such as Awards, Gold Awards, Platinum Awards, Diamond Awards, Business Awards and Business Gold Awards. <br></p><p align=\"center\"><br></p><p align=\"center\">The easiest way to find out if they are part of the program is to ask them. </p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "text": "Rewards customer<br>",
+        "_id": "5851d535cb51ba21e7a23b3a",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 1,
+        "_id": "5851d5b6cb51ba21e7a23b3b",
+        "text": "CommBank Awards customer<br>"
+      },
+      {
+        "_shouldBeSelected": false,
+        "text": "MYER one Awards customer<br>",
+        "_id": "5851d615cb51ba21e7a23b3c",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 3,
+        "_id": "5851fbdacb51ba21e7a23b4f",
+        "text": "CommBank credit card customer<br>"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p align=\"center\">Select which of the customers below can Pay with Points at Myer.<br></p>",
+    "_refId": "5851d4b6cb51ba21e7a23b39",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5850b83ecb51ba21e7a23aa9",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83ecb51ba21e7a23aa8",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select which <u><b>three</b></u> statements are correct, from the list below.</p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "",
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">At POS you can quickly check a customer's points balance (displayed as $ value) and process transactions using points alone or 'points plus pay'.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Customers earn MYER one shopping credits for all purchases <u>excluding</u> gift cards.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">At POS you can quickly check a customer's points balance (displayed as $ value) and process transactions using points alone or 'points plus pay'. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Customers earn MYER one shopping credits for all purchases <u>excluding</u> gift cards.</p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Great memory!</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">You can check balances and process pay-with-points transactions quickly and easily at POS.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Customers earn MYER one shopping credits for all purchases <u>excluding</u> gift cards.<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "text": "The Awards points are displayed as a $ value at POS.",
+        "itemIndex": 0,
+        "_id": "57730108253db5b503cbbf94"
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "Myer team members with POS access can check balances and process a transaction.",
+        "_id": "57730109253db5b503cbbf95",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "Customers can use either points alone or points plus pay.<br>",
+        "_id": "5773010b253db5b503cbbf97",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "text": "Customers can earn MYER one shopping credits for all purchases.&nbsp;",
+        "itemIndex": 3,
+        "_id": "5773010c253db5b503cbbf98"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "5850b83ecb51ba21e7a23aa9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ_01",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5850b83ecb51ba21e7a23ab4",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83ecb51ba21e7a23ab3",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "584e2fabcb51ba21e7a239bc"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5848b31ccb51ba21e7a23948"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5850b83ecb51ba21e7a23ab4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5850b83ecb51ba21e7a23ab2",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850b83ecb51ba21e7a23ab1",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "LEARN MORE",
+    "body": "<p style=\"text-align: center;\">For more information about CommBank Pay with Points select the button below.</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.commbank.com.au/personal/credit-cards/awards-program/myer.html",
+        "itemTitle": "COMMBANK PAY WITH POINTS WEBSITE",
+        "itemIndex": 0,
+        "_id": "580ec3a5fdfb0e1ba9370a60"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "_id": "5850c13bcb51ba21e7a23b0e",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5850b83ecb51ba21e7a23ab2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "StyleExtras",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5850c192cb51ba21e7a23b13",
+    "_courseId": "5850b83ecb51ba21e7a23a89",
+    "_parentId": "5850c192cb51ba21e7a23b12",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "body": "<div style=\"text-align: center;\"><br></div>",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5850c192cb51ba21e7a23b13",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  }
+]

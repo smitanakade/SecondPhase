@@ -1,0 +1,526 @@
+[
+  {
+    "_id": "5989717ce1545e6a6582e1cb",
+    "_component": "iFrame",
+    "_layout": "full",
+    "_courseId": "5987c46ee1545e6a6582e133",
+    "_parentId": "598970b7e1545e6a6582e1c7",
+    "__v": 0,
+    "_refId": "5989717ce1545e6a6582e1cb",
+    "_source": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/GzBCA_5e1Pg\" frameborder=\"0\" allowfullscreen></iframe>",
+    "displayTitle": "<br>",
+    "body": "",
+    "instruction": "",
+    "_frameHeight": {
+      "_mobile": 300,
+      "_desktop": 500
+    },
+    "_isEmbeddedFile": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "iFrame Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5987c976e1545e6a6582e145",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5987c46ee1545e6a6582e133",
+    "_parentId": "5987c970e1545e6a6582e144",
+    "__v": 0,
+    "_refId": "5987c976e1545e6a6582e145",
+    "displayTitle": "<br>",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "alt": "",
+        "body": "<p>If you are not challenged, you are not learning anything new. Find the edge of your comfort zone.</p>",
+        "itemIndex": 0,
+        "_id": "5987c984e1545e6a6582e146",
+        "title": "PUSH PAST YOUR COMFORT ZONE"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "alt": "",
+        "body": "<p>Deliberate practice requires you to have clarity regarding the goals you want to achieve. There is no reason to move forward if you cannot envisage your route and destination. </p>",
+        "title": "WORK TOWARDS WELL DEFINED GOALS",
+        "_id": "5987c9a1e1545e6a6582e147",
+        "itemIndex": 1
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "FOCUS INTENTLY ON YOUR PRACTICE",
+        "_id": "5987ca1ee1545e6a6582e148",
+        "itemIndex": 2,
+        "body": "<p>It is not enough to engage in practice if you’re distracted by something else. Give full attention to your practice and you’ll reach a level of mastery much faster. </p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 3,
+        "_id": "5987ca38e1545e6a6582e149",
+        "title": "SEEK OUT ADVICE FOR IMPROVEMENT",
+        "body": "<p>It can be hard to know where to focus your practice if you’re not sure what you are doing wrong. Seek feedback from someone who has mastered the skill, then make changes to your practice to reflect their guidance and advice.  </p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Visualise yourself performing the skill to a level of mastery. Reflect on the gap between your mental picture and current performance level. Continually focus on small improvements to narrow the gap.<br></p>",
+        "itemIndex": 4,
+        "_id": "5987cb47e1545e6a6582e14a",
+        "title": "DEVELOP A MENTAL PICTURE OF THE SKILL"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59968875052917a2552bf606",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5987c46ee1545e6a6582e133",
+    "_parentId": "59968875052917a2552bf605",
+    "__v": 0,
+    "_refId": "59968875052917a2552bf606",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59965226052917a2552bf5cd",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59952f33052917a2552bf556",
+        "link": "https://www.youtube.com/watch?v=5MgBikgcWnY"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5996889e052917a2552bf60a",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5987c46ee1545e6a6582e133",
+    "_parentId": "5996889e052917a2552bf609",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "5996889e052917a2552bf60a",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59953a17052917a2552bf559"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://soundcloud.com/positivity-dan/deliberate-practice-rapid",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "599688bb052917a2552bf60e",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5987c46ee1545e6a6582e133",
+    "_parentId": "599688bb052917a2552bf60d",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "599688bb052917a2552bf60e",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "599654bf052917a2552bf5ce",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "http://blog.flashpointleadership.com/fundamental-5-practice-deliberately-build-good-habits-as-a-leader"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "59c99b2baeab875c6c490eda",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5987c46ee1545e6a6582e133",
+    "_parentId": "59c99b2baeab875c6c490ed9",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59c99b2baeab875c6c490eda",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59c99078aeab875c6c490ed3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_type": "resources",
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "59c99bd8aeab875c6c490edd"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  }
+]

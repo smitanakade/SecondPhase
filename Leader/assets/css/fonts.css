@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'MillerBanner-Light';
+    src: url('/myer/Leader/assets/fonts/MillerBanner-Light.eot');
+    src: local('☺'), url('/myer/Leader/assets/fonts/MillerBanner-Light.woff') format('woff'), url('/myer/Leader/assets/fonts/MillerBanner-Light.ttf') format('truetype'), url('/myer/Leader/assets/fonts/MillerBanner-Light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MillerBanner-Roman';
+    src: url('/myer/Leader/assets/fonts/MillerBanner-Roman.eot');
+    src: local('☺'), url('/myer/Leader/assets/fonts/MillerBanner-Roman.woff') format('woff'), url('/myer/Leader/assets/fonts/MillerBanner-Roman.ttf') format('truetype'), url('/myer/Leader/assets/fonts/MillerBanner-Roman.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aperculight';
+    src: url('/myer/Leader/assets/fonts/apercu_light-webfont.woff2') format('woff2'),
+    url('/myer/Leader/assets/fonts/apercu_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apercubold';
+    src: url('/myer/Leader/assets/fonts/apercu_bold-webfont.woff2') format('woff2'),
+    url('/myer/Leader/assets/fonts/apercu_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apercumedium';
+    src: url('/myer/Leader/assets/fonts/apercu_medium-webfont.woff2') format('woff2'),
+    url('/myer/Leader/assets/fonts/apercu_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apercuregular';
+    src: url('/myer/Leader/assets/fonts/apercu-webfont.woff2') format('woff2'),
+    url('/myer/Leader/assets/fonts/apercu-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

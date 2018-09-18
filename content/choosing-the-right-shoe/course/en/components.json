@@ -1,0 +1,864 @@
+[
+  {
+    "_id": "5a1289bbd9f1d573fdb22615",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1289bbd9f1d573fdb22614",
+    "__v": 0,
+    "_refId": "5a0bccd4d9f1d573fdb2201e",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a14fc8ed9f1d573fdb22974"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a14fc36d9f1d573fdb2296f"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a1e058781af53733b5cd1f3",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1e058181af53733b5cd1f1",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1e058781af53733b5cd1f3",
+    "body": "<p style=\"text-align: center;\">Our customers have many options when choosing school shoes for their child.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">They also have the option of different fastening systems, including lace ups and Velcro.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a1289bbd9f1d573fdb22617",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1289bbd9f1d573fdb22616",
+    "__v": 0,
+    "_refId": "5a0bc419d9f1d573fdb21fdf",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "59b86c8d5dfae0c5453cd486",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "5a1e038881af53733b5cd1df",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1e038281af53733b5cd1dd",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a1e039681af53733b5cd1e1"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a1e039681af53733b5cd1e1",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1e038881af53733b5cd1df",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a1360f9d9f1d573fdb22672",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1360bcd9f1d573fdb2266d",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a1762d781af53733b5ccd8b"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5a1361c5d9f1d573fdb2268a",
+        "title": "",
+        "body": "<p style=\"text-align: center;\">Durable leather shoes are breathable and mold to the foot. <br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a17612481af53733b5ccd85",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<div style=\"text-align: center;\">Lace up shoes allow for more flexibility when fitting the shoe.<br></div>",
+        "itemIndex": 1,
+        "_id": "5a1cd0c781af53733b5cd03e"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a1763ac81af53733b5ccd8e"
+          }
+        },
+        "_id": "5a1361c4d9f1d573fdb22688",
+        "itemIndex": 2,
+        "title": "",
+        "body": "<div style=\"text-align: center;\">Shoes with Velcro allow children to be independent and do up their own shoes.<br></div>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a17647281af53733b5ccd93",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "5a1361c3d9f1d573fdb22686",
+        "title": "",
+        "body": "<p style=\"text-align: center;\">Sporty options are light on the foot with an EVA sole unit for shock absorption.<br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a17618b81af53733b5ccd88"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Clarks has made a range of school and sport shoes, called E+. These shoes have a dual fitting option. You vary the width/depth by removing the extra innersole to allow the foot to drop down and give it more room.&nbsp;<br></p>",
+        "_id": "5a136466d9f1d573fdb226a7",
+        "itemIndex": 4
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1360f9d9f1d573fdb22672",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a1cd81481af53733b5cd07c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1cd80f81af53733b5cd07a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1cd81481af53733b5cd07c",
+    "body": "<p style=\"text-align: center;\">All Clarks school and sport shoes are designed with extended firm heel counters (a stiffening material used to strengthen the heel), which offers extra support and stability for developing feet<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Premium Clarks width fitting shoes have half sizes and several width fittings. You will be able to find the perfect fitting shoe for a child no matter how narrow, wide, or in-between sizes their feet are.</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5a1289bbd9f1d573fdb22621",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1289bbd9f1d573fdb22620",
+    "__v": 0,
+    "_refId": "5a0ccbbfd9f1d573fdb2217b",
+    "body": "<p style=\"text-align: center;\">Children wear their school shoes five days a week for up to forty weeks a year. Shoes will wear and scuff.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You can share these shoe care tips with customers to help them get the most out of their children’s shoes.&nbsp;</p>",
+    "displayTitle": "SHOE CARE TIPS",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">As soon as you take the shoes home, give them a thorough spray with a leather protector to protect them from stains and scuffs. </p>",
+        "itemIndex": 0,
+        "_id": "5a0ccefcd9f1d573fdb221ad",
+        "title": "PROTECT SHOES FROM THE 'GET GO'"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "CLEAN AND POLISH",
+        "body": "<p style=\"text-align: center;\">We recommend you use polish regularly to hide the scuff marks and keep the school shoes looking new. Always put newspaper down when polishing shoes to protect your work space and always let shoes dry naturally.</p>",
+        "_id": "5a0ccefcd9f1d573fdb221af",
+        "itemIndex": 1
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">No matter what, laces will wear and tear. You can always purchase new laces to extend the life of the shoe.</p>",
+        "title": "LOOKING AFTER LACES",
+        "itemIndex": 2,
+        "_id": "5a0ccefdd9f1d573fdb221b1"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "LOOKING AFTER VELCRO",
+        "_id": "5a136744d9f1d573fdb2272b",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: center;\">Velcro straps will get fluff, sand and other bits stuck in them. Most shoe repairers can also fix or replace Velcro. Recommend these care tips:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1.\tDon’t leave the Velcro lying open, always close the strap as this will reduce the amount of lint and fluff that gets stuck to it</p><p style=\"text-align: center;\">2.\tTo remove the fluff and other bits, use either an eyebrow comb, toothpick or tweezers.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a1289bcd9f1d573fdb2263e",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a14ff20d9f1d573fdb22986",
+    "__v": 0,
+    "_refId": "5a123bbdd9f1d573fdb2253a",
+    "body": "<p style=\"text-align: center;\">Learn about the different styles we range in store so you can make the best recommendations. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Also check out the 'How to fit kids shoes' Learning Moment to learn how to get the perfect fit.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">And remember to share shoe care tips with your customer.<br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a1289bcd9f1d573fdb2263f",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1289bcd9f1d573fdb2263d",
+    "__v": 0,
+    "_refId": "5a123bc2d9f1d573fdb2253c",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a1e4f5c81af53733b5cd26c"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a1e4ffd81af53733b5cd26f"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5a1289bcd9f1d573fdb22644",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1289bcd9f1d573fdb22643",
+    "__v": 0,
+    "_refId": "5a127d71d9f1d573fdb225a7",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemIndex": 0,
+        "_id": "5a127d82d9f1d573fdb225a9",
+        "itemTitle": "BACK"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a1289bcd9f1d573fdb22647",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a1289bbd9f1d573fdb2260f",
+    "_parentId": "5a1289bcd9f1d573fdb22646",
+    "__v": 0,
+    "_refId": "5a123e27d9f1d573fdb22557",
+    "_graphic": {
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  }
+]

@@ -1,0 +1,1247 @@
+[
+  {
+    "_id": "579020c5f25e69d85b9f17b1",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57902063f25e69d85b9f17b0",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "PNG",
+        "_id": "5790211af25e69d85b9f17b3"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "PNG",
+        "_id": "5790212cf25e69d85b9f17b5"
+      }
+    },
+    "_refId": "579020c5f25e69d85b9f17b1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "PIPER_Logo",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "57fc38aa4ea87d56dd3ea4ef",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57fc38a24ea87d56dd3ea4ee",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><i>Casually Stylish</i></p>",
+    "_refId": "57fc38aa4ea87d56dd3ea4ef",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "PiperStrapline",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "57fc37c64ea87d56dd3ea4e8",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57fc37c64ea87d56dd3ea4e5",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57fc37c64ea87d56dd3ea4e8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "57833200229249f3601cff16",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57833200229249f3601cff15",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57bb930577d124f759962e39"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57833200229249f3601cff16",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "PIPER_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "57833200229249f3601cff18",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57833200229249f3601cff15",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE BRAND",
+    "body": "<p style=\"text-align: center;\">Fashion that's relaxed for everyday life. Confident, uncomplicated, connected. Piper takes a modern approach to urban casual dressing; from the relaxed workplace to the weekend. </p>",
+    "_isQuestionType": false,
+    "_refId": "57833200229249f3601cff18",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "PIPER_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-1"
+  },
+  {
+    "_id": "578331ff229249f3601cfede",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "578331ff229249f3601cfedd",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57bd531010b489a466a856d6"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "578331ff229249f3601cfede",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "PIPER_SellingPoints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "578331ff229249f3601cfee0",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "578331ff229249f3601cfedd",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">•\tConsistent, reliable fits</p><p style=\"text-align: center;\">•\tCoordinating range</p><p style=\"text-align: center;\">• On-trend, youthful, relaxed style</p><p style=\"text-align: center;\">•\tGreat value</p><p style=\"text-align: center;\">•\tUses natural fibres where possible</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Piper is available in all Myer stores and online.</p>",
+    "displayTitle": "SELLING POINTS",
+    "_isQuestionType": false,
+    "_refId": "578331ff229249f3601cfee0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "PIPER_SellingPoints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "57833200229249f3601cff0c",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57833200229249f3601cff0b",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57bb933277d124f759962e3b"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57833200229249f3601cff0c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "PIPER_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "57833200229249f3601cff0e",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57833200229249f3601cff0b",
+    "_layout": "right",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">The Piper woman is confident, free-spirited and is defined by lifestyle rather than age. She follows trends on all forms of media, especially social media. Mindful of price, she still expects the best quality in fit, make and fabrication.<br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "WHO SHOPS PIPER?",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">She looks poised, comfortable and fashionable wearing Piper in relaxed environments, from the workplace, to the weekend while watching the children play sport.<br></p>",
+        "title": "WEARING PIPER",
+        "_id": "576382315317199730b37c2f",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5763825f5317199730b37c30",
+        "title": "OTHER LOVED BRANDS",
+        "body": "<p style=\"text-align: center;\">If she shops Piper, she may also love Country Road, Seed, French Connection and Witchery.</p>"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57833200229249f3601cff0e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "PIPER_TheDevoted",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "578331ff229249f3601cfeef",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "578331ff229249f3601cfeee",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "FAVOURITE LOOKS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57c4e0863345eb8f1c88ecc9",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>ON-TREND RANGE</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The on-trend pieces are the highlights of the Piper range. These show-stopping styles align to the latest trends and complement the key items.<br></p><p style=\"text-align: center;\"><br></p>",
+        "_id": "576387055317199730b37c38",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57c4e0e63345eb8f1c88ecd1",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>UNSTRUCTURED ELEGANCE</b><br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Relaxed and unstructured, Piper often features draping in tops, knits and coats.<br></p><p style=\"text-align: center;\"><br></p>",
+        "_id": "576387d55317199730b37c3a",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57c4e0d63345eb8f1c88eccf",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5763877c5317199730b37c39",
+        "body": "<p style=\"text-align: center;\"><b>LAYER IT UP</b><br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Layering is a key look for Piper. All items within a collection and between collections are designed to work together, creating a versatile wardrobe.<br></p><p style=\"text-align: center;\"><br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57c4e0b93345eb8f1c88eccc",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "576385fb5317199730b37c37",
+        "body": "<p style=\"text-align: center;\"><b>ESSENTIAL BASICS</b><br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Piper always features a range of basic tees and long sleeve tops where the items can be mixed and matched to form the building blocks of any wardrobe.<br></p>"
+      }
+    ],
+    "_narrativeLayout": "Left",
+    "_isQuestionType": false,
+    "body": "",
+    "_refId": "578331ff229249f3601cfeef",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "PIPER_FavouriteLooks",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "578331ff229249f3601cfee7",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "578331ff229249f3601cfee6",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "displayTitle": "",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57843393229249f3601cff85"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "578331ff229249f3601cfee7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "PIPER_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "578331ff229249f3601cfee9",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "578331ff229249f3601cfee6",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "<div><span style=\"color: rgb(67, 74, 84);\">THE FINE PRINT</span><br></div>",
+    "body": "<div style=\"text-align: center;\"><p>Piper uses quality knit and woven fabrics that are easy to wear and care for. A mix of natural fibres and high quality polyester blends are used to achieve the gorgeous look and feel of a Piper garment.</p><p><br></p><p><b>PRICE POINT</b></p><p>Singlets and tees are priced from $30, while dresses range up to $150.</p><p><br></p><p><b>SIZES</b></p><p>The brand is true to size and ranges from 6 - 16 and XS - L.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "578331ff229249f3601cfee9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "35"
+    },
+    "title": "PIPER_TheFinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-1"
+  },
+  {
+    "_id": "57833200229249f3601cfefb",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57833200229249f3601cfefa",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Select the image which portrays the Piper style.<br></p>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>You got it.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Piper style is relaxed and unstructured, a look that would suit any casual weekend occasion.&nbsp;<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\"><b>You got it.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">The Piper style is relaxed and unstructured, a look that would suit any casual weekend occasion.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The Piper style is relaxed and unstructured, a look that would suit any casual weekend occasion.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Refer to Image C.<br></p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57843285229249f3601cff7f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image A",
+        "itemIndex": 0,
+        "_id": "575f556e1d1a15230b436fc3"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "578432a5229249f3601cff81",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image B",
+        "_id": "575f55861d1a15230b436fc4",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57c4dbdf3345eb8f1c88ecc7",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image C",
+        "itemIndex": 2,
+        "_id": "575f559c1d1a15230b436fc5"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "578432c4229249f3601cff83",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image D",
+        "_id": "575f55ab1d1a15230b436fc6",
+        "itemIndex": 3
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "57833200229249f3601cfefb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "PIPER_ThinkYouKnow?",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "57833200229249f3601cff01",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "59cc8cfe2ebabce63c060b49",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select three Piper selling points.</p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>Incorrect.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Piper uses natural fibres where possible to create collections that are easy to coordinate in consistent, reliable, fits.<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Not quite.</b></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\" class=\"\">Piper uses natural fibres where possible to create collections that are easy to coordinate in consistent, reliable, fits.<br></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Piper uses natural fibres where possible to create collections that are easy to coordinate in consistent, reliable, fits.<br></p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_id": "57730108253db5b503cbbf94",
+        "itemIndex": 0,
+        "text": "Consistent, reliable fits "
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 1,
+        "_id": "57730109253db5b503cbbf95",
+        "text": "Tailored, structured cuts"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 2,
+        "_id": "5773010b253db5b503cbbf97",
+        "text": "Coordinating range <br>"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_id": "5773010c253db5b503cbbf98",
+        "itemIndex": 3,
+        "text": "On-trend, youthful, relaxed style"
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 4,
+        "_id": "57730117253db5b503cbbf99",
+        "text": "Collection of event dresses"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "57833200229249f3601cff01",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "57833200229249f3601cff07",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57833200229249f3601cff06",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "STYLE EXTRAS",
+    "body": "<p style=\"text-align: center;\">Take a look at the Piper range of fashion at Myer.</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "PIPER @ MYER",
+        "body": "<p style=\"text-align: center;\"><br></p>",
+        "link": "http://www.myer.com.au/shop/mystore/featured-brand-piper",
+        "_id": "57832d54229249f3601cfed2",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57833200229249f3601cff07",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "BASQUE_StyleExtras",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "57fc393b4ea87d56dd3ea4f9",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57fc39354ea87d56dd3ea4f8",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57fc395a4ea87d56dd3ea4fa",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57fc393b4ea87d56dd3ea4f9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "57fc38e14ea87d56dd3ea4f4",
+    "_courseId": "578331ff229249f3601cfed3",
+    "_parentId": "57fc38e14ea87d56dd3ea4f3",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57fc38e14ea87d56dd3ea4f4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  }
+]

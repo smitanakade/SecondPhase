@@ -1,0 +1,279 @@
+{
+  "_id": "595af3eed13ae8c563bd8fe8",
+  "_createdAt": 1499132910516,
+  "_modifiedAt": 1523419494689,
+  "__v": 1,
+  "_refId": "58e2f9bbaf77c6741fdb1939",
+  "_theme": "590a5e224c6211380e52bd83",
+  "_swipeMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    },
+    "_shouldHideDisabledControl": false,
+    "_shouldShowControlsOnHover": false,
+    "_shouldPartiallyShowNextItem": false,
+    "_shouldAlwaysShowItems": false,
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics"
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerWidth": 0
+  },
+  "_coverMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View"
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_itemsPerRowMedium": 2,
+    "_itemsPerRowLarge": 2,
+    "itemCompletionText": "Complete",
+    "_showCompletionStatusInFooter": false,
+    "_showCompletionStatusOnMenus": false,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_pageCompletionMethod": "components",
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": null
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": true,
+      "_position": "center",
+      "_size": "cover",
+      "src": null
+    }
+  },
+  "_courseTags": [],
+  "_fonts": {
+    "_installed": [],
+    "_google": []
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "_feedbackText": {
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "Close"
+    },
+    "_showFeedback": {
+      "_isDisabled": false,
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "Show Feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "Hide Answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "Show Answer"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "Submit"
+    }
+  },
+  "_footerNav": {
+    "_hasHomeButton": false,
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": false
+  },
+  "_notify": {
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "notifyButtonAriaLabel": "",
+    "navigationSkipContentAriaLabel": "",
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": false
+  },
+  "_version": {
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
+  },
+  "_reviews": {
+    "_reviews": [],
+    "_isUnderReview": false
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "title": "Open Shift",
+  "_type": "course",
+  "_childrenIds": [
+    "595af3eed13ae8c563bd8feb"
+  ]
+}

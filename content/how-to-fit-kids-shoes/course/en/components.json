@@ -1,0 +1,2131 @@
+[
+  {
+    "_id": "5a0bccd4d9f1d573fdb2201e",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a0bc3e6d9f1d573fdb21fdb",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a137601d9f1d573fdb2278d"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a137601d9f1d573fdb2278d"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0bccd4d9f1d573fdb2201e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a0bd2e7d9f1d573fdb22032",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a0bc419d9f1d573fdb21fde",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0bd2e7d9f1d573fdb22032",
+    "body": "<p style=\"text-align: center;\">Why fit shoes? Every young foot is different. Measuring and fitting kids shoes ensures you provide the perfect fit, vital for the long-term health of a child’s feet.<br></p>",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a0bc419d9f1d573fdb21fdf",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a0bce52d9f1d573fdb22024",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "59b86c8d5dfae0c5453cd486",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a0bc419d9f1d573fdb21fdf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "5a0bd4f4d9f1d573fdb2203f",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a0bd4eed9f1d573fdb2203d",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a137909d9f1d573fdb22793"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a1379d6d9f1d573fdb22796"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0bd4f4d9f1d573fdb2203f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a137ab9d9f1d573fdb227a5",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a137ab1d9f1d573fdb227a3",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a137ab9d9f1d573fdb227a5",
+    "displayTitle": "Greet the customer",
+    "body": "<p style=\"text-align: center;\">Approach and greet the customer and the child in a friendly and appropriate way.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a137b2ed9f1d573fdb227b8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a137b18d9f1d573fdb227b5",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a137b2ed9f1d573fdb227b8",
+    "displayTitle": "Engage and establish needs",
+    "body": "<p style=\"text-align: center;\">Build rapport with the customer and the child to find out what they are looking for. </p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a137b33d9f1d573fdb227bc",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a137b2ed9f1d573fdb227ba",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a137b33d9f1d573fdb227bc",
+    "displayTitle": "Be helpful and friendly",
+    "body": "<p style=\"text-align: center;\">Give the customer and the child a positive shopping experience by going out of your way to help them.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Once you have put the customer and the child at ease, you need to measure the child’s feet.&nbsp;<br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5a0e6c18d9f1d573fdb2236a",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a0e6c13d9f1d573fdb22368",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a138095d9f1d573fdb227f1"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a1380a1d9f1d573fdb227f4"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0e6c18d9f1d573fdb2236a",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a14e979d9f1d573fdb22950",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a14e970d9f1d573fdb2294e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a14e979d9f1d573fdb22950",
+    "body": "<p style=\"text-align: center;\">We're going to:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1.\tMeasure their feet</p><p style=\"text-align: center;\">2.\tGet a selection of shoes&nbsp;</p><p style=\"text-align: center;\">3.\tDo the 5-point fit check</p><p style=\"text-align: center;\">4.\tDo the walk test.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">But first, let’s learn the tools of the trade.&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a0cd7f0d9f1d573fdb22262",
+    "_component": "hotgraphic",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a0cd139d9f1d573fdb221e9",
+    "_items": [
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_id": "5a0d262dd9f1d573fdb222a3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_left": 47.8515625,
+        "_top": 10.7421875,
+        "_mobileLeft": 35.64453125,
+        "_mobileTop": 11.9140625,
+        "_hotspotIcon": null,
+        "_id": "5a0cf720d9f1d573fdb22264",
+        "itemIndex": 0,
+        "title": "HEEL CUP",
+        "body": "<p style=\"text-align: center;\">The heel is placed snugly into this part of the gauge to ensure an accurate foot length measurement.</p>",
+        "_visitedHotspotIcon": null,
+        "_hotspotText": "HEEL CUP"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_id": "5a1767b681af53733b5ccda7",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_left": 63.28125,
+        "_top": 72.65625,
+        "_mobileLeft": 71.2890625,
+        "_mobileTop": 67.3828125,
+        "_id": "5a0cf854d9f1d573fdb22277",
+        "itemIndex": 1,
+        "title": "GIRTH TAPE",
+        "body": "<p style=\"text-align: center;\">This is used to measure the width of the foot.<br></p>",
+        "_hotspotText": "GIRTH TAPE"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5a1766e281af53733b5ccda5"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_left": 18.9453125,
+        "_top": 79.58984375,
+        "_mobileLeft": 50,
+        "_mobileTop": 50,
+        "body": "<p style=\"text-align: center;\">This is used to measure the length of the foot.</p>",
+        "title": "TOP SLIDE",
+        "_id": "5a0d2455d9f1d573fdb2228a",
+        "itemIndex": 2,
+        "_hotspotText": "TOP SLIDE"
+      },
+      {
+        "_hotspotType": "text",
+        "_shouldDisplayTextHotspotAsButton": true,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5a1e4dd781af53733b5cd268"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_left": 26.85546875,
+        "_top": 59.47265625,
+        "_mobileLeft": 50,
+        "_mobileTop": 50,
+        "_visitedHotspotText": "",
+        "_hotspotText": "SCALE PLATE",
+        "body": "<p>This shows the recorded measure of the girth tape to the recorded length, to give the shoe width.</p>",
+        "title": "SCALE PLATE",
+        "_id": "5a1e36f881af53733b5cd224",
+        "itemIndex": 3
+      }
+    ],
+    "_textHotspotStyles": {
+      "_fontColor": "@swatch-17",
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "_visitedHotspotIcon": "checkmark-circle",
+    "_hotspotIcon": "plus-circle",
+    "_showPopupAsCarousel": false,
+    "_mobileScrollableGraphicMaxHeight": 400,
+    "_scrollableGraphicMaxHeight": 400,
+    "_hasScrollableGraphic": false,
+    "_hideInteractionLabelOnMobile": false,
+    "_canUseMobilePositions": false,
+    "_hasFullLayoutOnMobile": true,
+    "_popupCloseButton": "Close",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0cd7f0d9f1d573fdb22262",
+    "_graphic": {
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a0cf743d9f1d573fdb22266"
+      }
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Hot Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a177bec81af53733b5ccdee",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a177be081af53733b5ccdec",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a177bec81af53733b5ccdee",
+    "body": "<p style=\"text-align: center;\">Most school shoes follow AU/UK size metrics and are available in full and half sizes. Sizes range from Junior 9-13 to Senior 1-12.  </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Our branded sports shoes follow US sizing so are approximately half a size smaller than AU/UK sizes. Sizes range from Junior 6-13 to Senior 1-7.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a1ca61c81af53733b5ccf53",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a1ca60481af53733b5ccf51",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1ca61c81af53733b5ccf53",
+    "body": "<p style=\"text-align: center;\">When it comes to shoe widths, follow these general rules:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">C = Extremely narrow</p><p style=\"text-align: center;\">D = Narrow</p><p style=\"text-align: center;\">E = Slightly narrow</p><p style=\"text-align: center;\">F = Average</p><p style=\"text-align: center;\">G = Wide</p><p style=\"text-align: center;\">H = Extra wide</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You can view an AU/UK to US and EU size conversion chart at the end of this Learning Moment.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5a0e2869d9f1d573fdb222d2",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a0e282bd9f1d573fdb222d0",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a14b82ad9f1d573fdb228e7"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Make sure the child is wearing school socks, or ask them to put on ‘try-on’ socks. It is important that the socks fit and are not too tight or too loose as this will affect the accuracy of the reading. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Then ask the child to sit and put their foot on the gauge.</p>",
+        "itemIndex": 0,
+        "_id": "5a1232c2d9f1d573fdb2242f"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a138f44d9f1d573fdb22827"
+          }
+        },
+        "_id": "5a1232c3d9f1d573fdb22431",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Make sure the leg is at a right angle and the foot is resting naturally on the gauge. The gauge must be on a hard, flat surface.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a1cb1aa81af53733b5ccfd4",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5a1232c4d9f1d573fdb22433",
+        "body": "<div style=\"text-align: center;\">Check that the heel is resting in the back of the heel cup and the gauge is in line with the leg.<br></div>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a14b4e5d9f1d573fdb228dc"
+          }
+        },
+        "_id": "5a1232c5d9f1d573fdb22435",
+        "itemIndex": 3,
+        "body": "<div style=\"text-align: center;\">Check that the foot is straight on the gauge.<br></div>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a14b5c5d9f1d573fdb228de",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "5a1232c5d9f1d573fdb22437",
+        "body": "<div style=\"text-align: center;\"><p>Hold down the toes and ease the slide of the gauge to the tip of the longest toe and take note of the size. </p><p><br></p><p>If more than half of the number is covered by the top slide, read up to the next size.</p></div>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a14b64ed9f1d573fdb228e0"
+          }
+        },
+        "_id": "5a1232c6d9f1d573fdb22439",
+        "itemIndex": 5,
+        "body": "<p style=\"text-align: center;\">Measure the width by locating the joint positions of the big and little toes and angle the tape to follow the line of the joint. Pull the tape until it is just touching the foot.  Read the number at the edge of the black tab and look up the corresponding fitting on the scale plate.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Note the width of the foot and do the same with the other foot. We use the measurements from the largest of the two feet.  <br></p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0e2869d9f1d573fdb222d2",
+    "displayTitle": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "28"
+    },
+    "title": "Time now to measure the feet",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5a174d6881af53733b5ccd25",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a174c9b81af53733b5ccd19",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a174d6881af53733b5ccd25",
+    "body": "<p style=\"text-align: center;\">Find out which shoes the child would like to try and go and get the shoes.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a177c9b81af53733b5ccdfb",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a177c9681af53733b5ccdf9",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a177c9b81af53733b5ccdfb",
+    "body": "<p style=\"text-align: center;\">•\tIf the child’s larger foot is a size 12.5 bring out sizes 13 and 13.5, to ensure a good fit and allow for growing room</p><p style=\"text-align: center;\">•\tIf you've measured size 12.5 for sports shoes, start by selecting a US size 1</p><p style=\"text-align: center;\">•\tCheck both shoes are in the box and are the style, size and fit shown on the box label</p><p style=\"text-align: center;\">•\tRemove any tissue or packaging from inside the shoes and loosen fastenings properly</p><p style=\"text-align: center;\">•\tGently flex the shoes before putting them on the child, to help reduce the initial ‘newness’ that can feel strange to them</p><p style=\"text-align: center;\">•\tWhen fitting school shoes with width fittings such as Daytona, remember to go ½ a size up and down a width as a starting point.&nbsp;</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5a12350fd9f1d573fdb22470",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a1234c7d9f1d573fdb22466",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a14ba88d9f1d573fdb228f3",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "itemIndex": 0,
+        "_id": "5a1235a7d9f1d573fdb2247e",
+        "body": "<div style=\"text-align: center;\"><p><b>Point 1 - Heel grip</b><br></p><p>With the child seated and shoes are on, pull firmly to ensure the shoe is gripping the heel well. </p><p><br></p><p>If there is slight movement, adjust and tighten the fastenings.&nbsp;</p></div>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a1cb3c381af53733b5ccfd7"
+          }
+        },
+        "body": "<div style=\"text-align: center;\"><p><b>Point 2 - Length</b><br></p><p>Get the child to stand and check the space from the big toe to the tip of the shoe with your thumb. </p><p><br></p><p>There should be 14mm (1/2”) gap between the inside edge of your thumb and the end of the shoe.</p></div>",
+        "itemIndex": 1,
+        "_id": "5a1235a4d9f1d573fdb22476"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a14b997d9f1d573fdb228f1"
+          }
+        },
+        "body": "<div style=\"text-align: center;\"><p><b>Point 3 - Width</b><br></p><p>Check the width of the shoe by using your hand to slide gently, but firmly, along the sides of the shoe to make sure there is no pressure.&nbsp;</p></div>",
+        "_id": "5a1235a5d9f1d573fdb22478",
+        "itemIndex": 2
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a1cb4c981af53733b5ccfde"
+          }
+        },
+        "body": "<div style=\"text-align: center;\"><p><b>Point 4 - Depth</b><br></p><p>Check the depth of the shoe. For Mary-Janes, slide your finger under the front, top of the shoe to check there is enough depth – too many creases means too much depth. </p><p><br></p><p>For lace-ups, make sure the lugs (the lace holes) are parallel and about 10mm apart.</p></div>",
+        "itemIndex": 3,
+        "_id": "5a1235a6d9f1d573fdb2247a"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a14bad4d9f1d573fdb228f5"
+          }
+        },
+        "_id": "5a1235a6d9f1d573fdb2247c",
+        "itemIndex": 4,
+        "body": "<div style=\"text-align: center;\"><b>Point 5 - Anklebone</b><br></div><p style=\"text-align: center;\">Check that the anklebone is clear of the top of the shoe.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Also check that the heel is sitting right back in the heel cup before standing the child up and closing the Velcro or tying the laces.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Make sure the Velcro closes correctly and is not too short or too long.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If the Velcro is too short, try taking out the top innersole (only in E+ styles). This allows the foot to drop down into the shoe and give you more depth and width.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a12350fd9f1d573fdb22470",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "5-POINT FIT TEST",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a1239d3d9f1d573fdb224f4",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a123995d9f1d573fdb224ee",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a14e1c2d9f1d573fdb22918"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1239d3d9f1d573fdb224f4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5a1239c8d9f1d573fdb224f2",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a14b870d9f1d573fdb228e9",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1239c8d9f1d573fdb224f2",
+    "body": "<p style=\"text-align: center;\">If the shoe doesn’t pass the 5-point fit check: </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">• Check that the shoes are on properly </p><p style=\"text-align: center;\">•\tTry a new size </p><p style=\"text-align: center;\">•\tRe-measure both feet if necessary</p><p style=\"text-align: center;\">•\tRepeat the 5-point fit check</p><p style=\"text-align: center;\">•If in doubt, have your fitting checked by another trained staff member; it adds to professionalism rather than showing inexperience.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Once you have a shoe that passes the 5-point fit check, you’re ready for the walk test!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Not fitting well?",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  },
+  {
+    "_id": "5a14e2c2d9f1d573fdb2291c",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a14e2b5d9f1d573fdb2291a",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a14e332d9f1d573fdb22921"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a14e2c2d9f1d573fdb2291c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5a123a76d9f1d573fdb22504",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a123a57d9f1d573fdb224ff",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "FITS WELL",
+        "_id": "5a123a9ad9f1d573fdb22509",
+        "itemIndex": 0,
+        "body": "<div style=\"text-align: center;\">Check that the shoe is not slipping and the child is walking naturally.<br></div>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5a123a9dd9f1d573fdb2250f",
+        "title": "COMFORTABLE&nbsp;",
+        "body": "<div style=\"text-align: center;\">Check with the child that the shoe feels comfortable.<br></div>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<div style=\"text-align: center;\">Check the shoe appears stable and supportive around the foot and encourages upright movement as the child walks.<br></div>",
+        "title": "STABLE AND SUPPORTIVE",
+        "_id": "5a123a9dd9f1d573fdb22511",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a123a76d9f1d573fdb22504",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  },
+  {
+    "_id": "5a174f7d81af53733b5ccd48",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a174f7881af53733b5ccd46",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a174f7d81af53733b5ccd48",
+    "body": "<p style=\"text-align: center;\">If the shoes do all these things, then you have found a great fit. And, if the shoe fits… you’ve probably got a sale!</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Before you take the customer to POS to pay, take the opportunity to suggest some add-ons.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-9-2-0"
+  },
+  {
+    "_id": "5a123b64d9f1d573fdb2252f",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a123b43d9f1d573fdb22529",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a14e4c0d9f1d573fdb2292f"
+      },
+      "small": {
+        "_id": "5a14e46dd9f1d573fdb2292a",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a123b64d9f1d573fdb2252f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5a123b5fd9f1d573fdb2252d",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a14e36cd9f1d573fdb22923",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a123b5fd9f1d573fdb2252d",
+    "body": "<p style=\"text-align: center;\">Remember to check if your customer needs sports shoes for their child.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">And remind them about the ‘back to school’ pop-up, where they can find items including the following:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tSocks</p><p style=\"text-align: center;\">•\tUnderwear</p><p style=\"text-align: center;\">•\tLunchboxes</p><p style=\"text-align: center;\">•\tDrink bottles</p><p style=\"text-align: center;\">•\tStationery.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  },
+  {
+    "_id": "5a123bc2d9f1d573fdb2253c",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a123ba6d9f1d573fdb22536",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a14e7aed9f1d573fdb22938"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a14e71bd9f1d573fdb22936",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a123bc2d9f1d573fdb2253c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5a123bbdd9f1d573fdb2253a",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a14e4f0d9f1d573fdb22931",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a123bbdd9f1d573fdb2253a",
+    "body": "<p style=\"text-align: center;\">Remember to check out the 'Choosing the right shoe' Learning Moment to learn about the features and benefits of different styles of shoes.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You can find more information on kids school shoe sizing via the following link.<br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-11-1-0"
+  },
+  {
+    "_id": "5a1cc1e081af53733b5ccfe5",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a1cc1c981af53733b5ccfe3",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "",
+        "_id": "5a1cebfa81af53733b5cd12d",
+        "itemIndex": 0,
+        "itemTitle": "SIZING CHART",
+        "link": "https://myer.southrock.com/shared/Learning_Moments/KidsFootwear/HowToFitKidsFootwear/KidsFootwearSizeConversionChart.pdf"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a1cc1e081af53733b5ccfe5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5a127d71d9f1d573fdb225a7",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a123d1bd9f1d573fdb2254d",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemIndex": 0,
+        "_id": "5a127d82d9f1d573fdb225a9",
+        "itemTitle": "BACK"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a127d71d9f1d573fdb225a7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-12-1-0"
+  },
+  {
+    "_id": "5a123e27d9f1d573fdb22557",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a0bc3e4d9f1d573fdb21fd6",
+    "_parentId": "5a123debd9f1d573fdb22554",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a123e27d9f1d573fdb22557",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  }
+]

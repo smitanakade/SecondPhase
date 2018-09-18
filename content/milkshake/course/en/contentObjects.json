@@ -1,0 +1,236 @@
+[
+  {
+    "_id": "5a9f37f73865607d6dca2813",
+    "_courseId": "5a9f37f43865607d6dca2810",
+    "_parentId": "5a9f37f43865607d6dca2810",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5a9f37f73865607d6dca2813",
+    "displayTitle": "",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "title": "",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5aac44f3a937fd7383c97d63"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5aac46d7a937fd7383c97d66"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "alt": "",
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "New Content Object Title",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "5ab04cf0a937fd7383c97ea4",
+      "5ab04d86a937fd7383c97eb6",
+      "5a9f384c3865607d6dca281f",
+      "5aa74e923865607d6dca2b2f",
+      "5a9f65ca3865607d6dca286c",
+      "5ad541666d2ab7538d0b8067",
+      "5aaefeb9a937fd7383c97d8c",
+      "5aa75b5b3865607d6dca2b40",
+      "5aa8734e3865607d6dca2d53",
+      "5aa8778f3865607d6dca2d63",
+      "5aa86cbc3865607d6dca2d47",
+      "5a9f56543865607d6dca282e",
+      "5aab0caa3865607d6dca312b",
+      "5aa764fc3865607d6dca2b49",
+      "5ad548cc6d2ab7538d0b806b",
+      "5aa7924a3865607d6dca2c3a",
+      "5aa9c3223865607d6dca2eed",
+      "5aab5d5145656339a2ac3587",
+      "5ab04c45a937fd7383c97e90",
+      "5aa7957e3865607d6dca2c5e",
+      "5aa7967d3865607d6dca2c6b"
+    ],
+    "_childrenIds": [
+      "5a9f384c3865607d6dca281d",
+      "5a9f37fc3865607d6dca2817",
+      "5aaefe32a937fd7383c97d82",
+      "5a9f37fd3865607d6dca281a",
+      "5aa873463865607d6dca2d50",
+      "5aa877883865607d6dca2d60",
+      "5aa86caa3865607d6dca2d44",
+      "5a9f37f73865607d6dca2814",
+      "5aab0c473865607d6dca3125",
+      "5aa764e33865607d6dca2b46",
+      "5aab094f3865607d6dca311d",
+      "5aa791713865607d6dca2c25",
+      "5aa794c23865607d6dca2c57",
+      "5aa7957d3865607d6dca2c5c"
+    ]
+  }
+]

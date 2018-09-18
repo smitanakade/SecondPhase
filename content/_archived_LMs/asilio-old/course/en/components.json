@@ -1,0 +1,1288 @@
+[
+  {
+    "_id": "57be895eeb52659a72e1e383",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57be88d1eb52659a72e1e382",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57be89e2eb52659a72e1e384"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57be89f3eb52659a72e1e386"
+      }
+    },
+    "_refId": "57be895eeb52659a72e1e383",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "57be8a13eb52659a72e1e389",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57be8a0aeb52659a72e1e388",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><i>Graphic elegance</i></p>",
+    "_refId": "57be8a13eb52659a72e1e389",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "586ee51ecb51ba21e7a23c38",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "586ee517cb51ba21e7a23c37",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "586ee524cb51ba21e7a23c39",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "586ee51ecb51ba21e7a23c38",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5778a3475d6fe6ed71bda3db",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "575f8a5f1d1a15230b437033",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5837bcf229ea2d6721fc87a4"
+      }
+    },
+    "_graphicTextTopPadding": 0,
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_shouldEnableGraphicText": false,
+    "_graphicTextBottomPadding": 0,
+    "_contentWidth": 100,
+    "_refId": "5778a3475d6fe6ed71bda3db",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "57730fd2253db5b503cbbf9a",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "575f8a5f1d1a15230b437033",
+    "_layout": "right",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "THE BRAND",
+    "body": "<p style=\"text-align: center;\">Dedicated to modern graphic elegance and beauty, the Asilio style is everchanging yet memorable. Designed locally and loved internationally, each collection blends Asilio’s unique design signature with directional prints and exclusive fabrics to create visionary fashion statements.</p>",
+    "_refId": "57730fd2253db5b503cbbf9a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Asilio_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-1"
+  },
+  {
+    "_id": "5778a36c5d6fe6ed71bda3dc",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57635ace5317199730b37c15",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5837bd0f29ea2d6721fc87a6"
+      }
+    },
+    "_shouldEnableGraphicText": false,
+    "_graphicTextBottomPadding": 0,
+    "_contentWidth": 100,
+    "_graphicTextTopPadding": 0,
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_refId": "5778a36c5d6fe6ed71bda3dc",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "57635ba15317199730b37c19",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57635ace5317199730b37c15",
+    "_layout": "right",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Asilio enjoys an enviable celebrity following and collaborates with style icons to design one-of-a-kind dresses for their 'The Exclusives' collection.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span>• Designed in Melbourne</span><br></p><p style=\"text-align: center;\">•\tVisionary, artistic designs</p><p style=\"text-align: center;\">•\tUnique fabrications including exclusive lace</p><p style=\"text-align: center;\">•\tQuality construction</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Asilio is available at select Myer stores.</p>",
+    "displayTitle": "SELLING POINTS",
+    "_refId": "57635ba15317199730b37c19",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "5778a3b25d6fe6ed71bda3dd",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "577310c2253db5b503cbbf9b",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5837c2aa29ea2d6721fc87a8"
+      }
+    },
+    "_shouldEnableGraphicText": false,
+    "_graphicTextTopPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_contentWidth": 100,
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_refId": "5778a3b25d6fe6ed71bda3dd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "577310c2253db5b503cbbf9d",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "577310c2253db5b503cbbf9b",
+    "_layout": "right",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">She is fashion forward and confident. She revels in breaking the mould and making a statement without saying a word. Finding inspiration in styles here and internationally, she loves to wear cuts and shapes that are edgy and non-conventional.<br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "<div><font color=\"#434a54\">WHO SHOPS ASILIO?</font></div>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "57731168253db5b503cbbf9e",
+        "body": "<p style=\"text-align: center;\">Asilio’s style is non-conforming, and as such can be worn at any time. Equally suited to the office, social rendezvous and elegant parties.</p>",
+        "title": "WEARING ASILIO"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5757745b1d1a15230b436ed6",
+        "title": "OTHER LOVED BRANDS",
+        "body": "<p style=\"text-align: center;\">A fan of Asilio may also be a fan of brands like Misha Collection, Self Portrait and BY JOHNNY.<br></p>"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "577310c2253db5b503cbbf9d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Asilio_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "577311ca253db5b503cbbfa2",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "577311ca253db5b503cbbfa1",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "FAVOURITE LOOKS<br>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5837c59e29ea2d6721fc87ae",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<div style=\"text-align: center;\"><b>EXCLUSIVE LACE</b></div><p style=\"text-align: center;\"><br></p><span><div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Feminine designs</span></div></span><span><div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Luxury influences</span></div><p style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\"><br></span></p></span>",
+        "title": "",
+        "itemIndex": 0,
+        "_id": "5745322ea613ebf65864bba4"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "583b58d18fcead09e170ce20",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57453232a613ebf65864bba5",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><b>STATEMENT STYLING</b><font color=\"#434a54\"><br></font></div><p style=\"text-align: center;\"><font color=\"#434a54\"><br></font></p><span><div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Structural features</span></div></span><span><div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Quality construction</span></div><p style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\"><br></span></p></span><p></p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "583b58e68fcead09e170ce22",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "57453330a613ebf65864bba8",
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><b>UNDERSTATED LUXURY</b><font color=\"#434a54\"><br></font></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Embroidered brocade fabric</p><span><div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Tassel and pearl detailing</span></div><p style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\"><br></span></p></span><p></p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "583b58f98fcead09e170ce24",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57453331a613ebf65864bba9",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><b>NON-CONVENTIONAL DESIGNS&nbsp;</b><font color=\"#434a54\"><br></font></div><p style=\"text-align: center;\"><br></p><span><div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Guipure pastel lace</span></div></span><span><div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Fitted and flared combination</span></div><p style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\"><br></span></p></span><p></p>",
+        "title": ""
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "_refId": "577311ca253db5b503cbbfa2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Asilio_Narrative ",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "57731351253db5b503cbbfa7",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57731351253db5b503cbbfa5",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5837c3fc29ea2d6721fc87aa"
+      }
+    },
+    "_isQuestionType": false,
+    "_graphicTextLeftPadding": 0,
+    "_contentWidth": 100,
+    "_graphicTextTopPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_shouldEnableGraphicText": false,
+    "_graphicTextRightPadding": 0,
+    "_refId": "57731351253db5b503cbbfa7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Asilio_FinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "57731351253db5b503cbbfa6",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57731351253db5b503cbbfa5",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">The Asilio aesthetic is a collision of contrasted and refined femininity.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>PRICE POINT</b></p><p style=\"text-align: center;\">$120 for pants to $500+ for an exclusive lace dress</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\" class=\"\"><b>SIZES</b></p><p style=\"text-align: center;\">True to size, 6-12</p>",
+    "displayTitle": "THE FINE PRINT",
+    "_isQuestionType": false,
+    "_refId": "57731351253db5b503cbbfa6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Asilio_FinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-1"
+  },
+  {
+    "_id": "57638c145317199730b37c3f",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57638c0b5317199730b37c3e",
+    "_layout": "full",
+    "_component": "gmcq",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Spot on.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Asilio are known for their exclusive lace and structural detailing in their designs.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Asilio is known for their exclusive lace and structural detailing in their designs.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Refer to Image A.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5837c44229ea2d6721fc87ac",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image A<br>",
+        "itemIndex": 0,
+        "_id": "57638d065317199730b37c41"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57638e4c5317199730b37c46",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image B",
+        "_id": "57638d075317199730b37c42",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57638e855317199730b37c47",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image C",
+        "itemIndex": 2,
+        "_id": "57638d085317199730b37c43"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57843ecf229249f3601cffde",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Image D",
+        "_id": "57638d095317199730b37c44",
+        "itemIndex": 3
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select the image which portrays the Asilio style.&nbsp;<br></p>",
+    "displayTitle": "",
+    "_refId": "57638c145317199730b37c3f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "GMCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "575f8a5f1d1a15230b43702c",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "575f8a5f1d1a15230b437027",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select three Asilio selling points.<br></p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "final": "<p style=\"text-align: center;\"><b>Not quite.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Asilio is designed in Melbourne and showcases visionary, artistic designs using unique fabrications, including exclusive lace.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Partly correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Asilio is designed in Melbourne and showcases visionary, artistic designs using unique fabrications, including exclusive lace.</p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Correct.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Asilio is designed in Melbourne and showcases visionary, artistic designs using unique fabrications, including exclusive lace.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 0,
+        "_id": "57468f311888e3b9604a8ce4",
+        "text": "Affordable fashion"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_id": "57468f321888e3b9604a8ce5",
+        "itemIndex": 1,
+        "text": "Designed in Melbourne "
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 2,
+        "_id": "57468f331888e3b9604a8ce6",
+        "text": "Bold and contrasting prints"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 3,
+        "_id": "574f75771d1a15230b436e7e",
+        "text": "Unique fabrications including exclusive lace"
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "Quality construction",
+        "_id": "574f757f1d1a15230b436e7f",
+        "itemIndex": 4
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_refId": "575f8a5f1d1a15230b43702c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "ASILIO_MCQ_01",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "577b4ad01ee1bc520af684b8",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "577b4aaa1ee1bc520af684b7",
+    "_layout": "left",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "577b4b7e1ee1bc520af684ba",
+        "itemTitle": "INSTAGRAM",
+        "link": "https://www.instagram.com/asiliothelabel/"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_id": "577b4b7a1ee1bc520af684b9",
+        "itemIndex": 1,
+        "itemTitle": "ASILIO @ MYER",
+        "link": "http://www.myer.com.au/webapp/wcs/stores/servlet/SearchDisplay?storeId=10251&catalogId=10051&langId=-1&beginIndex=0&searchSource=Q&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=image&pageSize=12&orderBy=0&storeSearch=Y&searchTerm=asilio"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "STYLE EXTRAS",
+    "body": "<p style=\"text-align: center;\">Get a little more of Asilio from any of the links below.</p>",
+    "_refId": "577b4ad01ee1bc520af684b8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "586ee5e5cb51ba21e7a23c3c",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "586ee5dbcb51ba21e7a23c3b",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "586ee5eccb51ba21e7a23c3d",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "586ee5e5cb51ba21e7a23c3c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "57e476c9ab3d8759a1a58c8e",
+    "_courseId": "575f8a5f1d1a15230b43701a",
+    "_parentId": "57e476c0ab3d8759a1a58c8d",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_refId": "57e476c9ab3d8759a1a58c8e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  }
+]

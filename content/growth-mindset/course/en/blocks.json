@@ -1,0 +1,311 @@
+[
+  {
+    "_id": "58d0a41ded2155973abb8272",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d0a3c1ed2155973abb8270",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d0a41ded2155973abb8272",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "HomeBtn_Block",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "58d07142ed2155973abb8235",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d07142ed2155973abb8232",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "58d07142ed2155973abb8235",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "GrowthMindset_Txt_01",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "58d461b7ed2155973abb831c",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d07142ed2155973abb8232",
+    "_sortOrder": 1,
+    "__v": 0,
+    "body": "",
+    "displayTitle": "Which one are you?",
+    "_refId": "58d461b7ed2155973abb831c",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "28"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-1-1"
+  },
+  {
+    "_id": "58d1ddf4ed2155973abb8282",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d07142ed2155973abb8257",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Some children saw it as a disaster, they thought it was an intelligence test and they were scared they would fail.",
+    "_refId": "58d1ddf4ed2155973abb8282",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "22"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "58d1ddf5ed2155973abb8283",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d07142ed2155973abb8257",
+    "_sortOrder": 1,
+    "__v": 0,
+    "body": "",
+    "displayTitle": "The other children saw it as a challenge, and an opportunity to learn something new.",
+    "_refId": "58d1ddf5ed2155973abb8283",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "22"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-2-1"
+  },
+  {
+    "_id": "58d1ddf8ed2155973abb8284",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1dccced2155973abb827f",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "58d1ddf8ed2155973abb8284",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "58d1ddfbed2155973abb8285",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1dccced2155973abb827f",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "58d1ddfbed2155973abb8285",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-1"
+  },
+  {
+    "_id": "58d1dea7ed2155973abb8290",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1dea7ed2155973abb828d",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "We provide the tools to help you identify your capability goals, determine how to apply the right effort, and get support from others. ",
+    "_refId": "58d1dea7ed2155973abb8290",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "24"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "58d1de78ed2155973abb828b",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1de78ed2155973abb8288",
+    "_sortOrder": 0,
+    "__v": 0,
+    "body": "",
+    "_refId": "58d1de78ed2155973abb828b",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "58d1de78ed2155973abb828c",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1de78ed2155973abb8288",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d1de78ed2155973abb828c",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-5-1"
+  },
+  {
+    "_id": "58d47d9fed2155973abb8342",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1fb0eed2155973abb82b1",
+    "_sortOrder": 0,
+    "__v": 0,
+    "body": "",
+    "_refId": "58d47d9fed2155973abb8342",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "58d47da0ed2155973abb8343",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1fb0eed2155973abb82b1",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Truly extraordinary things are achieved with effort! ",
+    "body": "",
+    "_refId": "58d47da0ed2155973abb8343",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "24"
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-1"
+  },
+  {
+    "_id": "58d203dced2155973abb82c4",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d203dced2155973abb82c3",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "58d203dced2155973abb82c4",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  },
+  {
+    "_id": "58d204f8ed2155973abb82ca",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d204f8ed2155973abb82c9",
+    "_sortOrder": 0,
+    "__v": 0,
+    "body": "",
+    "_refId": "58d204f8ed2155973abb82ca",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-8-0"
+  },
+  {
+    "_id": "58d20532ed2155973abb82cd",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d204f8ed2155973abb82c9",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "58d20532ed2155973abb82cd",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-8-1"
+  }
+]

@@ -1,0 +1,1256 @@
+{
+  "_id": "583b7baa8fcead09e170ce31",
+  "_createdAt": 1480293290589,
+  "_modifiedAt": 1525751779117,
+  "__v": 3,
+  "_theme": "590a5e224c6211380e52bd83",
+  "_refId": "583b7baa8fcead09e170ce31",
+  "_editLog": [
+    {
+      "_id": "5aa1ddca3865607d6dca29d9",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-03-09T01:05:14.875Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583b7bad8fcead09e170ceb1"
+    },
+    {
+      "_id": "5aa1dd1a3865607d6dca29d8",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-03-09T01:02:18.467Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583b7bad8fcead09e170ceb1"
+    },
+    {
+      "_id": "5a9793583865607d6dca2488",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-03-01T05:44:56.549Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a9793503865607d6dca2486",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-03-01T05:44:48.362Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d8573865607d6dca223f",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:14:47.887Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d8473865607d6dca223e",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:14:31.390Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d8423865607d6dca223d",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:14:26.020Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d8383865607d6dca223c",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:14:16.618Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d8273865607d6dca223b",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:13:59.917Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d7d93865607d6dca223a",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:12:41.879Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d7d63865607d6dca2239",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:12:38.579Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d7c73865607d6dca2238",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:12:23.147Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce9d"
+    },
+    {
+      "_id": "5a95d7ac3865607d6dca2237",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:11:56.796Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a95d78e3865607d6dca2236",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:11:26.972Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a95d7473865607d6dca2235",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:10:15.500Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a95d71e3865607d6dca2234",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:09:34.462Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a95d6c53865607d6dca2233",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:08:05.871Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583babe28fcead09e170cec7"
+    },
+    {
+      "_id": "5a95d6b73865607d6dca2232",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:07:51.558Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583babe28fcead09e170cec7"
+    },
+    {
+      "_id": "5a95d2f43865607d6dca2231",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:51:48.988Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Diana Ferrari",
+      "_model": "583b7bab8fcead09e170ce73"
+    },
+    {
+      "_id": "5a95d2da3865607d6dca2230",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:51:22.481Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a95d2cd3865607d6dca222d"
+    },
+    {
+      "_id": "5a95d2d03865607d6dca222f",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:51:12.092Z",
+      "_updateType": "DELETE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a95d2a93865607d6dca222a"
+    },
+    {
+      "_id": "5a95d2cd3865607d6dca222e",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:51:09.519Z",
+      "_updateType": "CREATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a95d2cd3865607d6dca222d"
+    },
+    {
+      "_id": "5a95d2c63865607d6dca222c",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:51:02.397Z",
+      "_updateType": "DELETE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Gif Title",
+      "_model": "583b7bab8fcead09e170ce78"
+    },
+    {
+      "_id": "5a95d2a93865607d6dca222b",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:50:33.670Z",
+      "_updateType": "CREATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a95d2a93865607d6dca222a"
+    },
+    {
+      "_id": "5a95d2a23865607d6dca2229",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:50:26.903Z",
+      "_updateType": "CREATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "New Block Title",
+      "_model": "5a95d2a23865607d6dca2228"
+    },
+    {
+      "_id": "5a95d1ce3865607d6dca2227",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:46:54.565Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Gif Title",
+      "_model": "583b7bab8fcead09e170ce70"
+    },
+    {
+      "_id": "5a95d1423865607d6dca2226",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:44:34.962Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Gif Title",
+      "_model": "583b7bab8fcead09e170ce70"
+    },
+    {
+      "_id": "5a95d0d83865607d6dca2225",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:42:48.256Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "583b7baa8fcead09e170ce45"
+    },
+    {
+      "_id": "5a95d0ce3865607d6dca2224",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:42:38.943Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "583b7baa8fcead09e170ce45"
+    },
+    {
+      "_id": "5a95d0a03865607d6dca2223",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:41:52.790Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "5a95d0963865607d6dca2222",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T21:41:42.831Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "5a953f3f3865607d6dca2212",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T11:21:35.505Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "5a9529d63865607d6dca21f6",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:50:14.935Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583b7bad8fcead09e170ceb1"
+    },
+    {
+      "_id": "5a95299f3865607d6dca21f5",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:49:19.249Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583b7bad8fcead09e170ceb1"
+    },
+    {
+      "_id": "5a9524423865607d6dca21f2",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:26:26.515Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a95243e3865607d6dca21f1",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:26:22.768Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a9523f73865607d6dca21f0",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:25:11.460Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "5a9523f63865607d6dca21ef",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:25:10.303Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "5a791f113865607d6dca1376",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-02-06T03:20:49.749Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce98"
+    },
+    {
+      "_id": "5a791efe3865607d6dca1375",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-02-06T03:20:30.872Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "CLASSIC_COLLECTIVE",
+      "_model": "583b7bab8fcead09e170ce7b"
+    },
+    {
+      "_id": "5a791ef53865607d6dca1374",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-02-06T03:20:21.535Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "CLASSIC_COLLECTIVE",
+      "_model": "583b7bab8fcead09e170ce7b"
+    },
+    {
+      "_id": "5a791ec83865607d6dca1373",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-02-06T03:19:36.956Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "583b7bac8fcead09e170cea7"
+    },
+    {
+      "_id": "5a791ead3865607d6dca1372",
+      "_updatedBy": "58803b7bcb51ba21e7a23f1d",
+      "_updatedAt": "2018-02-06T03:19:09.069Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "583b7bab8fcead09e170ce62"
+    },
+    {
+      "_id": "5a61364d3865607d6dca043c",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-19T00:05:33.417Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "SANDLER SUMMER STYLE",
+      "_model": "583b7bac8fcead09e170ce8a"
+    },
+    {
+      "_id": "5a61357d3865607d6dca043b",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-19T00:02:05.113Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583b7bad8fcead09e170ceb1"
+    },
+    {
+      "_id": "5a6135783865607d6dca043a",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-19T00:02:00.787Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583b7bad8fcead09e170ceb1"
+    },
+    {
+      "_id": "5a6135773865607d6dca0439",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-19T00:01:59.399Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Reveal Title",
+      "_model": "583b7bad8fcead09e170ceb1"
+    },
+    {
+      "_id": "5a6016e93865607d6dca0378",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:39:21.707Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a6016e83865607d6dca0377",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:39:20.543Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a6016c13865607d6dca0376",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:38:41.817Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a6016c03865607d6dca0375",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:38:40.239Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "583b7bab8fcead09e170ce80"
+    },
+    {
+      "_id": "5a6016763865607d6dca0373",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:37:26.276Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583bbdbf8fcead09e170ced7"
+    },
+    {
+      "_id": "5a6016733865607d6dca0372",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:37:23.906Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583bbdbf8fcead09e170ced7"
+    },
+    {
+      "_id": "5a6015fc3865607d6dca036a",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:35:24.784Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce7a"
+    },
+    {
+      "_id": "5a6015cf3865607d6dca0368",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:34:39.475Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce72"
+    },
+    {
+      "_id": "5a6015cc3865607d6dca0367",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:34:36.181Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce72"
+    },
+    {
+      "_id": "5a6015cb3865607d6dca0366",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:34:35.126Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce72"
+    },
+    {
+      "_id": "5a6015c73865607d6dca0365",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:34:31.433Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce72"
+    },
+    {
+      "_id": "5a6015913865607d6dca0364",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:33:37.591Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a6015903865607d6dca0363",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:33:36.015Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a60158b3865607d6dca0362",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:33:31.786Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a6015563865607d6dca0361",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:32:38.790Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a6015553865607d6dca0360",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:32:37.520Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a6015503865607d6dca035f",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-01-18T03:32:32.222Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "583b7bab8fcead09e170ce6a"
+    },
+    {
+      "_id": "5a0530e5d9f1d573fdb21d6a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-11-10T04:53:57.605Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "59d597dd0482522d25a0be53",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:24:29.824Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "59d597da0482522d25a0be52",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:24:26.567Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "59d597d90482522d25a0be51",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:24:25.455Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "59d597d40482522d25a0be50",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:24:20.834Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "59d597d10482522d25a0be4f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:24:17.665Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "59d597d00482522d25a0be4e",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:24:16.146Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "583b7baa8fcead09e170ce35"
+    },
+    {
+      "_id": "59d597ad0482522d25a0be4d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:41.364Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "583b7bac8fcead09e170cea9"
+    },
+    {
+      "_id": "59d597a80482522d25a0be4c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:36.006Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "583b7bac8fcead09e170cea9"
+    },
+    {
+      "_id": "59d597a60482522d25a0be4b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:34.244Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "583b7bac8fcead09e170cea9"
+    },
+    {
+      "_id": "59d597a00482522d25a0be4a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:28.994Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "583b7bac8fcead09e170cea9"
+    },
+    {
+      "_id": "59d5979c0482522d25a0be49",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:24.649Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "HomeBtn_Btm",
+      "_model": "583b7bac8fcead09e170cea4"
+    },
+    {
+      "_id": "59d597990482522d25a0be48",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:21.771Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "THE_EXTRA_MILE",
+      "_model": "583b7bab8fcead09e170ce58"
+    },
+    {
+      "_id": "59d597960482522d25a0be47",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:18.511Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "THE_RUNDOWN",
+      "_model": "583b7bab8fcead09e170ce50"
+    },
+    {
+      "_id": "59d597920482522d25a0be46",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:14.140Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "KNOWLEDGE_CHECK",
+      "_model": "583b7bac8fcead09e170ce98"
+    },
+    {
+      "_id": "59d5978e0482522d25a0be45",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:10.760Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "SANDLER SUMMER STYLE",
+      "_model": "583b7bac8fcead09e170ce8a"
+    },
+    {
+      "_id": "59d597880482522d25a0be44",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:04.814Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "HOT_TIP",
+      "_model": "583babe28fcead09e170cec2"
+    },
+    {
+      "_id": "59d597840482522d25a0be43",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:23:00.730Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Sandler",
+      "_model": "583bbdbe8fcead09e170ced1"
+    },
+    {
+      "_id": "59d597810482522d25a0be42",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:22:57.310Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Diana Ferrari",
+      "_model": "583b7bab8fcead09e170ce73"
+    },
+    {
+      "_id": "59d5977e0482522d25a0be41",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:22:54.242Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "HOT_TIP",
+      "_model": "583b7bac8fcead09e170ceac"
+    },
+    {
+      "_id": "59d597640482522d25a0be40",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:22:28.630Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Zazou",
+      "_model": "583b7bab8fcead09e170ce6b"
+    },
+    {
+      "_id": "59d597610482522d25a0be3f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:22:25.358Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Basque",
+      "_model": "583b7bab8fcead09e170ce63"
+    },
+    {
+      "_id": "59d5975d0482522d25a0be3e",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:22:21.649Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "QUOTE",
+      "_model": "583b7bac8fcead09e170ce92"
+    },
+    {
+      "_id": "59d5975b0482522d25a0be3d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:22:19.311Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "THE_CLASSIC_EDIT",
+      "_model": "583b7baa8fcead09e170ce40"
+    },
+    {
+      "_id": "59d597580482522d25a0be3c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:22:16.955Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "583b7bab8fcead09e170ce5e"
+    },
+    {
+      "_id": "59d597320482522d25a0be3b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:21:38.013Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "59d5972e0482522d25a0be3a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:21:34.813Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "59d5972b0482522d25a0be39",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:21:31.053Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "59d597270482522d25a0be38",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:21:27.043Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "59d597210482522d25a0be37",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:21:21.888Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "59d5971f0482522d25a0be36",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2017-10-05T02:21:19.800Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    }
+  ],
+  "_swipeMenu": {
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    },
+    "_shouldHideDisabledControl": false,
+    "_shouldShowControlsOnHover": false,
+    "_shouldPartiallyShowNextItem": false,
+    "_shouldAlwaysShowItems": false,
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics",
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_desktopBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    }
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerWidth": 0
+  },
+  "_coverMenu": {
+    "homeButtonAriaLabel": "Home",
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View"
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_itemsPerRowMedium": 2,
+    "_itemsPerRowLarge": 2,
+    "itemCompletionText": "Complete",
+    "_showCompletionStatusInFooter": false,
+    "_showCompletionStatusOnMenus": false,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_resources": {
+    "_resourcesItems": [
+      {
+        "itemIndex": 0,
+        "_id": "57e46276ab3d8759a1a58c72",
+        "title": "SIZING CONVERSION CHART",
+        "view": "View",
+        "_asset": {
+          "_type": "file",
+          "_extension": "pdf",
+          "_id": "57e46620ab3d8759a1a58c75"
+        },
+        "_type": "document"
+      }
+    ],
+    "_filterButtons": {
+      "link": "Links",
+      "media": "Media",
+      "document": "Documents",
+      "all": "All"
+    },
+    "title": "Resources",
+    "_shouldDisableNavigationSideItem": false,
+    "_isEnabled": true
+  },
+  "_pageCompletionMethod": "components",
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    }
+  },
+  "_courseTags": [
+    "580449f63567a35f594c44e2",
+    "5769cb5a24537d771a03d996",
+    "58ae3e8ced2155973abb70ac",
+    "58bdd6a2ed2155973abb7fd4"
+  ],
+  "_fonts": {
+    "_installed": [
+      "Apercu-Light"
+    ],
+    "_google": [
+      "Playfair Display"
+    ]
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "incorrectIconAriaLabel": "incorrect",
+    "correctIconAriaLabel": "correct",
+    "_feedbackText": {
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "CLOSE"
+    },
+    "_showFeedback": {
+      "_isDisabled": false,
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "SHOW FEEDBACK"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "HIDE ANSWER"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "SHOW ANSWER"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "RESET"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "SUBMIT"
+    }
+  },
+  "_footerNav": {
+    "_hasHomeButton": false,
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": false
+  },
+  "_notify": {
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "navigationLogoAlt": "",
+    "notifyButtonAriaLabel": "",
+    "navigationSkipContentAriaLabel": "",
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": false
+  },
+  "_version": {
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
+  },
+  "_reviews": {
+    "_reviews": [],
+    "_isUnderReview": false
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "title": "Classic Footwear Brands - 2018",
+  "_type": "course",
+  "_childrenIds": [
+    "583b7baa8fcead09e170ce35"
+  ]
+}

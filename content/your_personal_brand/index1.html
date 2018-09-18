@@ -1,0 +1,815 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="-"/>
+    <meta name="keywords" content="-"/>
+    <meta name="format-detection" content="telephone=no">
+    <title>Myer Academy</title>
+
+    <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/assets/css/styles_layers.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/assets/css/styles_resp.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/assets/css/fonts.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/assets/css/scroll.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/assets/css/jquery.swipeshow.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/assets/css/slideshow-theme.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/assets/css/forms_light.css" rel="stylesheet" type="text/css" media="all" charset="utf-8"/>
+
+
+    <?php include_once("analyticstracking.php") ?>
+
+
+</head>
+
+<body onresize="resize(),slidersize()" onload="resize(),slidersize()">
+
+<div class="menustatus"></div>
+
+<div id="mainmenu" align="left">
+    <div class="btn-menu" style="padding:0px 0px 10px 0px;border:0px;">
+        <a href="mailto:myeracademy@myer.com.au" class="lnkmenu">
+            <img src="/assets/images/icon-email.png" style="margin:0px 10px 0px -4px;display:inline-block;border:0px"
+                 align="absmiddle">
+        </a>
+        <a href="index.html"
+           class="lnkmenu">
+            <img src="/assets/images/icon_myer.png" style="margin:0px 10px 0px 0px;display:inline-block;border:0px"
+                 align="absmiddle">
+        </a>
+        <img src="/assets/images/icon-info.png" style="margin:0px;display:inline-block;" align="absmiddle"
+             onclick="scrolltoabout(),openmenu()" class="pointer">
+        <img src="/assets/images/icon-logout.png" style="margin:0px 10px;display:inline-block;cursor: pointer"
+             align="absmiddle" onclick="logout()">
+        <br>
+
+    </div>
+    <div class="scrollcontainer scrollheight2">
+        <div class="scrollpanel">
+            <div id="mainmenuinner" style="max-width:1200px;width:100%">
+                <div class="btn-menu"
+                     style="color:rgba(255,255,255,1);padding:18px 0px 18px 20px;border:0px;background:url('/assets/images/bullet-off.png') no-repeat left center;cursor:pointer;"
+                     onclick="scrolltoabout(),openmenu()">ABOUT MYER ACADEMY
+                </div>
+                <br>
+
+                <a href="/content/add-on-selling/index.html" class="lnkmenu">
+                    <div class="btn-menu2">ADD ON SELLING</div>
+                </a>
+                <a href="/content/are-you-listening/index.html" class="lnkmenu">
+                    <div class="btn-menu2">ARE YOU LISTENING?</div>
+                </a>
+                <a href="/content/asilio/index.html" class="lnkmenu">
+                    <div class="btn-menu2">ASILIO</div>
+                </a>
+                <a href="/content/basque/index.html" class="lnkmenu">
+                    <div class="btn-menu2">BASQUE</div>
+                </a>
+                <a href="/content/blaq/index.html" class="lnkmenu">
+                    <div class="btn-menu2">BLAQ</div>
+                </a>
+                <a href="/content/building-rapport-credibility/index.html" class="lnkmenu">
+                    <div class="btn-menu2">BUILDING RAPPORT &amp; CREDIBILITY</div>
+                </a>
+                <a href="/content/bra-fitting-etiquette/index.html" class="lnkmenu">
+                        <div class="btn-menu2">BRA FITTING ETIQUETTE</div>
+                </a>
+                <a href="/content/breast-anatomy-and-bra-construction/index.html" class="lnkmenu">
+                        <div class="btn-menu2">BREAST ANATOMY AND BRA CONSTRUCTION</div>
+                </a>
+                <a href="/content/classic-footwear-brands/index.html" class="lnkmenu">
+                    <div class="btn-menu2">CLASSIC FOOTWEAR BRANDS</div>
+                </a>
+                <a href="/content/your_personal_brand/index.html" class="lnkmenu">
+                    <div class="btn-menu2">BUILDING YOUR PERSONAL BRAND</div>
+                </a>
+                <a href="/content/commbank/index.html" class="lnkmenu">
+                    <div class="btn-menu2">COMMBANK AWARDS POINTS</div>
+                </a>
+                <a href="/content/choosing-the-right-bra/index.html" class="lnkmenu">
+                    <div class="btn-menu2">CHOOSING THE RIGHT BRA</div>
+                </a>
+                <a href="/content/converting-sales/index.html" class="lnkmenu">
+                    <div class="btn-menu2">CONVERTING SALES</div>
+                </a>
+                <a href="/content/cooper-street/index.html" class="lnkmenu">
+                    <div class="btn-menu2">COOPER ST</div>
+                </a>
+                <a href="/content/delight/index.html" class="lnkmenu">
+                    <div class="btn-menu2">DELIGHT</div>
+                </a>
+                <a href="/content/denimmen/index.html" class="lnkmenu">
+                    <div class="btn-menu2">DENIM FOR MEN</div>
+                </a>
+                <a href="/content/denimwomen/index.html" class="lnkmenu">
+                    <div class="btn-menu2">DENIM FOR WOMEN</div>
+                </a>
+                <a href="/content/construction/index.html" class="lnkmenu">
+                    <div class="btn-menu2">FOOTWEAR CONSTRUCTION</div>
+                </a>
+                <a href="/content/sizes_trends/index.html" class="lnkmenu">
+                    <div class="btn-menu2">FOOTWEAR SIZES &amp; TRENDS</div>
+                </a>
+                <a href="/content/fitting-a-bra/index.html" class="lnkmenu">
+                    <div class="btn-menu2">FITTING A BRA</div>
+                </a>
+                <a href="/content/give_registry/index.html" class="lnkmenu">
+                    <div class="btn-menu2">GIVE REGISTRY</div>
+                </a>
+                <a href="/content/growth-mindset/index.html" class="lnkmenu">
+                    <div class="btn-menu2">GROWTH MINDSET</div>
+                </a>
+                <a href="/content/howwebuy/index.html" class="lnkmenu">
+                    <div class="btn-menu2">HOW WE BUY</div>
+                </a>
+                <a href="/content/howwelearn/index.html" class="lnkmenu">
+                    <div class="btn-menu2">HOW WE LEARN AT MYER</div>
+                </a>
+                <a href="/content/intimate-apparel-care-and-solutions/index.html" class="lnkmenu">
+                    <div class="btn-menu2">INTIMATE APPAREL CARE AND SOLUTIONS</div>
+                </a>
+                <a href="/content/jack_jones/index.html" class="lnkmenu">
+                    <div class="btn-menu2">JACK &amp; JONES</div>
+                </a>
+                <a href="/content/kenji/index.html" class="lnkmenu">
+                    <div class="btn-menu2">KENJI</div>
+                </a>
+                 <a href="/content/leona-by-leona-edmiston/index.html" class="lnkmenu">
+                    <div class="btn-menu2">LEONA BY LEONA EDMISTON</div>
+                </a>
+                <a href="/content/piper/index.html" class="lnkmenu">
+                    <div class="btn-menu2">PIPER</div>
+                </a>
+                <a href="/content/reserve/index.html" class="lnkmenu">
+                    <div class="btn-menu2">RESERVE</div>
+                </a>
+                <a href="/content/denimcare/index.html" class="lnkmenu">
+                    <div class="btn-menu2">RULES OF DENIM CARE</div>
+                </a>
+                <a href="/content/sales-metrics/index.html" class="lnkmenu">
+                    <div class="btn-menu2">SALES METRICS</div>
+                </a>
+                <a href="/content/stella/index.html" class="lnkmenu">
+                    <div class="btn-menu2 btn-bord-bot">STELLA</div>
+                </a>
+                <a href="/content/styling-with-colour/index.html" class="lnkmenu">
+                    <div class="btn-menu2 btn-bord-bot">STYLING WITH COLOR</div>
+                </a>
+                <a href="/content/styling-with-neutrals/index.html" class="lnkmenu">
+                    <div class="btn-menu2 btn-bord-bot">STYLING WITH NEUTRALS</div>
+                </a>
+                <a href="/content/the-bra-wardrobe/index.html" class="lnkmenu">
+                    <div class="btn-menu2 btn-bord-bot">THE BRA WARDROBE</div>
+                </a>
+                <a href="/content/wayne_cooper/index.html" class="lnkmenu">
+                    <div class="btn-menu2 btn-bord-bot">WAYNE COOPER</div>
+                </a>
+                <a href="/content/youngandcontemporary/index.html" class="lnkmenu">
+                    <div class="btn-menu2 btn-bord-bot">YOUNG &amp; CONTEMPORARY FOOTWEAR</div>
+                </a>
+
+            </div>
+        </div>
+    </div>
+    <div style="width:100%;max-width:1200px;height:35px;margin-top:10px;display:block;background:rgba(156,156,156,0);cursor:pointer"
+         align="center" onclick="openmenu()"><img src="/assets/images/arrow_up2.png"
+                                                  style="margin:5px 0px 0px 0px;cursor:pointer;width:55px"></div>
+
+
+</div>
+
+
+<div class="menu pointer" align="center" onclick="openmenu()">
+    <img src="/assets/images/hamburger.png" style="width:26px;float:left;margin:13px 0px 0px 10px">
+    <img src="/assets/images/logo.png" class="logo-myeracademy2">
+</div>
+
+
+<div class="header" align="center" style="margin-top:0px">
+    <div class="tile-valign" align="center">
+        <img src="/assets/images/logo.png" class="logo-myeracademy pointer" onclick="scrolltowelcome()">
+    </div>
+</div>
+
+<div align="center">
+    <div id="content">
+
+        <!-- SLIDER START -->
+        <div class="slideshow swipeshow slidersize pointer" style="margin-top:0px;overflow:hidden">
+            <ul class="slides">
+                <li class="slide">
+                    <img src="/assets/images/slider01.jpg" style="width:100%"/>
+                </li>
+                <li class="slide">
+                    <img src="/assets/images/slider02.jpg" style="width:100%"/>
+                </li>
+                <li class="slide">
+                    <img src="/assets/images/slider03.jpg" style="width:100%"/>
+                </li>
+            </ul>
+            <!--
+            <button class='previous'></button>
+            <button class='next'></button>
+            -->
+            <div class='dots'></div>
+        </div>
+        <!-- // SLIDER -->
+
+        <!-- INTRO -->
+        <div style="margin:-60px 0px 60px 0px;display:block;width:100%;height:0px;position:relative;z-index:20;background:transparent"
+             id="myeracademywelcome"></div>
+        <div style="font-family: 'aperculight';font-size:17px;line-height:24px;padding:40px 20px 0px 20px;max-width:768px;">
+            <span style="font-family: 'MillerBanner-Roman';font-size:22px;line-height:24px;text-transform:uppercase">Welcome to the Myer&nbsp;Academy</span>
+            <div class="spacer20"></div>
+            These learning moments have been crafted especially for your mobile device. Immerse yourself in the world we
+            love and take your&nbsp;moment&nbsp;to&nbsp;shine.
+            <div class="spacer50"></div>
+        </div>
+        <!-- // INTRO -->
+
+        <div align="center" style="padding:25px 8px;background:#f5f5f5">
+
+            <div style="max-width:1600px;">
+				
+               	<a href="breast-anatomy-and-bra-construction/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-breast-anatomy-and-bra-construction.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">BREAST ANATOMY AND BRA CONSTRUCTION</div>
+                                <span class="txt-tile">Key elements of the breast and bra construction that ensure a perfect fit. </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a><a href="fitting-a-bra/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-fitting-a-bra.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">FITTING A BRA</div>
+                                <span class="txt-tile">A series of videos on the seven steps to fitting a bra. </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a><a href="the-bra-wardrobe/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-the-bra-wardrobe.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">THE BRA WARDROBE</div>
+                                <span class="txt-tile">Styles of bra and the solutions they offer.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a><a href="bra-fitting-etiquette/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-bra-fitting-etiquette.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">BRA FITTING ETIQUETTE</div>
+                                <span class="txt-tile">The etiquette that ensures the fit experience is comfortable for the customer.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a><a href="choosing-the-right-bra/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-choosing-the-right-bra.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">CHOOSING THE RIGHT BRA</div>
+                                <span class="txt-tile">Our most popular bra brands and styles.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a><a href="intimate-apparel-care-and-solutions/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-intimate-apparel-care-and-solutions.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">INTIMATE APPAREL CARE AND SOLUTIONS</div>
+                                <span class="txt-tile">Caring for intimate apparel, and the add-on on to complete the sale.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a><a href="converting-sales/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-convertingsales.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">CONVERTING SALES</div>
+                                <span class="txt-tile">Techniques to boost your sales</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a><a href="add-on-selling/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-addonselling.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">ADD ON SELLING</div>
+                                <span class="txt-tile">Ideas to help you sell more</span>
+                            </div>
+                        </div>
+                    </div>
+                </div></a><a href="sales-metrics/index.html"><div class="tilewrap" style="background-image: url(/assets/images/pic-salesmetrics.jpg); height: 401.5px;">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">SALES METRICS</div>
+                                <span class="txt-tile">Get the lowdown on the numbers that matter</span>
+                            </div>
+                        </div>
+                    </div>
+                </div></a><a href="styling-with-neutrals/index.html">
+                    <div class="tilewrap" style="background-image:url(/assets/images/pic-styling-with-neutrals.jpg);">
+                        <div class="tileinner">
+                            <div class="tile-valign">
+                                <div class="spacer60"></div>
+                                <div class="logowrap" align="center">
+                                    <div class="hd-tile">STYLING WITH NEUTRALS</div>
+                                    <span class="txt-tile">Learn the essentials of fashion styling with neutrals</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a><a href="styling-with-colour/index.html">
+                    <div class="tilewrap" style="background-image:url(/assets/images/pic-styling-with-colour.jpg);">
+                        <div class="tileinner">
+                            <div class="tile-valign">
+                                <div class="spacer60"></div>
+                                <div class="logowrap" align="center">
+                                    <div class="hd-tile">STYLING WITH COLOUR</div>
+                                    <span class="txt-tile">Learn the essentials of fashion styling with colour</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a><a href="cooper-street/index.html">
+                    <div class="tilewrap" style="background-image:url(/assets/images/pic-cooper-street.jpg);">
+                        <div class="tileinner">
+                            <div class="tile-valign">
+                                <div class="spacer60"></div>
+                                <div class="logowrap" align="center">
+                                    <div class="hd-tile">COOPER ST</div>
+                                    <span class="txt-tile">Beautifully crafted Australian fashion</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a><a href="leona-by-leona-edmiston/index.html">
+                    <div class="tilewrap" style="background-image:url(/assets/images/pic-leona.jpg);">
+                        <div class="tileinner">
+                            <div class="tile-valign">
+                                <div class="spacer60"></div>
+                                <div class="logowrap" align="center">
+                                    <div class="hd-tile">LEONA BY LEONA EDMISTON</div>
+                                    <span class="txt-tile">Sophisticated style from Australia's undisputed Queen of Frocks</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a><a href="are-you-listening/index.html">
+                    <div class="tilewrap" style="background-image:url(/assets/images/pic-areyoulistening.jpg);">
+                        <div class="tileinner">
+                            <div class="tile-valign">
+                                <div class="spacer60"></div>
+                                <div class="logowrap" align="center">
+                                    <div class="hd-tile">ARE YOU LISTENING?</div>
+                                    <span class="txt-tile">A quick refresher!</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a><a href="building-rapport-credibility/index.html">
+                <div class="tilewrap"
+                     style="background-image:url(/assets/images/pic-buildingrapportandcredibility.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">BUILDING RAPPORT &AMP; CREDIBILITY</div>
+                                <span class="txt-tile">Making a connection</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="classic-footwear-brands/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-classicfootwearbrands.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">CLASSIC FOOTWEAR BRANDS</div>
+                                <span class="txt-tile">Polish up on our classic range</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="growth-mindset/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-growthmindset.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">GROWTH MINDSET</div>
+                                <span class="txt-tile">A mindset for learning</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="howwebuy/index.html">
+                    <div class="tilewrap" style="background-image:url(/assets/images/pic-salesandservices.jpg);">
+                        <div class="tileinner">
+                            <div class="tile-valign">
+                                <div class="spacer60"></div>
+                                <div class="logowrap" align="center">
+                                    <div class="hd-tile">HOW WE BUY</div>
+                                    <span class="txt-tile">The lowdown on buying</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a><a href="youngandcontemporary/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-youngandcontemporary.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">YOUNG &amp; CONTEMPORARY FOOTWEAR BRANDS</div>
+                                <span class="txt-tile">Get hooked on these must-have brands</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="kenji/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-kenji.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">KENJI</div>
+                                <span class="txt-tile">Youthful street-style for the fashion forward</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="delight/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-delight.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">DELIGHT</div>
+                                <span class="txt-tile">Bring DELIGHT to life</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="asilio/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-asilio.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">ASILIO</div>
+                                <span class="txt-tile">Make a statement without saying a word</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="commbank/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-commbank.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">COMMBANK AWARDS POINTS</div>
+                                <span class="txt-tile">Rewarding our customers</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="reserve/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-reserve.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">RESERVE</div>
+                                <span class="txt-tile">Style that stands the test of time</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="wayne_cooper/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-waynecooper2.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">WAYNE COOPER</div>
+                                <span class="txt-tile">Get your glamour with a side of attitude</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="give_registry/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-give-registry.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">GIVE REGISTRY</div>
+                                <span class="txt-tile">Discover the gift with a difference</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="stella/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-stella2.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">STELLA</div>
+                                <span class="txt-tile">Immerse yourself in fashion for the free-spirit</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="your_personal_brand/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-your_personal_brand.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">BUILDING YOUR PERSONAL BRAND</div>
+                                <span class="txt-tile">Put yourself in the spotlight</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="jack_jones/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-jackjones.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">JACK &amp; JONES</div>
+                                <span class="txt-tile">Behind the scenes with denim from Danish brand Jack & Jones</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="sizes_trends/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-footwear_sizes_trends.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">FOOTWEAR SIZES &amp; TRENDS</div>
+                                <span class="txt-tile">Get on the front foot with current trends</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="construction/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-footwear_construction.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">FOOTWEAR CONSTRUCTION</div>
+                                <span class="txt-tile">Can you walk the talk?</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="blaq/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-blaq.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">BLAQ</div>
+                                <span class="txt-tile">Polish up on desk-to-dinner wear for the urban man</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="piper/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-piper.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">PIPER</div>
+                                <span class="txt-tile">Get the lowdown on urban casual from this Myer favourite brand</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="basque/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-basque.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">BASQUE</div>
+                                <span class="txt-tile">Brush up on this brand, and all that is feminine work&nbsp;chic</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="denimwomen/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-denimwomen.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">DENIM FOR WOMEN</div>
+                                <span class="txt-tile">Launch yourself into the wide world&nbsp;of&nbsp;denim</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="denimmen/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-denimmen.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">DENIM FOR MEN</div>
+                                <span class="txt-tile">Launch yourself into the wide world of men’s denim</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="denimcare/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-denimcare.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">RULES OF DENIM CARE</div>
+                                <span class="txt-tile">Give your denim the love and care it deserves</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a><a href="howwelearn/index.html">
+                <div class="tilewrap" style="background-image:url(/assets/images/pic-myeracademy.jpg);">
+                    <div class="tileinner">
+                        <div class="tile-valign">
+                            <div class="spacer60"></div>
+                            <div class="logowrap" align="center">
+                                <div class="hd-tile">HOW WE LEARN AT MYER</div>
+                                <span class="txt-tile">Introducing a new era</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+
+            </div>
+        </div>
+        <div style="margin:-60px 0px 60px 0px;display:block;width:100%;height:0px;position:relative;z-index:20;background:transparent"
+             id="myeracademyabout"></div>
+        <div style="font-family: 'aperculight';font-size:16px;line-height:24px;padding:20px 30px;max-width:768px"
+             align="center">
+            <div class="hd-medium">
+                TAKE YOUR MOMENT TO SHINE<br></div>
+            The Myer Academy is a brand new world-class approach to learning. It provides you with a suite of learning
+            tools and experiences to help grow and develop your career.<br/>
+            <br/>
+            This mobile platform is the heart of the Myer Academy. Wherever and whenever you choose to learn, access to
+            our bite-sized learning moments will equip you with the right knowledge and know-how to confidently bring
+            the love of shopping to life.<br/>
+            <br/>
+            Make every moment a moment to shine.
+            <div class="spacer30"></div>
+        </div>
+
+        <div id="footer">
+            &copy 2016 www.myeracademy.com.au<br><br>
+            <img src="/assets/images/arrow_up.png" style="margin:20px 0px" class="pointer" onclick="scrolltotop()">
+        </div>
+
+
+    </div>
+</div>
+
+<script type="application/javascript" src="/assets/js/config.js"></script>
+<script type="text/javascript" src="/assets/js/functions.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-2.1.3.min.js"></script>
+<script src="/assets/js/jquery.swipeshow.min.js"></script>
+<script type="application/javascript" src="/assets/js/es6-promise-polyfill.js"></script>
+<script type="application/javascript" src="/assets/js/axios.js"></script>
+<script type="application/javascript" src="/assets/js/stafflogin.js"></script>
+
+<script>
+
+    var loginCheck = new StaffLogin(loginConfig);
+    loginCheck.checkIfLoggedIn(function (isLoggedIn) {
+        if (isLoggedIn) {
+            showPage();
+        } else {
+            redirect();
+        }
+    })
+
+    $(document).ready(function () {
+        $(this).scroll(function () {
+            var pagew = window.innerWidth;
+            var sheight = $(window).scrollTop();
+            if (sheight >= 300) {
+                $('.menu').css("background", "rgba(0,0,0,.9)");
+                $('.menu').css("box-shadow", "0px 0px 15px rgba(0,0,0,.7)");
+                $('.logo-myeracademy2').css("opacity", "1");
+            }
+
+            else {
+                $('.menu').css("background", "rgba(0,0,0,0)");
+                $('.logo-myeracademy2').css("opacity", "0");
+                $('.menu').css("box-shadow", "0px 0px 15px rgba(0,0,0,0)")
+            }
+
+            if (sheight >= 150) {
+                if (pagew <= 640) {
+
+                    $('.menu').css("background", "rgba(0,0,0,.9)");
+                    $('.menu').css("box-shadow", "0px 0px 15px rgba(0,0,0,.7)");
+                    $('.logo-myeracademy2').css("opacity", "1");
+                }
+            }
+        });
+    });
+
+    $(window).load(function () {
+
+        $('.logo-myeracademy').css("transform", "scale(1.00)");
+        $('.logo-myeracademy').css("opacity", "1");
+    });
+
+    function showPage() {
+        $('#content').fadeTo(500, 1);
+        $('.logo-myeracademy').css("transform", "scale(1.00)");
+        $('.logo-myeracademy').css("opacity", "1");
+        var mainmenuh = $('#mainmenu').height();
+        var mainmenuh2 = 0 - mainmenuh - 110;
+        $('#mainmenu').css("margin-top", mainmenuh2);
+
+        if (window.location.hash) {
+            $('.tab1 .tabinner3').fadeTo(0, '0');
+            var hash = window.location.hash;
+            if (hash == '#about') {
+                scrolltoabout();
+            }
+        }
+    }
+
+    function redirect() {
+        document.location.href = '/index.html';
+    }
+
+
+    function logout() {
+        loginCheck.logout();
+        redirect();
+    }
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-85609472-1', 'auto');
+    ga('send', 'pageview');
+
+    (function ($) {
+        $(".version").text($.swipeshow.version);
+        $(".slideshow").swipeshow({autostart: true, mouse: true, interval: 6000});
+    })(jQuery);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,522 @@
+[
+  {
+    "_id": "5962c6143b3d31444afd3a11",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5962c6133b3d31444afd3a08",
+    "_parentId": "5962c6143b3d31444afd3a10",
+    "__v": 0,
+    "displayTitle": "SHIFT SWAP<br>",
+    "body": "<p style=\"text-align: center;\"><b>Team Members </b>can request&nbsp;a&nbsp;<b>Shift Swap.</b></p><p style=\"text-align: center;\"><b>Shift Swap</b>&nbsp;Request approval is solely upon <b>Manager's</b> discretion.</p>",
+    "_refId": "590bcfbb181f3a535bb6ac50",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5acd8a591e16803cc70f91cb",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5962c6133b3d31444afd3a08",
+    "_parentId": "5acd8a591e16803cc70f91ca",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "5994135aebca4a4008794fd3",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acd8a591e16803cc70f91cb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5962c6143b3d31444afd3a14",
+    "_courseId": "5962c6133b3d31444afd3a08",
+    "_parentId": "5962c6143b3d31444afd3a13",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "REQUESTING A SHIFT SWAP ON A SMARTPHONE",
+    "body": "<div style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">Please follow the steps outlined below to&nbsp;</span>request a&nbsp;<strong>Shift Swap</strong> <span style=\"color: rgb(67, 74, 84);\">on a <strong>Smartphone</strong>.</span></div><p><br></p><div style=\"text-align: center;\"><p style=\"text-align: center;\"><span style=\"color: rgb(67, 74, 84);\">There are four screens in this sequence.</span></p><p style=\"text-align: center;\"><b style=\"color: rgb(67, 74, 84);\">CLICK ON THE ARROW ON THE IMAGE TO SEE OTHER SCREENS.</b></p><p style=\"text-align: center;\"><br></p></div>",
+    "_refId": "595d8200089cab463b892036",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5963116a3b3d31444afd3acc",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p></p><ol><li>Click on <b>Requests</b>.<br></li><li>Click on the&nbsp;'<b>+</b>'<b> </b>icon.</li></ol><p></p>",
+        "_id": "58b75833ed2155973abb7ee4",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "596313d53b3d31444afd3ace"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "58b75db5ed2155973abb7ee7",
+        "body": "<p>3. Select <b>Shift Swap</b> from the drop-down.<br></p><p>4. Click on the <b>Tick</b> icon.</p><p>5. Select your <b>Shift </b>that you wish to swap.</p><p>6. Click on <b>Apply</b>.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59642518c55828882e726fef"
+          }
+        },
+        "body": "<p>7. &nbsp;Select other <b>Team Member's Shift</b> you wish to swap.</p><p>8. Click on <b>Review</b>.</p><p>9. Click on <b>Submit</b>.</p>",
+        "_id": "58b7a4b4ed2155973abb7fca",
+        "itemIndex": 2
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59642717c55828882e726ff0",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "595dd351089cab463b89203b",
+        "body": "<p>10. <b>Shift Swap</b> Request is <b>submitted </b>pending <b>Manager's</b> approval (Check for Request Approval <b>Alerts</b> from <b>Manager</b>).<br></p>"
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5962c6143b3d31444afd3a17",
+    "_courseId": "5962c6133b3d31444afd3a08",
+    "_parentId": "5962c6143b3d31444afd3a16",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "displayTitle": "HELPFUL NOTE<br>",
+    "body": "",
+    "_refId": "595dda73089cab463b892042",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_id": "58bf95dfed2155973abb809e",
+        "itemIndex": 0
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "5962cda23b3d31444afd3a1a"
+    },
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "58a666a3ed2155973abb7007"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "40"
+    },
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5982bd8febca4a4008794d75",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5962c6133b3d31444afd3a08",
+    "_parentId": "5982bd8febca4a4008794d74",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myerwfmportal.com.au",
+        "itemTitle": "WWW.MYERWFMPORTAL.COM.AU",
+        "_id": "59826522ebca4a4008794cf0",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5982bd8febca4a4008794d75",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5acd8a6e1e16803cc70f91ce",
+    "_courseId": "5962c6133b3d31444afd3a08",
+    "_parentId": "5acd8a6e1e16803cc70f91cd",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57fc395a4ea87d56dd3ea4fa",
+        "itemTitle": "BACK",
+        "link": "../index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acd8a6e1e16803cc70f91ce",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  }
+]

@@ -1,0 +1,731 @@
+[
+  {
+    "_id": "59703ad332b40dca201c4d8a",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5970393f32b40dca201c4d1a",
+    "_parentId": "5970394032b40dca201c4d50",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": null,
+      "small": null
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59703ad332b40dca201c4d8a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5970394032b40dca201c4d53",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "5970393f32b40dca201c4d1a",
+    "_parentId": "5970394032b40dca201c4d52",
+    "__v": 0,
+    "_refId": "5962d7813b3d31444afd3a45",
+    "body": "",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5970522732b40dca201c4d8c"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "591e4284ad04f4d3201a7cc1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backText": "A great ‘all-rounder’ that provides a customer with comfort, support and a flattering shape.&nbsp;<br>Available in both balconnet and plunge cup.&nbsp;<br>",
+        "itemIndex": 2,
+        "_id": "5962e6523b3d31444afd3a51",
+        "frontText": ""
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_id": "5962ddfe3b3d31444afd3a49",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "591e4284ad04f4d3201a7cc1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backText": "This bra’s plunging neckline creates fullness and cleavage when a customer wears a low cut garment.",
+        "itemIndex": 1,
+        "_id": "5962dde53b3d31444afd3a48",
+        "frontText": ""
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "597048f132b40dca201c4d8b"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "backText": "With a broader neckline, this bra lifts, enhances and flatters the customer’s bust.  ",
+        "frontText": "",
+        "_id": "5962d7993b3d31444afd3a46",
+        "itemIndex": 0
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "597052fa32b40dca201c4d8d"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "frontText": "",
+        "_id": "5962e6983b3d31444afd3a54",
+        "itemIndex": 3,
+        "backText": "Provides a customer with  comfort and support, without the need for a metal wire."
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5970541132b40dca201c4d8e"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "frontText": "",
+        "_id": "5962e6cd3b3d31444afd3a57",
+        "itemIndex": 4,
+        "backText": "This bra provides support, whilst increasing volume and lift.<br>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "597054d232b40dca201c4d8f"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "frontText": "",
+        "_id": "5962e7263b3d31444afd3a5a",
+        "itemIndex": 5,
+        "backText": "With changeable shoulder straps and versatile styling options these do-it-all bras can be adjusted to suit any outfit. <br>Available in both balconnet and plunge cup.<br>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5970561932b40dca201c4d90"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "backText": "A flexible solution for a customer who wear strapless and halter style tops. A snug-fitting frame ensures the bra is comfortable and supportive. <br><br>Available in both balconnet and plunge cup.<br>",
+        "itemIndex": 6,
+        "_id": "5962e75d3b3d31444afd3a5d",
+        "frontText": ""
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5970589d32b40dca201c4d91"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "591e4284ad04f4d3201a7cc1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "frontText": "",
+        "_id": "5962edc63b3d31444afd3a60",
+        "itemIndex": 7,
+        "backText": "Provides extra support for sport. Most brands provide a Support Factor rating to help you choose the right solution for your level of activity. <br>Sports bras are available with or without a wire.&nbsp;"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59705ab532b40dca201c4d92"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "frontText": "",
+        "backText": "Provides the support needed during pregnancy and when breast-feeding Constructed without wire, it has drop-down cups that allow breast-feeding.  <br>",
+        "_id": "5962ee1f3b3d31444afd3a63",
+        "itemIndex": 8
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5976885332b40dca201c4e0b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5970393f32b40dca201c4d1a",
+    "_parentId": "5976884d32b40dca201c4e0a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5976885332b40dca201c4e0b",
+    "body": "<p>The minimiser bra reduces the appearance of the bust by a cup size and creates a smooth profile. </p>",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "59768ae232b40dca201c4e0d",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5970393f32b40dca201c4d1a",
+    "_parentId": "59768adc32b40dca201c4e0c",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59768ae232b40dca201c4e0d",
+    "body": "<p style=\"text-align: center;\" class=\"\">The post-surgery bra is constructed with discreet mesh pockets that fit foam breast forms. Adjustable straps ensure the correct fit. </p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-2-0"
+  },
+  {
+    "_id": "597084e532b40dca201c4da2",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5970393f32b40dca201c4d1a",
+    "_parentId": "597083c032b40dca201c4d9b",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5981395febca4a4008794ca7"
+      },
+      "large": null,
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597084e532b40dca201c4da2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "597084ba32b40dca201c4d9e",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5970393f32b40dca201c4d1a",
+    "_parentId": "597084ba32b40dca201c4d9d",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "",
+        "_id": "596ef1ea32b40dca201c4c17",
+        "itemIndex": 1,
+        "itemTitle": "BRA FITTING ETIQUETTE",
+        "link": "http://www.myeracademy.com.au/content/bra-fitting-etiquette/index.html"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "592cf808cc6c57255d381329",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "597084ba32b40dca201c4d9e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "597084cf32b40dca201c4da1",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5970393f32b40dca201c4d1a",
+    "_parentId": "597084cf32b40dca201c4da0",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "597084cf32b40dca201c4da1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  }
+]

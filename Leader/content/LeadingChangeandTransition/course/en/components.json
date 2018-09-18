@@ -1,0 +1,744 @@
+[
+  {
+    "_id": "599261dae1545e6a6582e28f",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "599261d1e1545e6a6582e28e",
+    "__v": 0,
+    "_refId": "599261dae1545e6a6582e28f",
+    "body": "",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-4",
+          "_fontSize": "40"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1fdc8052917a2552bf7a1"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "59b1d489052917a2552bf795",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "Change is a shift in the <i>external situation.</i><br>For example, moving to a new team",
+        "itemIndex": 0,
+        "_id": "59926230e1545e6a6582e290",
+        "frontText": "<br>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-4",
+          "_fontSize": "45",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1fe1d052917a2552bf7a3"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_id": "59b1d489052917a2552bf795",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "frontText": "<br>",
+        "_id": "599262b6e1545e6a6582e291",
+        "itemIndex": 1,
+        "backText": "<span style=\"font-size: 16px;\">Transition is the <i>internal</i>, psychological and emotional process of coming to terms with change.</span><div><span style=\"font-size: 16px;\"><br></span>For example, the process you go through to feel a sense of belonging in your new team.</div>"
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "center",
+    "_flipCardsContainerMaxWidth": "600px",
+    "_canSetContainerMaxWidth": true,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": true,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "59b1ff29052917a2552bf7a5",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "598d41a3e1545e6a6582e202",
+    "__v": 0,
+    "_refId": "59b1ff29052917a2552bf7a5",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59b1ff41052917a2552bf7a6"
+      },
+      "large": {
+        "_id": "59b1ff41052917a2552bf7a6",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "598d41ace1545e6a6582e204",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "59b1ff1d052917a2552bf7a4",
+    "__v": 0,
+    "_refId": "598d41ace1545e6a6582e204",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>This stage is about realising the need to move on from old approaches, relationships or roles.  </p><p><br></p><p>Reactions might include sadness, helplessness, frustration or even anger.</p>",
+        "itemIndex": 0,
+        "_id": "598d41b6e1545e6a6582e205",
+        "title": "ENDING, LETTING GO"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>At this stage people experience uncertainty and possibly fear or excitement about what the future holds. There are often mixed feelings.  </p><p><br></p><p>Reactions may include apprehension, ambivalence, interest and curiosity&nbsp;</p>",
+        "_id": "598d41b7e1545e6a6582e206",
+        "itemIndex": 1,
+        "title": "THE NEUTRAL ZONE"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "THE NEW BEGINNING",
+        "itemIndex": 2,
+        "_id": "598d41b8e1545e6a6582e207",
+        "body": "<p>At this stage people accept and have clarity about the future resulting in a renewed sense of purpose.  </p><p><br></p><p>Reactions may include optimism, confidence and hope. &nbsp;</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "59a4b7e2052917a2552bf6e1",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "5981232b3a2dea2f1cf9e669",
+    "__v": 0,
+    "_refId": "59a4b7e2052917a2552bf6e1",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c4c376104748562e807c58"
+          }
+        },
+        "body": "<p><b>Ending and Letting Go</b></p><p><b><br></b></p><p><ul><li><span style=\"font-size: 16px;\">Acknowledge endings and how people are feeling</span></li><li><span style=\"font-size: 16px;\">Address specific concerns and worries</span></li><li><span style=\"font-size: 16px;\">Give people access to key information</span></li><li><span style=\"font-size: 16px;\">Have open and honest communication</span></li></ul></p>",
+        "_id": "59a4b801052917a2552bf6e2",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59658749bea2592d2ad0029d"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "59a4b802052917a2552bf6e3",
+        "body": "<p><b>The Neutral Zone</b></p><p><br></p><p><ul><li><span style=\"font-size: 16px;\">Set short-term goals that lead to quick wins</span></li><li><span style=\"font-size: 16px;\">Give feedback and updates often</span></li><li><span style=\"font-size: 16px;\">Set aside time to connect as a team</span></li><li><span style=\"font-size: 16px;\">Help people understand how they contribute to the change</span></li></ul></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59c48255104748562e807c45",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p><b>New Beginnings</b><br></p><p><b><br></b></p><p><ul><li><span style=\"font-size: 16px;\">Encourage initiative-taking and exploration of new approaches</span></li><li><span style=\"font-size: 16px;\">Ask and answer questions</span></li><li><span style=\"font-size: 16px;\">Celebrate success and steps in the right direction</span></li><li><span style=\"font-size: 16px;\">Frame future work in a positive manner</span></li></ul></p>",
+        "_id": "59a4b802052917a2552bf6e4",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59a4ba73052917a2552bf6e9",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "59a4ba73052917a2552bf6e8",
+    "__v": 0,
+    "_refId": "59a4ba73052917a2552bf6e9",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59965226052917a2552bf5cd",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59952f33052917a2552bf556",
+        "link": "https://www.ted.com/talks/jim_hemerling_5_ways_to_lead_in_an_era_of_constant_change"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "59a4ba92052917a2552bf6ed",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "59a4ba92052917a2552bf6ec",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59a4ba92052917a2552bf6ed",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59953a17052917a2552bf559"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.ccl.org/multimedia/podcast/leading-in-times-of-transition-2/",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "59a4bab0052917a2552bf6f1",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "59a4bab0052917a2552bf6f0",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59a4bab0052917a2552bf6f1",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "599654bf052917a2552bf5ce"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.cmcconsulting.org/articles/Change%20and%20transition-%20What%20is%20the%20difference.pdf",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "59c9a6dcaeab875c6c490ef7",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "598022a13a2dea2f1cf9e628",
+    "_parentId": "59c9a6dcaeab875c6c490ef6",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59c9a6dcaeab875c6c490ef7",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59c99078aeab875c6c490ed3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_type": "resources",
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "59c9a702aeab875c6c490efa"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  }
+]

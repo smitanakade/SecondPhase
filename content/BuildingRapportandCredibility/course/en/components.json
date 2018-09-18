@@ -1,0 +1,968 @@
+[
+  {
+    "_id": "58ddbc38a72b52de374f14d7",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58ddbc38a72b52de374f14d6",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "589a6e4a1dd3934329759c13",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "58ddbc38a72b52de374f14d7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "58c8bb27ed2155973abb818d",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58c8bb27ed2155973abb818c",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">When we meet a person for the first time, the two main factors that determine how we feel about them are:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tthe rapport we have with them, and </p><p style=\"text-align: center;\">•\twhether we think they have credibility.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This information helps us decide: </p><p style=\"text-align: center;\">•\tDo I like him?</p><p style=\"text-align: center;\">•\tDo I trust her?</p><p style=\"text-align: center;\">•\tDo I believe what this person says? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">With rapport and credibility, we can influence a customer’s decision-making process. Read on to learn the techniques to build these skills quickly and easily.</p>",
+    "_isQuestionType": false,
+    "_refId": "58c8bb27ed2155973abb818d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "58c8cd08ed2155973abb81c6",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58c8cd01ed2155973abb81c5",
+    "_layout": "full",
+    "_component": "flipCard",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "58c8cd28ed2155973abb81c8",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "58c8cd44ed2155973abb81ca",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_id": "58c8cd11ed2155973abb81c7",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "58c8cd28ed2155973abb81c8"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "58c8cd44ed2155973abb81ca"
+    },
+    "_refId": "58c8cd08ed2155973abb81c6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "58cb1aeced2155973abb81f0",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58cb17d8ed2155973abb81e3",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb1ce1ed2155973abb81f6"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb1cfced2155973abb81f8"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58cb1aeced2155973abb81f0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "58c8cddded2155973abb81cf",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58c8cdd9ed2155973abb81ce",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "58c8cdfeed2155973abb81d1",
+        "title": "BE APPROACHABLE<br>",
+        "body": "<p style=\"text-align: center;\">Being approachable is an important ingredient in relationship building. &nbsp;Engaging the customer with a smile and saying hello is a simple way to be friendly and show warmth.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_id": "58c8cdf8ed2155973abb81d0",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Mutual respect is a key element of rapport.&nbsp;</p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span>The fastest way to gain a customer’s respect is to show them respect. To do this, drop what you’re doing to show that they are your first priority and focus your attention entirely on them.</span></p>",
+        "title": "DEMONSTRATE RESPECT<br>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_id": "58c8ce00ed2155973abb81d2",
+        "itemIndex": 2,
+        "title": "FIND SOMETHING IN COMMON",
+        "body": "<p style=\"text-align: center;\">We usually like people who are similar to us, and finding something in common means we’re more inclined to like them. When chatting with a customer, you may find a connection over a shared love of a particular fashion designer, brand, or pair of shoes. This connection contributes to rapport.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The connection can also happen as a result of sharing a similar communication style. For example, if the customer has a chatty style, matching this style will create a connection.</p>"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Let’s look at the three steps to rapport:&nbsp;</p>",
+    "_refId": "58c8cddded2155973abb81cf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "58cb1389ed2155973abb81da",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58cb1389ed2155973abb81d9",
+    "_layout": "full",
+    "_component": "flipCard",
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "58cb17a1ed2155973abb81df"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "58cb17b0ed2155973abb81e1"
+    },
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "58c8cd28ed2155973abb81c8",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "58c8cd44ed2155973abb81ca",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "itemIndex": 0,
+        "_id": "58c8cd11ed2155973abb81c7"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "_refId": "58cb1389ed2155973abb81da",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "58cb1b00ed2155973abb81f1",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58cb1819ed2155973abb81ed",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb1b47ed2155973abb81f2"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb1b5fed2155973abb81f4"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58cb1b00ed2155973abb81f1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "58cb1819ed2155973abb81ef",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58cb1819ed2155973abb81ec",
+    "_layout": "full",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Let’s look at the three steps to credibility:</p>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "title": "ASK QUESTIONS<br>",
+        "body": "<p style=\"text-align: center;\">Demonstrate credibility by asking the right questions and not basing your advice on assumptions. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If someone told you they were looking for an ‘expensive’ dress for an event, what would you think they would be willing to spend? $100? 1000? or $10,000? Assuming it meant $100 might undermine your credibility. Try asking: \"Can you give me an idea of what you’re willing to spend? Do you have any brands in mind?\"</p>",
+        "itemIndex": 0,
+        "_id": "58c8cdf8ed2155973abb81d0"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Give the customer your undivided attention, and nod to show you’re listening. A quick recap of the customer’s objectives, will give you the opportunity to clarify some points, and will also demonstrate to the customer that you’ve really understood them.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">So, once you’ve identified what the customer is looking for, including: \"So you’re looking to spend in the region of $1000?\"&nbsp;when you summarise will keep you on track</p>",
+        "title": "LISTEN TO UNDERSTAND",
+        "itemIndex": 1,
+        "_id": "58c8ce00ed2155973abb81d2"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p class=\"\" style=\"text-align: center;\">And finally, this is where you get to really show how well you know your stuff! You can demonstrate knowledge of:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">• Brands – “Layering is a key look for Piper. All items within a collection and between collections are designed to work together, so you can easily put together a versatile wardrobe.”</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">• How brands compare – “While Piper is has a great range of items for the relaxed workplace, Basque’s work wear items are more structured and suit a more formal workplace.”</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">• Features of a product’s silhouette or fabrication – “Basque’s tailored skirts, dresses and jackets are fully lined in the highest quality poly-satin stretch fabric. This ensures every garment is comfortable and looks great.”</p>",
+        "title": "DEMONSTRATE KNOWLEDGE",
+        "_id": "58c8cdfeed2155973abb81d1",
+        "itemIndex": 2
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "58cb1819ed2155973abb81ef",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "58c8bb27ed2155973abb81ae",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58c8bb27ed2155973abb81ad",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb2584ed2155973abb8204"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb2597ed2155973abb8206"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "58c8bb27ed2155973abb81ae",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "58c8bb27ed2155973abb81ba",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58c8bb27ed2155973abb81b9",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb22bced2155973abb81ff"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb22cbed2155973abb8201"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "58c8bb27ed2155973abb81ba",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "58ddbda3a72b52de374f14dd",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58ddbda3a72b52de374f14dc",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "58c8a1b1ed2155973abb816b",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "58ddbda3a72b52de374f14dd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "58ddbdb6a72b52de374f14df",
+    "_courseId": "58c8bb26ed2155973abb8183",
+    "_parentId": "58ddbdb6a72b52de374f14de",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "58ddbdb6a72b52de374f14df",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  }
+]

@@ -1,0 +1,1215 @@
+[
+  {
+    "_id": "5a24c3ced72b3d3516799402",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3ced72b3d3516799401",
+    "__v": 0,
+    "_refId": "59e56860960db223cd2d246c",
+    "body": "<p style=\"text-align: center;\">Welcome to a series of Shrinkage Learning Moments, designed to highlight the importance of shrinkage at Myer.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This Learning Moment outlines the different types of incidents and how to report them as required.</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a24c3ced72b3d3516799400",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993ff",
+    "__v": 0,
+    "_refId": "59bf3a0fc7eab8472b8cb6f9",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf3a14c7eab8472b8cb6fa",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993de",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993dd",
+    "__v": 0,
+    "_refId": "59e6abbb960db223cd2d2684",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a3051fe5824cd48e7a60417"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993e0",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993df",
+    "__v": 0,
+    "_refId": "5a206d78314de23e85a9d7fb",
+    "body": "<div style=\"text-align: center;\">Not only does this reporting allow store management to understand areas of risk within the store, but the information is used centrally to allocate resources to assist stores.&nbsp;<br></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let's find out more.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "NOT ONLY",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993ef",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993ee",
+    "__v": 0,
+    "_refId": "5a2078ad314de23e85a9d868",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a2efa343cc5a458a173bd65"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993e3",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993e2",
+    "__v": 0,
+    "_refId": "5a1f46fc5a3fb67debaf10c8",
+    "displayTitle": "Known theft",
+    "body": "<p style=\"text-align: center;\">Known theft occurs when a team member has witnessed an incident of theft or fraud, and can verify the incident has occurred. The team member must report this to a people leader. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Known theft can only be reported via POS by a people leader. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Take a look at examples of known theft and fraud, and the evidence required to support a known theft.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Known theft",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a2f02a83cc5a458a173bdb0",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a2f02a23cc5a458a173bdae",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">• Offenders leaving the store with merchandise that hasn’t been paid for</p><p style=\"text-align: center;\">• Secured merchandise such as laptops or cameras taken from displays</p><p style=\"text-align: center;\">• Display fixtures have been compromised, such as locks or glass has been broken, and merchandise is missing.<br></p>",
+        "itemIndex": 0,
+        "_id": "5a2f02e23cc5a458a173bdb5",
+        "title": "KNOWN THEFT"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<div style=\"text-align: center;\"><p>•\tAn EFTPOS pin pad is compromised by a manual credit card entry</p><p>•\tYou witness a customer swapping price tags.</p></div>",
+        "_id": "5a2f02e33cc5a458a173bdb7",
+        "itemIndex": 1,
+        "title": "KNOWN FRAUD"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Evidence must be available to support a known theft report and must include:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">• A description of the offender</p><p style=\"text-align: center;\">• The identified merchandise</p><p style=\"text-align: center;\">• CCTV footage of the offence.</p>",
+        "itemIndex": 2,
+        "_id": "5a2f02e43cc5a458a173bdb9",
+        "title": "SUPPORTING EVIDENCE"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a2f02a83cc5a458a173bdb0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993e5",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993e4",
+    "__v": 0,
+    "_refId": "5a1f47105a3fb67debaf10ca",
+    "displayTitle": "Suspected theft",
+    "body": "<div style=\"text-align: center;\"><p>Suspected theft is the assumed loss of merchandise, where no suspect can be identified.&nbsp;</p></div>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Suspected theft",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "5a2f00f53cc5a458a173bd89",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a25f8ffd72b3d35167994c7",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a2efa343cc5a458a173bd66"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a2f00f53cc5a458a173bd89",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-4-0"
+  },
+  {
+    "_id": "5a2f00163cc5a458a173bd70",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a2eff9c3cc5a458a173bd6b",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a2f00163cc5a458a173bd70",
+    "body": "<p>Ways to identify suspected theft include:</p><p><br></p><p>•\tDiscarded swing tags and tickets</p><p>•\tEmpty packaging or boxes</p><p>•\tEmpty hangers</p><p>•\tDefeated or broken EAS tags found in change rooms, on the shop floor amongst other merchandise or in toilets and parents' rooms.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-5-0"
+  },
+  {
+    "_id": "5a24c3ced72b3d3516799414",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3ced72b3d3516799413",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Remember to always offer customer service as a first response to suspicious behaviour. However, if the behaviour continues, follow the Operator 22 procedure. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let's now take a look at the types of theft and how to report them. All theft reporting processes are available for referral in the POS user guide. Speak to your people leader for guidance about the process.</p>",
+    "displayTitle": "WHAT AND HOW",
+    "_refId": "5a04fff1d9f1d573fdb21d54",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "WHAT AND HOW",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a25fc83d72b3d35167994f2",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a25fc7dd72b3d35167994f0",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">As a team member, if you see a customer stealing and you can verify that the incident has occurred, you must let your people leader know. Only people leaders are authorised to access the known theft reporting function via POS.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">All known theft and fraud must be reported to the police, so ensure that you pass the following critical information to your people leader:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tThe person's physical appearance</p><p style=\"text-align: center;\">•\tWhat they have stolen</p><p style=\"text-align: center;\">•\tThe time and location of the theft.</p>",
+        "title": "IF YOU SEE A CUSTOMER STEALING&nbsp;",
+        "itemIndex": 0,
+        "_id": "5a25fc8fd72b3d35167994f5"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "IF YOU FIND EVIDENCE OF SUSPECTED THEFT",
+        "_id": "5a25fc91d72b3d35167994fa",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">As a team member, if you find discarded swing tags, tickets, empty packaging or boxes, defeated or broken EAS tag and there is no suspect that can be identified, you must report the suspected theft via POS reporting as soon as possible.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This ensures incidents are not forgotten about or recorded in error. Make sure you record the correct date and time of the suspected incident.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">As a people leader it is your role to educate team members in the department’s shrinkage management tactics and to assess the team's understanding of known and suspected theft procedures. Communicate to them:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tWhat your high risk brands and areas are</p><p style=\"text-align: center;\">•\tWhat merchandise protection is used in your area</p><p style=\"text-align: center;\">•\tHow you manage and monitor your change rooms</p><p style=\"text-align: center;\">•\tHow to report effectively via POS.</p>",
+        "_id": "5a25fc91d72b3d35167994f9",
+        "itemIndex": 2,
+        "title": "YOUR ROLE AS A PEOPLE LEADER"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a25fc83d72b3d35167994f2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993f3",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993f2",
+    "__v": 0,
+    "_refId": "5a1f65255a3fb67debaf1218",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The most effective way to prevent theft is to provide excellent customer service. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">All reasonable steps to verify the merchandise is actually missing must be taken prior to reporting the theft.&nbsp;</p>",
+    "displayTitle": "LET’S RECAP SOME KEY POINTS<br>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993f7",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993f6",
+    "__v": 0,
+    "_refId": "5a20b0af314de23e85a9da18",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a3053de5824cd48e7a60418"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993f5",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993f4",
+    "__v": 0,
+    "_refId": "5a20afe9314de23e85a9da11",
+    "body": "<p style=\"text-align: center;\">Known and suspected theft and fraud must be reported promptly to your people leader, who in turn must record it via POS immediately.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Never attempt to apprehend an offender. Take note of their appearance, the merchandise stolen or the fraud attempted, and report this to your people leader.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If you are unsure how to report an incident via POS, refer to the POS user guide or ask your people leader.&nbsp;</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-3-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993fa",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993f9",
+    "__v": 0,
+    "_refId": "59bf2a9fc7eab8472b8cb6dd",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf2aa5c7eab8472b8cb6de",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a24c3cdd72b3d35167993fd",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a24c3cdd72b3d35167993d8",
+    "_parentId": "5a24c3cdd72b3d35167993fc",
+    "__v": 0,
+    "_refId": "59bf2b05c7eab8472b8cb6e1",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "large": {
+        "_id": "599b80eaebca4a4008795070",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  }
+]

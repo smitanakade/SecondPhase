@@ -1,0 +1,1412 @@
+[
+  {
+    "_id": "598a9160ebca4a4008794eb2",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "598a914debca4a4008794eb1",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemIndex": 0,
+        "_id": "598a9163ebca4a4008794eb3",
+        "itemTitle": "BACK"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598a9160ebca4a4008794eb2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5989053eebca4a4008794e28",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "5989033aebca4a4008794e27",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59891371ebca4a4008794e39"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "59891401ebca4a4008794e3a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "frontText": "",
+        "_id": "5989062cebca4a4008794e29",
+        "itemIndex": 0,
+        "backText": "On September 1, the existing Myer credit cards issued by Latitude Finance Australia stopped earning MYER one Bonus Shopping Credits on spend outside of Myer. We are extending our offer by allowing customers to earn Bonus Shopping Credits on eligible purchases in Myer until 31 October 2017."
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "59cca5a72ebabce63c060b4a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_id": "59891401ebca4a4008794e3a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_id": "59898d68ebca4a4008794e93",
+        "itemIndex": 1,
+        "backText": "Available from October 9, the new Myer Credit Card will be the only way customers can earn uncapped MYER one Shopping Credits (in Myer and everywhere outside of Myer).<br><br>Customers can ONLY apply for the new credit card online at myer.com.au/creditcard&nbsp;<br>",
+        "frontText": ""
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "59c3183c00bb5f86765753a6",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_id": "59891401ebca4a4008794e3a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "_id": "59b5bca71bce943e66883447",
+        "itemIndex": 2,
+        "backText": "The Latitude Myer Black and Myer Visa Credit Card&nbsp;<span style=\"font-size: 16px;\">will be honoured in-store until 28 February 2018.</span><br><br>Remember - Customers must apply for the new Myer Credit Card to continue to earn Bonus MYER one Shopping Credits."
+      }
+    ],
+    "_flipCardsContainerAlignment": "center",
+    "_flipCardsContainerMaxWidth": "512px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5989053eebca4a4008794e28",
+    "displayTitle": "",
+    "body": "",
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "579ae658772e3ba92d8932de"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card 1",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "59890e25ebca4a4008794e37",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "59890d7cebca4a4008794e36",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Pay with your Myer Credit Card, and scan or enter your MYER one number at Myer or Myer affiliates, to earn uncapped Shopping Credits:</p><p><br></p><ul><li>3 MYER one Shopping Credits for every $1 spent on eligible purchases at Myer.<br></li><li>Up to 3 MYER one Shopping Credits for every $1 spent on eligible purchases at Myer affiliates<br></li><li>And 1 MYER one Shopping Credit for every $1 spent on eligible purchases everywhere else.<br></li></ul>",
+        "itemIndex": 0,
+        "_id": "59891711ebca4a4008794e4b",
+        "title": "UNCAPPED SHOPPING CREDITS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "TWO CARDS IN ONE",
+        "_id": "59891ab7ebca4a4008794e64",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">The new Myer Credit Card also doubles as a MYER one card, so earning rewards is even easier. Your MYER one membership details will appear on the back of your new Myer Credit Card. The MYER one number on the back of the card must be entered or scanned to earn  MYER one shopping credits.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "NO ANNUAL FEES FOR THE FIRST YEAR",
+        "_id": "59891aceebca4a4008794e65",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\">As a special offer, the new Myer Credit Card has no annual fee for the first year, and it’s $69 ongoing. Apply and be approved by 31 December 2017.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "59c1fb054ab19df5365f2e50",
+        "itemIndex": 5,
+        "title": "0% BALANCE TRANSFER",
+        "body": "<p style=\"text-align: center;\">Apply and be approved for the new Myer Credit Card by 31 December 2017 and take advantage of the 0% Balance Transfer for 14 months.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "PAY WITH ANDROID PAY AND APPLE PAY",
+        "itemIndex": 4,
+        "_id": "59b5c14d1bce943e6688344a",
+        "body": "<p style=\"text-align: center;\">The new Myer Credit Card is ready to go mobile with Android Pay and Apple Pay.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Cardholders can easily manage their account online or on their phone with budget trackers, mobile payments, transaction categorisation and real time spend notifications to their phone.</p>",
+        "_id": "59b5c0ad1bce943e66883449",
+        "itemIndex": 3,
+        "title": "EASY TO MANAGE ONLINE SERVICES"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59890e25ebca4a4008794e37",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "598aaad9ebca4a4008794ec9",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "598aaad4ebca4a4008794ec8",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "598aab99ebca4a4008794eca",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "598aac86ebca4a4008794ecc"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598aaad9ebca4a4008794ec9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "59891b87ebca4a4008794e68",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "59891b50ebca4a4008794e67",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59c31e5000bb5f86765753a7"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59891401ebca4a4008794e3a"
+        },
+        "itemIndex": 2,
+        "_id": "59b78f5b04ca08ee3b3a9e62",
+        "backText": "Existing Myer Visa or Myer Black cardholders should receive an invitation to apply for the new Myer Credit Card by 31 October 2017. Any cardholders that haven't received the invitation by 31 October can apply at myer.com.au/creditcard"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "598a7a3febca4a4008794ea8"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "59891401ebca4a4008794e3a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "itemIndex": 0,
+        "_id": "59891cafebca4a4008794e6b",
+        "frontText": "",
+        "backText": "<span style=\"font-size: 16px;\">Customers can apply online from October 9 at myer.com.au/creditcard</span>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "598a7a77ebca4a4008794ea9"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "59891401ebca4a4008794e3a",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "frontText": "",
+        "_id": "59898ec1ebca4a4008794e94",
+        "itemIndex": 1,
+        "backText": "If you would like to apply for the new credit card, simply access WSS and navigate to the new Myer Credit Card application form."
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59891b87ebca4a4008794e68",
+    "displayTitle": "",
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "579ae658772e3ba92d8932de"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "579ae658772e3ba92d8932de"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Application process",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59892072ebca4a4008794e77",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "5989202bebca4a4008794e76",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "EXISTING MYER CREDIT CARD HOLDERS",
+        "_id": "598927dcebca4a4008794e78",
+        "itemIndex": 0,
+        "body": "<p>Holders of the current Myer Visa credit card or Myer Black Card can contact Latitude Finance Australia directly on 1300 783 520.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p><span style=\"font-size: 16px;\">Customers with questions about MYER one Shopping Credits can see the online answers page at myerone.com.au/FAQ</span></p>",
+        "itemIndex": 1,
+        "_id": "598927f8ebca4a4008794e79",
+        "title": "MYER ONE PROGRAM MEMBERS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "NEW MYER CREDIT CARD ENQUIRIES",
+        "_id": "5989280bebca4a4008794e7a",
+        "itemIndex": 2,
+        "body": "<p>Customers with detailed questions&nbsp;about the new credit card can see the online answers page at myer.com.au/creditcard</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59892072ebca4a4008794e77",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Support Team Information",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59b5c5011bce943e6688344c",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "59b5c4e81bce943e6688344b",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Not quite</b></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">To earn a total of 3 MYER one Shopping Credits at Myer, a customer must pay with their Myer Credit Card and then scan the Myer ONE barcode on the back of their credit card.</span></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>Spot On!&nbsp;</b></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">To earn a total of 3 MYER one Shopping Credits at Myer, a customer must&nbsp;</span><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">pay with their Myer Credit Card and then scan the Myer ONE barcode on the back of their credit card.</span></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "59b5c5e51bce943e6688344d",
+        "text": "PAY WITH THEIR MYER CREDIT CARD AND SCAN THE MYER ONE BARCODE ON THE BACK OF THE CREDIT CARD"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "59b5c60e1bce943e6688344e",
+        "text": "PAY WITH THEIR MYER CREDIT CARD"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "SCAN THE MYER ONE BARCODE ON THE BACK OF THEIR CREDIT CARD",
+        "_id": "59b5c6261bce943e6688344f",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "59b5c5011bce943e6688344c",
+    "body": "<p>To earn a total of 3 MYER one Shopping Credits at Myer, a customer must...</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ_01",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5989289cebca4a4008794e7d",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "59892882ebca4a4008794e7c",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Not quite</b></p><p><br></p><p>The new Myer Credit Card will launch on 9 October, and approved customers can begin enjoying the benefits from that date on.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>Spot on!</b></p><p><b><br></b></p><p>The new Myer Credit Card will launch on 9 October, and approved customers can begin enjoying the benefits from that date on!</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "59892972ebca4a4008794e7e",
+        "text": "SEPTEMBER 18"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5989297eebca4a4008794e7f",
+        "text": "SEPTEMBER 22"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "SEPTEMBER 30",
+        "_id": "59892983ebca4a4008794e80",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "OCTOBER 9",
+        "_id": "59892992ebca4a4008794e81",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5989289cebca4a4008794e7d",
+    "body": "<p style=\"text-align: center;\">From what date can approved customers start enjoying the benefits of the new Myer Credit Card?</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "MCQ_02",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "59892ab8ebca4a4008794e83",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "59892a9debca4a4008794e82",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Not quite</b></p><p><br></p><p>The new Myer Credit Card offers great benefits including uncapped MYER one Shopping Credits, the convenience of two cards in one, Android Pay and Apple Pay and easy-to-manage online services.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p><b>So close!</b></p><p><br></p><p>The new Myer Credit Card offers great benefits including uncapped MYER one Shopping Credits, the convenience of two cards in one, Android Pay and Apple Pay and easy-to-manage online services.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>Spot on!</b></p><p><br></p><p>The new Myer Credit Card offers great benefits including uncapped MYER one Shopping Credits, the convenience of two cards in one, Android Pay and Apple Pay and easy-to-manage online services.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "59892adcebca4a4008794e84",
+        "text": "EARN UNCAPPED MYER ONE SHOPPING CREDITS"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "PAY WITH ANDROID PAY AND APPLE PAY",
+        "_id": "59892aeaebca4a4008794e85",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "59892af5ebca4a4008794e86",
+        "text": "3-YEAR EXTENDED WARRANTY ON ALL PURCHASES MADE WITH THE NEW MYER CREDIT CARD"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "59892b03ebca4a4008794e87",
+        "text": "THE CONVENIENCE OF A DUAL-FUNCTIONALITY CREDIT CARD/MYER ONE CARD<br>"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "59892ab8ebca4a4008794e83",
+    "body": "<p style=\"text-align: center;\">Why should a customer apply for the new Myer Credit Card? Select which <b>three</b> statements are correct.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "MCQ_03",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "59892ffaebca4a4008794e8a",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "59892e79ebca4a4008794e89",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://myer.southrock.com/shared/Learning_Moments/MyerCreditCard/Resources/TeamMemberGuide.pdf",
+        "itemTitle": "TEAM MEMBER GUIDE",
+        "_id": "5989302febca4a4008794e8b",
+        "itemIndex": 0,
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://myer.southrock.com/shared/Learning_Moments/MyerCreditCard/Resources/TeamMemberFAQs.pdf",
+        "itemTitle": "TEAM MEMBER FAQS",
+        "_id": "598930bcebca4a4008794e8c",
+        "itemIndex": 1
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 2,
+        "_id": "59c1fee34ab19df5365f2e53",
+        "itemTitle": "NEW CREDIT CARD WEBSITE",
+        "link": "https://www.myer.com.au/p/creditcard/"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.myerone.com.au/FAQ",
+        "_id": "598bb2b2ebca4a4008794ece",
+        "itemIndex": 3,
+        "itemTitle": "MYER ONE FAQS"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59892ffaebca4a4008794e8a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Credit card links",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "598a9446ebca4a4008794eb5",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "598a9441ebca4a4008794eb4",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "598a9449ebca4a4008794eb6",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598a9446ebca4a4008794eb5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "598a8389ebca4a4008794eae",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "598a837eebca4a4008794ead",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "598aab99ebca4a4008794eca"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "598aac86ebca4a4008794ecc"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598a8389ebca4a4008794eae",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "598a973aebca4a4008794eba",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5987f5b5ebca4a4008794e13",
+    "_parentId": "598a947febca4a4008794eb7",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598a973aebca4a4008794eba",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  }
+]

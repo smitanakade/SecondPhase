@@ -1,0 +1,2414 @@
+[
+  {
+    "_id": "59e56c1d960db223cd2d248b",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59e56c1d960db223cd2d248a",
+    "__v": 0,
+    "displayTitle": "",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59db473d960db223cd2d16e5",
+        "itemTitle": "BACK",
+        "link": "../index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59e56c1d960db223cd2d248b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59f27d18960db223cd2d2d52",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f27d11960db223cd2d2d50",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59f27d18960db223cd2d2d52",
+    "body": "<p style=\"text-align: center;\">The gift giving season is an opportunity for you to create wonderful shopping experiences. Let your product knowledge shine and take pleasure in helping customers find the perfect gift.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">To give you a head-start, this Learning Moment provides you with tips on how to start gift-giving conversations, and showcases this season’s hottest gifts in five categories: Gifts for Everyone, Gifts for Him, Gifts for Her, Gifts for Kids, and Myer Exclusive Pop-Up gifts.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "THE GIFT GIVING SEASON",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "59e56d5e960db223cd2d24a1",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59e56d5e960db223cd2d24a0",
+    "__v": 0,
+    "displayTitle": "Wonderful conversations!&nbsp;",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59e56d5e960db223cd2d24a1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59f282e7960db223cd2d2d5a",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f264d3960db223cd2d2d4e",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "59f2831b960db223cd2d2d69",
+        "body": "<p style=\"text-align: center;\">What are your go-to conversation starters with customers? Here are a few suggestions if you’re stuck for ideas:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&nbsp;“Do you have all your gifts sorted?”</p><p style=\"text-align: center;\">&nbsp;“Who are you shopping for today?”</p><p style=\"text-align: center;\">&nbsp;“How many more gifts do you have to go?\"</p><p style=\"text-align: center;\">&nbsp;“Are you shopping with someone in mind?”</p>",
+        "title": "CONVERSATION STARTERS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "LOOK FOR CLUES",
+        "_id": "59f2831b960db223cd2d2d6b",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Ask open questions and listen for clues for the perfect gift idea. Clues can include the customer’s budget, the gift recipient’s interests, and their relationship to your customer.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "FLOAT YOUR IDEA",
+        "itemIndex": 2,
+        "_id": "59f2831c960db223cd2d2d6d",
+        "body": "<p style=\"text-align: center;\">When suggesting a gift idea, share your product knowledge and highlight your personal experience with it to show expertise and authenticity in your suggestion.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59f282e7960db223cd2d2d5a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a04d480d9f1d573fdb21cf8",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a04d480d9f1d573fdb21cf7",
+    "__v": 0,
+    "displayTitle": "Personalised gifts for EVERYONE!",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a04d480d9f1d573fdb21cf8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "A gift that makes a difference",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a04d4ead9f1d573fdb21d08",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a04d4ead9f1d573fdb21d05",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a04d5e4d9f1d573fdb21d18"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a025befd9f1d573fdb219d2"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a04d4ead9f1d573fdb21d08",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a04d4ead9f1d573fdb21d07",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a04d4ead9f1d573fdb21d06",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Irresistibly delicious and now personalised, Arnott’s Tim Tam offer is exclusive to Myer this Christmas.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Presented in a personalised box, the Arnott's Tim Tam Giftorium Gift Box is made for sharing.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">What more could they want this Christmas?</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a04d4ead9f1d573fdb21d07",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "THE GIFT OF CHOICE",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "59f28ab4960db223cd2d2d8b",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f2869f960db223cd2d2d88",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59f28ab4960db223cd2d2d8b",
+    "displayTitle": "THE ULTIMATE",
+    "body": "<p style=\"text-align: center;\">GIFT GUIDE</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "60"
+    },
+    "title": "THE ULTIMATE GIFT GUIDE",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59f28e5f960db223cd2d2dee",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f28e5f960db223cd2d2ded",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59fbc75fa49ac54aca749b2a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "SMALL APPLIANCE",
+        "body": "<p style=\"text-align: center;\">To keep the man in your life well-groomed choose from a range of shavers and beard trimmers this Christmas:<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tPhilips S5050 Aqua Touch Comfort Cut Shaver</p><p style=\"text-align: center;\">•\tPhilips BT7201 Vacuum Beard Trimmer</p><p style=\"text-align: center;\">•\tPhilips BT5205 Beard &amp; Stubble Trimmers.</p>",
+        "itemIndex": 0,
+        "_id": "59f28bef960db223cd2d2dad"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59fbd304a49ac54aca749b62"
+          }
+        },
+        "title": "MENSWEAR",
+        "body": "<p style=\"text-align: center;\">If it's socks and underwear you're looking for this Christmas, we've got it covered with the following gift ideas:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tMitch Dowd Pick &amp; Mix sock and underwear offer</p><p style=\"text-align: center;\">•\tHappy Socks in 3 or 4 pack gift packs at great prices</p><p style=\"text-align: center;\">•\tStar Wars socks and underwear gift ideas for the true fan!</p>",
+        "_id": "59f28bf0960db223cd2d2daf",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59fbd565a49ac54aca749b64",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">For the technology buffs in your life, these latest headphones and speakers make the perfect gift:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tBose QuietComfort 35 wireless headphones II - even better with built-in Google Assistant</p><p style=\"text-align: center;\">•\tStar Wars galaxy with the latest droids powered by Sphero from the new R2-D2 and classic BB-8 to the unknown BB-9E<br></p><p style=\"text-align: center;\">•\tUltimate Ears vibrant portable audio speakers can be used inside, outside or underwater.</p><p style=\"text-align: center;\"><br></p>",
+        "itemIndex": 2,
+        "_id": "59f28bf0960db223cd2d2db1",
+        "title": "TECHNOLOGY"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59fbd6d3a49ac54aca749b66"
+          }
+        },
+        "title": "COSMETICS",
+        "body": "<p style=\"text-align: center;\">Giftoriums top men’s fragrance will be Giorgio Armani ‘Acqua di Gio` and ‘Code Profumo’. 2800 sets $375k. As well as CK, Paco Rabanne and Ralph Lauren Polo Red gift sets. Priced from $59 to $155.<br></p>",
+        "_id": "59f28bf7960db223cd2d2db3",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f28e5f960db223cd2d2dee",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "gifts for him",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59f28ffa960db223cd2d2e00",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f28ffa960db223cd2d2dff",
+    "__v": 0,
+    "body": "",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59fbdae1a49ac54aca749b69"
+          }
+        },
+        "_id": "59f28bef960db223cd2d2dad",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">Looking for gifts to keep those locks perfect? You can't go past our great range hair care appliances:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tDyson Supersonic Dryer in Fuchsia, White or Purple, featuring intelligent heat control to guard against extreme heat damage, protecting natural shine</p><p style=\"text-align: center;\">•\tHairstyla HSS200 Ceramic Straightening Brush for smooth, easy and fast styling and straightens with a simple brushing motion</p><p style=\"text-align: center;\">•&nbsp;VS Sassoon VSP5544A Salon Professional Dryer, with long life AC motor, is compact and light with inbuilt concentrator for controlled styling.</p>",
+        "title": "SMALL APPLIANCE"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59fbdd73a49ac54aca749b6b",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "59f28bf0960db223cd2d2daf",
+        "body": "<p style=\"text-align: center;\">Giftorium top women’s fragrance will be Giorgio Armani Si’, Marc Jacobs, Viktor &amp; Rolf, CK, Juicy Couture and Britney Spears gift sets.&nbsp;<br></p>",
+        "title": "COSMETICS"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59fbe087a49ac54aca749b6d"
+          }
+        },
+        "title": "TECHNOLOGY",
+        "_id": "59f28bf0960db223cd2d2db1",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\">The perfect range of gifts to keep your loved ones on track for their New Year's resolutions:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tThe Gaiam Relax range includes a hand-held massager and quick start kits for those looking to give Pilates and Barre accessories</p><p style=\"text-align: center;\">•\tTo keep track of those fitness goals you can't go past the new smart watch, Fitbit Ionic.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f28ffa960db223cd2d2e00",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "59f296b2960db223cd2d2e0b",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f296b2960db223cd2d2e0a",
+    "__v": 0,
+    "body": "",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a04cef2d9f1d573fdb21ccb",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "59f28bef960db223cd2d2dad",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">Crayola Twirl ‘n’ Swirl Turtle helps to create amazing drawings to colour in and keep! Use up to 5 pens at once to create fantastic multi-coloured designs! </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You can decorate the drawing with Twirl ‘n’ Whirl Turtles stamper and stencil shell that comes with 3 pens included.  For ages 3 years up.</p>",
+        "title": "CRAFT"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59fbe8a3a49ac54aca749b6f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "59f28bf0960db223cd2d2daf",
+        "body": "<p style=\"text-align: center;\">&nbsp;For those who know lots of Australian colloquialisms, witticisms, and slang—or if they want to learn them—Aussie Scrabble is the game for them!&nbsp;For 2 to 4 players. Ages 10 and older.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Perfection demands that all pieces are put into matching holes on the board before the time limit runs out. In the most common version, there are 25 pieces to be placed within 60 seconds.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Rock 'Em Sock 'Em Robots have been delivering hard-hitting fun for over 40 years! The game has one key aim - be the first to knock your opponent’s block off!</p>",
+        "title": "BOARD GAMES"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a04cfb5d9f1d573fdb21cd7",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "NERF",
+        "_id": "59f28bf0960db223cd2d2db1",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\">With the Nerf Modulus Regulator C1295, kids can build their blaster for any mission!<br></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a04d018d9f1d573fdb21cdc",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "STOCKING FILLERS",
+        "body": "<p style=\"text-align: center;\">&nbsp;Check out the huge range of quirky home wares, stationery and gadgets to surprise and delight your recipient, no matter what the gift-giving budget is. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">On the ‘hot’ list is the range of Little Miss &amp; Mr Men mugs, classic pick-up sticks and dominos from IS Gift, as well as the always hilarious No button.</p>",
+        "_id": "59f28bf7960db223cd2d2db5",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f296b2960db223cd2d2e0b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "59f296c8960db223cd2d2e0f",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f296c8960db223cd2d2e0e",
+    "__v": 0,
+    "body": "",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59fbf139a49ac54aca749b7d"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "59f28bf7960db223cd2d2db3",
+        "body": "<p style=\"text-align: center;\">Elevate summer living with inflatable pool floats, beach games, portable radios and entertaining essentials from Sunnylife. Their floats come in adult and baby sizes and a range of styles, including cherry, daisy, lemon and unicorn themes as well as flamingo.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Pool party, anyone?</p>",
+        "title": "SUNNYLIFE"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a04d266d9f1d573fdb21cf4"
+          }
+        },
+        "_id": "59f28bef960db223cd2d2dad",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">Mr &amp; Mrs Jones stocks the best range of gifts, stationery, accessories, cards, decorations, lighting and more. Brands include Meri Meri, Sunnylife, Ban.do, Sonny Angel, Rex and Great Majestic and more.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Gifts for the young and young-at-heart, our favourites include the range of unicorn party accessories by Meri Meri, classic kids toys like the juggling balls and skipping rope, flamingo pen, star map projector dome and ‘I am very busy’ thermal Mug.</p>",
+        "title": "MR &amp; MRS JONES"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59fbf3cca49ac54aca749b82",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "59f28bf0960db223cd2d2daf",
+        "body": "<p style=\"text-align: center;\">Short Story’s vision is to bring back the intimacy and personal touch that was once associated to card writing and paper alike. To breathe life into inanimate objects and allow people to discover the stories in each product. To encourage storytelling and most importantly to generate great conversations.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Key products include the fragrant Triple Scented Soy Candle, luscious Bath Blends, and inspiring Hop in a Box and Super Hero Pills. Quirky doughnut socks have also been added to the ever popular and fun sushi-socks range.<br></p><p style=\"text-align: center;\"><br></p>",
+        "title": "SHORT STORY"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a04d152d9f1d573fdb21ce8",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "PEPPERMINT GROVE",
+        "_id": "59f28bf0960db223cd2d2db1",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\">Peppermint Grove is back in Myer this year with their complimentary engraving service, available throughout the Christmas period in Myer Melbourne, Myer Sydney, and Myer Chadstone &amp; Myer Bondi.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a04d22cd9f1d573fdb21cee",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "THE TIE LAB",
+        "body": "<p style=\"text-align: center;\">The Tie Lab offers a new concept to gift giving by elevating the product with a unique customisation through a wide range of options for the customer to mix and match, available at selected stores.</p><p style=\"text-align: center;\"><br></p><p> </p><p style=\"text-align: center;\">The accessories range will offer a larger selection including lifestyle, travel, and neckwear products in selected stores.</p>",
+        "_id": "59f28bf7960db223cd2d2db5",
+        "itemIndex": 4
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a04d239d9f1d573fdb21cf1",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Party your way through the holidays with the latest from Ultimate Ears. Exclusively at Myer, Ultimate Ears’ Beach Party pop-up will have you feeling the summer vibes.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Showcasing the latest waterproof, portable audio speakers, perfect for any party - whether it’s inside, outside or underwater. Available in Melbourne City, Sydney City, Adelaide City, Brisbane City, Perth City, Chadstone and Maroochydore.</p>",
+        "itemIndex": 5,
+        "_id": "59f916709076b703bd98ccfe",
+        "title": "ULTIMATE EARS"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f296c8960db223cd2d2e0f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-3-0"
+  },
+  {
+    "_id": "59f29b08960db223cd2d2e24",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f29b08960db223cd2d2e23",
+    "__v": 0,
+    "displayTitle": "A gift that makes a difference",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f29b08960db223cd2d2e24",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "A gift that makes a difference",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "59f29abc960db223cd2d2e18",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59e56b4b960db223cd2d2487",
+    "_graphic": {
+      "_isExternalLink": true,
+      "small": {
+        "_id": "57fda2aa4ea87d56dd3ea676",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "externalUrlSmall": "https://myer.southrock.com/shared/Images/ChristmasGifting/ChristmasGifting_CD_01.jpg"
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59f29abc960db223cd2d2e18",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "59f29ac4960db223cd2d2e1c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f29abe960db223cd2d2e1a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59f29ac4960db223cd2d2e1c",
+    "body": "<p style=\"text-align: center;\">The Spirit of Christmas CD is synonymous with Christmas at Myer. This year's CD features a selection of some of our favourite songs over the past twenty-four years in our ‘The Best of the Best – 2nd Edition'.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The CD is a great upsell opportunity and retails for $19.95, with all proceeds from the sale going to The Salvation Army family violence services.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">It is also a fantastic gift idea for family and friends!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "CHRISTMAS CD",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  },
+  {
+    "_id": "59f29b9d960db223cd2d2e34",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f29b9d960db223cd2d2e33",
+    "__v": 0,
+    "displayTitle": "The gift of choice",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f29b9d960db223cd2d2e34",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "59f29bbf960db223cd2d2e3a",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f29bbf960db223cd2d2e38",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a025dded9f1d573fdb219d6"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a025dded9f1d573fdb219d6"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f29bbf960db223cd2d2e3a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "59f29bbf960db223cd2d2e3b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f29bbf960db223cd2d2e39",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">There's nothing like getting EXACTLY what you want!</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Give the gift of choice this Christmas. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">With a Myer Gift Card, friends, family and loved ones can choose from hundreds of brands, both online and in-store at Myer.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f29bbf960db223cd2d2e3b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "THE GIFT OF CHOICE",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  },
+  {
+    "_id": "5a03b235d9f1d573fdb21b60",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a03b234d9f1d573fdb21b5f",
+    "__v": 0,
+    "displayTitle": "Can you recommend the perfect gift?",
+    "body": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a03b235d9f1d573fdb21b60",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "A gift that makes a difference",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5a03b326d9f1d573fdb21b71",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a03b318d9f1d573fdb21b6f",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a03b353d9f1d573fdb21b73"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a03b326d9f1d573fdb21b71",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5a03a91dd9f1d573fdb21a8a",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a03a7b0d9f1d573fdb21a83",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": ""
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Great choices!</b></p><p><br></p><p style=\"text-align: center;\">Looks like Elsa is in for a special treat this Christmas.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Great choices!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Looks like Elsa is in for a special treat this Christmas.</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_isEnabled": true,
+      "_titleTextAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_iconAlignment": "center",
+      "_buttonAlignment": "center"
+    },
+    "_feedbackNavigation": {
+      "_correct": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_incorrect": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "UE Audio portable speaker",
+        "itemIndex": 0,
+        "_id": "5a03a9e8d9f1d573fdb21a9d"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5a03a9ead9f1d573fdb21aa1",
+        "text": "The Spirit of Christmas CD"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Myer Gift Card&nbsp;",
+        "_id": "5a03a9ebd9f1d573fdb21aa3",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5a03e7c4d9f1d573fdb21c0c",
+        "text": "Marc-Jacobs fragrance gift set"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 4,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5a03a91dd9f1d573fdb21a8a",
+    "body": "",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Simon",
+    "_type": "component",
+    "_courseOrder": "0-12-1-0"
+  },
+  {
+    "_id": "5a03b398d9f1d573fdb21b79",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a03b38dd9f1d573fdb21b75",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a03b40ad9f1d573fdb21b7d"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a03b398d9f1d573fdb21b79",
+    "body": "",
+    "displayTitle": "",
+    "instruction": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-12-2-0"
+  },
+  {
+    "_id": "5a03a927d9f1d573fdb21a8e",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a03a920d9f1d573fdb21a8c",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>You've got the right idea!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Your suggestions are sure to impress!</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>You've got the right idea!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Your suggestions are sure to impress!</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_isEnabled": false,
+      "_titleTextAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_iconAlignment": "center",
+      "_buttonAlignment": "center"
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "5a03ab98d9f1d573fdb21adb",
+        "text": "Rock 'Em Sock 'Em Robots game"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "5a03ab9ad9f1d573fdb21add",
+        "itemIndex": 1,
+        "text": "Nerf Modulus Regulator"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5a03ab9bd9f1d573fdb21adf",
+        "text": "The Spirit of Christmas CD"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "5a03ab9cd9f1d573fdb21ae1",
+        "itemIndex": 3,
+        "text": "Myer gift card"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5a03a927d9f1d573fdb21a8e",
+    "body": "",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Maddie",
+    "_type": "component",
+    "_courseOrder": "0-12-3-0"
+  },
+  {
+    "_id": "5a03b3afd9f1d573fdb21b7b",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a03b38ed9f1d573fdb21b77",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a03bec5d9f1d573fdb21bc4"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a03b3afd9f1d573fdb21b7b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-12-4-0"
+  },
+  {
+    "_id": "5a03a931d9f1d573fdb21a92",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a03a92ad9f1d573fdb21a90",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Perfect!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">There's so much joy in giving and receiving thoughtful presents.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Perfect!</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">There's so much joy in giving and receiving thoughtful presents.</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "5a03ade6d9f1d573fdb21b1e",
+        "text": "Gaiam hand-held massager"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Short Story card writing set",
+        "_id": "5a03ade7d9f1d573fdb21b20",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5a03ade8d9f1d573fdb21b22",
+        "text": "The Spirit of Christmas CD"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Myer gift card",
+        "_id": "5a03ade9d9f1d573fdb21b24",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5a03a931d9f1d573fdb21a92",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Ben",
+    "_type": "component",
+    "_courseOrder": "0-12-5-0"
+  },
+  {
+    "_id": "59f2ad93960db223cd2d2e9a",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f2ad93960db223cd2d2e99",
+    "__v": 0,
+    "displayTitle": "All wrapped up",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59f2ad93960db223cd2d2e9a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "59f2adc4960db223cd2d2ea3",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59f2adbe960db223cd2d2ea1",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59f2adc4960db223cd2d2ea3",
+    "body": "<p style=\"text-align: center;\">Now that you’ve completed this Learning Moment, you should be feeling excited about reaching out to customers and assisting them with valuable gift ideas. You may have even discovered a few new gift ideas for yourself! The more familiar you are with our in-store products and promotions, the more equipped you’ll be to advise and delight our customers.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">For more gift ideas and our current offers, check out <a href=\"http://www.myer.com.au\" target=\"_blank\">Myer.com.au</a>.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "ALL WRAPPED UP",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "59e56d16960db223cd2d249d",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "59e56d16960db223cd2d249c",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.html",
+        "itemIndex": 0,
+        "_id": "59b872cf5dfae0c5453cd495",
+        "itemTitle": "BACK",
+        "body": ""
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "59e56d16960db223cd2d249d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  },
+  {
+    "_id": "5a025e8bd9f1d573fdb219e1",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59e56b48960db223cd2d2482",
+    "_parentId": "5a025e8bd9f1d573fdb219e0",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a025e8bd9f1d573fdb219e1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  }
+]

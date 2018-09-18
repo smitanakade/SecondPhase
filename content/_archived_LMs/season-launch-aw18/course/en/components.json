@@ -1,0 +1,3058 @@
+[
+  {
+    "_id": "5a4c33bdec1ad576d99ed9a6",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4c33bdec1ad576d99ed9a5",
+    "__v": 0,
+    "_refId": "5a4adca9ec1ad576d99ed277",
+    "displayTitle": "Myer is an authority on trends this A/W18 season. This Learning Moment covers eight key trends for the autumn/winter season, providing you with the tools needed to educate your customers on how to wear these key winter pieces. There’s literally something for everyone – no matter the size, age or gender, Myer’s got you covered. Read on and get set to feel the season!<br>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "20"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a4c33bdec1ad576d99ed9a8",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4c33bdec1ad576d99ed9a7",
+    "__v": 0,
+    "_refId": "5a4ade04ec1ad576d99ed2aa",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59dbfc49960db223cd2d183d",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a4c33bdec1ad576d99ed99d",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4c33bdec1ad576d99ed99c",
+    "__v": 0,
+    "_refId": "5a4ad502ec1ad576d99ed177",
+    "graphicText": "<br><div><br></div>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_desktop": {
+        "_fontColor": "@swatch-1",
+        "_textAlign": "center",
+        "_fontSize": "120"
+      },
+      "_tablet": {
+        "_fontColor": "@swatch-1",
+        "_fontSize": "80",
+        "_textAlign": "center"
+      },
+      "_mobile": {
+        "_fontColor": "@swatch-1",
+        "_fontSize": "60"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a7a77e23865607d6dca1427"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a7a84cc3865607d6dca1437"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a4c33bdec1ad576d99ed99f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4c33bdec1ad576d99ed99e",
+    "__v": 0,
+    "_refId": "5a4ad729ec1ad576d99ed19e",
+    "body": "<p style=\"text-align: center;\">We love a floral print at Myer, and this season the trend is blossoming. Cruise through winter by adding a touch of spring to your step in flowing, feminine, inherently romantic floral prints, featured across dresses, tops and skirts. With hundreds of styles to choose from, there’s bound to be something to pique your interest.</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a4c33bdec1ad576d99ed9a1",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4c33bdec1ad576d99ed9a0",
+    "__v": 0,
+    "_refId": "5a4ad74cec1ad576d99ed1a4",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7c25cc3865607d6dca15b9",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tFloral tops and dresses are this season’s staples – think pretty ruffle-sleeved tops, flirty minis and full-tiered maxis.</p><p style=\"text-align: center;\">•\tPair fashion-forward florals with a defiant leather jacket thrown over the shoulder for a harmonious balance of femme and fierce.</p><p style=\"text-align: center;\">•\tDon’t be afraid to print clash – we’re not! Try mixing your florals up by pairing big bold florals with smaller prints.</p>",
+        "_id": "5a4ad91aec1ad576d99ed1b9",
+        "itemIndex": 0,
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7bbd783865607d6dca1489",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5a4ad91bec1ad576d99ed1be",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\">•\tFloral tops and dresses are this season’s staples – think pretty ruffle-sleeved tops, flirty minis and full-tiered maxis.</p><p style=\"text-align: center;\">•\tPair fashion-forward florals with a defiant leather jacket thrown over the shoulder for a harmonious balance of femme and fierce.</p><p style=\"text-align: center;\">•\tDon’t be afraid to print clash – we’re not! Try mixing your florals up by pairing big bold florals with smaller prints.</p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a811b0e3865607d6dca16bb"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "5a8114393865607d6dca16b8",
+        "body": "<p style=\"text-align: center;\">•\tFloral tops and dresses are this season’s staples – think pretty ruffle-sleeved tops, flirty minis and full-tiered maxis.</p><p style=\"text-align: center;\">•\tPair fashion-forward florals with a defiant leather jacket thrown over the shoulder for a harmonious balance of femme and fierce.</p><p style=\"text-align: center;\">•\tDon’t be afraid to print clash – we’re not! Try mixing your florals up by pairing big bold florals with smaller prints.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a7bc0163865607d6dca148b"
+          }
+        },
+        "title": "",
+        "itemIndex": 1,
+        "_id": "5a4ad91bec1ad576d99ed1bb",
+        "body": "<p style=\"text-align: center;\">•\tFloral tops and dresses are this season’s staples – think pretty ruffle-sleeved tops, flirty minis and full-tiered maxis.</p><p style=\"text-align: center;\">•\tPair fashion-forward florals with a defiant leather jacket thrown over the shoulder for a harmonious balance of femme and fierce.</p><p style=\"text-align: center;\">•\tDon’t be afraid to print clash – we’re not! Try mixing your florals up by pairing big bold florals with smaller prints.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-1-2-0"
+  },
+  {
+    "_id": "5a4c33beec1ad576d99ed9ab",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a7cc5973865607d6dca15ca",
+    "__v": 0,
+    "_refId": "5a4adf34ec1ad576d99ed30d",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">•\tWould you like me to show you the perfect bag to complement this Leona by Leona Edmiston frock?</p><p style=\"text-align: center;\">•\tThere’s a gorgeous Basque wide-leg pant that goes beautifully with that floral print top. How about trying them together?</p>",
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "itemIndex": 0,
+        "title": "CUSTOMER CONVERSATION TIPS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "title": "BRANDS SPORTING THE LOOK",
+        "body": "<p style=\"text-align: center;\">Basque, Piper, Piper Swimwear, Grab, Hi There from Karen Walker, Jayson Brunsdon, Leona by Leona Edmiston, Miss Shop, Tokito, Trent Nathan, Wayne Cooper&nbsp;and national brands and concessions</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a4eda5f3865607d6dc9f131",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4eda5f3865607d6dc9f12e",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><br></p>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontSize": "60",
+        "_fontColor": "@swatch-1"
+      },
+      "_tablet": {
+        "_fontSize": "80",
+        "_textAlign": "center",
+        "_fontColor": "@swatch-1"
+      },
+      "_desktop": {
+        "_textAlign": "center",
+        "_fontSize": "120",
+        "_fontColor": "@swatch-1"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a8124193865607d6dca16c4"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a81263c3865607d6dca16c8"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4eda5f3865607d6dc9f131",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a4eda5f3865607d6dc9f130",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4eda5f3865607d6dc9f12c",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">A leather jacket is a wardrobe staple, especially this season. Whether your style is blazer, bomber or biker, Myer’s got you covered. There’ll be over 50 styles available across our stores and online – with a price range to suit all wallets – including pleather (jackets from $89), suede and suedette options, the other hot-ticket items to get you through the cold.<br></p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4eda5f3865607d6dc9f130",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a4eda5f3865607d6dc9f132",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4eda5f3865607d6dc9f12d",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a811de73865607d6dca16c0",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tWatch out for newness in colours this season, including pinks, reds and greys to name a few. (But never fear: classic black still reigns supreme.)</p><p style=\"text-align: center;\">•\tMake the most of your biker jacket’s versatility: pair it with a romantic floral maxi dress or wed it with jeans and a slogan sweat.</p><p style=\"text-align: center;\">•\tTo add a feminine edge to a leather or pleather skirt, try teaming it with a fine knit or floral top.</p>",
+        "itemIndex": 2,
+        "_id": "5a4ad91bec1ad576d99ed1be"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a7bca0d3865607d6dca14fe"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5a4ad91aec1ad576d99ed1b9",
+        "body": "<p style=\"text-align: center;\">•\tWatch out for newness in colours this season, including pinks, reds and greys to name a few. (But never fear: classic black still reigns supreme.)</p><p style=\"text-align: center;\">•\tMake the most of your biker jacket’s versatility: pair it with a romantic floral maxi dress or wed it with jeans and a slogan sweat.</p><p style=\"text-align: center;\">•\tTo add a feminine edge to a leather or pleather skirt, try teaming it with a fine knit or floral top.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7a87623865607d6dca143c",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tWatch out for newness in colours this season, including pinks, reds and greys to name a few. (But never fear: classic black still reigns supreme.)</p><p style=\"text-align: center;\">•\tMake the most of your biker jacket’s versatility: pair it with a romantic floral maxi dress or wed it with jeans and a slogan sweat.</p><p style=\"text-align: center;\">•\tTo add a feminine edge to a leather or pleather skirt, try teaming it with a fine knit or floral top.</p>",
+        "_id": "5a4ad91bec1ad576d99ed1bb",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a812c9e3865607d6dca16cb"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tWatch out for newness in colours this season, including pinks, reds and greys to name a few. (But never fear: classic black still reigns supreme.)</p><p style=\"text-align: center;\">•\tMake the most of your biker jacket’s versatility: pair it with a romantic floral maxi dress or wed it with jeans and a slogan sweat.</p><p style=\"text-align: center;\">•\tTo add a feminine edge to a leather or pleather skirt, try teaming it with a fine knit or floral top.</p>",
+        "_id": "5a812cad3865607d6dca16cc",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4eda5f3865607d6dc9f132",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "5a4eda9f3865607d6dc9f138",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4eda9f3865607d6dc9f137",
+    "__v": 0,
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">•\tHave you thought about buying a leather jacket as your investment piece this season?</p><p style=\"text-align: center;\">•\tThat burgundy pleather Piper skirt looks sensational with this cherry-red sweater tucked into it. Would you like to try the red-on-red trend?</p>",
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "itemIndex": 0,
+        "title": "CUSTOMER CONVERSATION TIPS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "title": "BRANDS SPORTING THE LOOK",
+        "body": "<p style=\"text-align: center;\">Basque, Piper, Grab, Jane Lamerton, Milk &amp; Honey, Miss Shop, Regatta, Tokito, Trent Nathan, Wayne Cooper&nbsp;and national brands and concessions</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4eda9f3865607d6dc9f138",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a4edb293865607d6dc9f142",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edb293865607d6dc9f141",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><br></p>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontSize": "60",
+        "_fontColor": "@swatch-1"
+      },
+      "_tablet": {
+        "_fontSize": "80",
+        "_textAlign": "center",
+        "_fontColor": "@swatch-1"
+      },
+      "_desktop": {
+        "_textAlign": "center",
+        "_fontSize": "120",
+        "_fontColor": "@swatch-1"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a7c1f2c3865607d6dca15a0"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a7c1f2c3865607d6dca159f"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edb293865607d6dc9f142",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a4edb293865607d6dc9f143",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edb293865607d6dc9f13e",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">This season’s key trend item embraces all that’s good about winter: getting cosy, snuggly and warm. It’s the hottest trend to hit the runway and will make your wardrobe sizzle too. Inject some glam into your life with the 30-plus faux fur styles across Myer’s women’s and youth departments, from full-length coats to fur-trimmed bomber jackets.<br></p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edb293865607d6dc9f143",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5a4edb293865607d6dc9f144",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edb293865607d6dc9f13f",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a8384bb3865607d6dca1da9",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5a4ad91aec1ad576d99ed1b9",
+        "body": "<p style=\"text-align: center;\">•\tThis season faux furs come in everything from dusty pinks to playful brights – you’ll find a colour for any occasion.</p><p style=\"text-align: center;\">•\tTry pairing a luxe fur coat with a graphic tee and jeans for relaxed weekend style, or dress it up with the latest floral dress.</p><p style=\"text-align: center;\">•\tFaux-fur trims, such as a collar on a jacket or coat, add a touch of offbeat glamour to any outfit.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7bd5f73865607d6dca150b",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tThis season faux furs come in everything from dusty pinks to playful brights – you’ll find a colour for any occasion.</p><p style=\"text-align: center;\">•\tTry pairing a luxe fur coat with a graphic tee and jeans for relaxed weekend style, or dress it up with the latest floral dress.</p><p style=\"text-align: center;\">•\tFaux-fur trims, such as a collar on a jacket or coat, add a touch of offbeat glamour to any outfit.</p>",
+        "itemIndex": 2,
+        "_id": "5a4ad91bec1ad576d99ed1be"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7bd32f3865607d6dca1508",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tThis season faux furs come in everything from dusty pinks to playful brights – you’ll find a colour for any occasion.</p><p style=\"text-align: center;\">•\tTry pairing a luxe fur coat with a graphic tee and jeans for relaxed weekend style, or dress it up with the latest floral dress.</p><p style=\"text-align: center;\">•\tFaux-fur trims, such as a collar on a jacket or coat, add a touch of offbeat glamour to any outfit.</p>",
+        "_id": "5a4ad91bec1ad576d99ed1bb",
+        "itemIndex": 1
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edb293865607d6dc9f144",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5a4edb613865607d6dc9f14b",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edb613865607d6dc9f14a",
+    "__v": 0,
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">•\tCan I show you Wayne Cooper's faux fur jacket? It will dress up any outfit, and add warmth over the winter months.</p><p style=\"text-align: center;\">•\tFur-trimmed bomber jackets are hot this season. Would you like to try one with those skinny jeans?</p>",
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "itemIndex": 0,
+        "title": "CUSTOMER CONVERSATION TIPS"
+      },
+      {
+        "_mediaType": "video",
+        "_video": {
+          "mp4": {
+            "_type": "video",
+            "_extension": "mp4",
+            "_id": "5a7be53e3865607d6dca1535"
+          },
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 1,
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "title": "BRANDS SPORTING THE LOOK",
+        "body": "<p style=\"text-align: center;\">Basque, Piper, Grab, Jane Lamerton, Leona Edmiston, Miss Shop, Regatta, Tokito, Wayne Cooper&nbsp;and national brands and concessions.<br>Check out the video below to see Grab's bomber jacket in motion.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edb613865607d6dc9f14b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a4edb823865607d6dc9f156",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edb823865607d6dc9f150",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><br></p>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontSize": "60",
+        "_fontColor": "@swatch-1"
+      },
+      "_tablet": {
+        "_fontSize": "80",
+        "_textAlign": "center",
+        "_fontColor": "@swatch-1"
+      },
+      "_desktop": {
+        "_textAlign": "center",
+        "_fontSize": "120",
+        "_fontColor": "@swatch-1"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a81431a3865607d6dca16ed",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a81431a3865607d6dca16ee"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edb823865607d6dc9f156",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a4edb823865607d6dc9f157",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edb823865607d6dc9f151",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Red is <i>the</i> colour of the season. Turn up the heat by adding fiery footwear and bold accessories or, if you dare, go full red-to-toe. Either way, embrace the power of this timeless beauty.<br></p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edb823865607d6dc9f157",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "5a4edb823865607d6dc9f155",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edb823865607d6dc9f152",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a82574d3865607d6dca1b9f",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">• You can’t have too much red this season.</p><p style=\"text-align: center;\">• Combine two (or more) pieces of the same shade or try a mix of hues – merlot and burgundy work well together.</p><p style=\"text-align: center;\">• Try mixing and matching red textures and patterns too.</p>",
+        "itemIndex": 0,
+        "_id": "5a4ad91bec1ad576d99ed1be"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7be3643865607d6dca152b",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">• You can’t have too much red this season.</p><p style=\"text-align: center;\">• Combine two (or more) pieces of the same shade or try a mix of hues – merlot and burgundy work well together.</p><p style=\"text-align: center;\">• Try mixing and matching red textures and patterns too.</p>",
+        "itemIndex": 1,
+        "_id": "5a693f813865607d6dca0752"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a8133263865607d6dca16d4",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5a4ad91aec1ad576d99ed1b9",
+        "body": "<p style=\"text-align: center;\">• You can’t have too much red this season.</p><p style=\"text-align: center;\">• Combine two (or more) pieces of the same shade or try a mix of hues – merlot and burgundy work well together.</p><p style=\"text-align: center;\">• Try mixing and matching red textures and patterns too.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a8262623865607d6dca1cdb"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "5a82626f3865607d6dca1cdf",
+        "body": "<p style=\"text-align: center;\">• You can’t have too much red this season.</p><p style=\"text-align: center;\">• Combine two (or more) pieces of the same shade or try a mix of hues – merlot and burgundy work well together.</p><p style=\"text-align: center;\">• Try mixing and matching red textures and patterns too.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a8262633865607d6dca1cdc",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 5,
+        "_id": "5a82627b3865607d6dca1ce2",
+        "body": "<p style=\"text-align: center;\">• You can’t have too much red this season.</p><p style=\"text-align: center;\">• Combine two (or more) pieces of the same shade or try a mix of hues – merlot and burgundy work well together.</p><p style=\"text-align: center;\">• Try mixing and matching red textures and patterns too.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7bdbfb3865607d6dca151b",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5a4ad91cec1ad576d99ed1c0",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: center;\">• You can’t have too much red this season.</p><p style=\"text-align: center;\">• Combine two (or more) pieces of the same shade or try a mix of hues – merlot and burgundy work well together.</p><p style=\"text-align: center;\">• Try mixing and matching red textures and patterns too.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edb823865607d6dc9f155",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  },
+  {
+    "_id": "5a4edba23865607d6dc9f15d",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edba23865607d6dc9f15c",
+    "__v": 0,
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">•\tWayne Cooper’s red Brooke boots look stunning with that dress. Would you like to try them on?</p><p style=\"text-align: center;\">•\tSome red accessories would really make that outfit sing. Can I suggest a few pieces that would work?</p>",
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "itemIndex": 0,
+        "title": "CUSTOMER CONVERSATION TIPS"
+      },
+      {
+        "_mediaType": "video",
+        "_video": {
+          "mp4": {
+            "_id": "5a7be53e3865607d6dca153c",
+            "_extension": "mp4",
+            "_type": "video"
+          },
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 1,
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "title": "BRANDS SPORTING THE LOOK",
+        "body": "<p style=\"text-align: center;\">A multitude of our brands will offer apparel and accessories in all shades of red. <br>Check out the video below to see Wayne Cooper's dress in motion.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edba23865607d6dc9f15d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5a4edbc33865607d6dc9f168",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edbc33865607d6dc9f164",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><br></p>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontSize": "60",
+        "_fontColor": "@swatch-1"
+      },
+      "_tablet": {
+        "_fontSize": "80",
+        "_textAlign": "center",
+        "_fontColor": "@swatch-1"
+      },
+      "_desktop": {
+        "_textAlign": "center",
+        "_fontSize": "120",
+        "_fontColor": "@swatch-1"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a8213743865607d6dca1709",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a8213743865607d6dca170a"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edbc33865607d6dc9f168",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5a4edbc33865607d6dc9f166",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edbc33865607d6dc9f162",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Add interest to your morning routine by incorporating this season’s check trend, the long-awaited workwear palate cleanser – which also transitions seamlessly to after-five-wear.</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edbc33865607d6dc9f166",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-9-1-0"
+  },
+  {
+    "_id": "5a4edbc33865607d6dc9f169",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edbc33865607d6dc9f163",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7be5b63865607d6dca153d",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5a4ad91aec1ad576d99ed1b9",
+        "body": "<p style=\"text-align: center;\">•\tThe check trend has everything covered this season: jackets, blazers, suiting, tops, dresses, skirts and coats.</p><p style=\"text-align: center;\">•\tA check blazer is a wardrobe staple and a great investment piece. It’s versatile too, equally at home paired with jeans or a pretty frock.</p><p style=\"text-align: center;\">•\tTry mixing checks with ruffles to add a feminine twist.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a8148f43865607d6dca16f5"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tThe check trend has everything covered this season: jackets, blazers, suiting, tops, dresses, skirts and coats.</p><p style=\"text-align: center;\">•\tA check blazer is a wardrobe staple and a great investment piece. It’s versatile too, equally at home paired with jeans or a pretty frock.</p><p style=\"text-align: center;\">•\tTry mixing checks with ruffles to add a feminine twist.</p>",
+        "_id": "5a8148f83865607d6dca16f6",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a8213543865607d6dca1708",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5a8213aa3865607d6dca1710",
+        "body": "<p style=\"text-align: center;\">•\tThe check trend has everything covered this season: jackets, blazers, suiting, tops, dresses, skirts and coats.</p><p style=\"text-align: center;\">•\tA check blazer is a wardrobe staple and a great investment piece. It’s versatile too, equally at home paired with jeans or a pretty frock.</p><p style=\"text-align: center;\">•\tTry mixing checks with ruffles to add a feminine twist.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edbc33865607d6dc9f169",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-9-2-0"
+  },
+  {
+    "_id": "5a4edc803865607d6dc9f170",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edc803865607d6dc9f16f",
+    "__v": 0,
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "CUSTOMER CONVERSATION TIPS",
+        "itemIndex": 0,
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "body": "<p style=\"text-align: center;\">•\tCan I show you how to transform those Tokito tailored check pants from officewear to evening wear simply by changing the top?</p><p style=\"text-align: center;\">•\tThese Christie Nicolaides earrings contrast beautifully with that check dress. Would you like to see what I mean?</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Basque, Piper, Jane Lamerton, Milk &amp; Honey, Miss Shop, Tokito&nbsp;and national brands and concessions</p>",
+        "title": "BRANDS SPORTING THE LOOK",
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "itemIndex": 1
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edc803865607d6dc9f170",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5a4edcc33865607d6dc9f17a",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edcc33865607d6dc9f177",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><br></p>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontSize": "60",
+        "_fontColor": "@swatch-1"
+      },
+      "_tablet": {
+        "_fontSize": "80",
+        "_textAlign": "center",
+        "_fontColor": "@swatch-1"
+      },
+      "_desktop": {
+        "_textAlign": "center",
+        "_fontSize": "120",
+        "_fontColor": "@swatch-1"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a821e1d3865607d6dca1715",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a821e1d3865607d6dca1716"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edcc33865607d6dc9f17a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5a4edcc33865607d6dc9f179",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edcc33865607d6dc9f175",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Velvet and velour have made a comeback for A/W18 and are this season’s essential fabrics. Lush, plush and pleasing to the touch, they provide a luxurious lift to any wardrobe. Dare to wear in bold brights or jewel tones – you won’t be able to resist our range of jackets, coats, jumpsuits, dresses and sweatpants.</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edcc33865607d6dc9f179",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-11-1-0"
+  },
+  {
+    "_id": "5a4edcc33865607d6dc9f17b",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edcc33865607d6dc9f176",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a7c05e63865607d6dca158d"
+          }
+        },
+        "title": "",
+        "body": "<p style=\"text-align: center;\">•\tPare back luxurious velvets and velours in rich gem tones with low-key neutral accessories for a relaxed daytime look.</p><p style=\"text-align: center;\">•\tAlternatively, don’t hold back! Match with some sequins for a bold night out.</p><p style=\"text-align: center;\">•\tFor just a touch of luxe, velvet and velour make a great trim on romantic florals or a check pant.</p>",
+        "_id": "5a4ad91bec1ad576d99ed1bb",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a7bef603865607d6dca1561"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5a4ad91aec1ad576d99ed1b9",
+        "body": "<p style=\"text-align: center;\">•\tPare back luxurious velvets and velours in rich gem tones with low-key neutral accessories for a relaxed daytime look.</p><p style=\"text-align: center;\">•\tAlternatively, don’t hold back! Match with some sequins for a bold night out.</p><p style=\"text-align: center;\">•\tFor just a touch of luxe, velvet and velour make a great trim on romantic florals or a check pant.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edcc33865607d6dc9f17b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Slides",
+    "_type": "component",
+    "_courseOrder": "0-11-2-0"
+  },
+  {
+    "_id": "5a4edce93865607d6dc9f184",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edce93865607d6dc9f183",
+    "__v": 0,
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "CUSTOMER CONVERSATION TIPS",
+        "itemIndex": 0,
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "body": "<p style=\"text-align: center;\">•\tLet me show you how to style this velvet Piper dress with a neutral clutch and shoes.</p><p style=\"text-align: center;\">•\tWhat about trying a velvet jacket with that outfit? It would be the perfect finishing touch and take things to a whole new level.</p>"
+      },
+      {
+        "_mediaType": "video",
+        "_video": {
+          "mp4": {
+            "_id": "5a7be53e3865607d6dca1538",
+            "_extension": "mp4",
+            "_type": "video"
+          },
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">Basque, Piper, Grab Denim, Jane Lamerton, Jayson Brunsdon, L/A Collective, Leona Edmiston, Milk &amp; Honey, Miss Shop, Tokito, Wayne Cooper&nbsp;and national brands and concessions.</p><p style=\"text-align: center;\">Check out the video below to see Milk and Honey's velvet slip dress in motion.<br></p>",
+        "title": "BRANDS SPORTING THE LOOK",
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "itemIndex": 1
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edce93865607d6dc9f184",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5a4edd0a3865607d6dc9f18e",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd0a3865607d6dc9f18a",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><br></p>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontSize": "60",
+        "_fontColor": "@swatch-1"
+      },
+      "_tablet": {
+        "_fontSize": "80",
+        "_textAlign": "center",
+        "_fontColor": "@swatch-1"
+      },
+      "_desktop": {
+        "_textAlign": "center",
+        "_fontSize": "120",
+        "_fontColor": "@swatch-1"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a82270e3865607d6dca1787",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a82270e3865607d6dca1788"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd0a3865607d6dc9f18e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "5a4edd0a3865607d6dc9f18f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd0a3865607d6dc9f189",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">The denim domination continues! Whether it’s raw edges, split hems, boyfriend-style or super skinny, the options are endless. Classic indigo denim is making a comeback, along with the double-denim combo. Come and get kitted out with the whole look, including logo tees and sweats to rock your denim.</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd0a3865607d6dc9f18f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-1-0"
+  },
+  {
+    "_id": "5a4edd0a3865607d6dc9f18d",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd0a3865607d6dc9f18b",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7c0cbe3865607d6dca1595",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tWhen shopping for jeans, there are a number of factors to consider, including brand, wash and colour, distress and trend details, and fit. See the <b>Denim for Women</b> and <b>Denim for Men</b> Learning Moments for everything you need to know.</p><p style=\"text-align: center;\">•\tIf you’re going denim-on-denim – say a trucker jacket paired with skinny jeans – elevate your outfit with stiletto pumps and bright red lipstick!</p><p style=\"text-align: center;\">•\tRemember: denim doesn’t have to mean blue. There are other colours to play with too.</p>",
+        "_id": "5a4ad91bec1ad576d99ed1bb",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7c109e3865607d6dca1598",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tWhen shopping for jeans, there are a number of factors to consider, including brand, wash and colour, distress and trend details, and fit. See the <b>Denim for Women</b> and <b>Denim for Men</b> Learning Moments for everything you need to know.</p><p style=\"text-align: center;\">•\tIf you’re going denim-on-denim – say a trucker jacket paired with skinny jeans – elevate your outfit with stiletto pumps and bright red lipstick!</p><p style=\"text-align: center;\">•\tRemember: denim doesn’t have to mean blue. There are other colours to play with too.</p>",
+        "itemIndex": 1,
+        "_id": "5a4ad91bec1ad576d99ed1be"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a7c22a43865607d6dca15ab",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5a4ad91cec1ad576d99ed1c0",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\">•\tWhen shopping for jeans, there are a number of factors to consider, including brand, wash and colour, distress and trend details, and fit. See the <b>Denim for Women</b> and <b>Denim for Men</b> Learning Moments for everything you need to know.</p><p style=\"text-align: center;\">•\tIf you’re going denim-on-denim – say a trucker jacket paired with skinny jeans – elevate your outfit with stiletto pumps and bright red lipstick!</p><p style=\"text-align: center;\">•\tRemember: denim doesn’t have to mean blue. There are other colours to play with too.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a8235a83865607d6dca1856",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "5a8235b83865607d6dca1857",
+        "body": "<p style=\"text-align: center;\">•\tWhen shopping for jeans, there are a number of factors to consider, including brand, wash and colour, distress and trend details, and fit. See the <b>Denim for Women</b> and <b>Denim for Men</b> Learning Moments for everything you need to know.</p><p style=\"text-align: center;\">•\tIf you’re going denim-on-denim – say a trucker jacket paired with skinny jeans – elevate your outfit with stiletto pumps and bright red lipstick!</p><p style=\"text-align: center;\">•\tRemember: denim doesn’t have to mean blue. There are other colours to play with too.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd0a3865607d6dc9f18d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-13-2-0"
+  },
+  {
+    "_id": "5a4edd2c3865607d6dc9f196",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd2c3865607d6dc9f195",
+    "__v": 0,
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "CUSTOMER CONVERSATION TIPS",
+        "itemIndex": 0,
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "body": "<p style=\"text-align: center;\">•\tThose Miss Shop Riley jeans look fabulous with a black-leather biker jacket and combat boots. Would you like to try that look? By the way, the Riley jeans are so well priced at only $49, aren't they?</p><p style=\"text-align: center;\">•\tCan I get you a pair of denim jeans to tuck that floral blouse into?</p>"
+      },
+      {
+        "_mediaType": "video",
+        "_video": {
+          "mp4": {
+            "_id": "5a8137bb3865607d6dca16e0",
+            "_extension": "mp4",
+            "_type": "video"
+          },
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">Piper, Piper Women, Grab, Miss Shop, Regatta&nbsp;and national brands and concessions.<br>Check out the video below to see Miss Shop denim in motion.<br></p>",
+        "title": "BRANDS SPORTING THE LOOK",
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "itemIndex": 1
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd2c3865607d6dc9f196",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "5a4edd513865607d6dc9f1a2",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd513865607d6dc9f19b",
+    "__v": 0,
+    "graphicText": "<p style=\"text-align: center;\"><br></p>",
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontSize": "60",
+        "_fontColor": "@swatch-1"
+      },
+      "_tablet": {
+        "_fontSize": "80",
+        "_textAlign": "center",
+        "_fontColor": "@swatch-1"
+      },
+      "_desktop": {
+        "_textAlign": "center",
+        "_fontSize": "120",
+        "_fontColor": "@swatch-1"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5a8248303865607d6dca1b18",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a8248303865607d6dca1b19"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd513865607d6dc9f1a2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  },
+  {
+    "_id": "5a4edd513865607d6dc9f19f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd513865607d6dc9f19c",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">This season’s must-have sleeve details are anything but expected or ordinary. Step up your style game with frills, flounces and ruffles, the main protagonists adorning the arms of tops, dresses and jackets in-store. And remember: the more drama the better!</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd513865607d6dc9f19f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-15-1-0"
+  },
+  {
+    "_id": "5a4edd513865607d6dc9f1a1",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd513865607d6dc9f19d",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a7c24c03865607d6dca15b5"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">•\tThe drama of the sleeve is the focal point, so you can keep your accessories to a minimum.</p><p style=\"text-align: center;\">•\tDress these statement pieces up with faux fur or down with denim to add drama both night and day.</p><p style=\"text-align: center;\">• Pair your statement top with slim pants or your favourite jeans to create a look that works equally well in the office and for a night on the town.</p>",
+        "_id": "5a4ad91aec1ad576d99ed1b9",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a7c27e73865607d6dca15c2"
+          }
+        },
+        "_id": "5a4ad91bec1ad576d99ed1be",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">•\tThe drama of the sleeve is the focal point, so you can keep your accessories to a minimum.</p><p style=\"text-align: center;\">•\tDress these statement pieces up with faux fur or down with denim to add drama both night and day.</p><p style=\"text-align: center;\">• Pair your statement top with slim pants or your favourite jeans to create a look that works equally well in the office and for a night on the town.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a8248063865607d6dca1b13",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5a8248723865607d6dca1b21",
+        "body": "<p style=\"text-align: center;\">•\tThe drama of the sleeve is the focal point, so you can keep your accessories to a minimum.</p><p style=\"text-align: center;\">•\tDress these statement pieces up with faux fur or down with denim to add drama both night and day.</p><p style=\"text-align: center;\">• Pair your statement top with slim pants or your favourite jeans to create a look that works equally well in the office and for a night on the town.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd513865607d6dc9f1a1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-15-2-0"
+  },
+  {
+    "_id": "5a4edd763865607d6dc9f1a9",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4edd763865607d6dc9f1a8",
+    "__v": 0,
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">•\tCan I show you how to add structure to that Basque ruffle sleeve top with a tailored wide-leg pant?</p><p style=\"text-align: center;\">•\tAll you need to complete that lace dress with sleeve drama is some simple, classic pumps. Would you like to try a pair on?</p>",
+        "_id": "5a4adf41ec1ad576d99ed312",
+        "itemIndex": 0,
+        "title": "CUSTOMER CONVERSATION TIPS"
+      },
+      {
+        "_mediaType": "video",
+        "_video": {
+          "mp4": {
+            "_type": "video",
+            "_extension": "mp4",
+            "_id": "5a7be53e3865607d6dca153a"
+          },
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 1,
+        "_id": "5a4adf41ec1ad576d99ed314",
+        "title": "BRANDS SPORTING THE LOOK",
+        "body": "<p style=\"text-align: center;\">Basque, Piper, Grab Denim, Jane Lamerton, Jayson Brunsdon, Leona Edmiston, Miss Shop, Regatta, Tokito, Trent Nathan, Wayne Cooper&nbsp;and national brands and concessions.<br>Check out the video below to see Tokito's sleeve drama in motion.<br></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4edd763865607d6dc9f1a9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  },
+  {
+    "_id": "5a4ed8a93865607d6dc9f119",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4ed8a93865607d6dc9f118",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59dbfc49960db223cd2d183d",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4ed8a93865607d6dc9f119",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link title",
+    "_type": "component",
+    "_courseOrder": "0-17-0-0"
+  },
+  {
+    "_id": "5a4ec7da3865607d6dc9f03e",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4c33bdec1ad576d99ed997",
+    "_parentId": "5a4ec7da3865607d6dc9f03d",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a4ec7da3865607d6dc9f03e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-18-0-0"
+  }
+]

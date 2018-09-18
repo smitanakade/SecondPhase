@@ -1,0 +1,334 @@
+[
+  {
+    "_id": "59e674c0960db223cd2d24f6",
+    "_sortOrder": 0,
+    "_parentId": "59bf39e8c7eab8472b8cb6f7",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "__v": 0,
+    "_refId": "59e674c0960db223cd2d24f6",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "59bf39e8c7eab8472b8cb6f8",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf39e8c7eab8472b8cb6f7",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "59bf39e8c7eab8472b8cb6f8",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-0-1"
+  },
+  {
+    "_id": "596d5ed832b40dca201c4bdc",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "596d5ed832b40dca201c4bdb",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "596d5ed832b40dca201c4bdc",
+    "displayTitle": "WHY?",
+    "body": "<p style=\"text-align: center;\">1.\tBecause potential thieves will feel uncomfortable if approached with great customer service – they don’t want the attention.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2.\tGenuine customers will appreciate our customer service.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">3. Great customer service can generate additional sales.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "WHY?",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "59bf0ab8c7eab8472b8cb6ca",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf0ab8c7eab8472b8cb6c9",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59bf0ab8c7eab8472b8cb6ca",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "596d614332b40dca201c4bde",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "596d614332b40dca201c4bdd",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "596d614332b40dca201c4bde",
+    "displayTitle": "APPROACH ALL CUSTOMERS",
+    "body": "<p style=\"text-align: center;\">Approaching every customer is one of the best ways to deter dishonesty.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">All customers should be treated the same.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">However, be aware of your surroundings and watch out for suspicious behaviour.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">What does that look like?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let’s take a look.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Approach all customers",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "59c07d1ed9d8aeaf135a2b7d",
+    "_sortOrder": 0,
+    "_parentId": "596d649132b40dca201c4be4",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "__v": 0,
+    "_refId": "59c07d1ed9d8aeaf135a2b7d",
+    "displayTitle": "“Hello, were you looking for some assistance with your purchase?”",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "59c07d21d9d8aeaf135a2b7e",
+    "_sortOrder": 1,
+    "_parentId": "596d649132b40dca201c4be4",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "__v": 0,
+    "_refId": "59c07d21d9d8aeaf135a2b7e",
+    "displayTitle": "“Hello, you appear to be lost. Can I help you to find a register?”",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-1"
+  },
+  {
+    "_id": "59c07d23d9d8aeaf135a2b7f",
+    "_sortOrder": 2,
+    "_parentId": "596d649132b40dca201c4be4",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "__v": 0,
+    "_refId": "59c07d23d9d8aeaf135a2b7f",
+    "displayTitle": "“Hello, are you looking for somewhere to pay?”",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-2"
+  },
+  {
+    "_id": "59c07d25d9d8aeaf135a2b80",
+    "_sortOrder": 3,
+    "_parentId": "596d649132b40dca201c4be4",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "__v": 0,
+    "_refId": "59c07d25d9d8aeaf135a2b80",
+    "displayTitle": "“Hello, would you like me to put that through for you at the counter?”",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-3"
+  },
+  {
+    "_id": "59bf252ac7eab8472b8cb6d6",
+    "_sortOrder": 4,
+    "_parentId": "596d649132b40dca201c4be4",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "__v": 0,
+    "_refId": "59bf252ac7eab8472b8cb6d6",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Deter theft",
+    "_type": "block",
+    "_courseOrder": "0-4-4"
+  },
+  {
+    "_id": "596d68dd32b40dca201c4bf0",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "596d68dd32b40dca201c4bef",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "596d68dd32b40dca201c4bf0",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "When to use the Operator 22 process",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "59c0826cd9d8aeaf135a2b8a",
+    "_sortOrder": 1,
+    "_parentId": "596d68dd32b40dca201c4bef",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "__v": 0,
+    "_refId": "59c0826cd9d8aeaf135a2b8a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-5-1"
+  },
+  {
+    "_id": "596d6ab532b40dca201c4bfa",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "596d6ab432b40dca201c4bf9",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "596d6ab532b40dca201c4bfa",
+    "displayTitle": "CONCLUSION",
+    "body": "<p style=\"text-align: center;\">Let’s recap some key points.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">1.\tAs a team member, you initiate an operator 22 call when you need assistance.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2.\tKeep an eye on the suspicious person until a People Leader arrives and provide them with a brief so they understand the situation.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">3.\tIt is the People Leader's responsibility to respond to an operator 22 call, regardless of whether the store has loss prevention officers or not.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">4.\tDiscuss your department plan with your People Leader to make sure the process is working effectively in your store.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">What do you do if no-one responds to your operator 22 call?</p><p style=\"text-align: center;\">Contact your People Leader to discuss.</p><p></p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Conclusion",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "59bf2a58c7eab8472b8cb6dc",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf2a58c7eab8472b8cb6db",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59bf2a58c7eab8472b8cb6dc",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Shrinkage_BackBtn_Top",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  },
+  {
+    "_id": "59bf2afcc7eab8472b8cb6e0",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf2afcc7eab8472b8cb6df",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59bf2afcc7eab8472b8cb6e0",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-8-0"
+  },
+  {
+    "_id": "59c07c0fd9d8aeaf135a2b7c",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59c07c0fd9d8aeaf135a2b7b",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59c07c0fd9d8aeaf135a2b7c",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-9-0"
+  }
+]

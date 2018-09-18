@@ -1,0 +1,1020 @@
+[
+  {
+    "_id": "59e674c5960db223cd2d24f8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59e674c0960db223cd2d24f6",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59e674c5960db223cd2d24f8",
+    "body": "<p style=\"text-align: center;\">Welcome to a series of Shrinkage Learning Moments, designed to highlight the importance of shrinkage at Myer and how customer service can deter dishonest behaviour.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This Learning Moment shows you how to deter dishonest behaviour on the shop floor.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59bf3a0fc7eab8472b8cb6f9",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf39e8c7eab8472b8cb6f8",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf3a14c7eab8472b8cb6fa",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf3a0fc7eab8472b8cb6f9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "59bf0aebc7eab8472b8cb6cb",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf0ab8c7eab8472b8cb6ca",
+    "_items": [],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemBodyColor": "transparent",
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf0aebc7eab8472b8cb6cb",
+    "displayTitle": "TYPES OF CUSTOMER DISHONESTY",
+    "body": "<p style=\"text-align: center;\">Customer dishonesty comes in many forms. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">In most instances of customer dishonesty, you can offer excellent customer service to potentially deter dishonest behaviour. Types of customer dishonesty include:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tTheft of merchandise or cash</p><p style=\"text-align: center;\">•\tPrice swapping</p><p style=\"text-align: center;\">•\tReturns fraud</p><p style=\"text-align: center;\">•\tUsing counterfeit currency</p><p style=\"text-align: center;\">•\tCredit card fraud</p><p style=\"text-align: center;\">•\tObtaining financial benefit by deception.</p><p>&nbsp;&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Types of customer dishonesty",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "596d617f32b40dca201c4bdf",
+    "_component": "gmcq",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "596d614332b40dca201c4bde",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p>Not quite. You should approach all these customers. We don’t make assumptions about our customers’ honesty. </p><p><br></p><p>Remember, not all customers are dishonest. In fact, 99% of our customers are genuine. </p><p><br></p><p>Treat every customer the same – how?</p><p><br></p><p>Let’s take a look.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p>Not quite. You should approach all these customers. We don’t make assumptions about our customers’ honesty. </p><p><br></p><p>Remember, not all customers are dishonest. In fact, 99% of our customers are genuine. </p><p><br></p><p>Treat every customer the same – how?</p><p><br></p><p>Let’s take a look.</p>"
+      },
+      "_correctGraphic": {
+        "src": null,
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "src": null,
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!</b></p><p>&nbsp;</p><p>You should approach all of these customers. We don’t make assumptions about our customers’ honesty. </p><p><br></p><p>Remember, not all customers are dishonest. In fact, 99% of our customers are genuine. </p><p><br></p><p>Treat every customer the same – how?</p><p><br></p><p>Let’s take a look.&nbsp;</p>"
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c07a36d9d8aeaf135a2b77"
+          },
+          "alt": ""
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "596d620332b40dca201c4be0"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c07a36d9d8aeaf135a2b78"
+          },
+          "alt": ""
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "596d621e32b40dca201c4be1"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c07a36d9d8aeaf135a2b79"
+          },
+          "alt": ""
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "596d623032b40dca201c4be2"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "599500b6ebca4a400879500b",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "alt": ""
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "596d624f32b40dca201c4be3"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 4,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "596d617f32b40dca201c4bdf",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Select all that are correct.</p>",
+    "instruction": "",
+    "displayTitle": "WHICH OF THE FOLLOWING CUSTOMERS SHOULD YOU APPROACH?",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Approach all customers",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "59c07da4d9d8aeaf135a2b81",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59c07d1ed9d8aeaf135a2b7d",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a160aa1d9f1d573fdb22b34"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c07da4d9d8aeaf135a2b81",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "59c07da9d9d8aeaf135a2b82",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59c07d21d9d8aeaf135a2b7e",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c085acd9d8aeaf135a2b92"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c07da9d9d8aeaf135a2b82",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "59c07daed9d8aeaf135a2b83",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59c07d23d9d8aeaf135a2b7f",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c085acd9d8aeaf135a2b93"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c07daed9d8aeaf135a2b83",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "59c07db5d9d8aeaf135a2b84",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59c07d25d9d8aeaf135a2b80",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c085acd9d8aeaf135a2b94"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c07db5d9d8aeaf135a2b84",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-3-0"
+  },
+  {
+    "_id": "596d674632b40dca201c4bee",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf252ac7eab8472b8cb6d6",
+    "_items": [],
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "596d674632b40dca201c4bee",
+    "displayTitle": "ALWAYS OFFER EXCELLENT CUSTOMER SERVICE",
+    "body": "<p style=\"text-align: center;\">In each of these circumstances, offering excellent customer service could be deterring dishonesty, or if they are a genuine customer, they would appreciate the service and you could be assisting with a sale.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">But what happens if you’ve given great customer service and the customer starts becoming challenging or ignores you?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let’s take a look.&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Deter theft",
+    "_type": "component",
+    "_courseOrder": "0-4-4-0"
+  },
+  {
+    "_id": "59c08271d9d8aeaf135a2b8b",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59c0826cd9d8aeaf135a2b8a",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "59c08252d9d8aeaf135a2b85",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "itemIndex": 0,
+        "_id": "59c08276d9d8aeaf135a2b8c",
+        "title": "STEP 1: IDENTIFY SUSPICIOUS BEHAVIOUR",
+        "body": "<p style=\"text-align: center;\">Approach and greet all customers in your area.</p><p style=\"text-align: center;\">Be aware of suspicious body language and people avoiding eye contact as these are often signals that the customer wants to evade service.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "59c08252d9d8aeaf135a2b86",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "_id": "59c08276d9d8aeaf135a2b8d",
+        "itemIndex": 1,
+        "title": "STEP 2: APPROACH TO OFFER CUSTOMER SERVICE&nbsp;",
+        "body": "<p style=\"text-align: center;\">Approach all customers in a warm friendly manner and ask if they need any help with the item they are interested in.</p><p style=\"text-align: center;\">This lets the customer know you are aware of what they are holding, looking at, and are there to serve them in your department.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5a0a5f41d9f1d573fdb21ee7",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">Maintain your calm and remind the customer that you are there to help. If the customer becomes loud or aggressive, excuse yourself from the situation and call Operator 22.<br></p>",
+        "title": "STEP 3: CUSTOMER DISPLAYS CHALLENGING BEHAVIOUR",
+        "itemIndex": 2,
+        "_id": "59c08277d9d8aeaf135a2b8e"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "59c08252d9d8aeaf135a2b88",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">This initiates the operator 22 process and notifies store team members and management via the store PA system that assistance is required in a particular department, for example: </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">“Hi this is Sally. Operator 22 to the SuperDry counter please.”</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">As the team member who initiated operator 22, you must keep an eye on the customer until help arrives.</p>",
+        "_id": "59c08277d9d8aeaf135a2b8f",
+        "itemIndex": 3,
+        "title": "STEP 4: TEAM MEMBER CALLS 99 FOR OPERATOR 22 SUPPORT"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59c08252d9d8aeaf135a2b89"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "STEP 5: PEOPLE LEADER RESPONDS TO TEAM MEMBER",
+        "itemIndex": 4,
+        "_id": "59c08278d9d8aeaf135a2b90",
+        "body": "<p style=\"text-align: center;\">The People Leader establishes the following from the team member:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tWhat happened?</p><p style=\"text-align: center;\">•\tWhat do they look like?</p><p style=\"text-align: center;\">•\tAre they still in the store?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">All incidents are reported to the People Leader, who will contact police for any theft greater than $250.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The People Leader reports all incidents in the POS. More about this in the Reporting Incidents Learning Moment.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember, the nature of every incident is different so refer to the Shrinkage Communications Board and follow the process for your store.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59c08271d9d8aeaf135a2b8b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "59bf2a9fc7eab8472b8cb6dd",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf2a58c7eab8472b8cb6dc",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf2aa5c7eab8472b8cb6de",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf2a9fc7eab8472b8cb6dd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "59bf2b05c7eab8472b8cb6e1",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "596d5ecf32b40dca201c4bd7",
+    "_parentId": "59bf2afcc7eab8472b8cb6e0",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "599b80eaebca4a4008795070",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59bf2b05c7eab8472b8cb6e1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  }
+]

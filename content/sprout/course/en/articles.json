@@ -1,0 +1,1198 @@
+[
+  {
+    "_id": "5ac3113ccb93e62ac43fc904",
+    "_sortOrder": 0,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5ac3113ccb93e62ac43fc904",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "0-0",
+    "_childrenIds": [
+      "5ab9d8de428a2e3e00f24129",
+      "5ab9c49c428a2e3e00f23f89",
+      "5ab9c49c428a2e3e00f23f86",
+      "5ac3113ccb93e62ac43fc905"
+    ]
+  },
+  {
+    "_id": "5ab9c49c428a2e3e00f23f85",
+    "_sortOrder": 1,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "592cf7eccc6c57255d381326",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac4179970ebaa682e195b8b",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac4178770ebaa682e195b8a",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": null
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "BackBtnTop",
+    "_type": "article",
+    "_courseOrder": "0-1",
+    "_childrenIds": [
+      "5ab9c49c428a2e3e00f23f87",
+      "5ada4dfec03d4b17add82ad3"
+    ]
+  },
+  {
+    "_id": "5ab9ce56428a2e3e00f24099",
+    "_sortOrder": 2,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5a9f37fc3865607d6dca2817",
+    "displayTitle": "Every child, every occasion: the essence of Sprout",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac2fdadcb93e62ac43fc8f9",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ac2c8bfcb93e62ac43fc8f3"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": null
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": null
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "The Essence of Sprout",
+    "_type": "article",
+    "_courseOrder": "0-2",
+    "_childrenIds": [
+      "5ab9ce56428a2e3e00f2409a",
+      "5abc5135ef73ff4f4ffdaa84"
+    ]
+  },
+  {
+    "_id": "5ab9d9bf428a2e3e00f2412d",
+    "_sortOrder": 3,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5aab0c473865607d6dca3125",
+    "displayTitle": "",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Exploring a new world",
+    "_type": "article",
+    "_courseOrder": "0-3",
+    "_childrenIds": [
+      "5ab9d9bf428a2e3e00f2412e"
+    ]
+  },
+  {
+    "_id": "5ab9dfcc428a2e3e00f24133",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_sortOrder": 4,
+    "__v": 0,
+    "_refId": "5a9f37f73865607d6dca2814",
+    "displayTitle": "Sprout is for everyone!",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac41b7770ebaa682e195b8f",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ac41c4a70ebaa682e195b90"
+            }
+          }
+        },
+        "_isEnabled": true
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac2fd7ecb93e62ac43fc8f7",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac3105ccb93e62ac43fc903",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": null
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": null
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Sprout is for everyone!",
+    "_type": "article",
+    "_courseOrder": "0-4",
+    "_childrenIds": [
+      "5ab9dfcc428a2e3e00f24134"
+    ]
+  },
+  {
+    "_id": "5ac181ed00236e5d11d20b04",
+    "_sortOrder": 5,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5ac181ed00236e5d11d20b04",
+    "displayTitle": "What size is that?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-6",
+    "title": "What size is that?",
+    "_type": "article",
+    "_courseOrder": "0-5",
+    "_childrenIds": [
+      "5ac181ed00236e5d11d20b05",
+      "5ac1a57d00236e5d11d20b0a",
+      "5ac1a58d00236e5d11d20b0c",
+      "5ac41d7670ebaa682e195b91"
+    ]
+  },
+  {
+    "_id": "5ab9e1ed428a2e3e00f24138",
+    "_sortOrder": 6,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5ab9e1ed428a2e3e00f24138",
+    "displayTitle": "Sprout&#39;s other selling points",
+    "body": "<p style=\"text-align: center;\">There&rsquo;s more to Sprout than being a one-stop shop for every occasion and everyone. The following features make this kidswear brand extra special.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><em>Press the pictures of little angels to learn more.</em></span></p><p style=\"text-align: center;\"><br></p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Sprout's selling points",
+    "_type": "article",
+    "_courseOrder": "0-6",
+    "_childrenIds": [
+      "5ab9e1ed428a2e3e00f24139",
+      "5ab9e2ae428a2e3e00f2413b",
+      "5ab9e2c3428a2e3e00f2413d",
+      "5ab9e2e6428a2e3e00f2413f"
+    ]
+  },
+  {
+    "_id": "5ab9e4ce428a2e3e00f24142",
+    "_sortOrder": 7,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5aaefe32a937fd7383c97d82",
+    "displayTitle": "Did you know?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_id": "5aa9bd2f3865607d6dca2ee1",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Did you know?",
+    "_type": "article",
+    "_courseOrder": "0-7",
+    "_childrenIds": [
+      "5ab9e4ce428a2e3e00f24143"
+    ]
+  },
+  {
+    "_id": "5ab9e62b428a2e3e00f24145",
+    "_sortOrder": 8,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5aa764e33865607d6dca2b46",
+    "displayTitle": "How to make sales sprout",
+    "body": "<p style=\"text-align: center;\">Try these conversation starters to help your Sprout sales grow (just like your wee customers).</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_id": "5aa9bd2f3865607d6dca2ee1",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ac2fd7ecb93e62ac43fc8f6"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 99,
+            "src": {
+              "_id": "5ac2c8bfcb93e62ac43fc8f3",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-6",
+    "title": "How to make sales sprout",
+    "_type": "article",
+    "_courseOrder": "0-8",
+    "_childrenIds": [
+      "5ab9e62b428a2e3e00f24146"
+    ]
+  },
+  {
+    "_id": "5ab9ee1c428a2e3e00f24148",
+    "_sortOrder": 9,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5ab9ee1c428a2e3e00f24148",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Image Only",
+    "_type": "article",
+    "_courseOrder": "0-9",
+    "_childrenIds": [
+      "5ab9ee1c428a2e3e00f24149"
+    ]
+  },
+  {
+    "_id": "5ab9ef52428a2e3e00f2414c",
+    "_sortOrder": 10,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5aa791713865607d6dca2c25",
+    "displayTitle": "Check your knowledge",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac2fd7ecb93e62ac43fc8f6",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "small"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ac2c8bfcb93e62ac43fc8f3"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-3",
+    "title": "Knowledge Check",
+    "_type": "article",
+    "_courseOrder": "0-10",
+    "_childrenIds": [
+      "5ab9ef52428a2e3e00f2414d",
+      "5ac1d31700236e5d11d20b18",
+      "5ac1cf2800236e5d11d20b11"
+    ]
+  },
+  {
+    "_id": "5ab9f001428a2e3e00f24151",
+    "_sortOrder": 11,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5aa794c23865607d6dca2c57",
+    "displayTitle": "On to the next grand adventure&hellip;",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5aa9c15a3865607d6dca2ee9"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 50,
+            "src": {
+              "_id": "5ab1c3fea937fd7383c98145",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_size": "small",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "5ac2fd7ecb93e62ac43fc8f7"
+            }
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 100,
+            "src": {
+              "_id": "5ac3105ccb93e62ac43fc903",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": true
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": null
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_position": "center",
+      "_size": "initial",
+      "src": null
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "On to the next adventure",
+    "_type": "article",
+    "_courseOrder": "0-11",
+    "_childrenIds": [
+      "5ab9f001428a2e3e00f24152",
+      "5ab9f135428a2e3e00f2415c",
+      "5ab9f001428a2e3e00f24153"
+    ]
+  },
+  {
+    "_id": "5ac4232370ebaa682e195b92",
+    "_sortOrder": 12,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "5ac4232370ebaa682e195b92",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Sprout_Quote_02",
+    "_type": "article",
+    "_courseOrder": "0-12",
+    "_childrenIds": [
+      "5ada4c9bc03d4b17add82ad1"
+    ]
+  },
+  {
+    "_id": "5ab9f113428a2e3e00f24157",
+    "_sortOrder": 13,
+    "_parentId": "5ab9ba79428a2e3e00f23f78",
+    "_courseId": "5ab9ba74428a2e3e00f23f75",
+    "__v": 0,
+    "_refId": "592cf7eccc6c57255d381326",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "BackBtnBtm",
+    "_type": "article",
+    "_courseOrder": "0-13",
+    "_childrenIds": [
+      "5ab9f113428a2e3e00f24158",
+      "5ab9f113428a2e3e00f24159"
+    ]
+  }
+]

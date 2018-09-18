@@ -1,0 +1,273 @@
+[
+  {
+    "_id": "59a5f8beebca4a4008795193",
+    "_courseId": "59a5f89debca4a400879518e",
+    "_parentId": "59a5f8beebca4a4008795192",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59a5f8beebca4a4008795193",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "59b1fa1fdd5a5f5706c391ed",
+    "_courseId": "59a5f89debca4a400879518e",
+    "_parentId": "59b1fa1fdd5a5f5706c391ec",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b1fa1fdd5a5f5706c391ed",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "59b871d05dfae0c5453cd48d",
+    "_sortOrder": 0,
+    "_parentId": "59a5f982ebca4a4008795195",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "_refId": "59b871d05dfae0c5453cd48d",
+    "body": "<p style=\"text-align: center;\">Caulfield Cup has no strict dress code and is a star-studded event which hosts a typically younger crowd. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">White on white is a continuing trend for both men and women, alongside colour-blocked dresses and suits - think crisp white shirts, white lace and pale blue coordinates, with beige, blush and rose gold accessories.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Floral emblem:&nbsp;<span style=\"font-size: 16px;\">White Rose</span></b></p>",
+    "displayTitle": "Caulfield Cup",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "SpringRacing_KeyEvent_01",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "59b872c45dfae0c5453cd493",
+    "_sortOrder": 1,
+    "_parentId": "59a5f982ebca4a4008795195",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Derby Day has the strictest dress code and is defined by its black and white colour palette. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Women mix and match these classic monochromes, while men often opt for a more contemporary grey suit with white shirts and black ties, shoes, belts.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Floral emblem:&nbsp;<span style=\"font-size: 16px;\">Blue Cornflower</span></b></p>",
+    "displayTitle": "Derby Day",
+    "_refId": "59b872c45dfae0c5453cd493",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "SpringRacing_KeyEvent_02",
+    "_type": "block",
+    "_courseOrder": "0-2-1"
+  },
+  {
+    "_id": "59b872d35dfae0c5453cd496",
+    "_sortOrder": 2,
+    "_parentId": "59a5f982ebca4a4008795195",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Melbourne Cup is the race that stops the nation, so this is the best event to try something more adventurous. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">A day of style spectatorship, opt for bright, bold colours and elaborate hats, attention-grabbing outfit choices and vibrant accessories.</p>",
+    "displayTitle": "Melbourne Cup",
+    "_refId": "59b872d35dfae0c5453cd496",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "SpringRacing_KeyEvent_03",
+    "_type": "block",
+    "_courseOrder": "0-2-2"
+  },
+  {
+    "_id": "59b875e35dfae0c5453cd49e",
+    "_sortOrder": 3,
+    "_parentId": "59a5f982ebca4a4008795195",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "_refId": "59b875e35dfae0c5453cd49e",
+    "body": "<p style=\"text-align: center;\">Men’s fashion sees checks as this seasons style conscious statement. Mix plaid suiting with dark shirts and floral ties to stand out from the crowd.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Floral emblem:&nbsp;<span style=\"font-size: 16px;\">Yellow Rose</span></b></p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "MelbourneCupV2",
+    "_type": "block",
+    "_courseOrder": "0-2-3"
+  },
+  {
+    "_id": "59b872df5dfae0c5453cd498",
+    "_sortOrder": 4,
+    "_parentId": "59a5f982ebca4a4008795195",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Oaks Day, otherwise known as Ladies Day, suggests more romantic choices such as pastel colours, lace and floral prints.</p>",
+    "displayTitle": "Oaks Day",
+    "_refId": "59b872df5dfae0c5453cd498",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "SpringRacing_KeyEvent_04",
+    "_type": "block",
+    "_courseOrder": "0-2-4"
+  },
+  {
+    "_id": "59b876955dfae0c5453cd4a1",
+    "_sortOrder": 5,
+    "_parentId": "59a5f982ebca4a4008795195",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "_refId": "59b876955dfae0c5453cd4a1",
+    "body": "<p style=\"text-align: center;\">Men should select textured lightweight suits, with pink or floral shirts to help narrow down outfit choices. Stay away from dark suits.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Floral emblem:&nbsp;<span style=\"font-size: 16px;\">Pink Rose</span></b></p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "OaksDay_v2",
+    "_type": "block",
+    "_courseOrder": "0-2-5"
+  },
+  {
+    "_id": "59b872ef5dfae0c5453cd49a",
+    "_sortOrder": 6,
+    "_parentId": "59a5f982ebca4a4008795195",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Stakes Day celebrates the close of Spring Racing Carnival and is a relaxed family-friendly event. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">While dress codes are more relaxed, classic dressing can be expected. Pops of red against dark blue or neutral tones are an easy way to stay on trend.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Floral emblem:&nbsp;<span style=\"font-size: 16px;\">Red Rose</span></b></p>",
+    "displayTitle": "Stakes Day",
+    "_refId": "59b872ef5dfae0c5453cd49a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "SpringRacing_KeyEvent_05",
+    "_type": "block",
+    "_courseOrder": "0-2-6"
+  },
+  {
+    "_id": "59b33d47388a12ca3fce79f4",
+    "_courseId": "59a5f89debca4a400879518e",
+    "_parentId": "59b33d47388a12ca3fce79f3",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b33d47388a12ca3fce79f4",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "GET THE LOOK",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "59b1fcccdd5a5f5706c391f1",
+    "_courseId": "59a5f89debca4a400879518e",
+    "_parentId": "59b1fcccdd5a5f5706c391f0",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b1fcccdd5a5f5706c391f1",
+    "displayTitle": "",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Conversation starters to assist customers",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "59b20195dd5a5f5706c391fa",
+    "_courseId": "59a5f89debca4a400879518e",
+    "_parentId": "59b20195dd5a5f5706c391f9",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b20195dd5a5f5706c391fa",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "59b882525dfae0c5453cd4ac",
+    "_sortOrder": 1,
+    "_parentId": "59b20195dd5a5f5706c391f9",
+    "_courseId": "59a5f89debca4a400879518e",
+    "__v": 0,
+    "_refId": "59b882525dfae0c5453cd4ac",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-5-1"
+  },
+  {
+    "_id": "59b8829e5dfae0c5453cd4b2",
+    "_courseId": "59a5f89debca4a400879518e",
+    "_parentId": "59b8829e5dfae0c5453cd4b1",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b8829e5dfae0c5453cd4b2",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  }
+]

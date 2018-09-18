@@ -1,0 +1,407 @@
+[
+  {
+    "_id": "5aaa23a23865607d6dca30cb",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5aaa23a23865607d6dca30ca",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5aaa23a23865607d6dca30cb",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "5a8220323865607d6dca1724",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220323865607d6dca1723",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"\">Everyone has a unique skin tone. Not only do we differ from one another, but also, different parts of our face and body are different: changing over the seasons and with exposure to the elements.<br></p><p style=\"\"><br></p><p style=\"\">In this Learning Moment, we ask:</p><p style=\"\"><i>\"How do I tell if a colour suits me?\"</i></p><p style=\"\"><i>\"How do I tell if a colour suits someone else?\"</i></p>",
+    "_refId": "58e6ba6faf77c6741fdb1c46",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Colour_IntroText",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "5a822e6d3865607d6dca17d5",
+    "_sortOrder": 0,
+    "_parentId": "5a8220333865607d6dca1742",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a822e6d3865607d6dca17d5",
+    "body": "<p style=\"text-align: center;\">Artist Angelica Dass photographed people in countries all around the world. Then, she matched each person's skin tone to Pantone's colour reference guides. The results were surprising.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Dass identified literally hundreds of different skin colours. She concluded that we live in a 'global mosaic' of skin colour diversity, and that skin colour has little relation to traditional views of nationality and race.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "WhatAreTheRules_IntroText",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "5a83b74c3865607d6dca1ed2",
+    "_sortOrder": 1,
+    "_parentId": "5a8220333865607d6dca1742",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83b74c3865607d6dca1ed2",
+    "displayTitle": "",
+    "body": "<br>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "WhatAreTheRules_Question",
+    "_type": "block",
+    "_courseOrder": "0-2-1"
+  },
+  {
+    "_id": "5a8651ac3865607d6dca1f8a",
+    "_sortOrder": 0,
+    "_parentId": "5a8220333865607d6dca1749",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a8651ac3865607d6dca1f8a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "5a864f3b3865607d6dca1f75",
+    "_sortOrder": 1,
+    "_parentId": "5a8220333865607d6dca1749",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a864f3b3865607d6dca1f75",
+    "body": "<p style=\"text-align: center;\">So, if there are no rules, how do we decide what suits us?</p><p style=\"text-align: center;\">Here are some steps:</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-3-1"
+  },
+  {
+    "_id": "5a83a7c33865607d6dca1dc7",
+    "_sortOrder": 2,
+    "_parentId": "5a8220333865607d6dca1749",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83a7c33865607d6dca1dc7",
+    "displayTitle": "Try it out",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "ThereAreNoRules_TryItOut",
+    "_type": "block",
+    "_courseOrder": "0-3-2"
+  },
+  {
+    "_id": "5a83a8ef3865607d6dca1de6",
+    "_sortOrder": 3,
+    "_parentId": "5a8220333865607d6dca1749",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83a8ef3865607d6dca1de6",
+    "displayTitle": "Be wary of neutrals",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "ThereAreNoRules_BeWaryOfNeutrals",
+    "_type": "block",
+    "_courseOrder": "0-3-3"
+  },
+  {
+    "_id": "5a83ab883865607d6dca1e2d",
+    "_sortOrder": 4,
+    "_parentId": "5a8220333865607d6dca1749",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83ab883865607d6dca1e2d",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "ThereAreNoRules_BeWaryOfNeutrals2",
+    "_type": "block",
+    "_courseOrder": "0-3-4"
+  },
+  {
+    "_id": "5a83acf93865607d6dca1e48",
+    "_sortOrder": 5,
+    "_parentId": "5a8220333865607d6dca1749",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83acf93865607d6dca1e48",
+    "displayTitle": "What do you think?",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "ThereAreNoRules_WhatDoYouThink",
+    "_type": "block",
+    "_courseOrder": "0-3-5"
+  },
+  {
+    "_id": "5a83cc3e3865607d6dca1f50",
+    "_sortOrder": 0,
+    "_parentId": "5a8220323865607d6dca1725",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83cc3e3865607d6dca1f50",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "5a8220323865607d6dca1726",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220323865607d6dca1725",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58e6c09aaf77c6741fdb1c4d",
+    "body": "<p style=\"text-align: center;\">&nbsp;</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "ColourAndTheSkin_ImageHavingAStylingConversation",
+    "_type": "block",
+    "_courseOrder": "0-4-1"
+  },
+  {
+    "_id": "5a83b1073865607d6dca1e7f",
+    "_sortOrder": 2,
+    "_parentId": "5a8220323865607d6dca1725",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83b1073865607d6dca1e7f",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-4-2"
+  },
+  {
+    "_id": "5aa78c963865607d6dca2be6",
+    "_sortOrder": 0,
+    "_parentId": "5aa999913865607d6dca2dd3",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5aa78c963865607d6dca2be6",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": "40"
+    },
+    "title": "ColourOnTheSkin_StyleConversations_Accordion",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "5a8220343865607d6dca1775",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220343865607d6dca1774",
+    "_sortOrder": 0,
+    "__v": 0,
+    "body": "",
+    "_refId": "591d26e6ad04f4d3201a7c36",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "ColourAndTheSkin_Links01",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "5a825ced3865607d6dca1c23",
+    "_sortOrder": 1,
+    "_parentId": "5a8220343865607d6dca1774",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a825ced3865607d6dca1c23",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "ColourAndTheSkin_Links02",
+    "_type": "block",
+    "_courseOrder": "0-6-1"
+  },
+  {
+    "_id": "5a8260983865607d6dca1cb1",
+    "_sortOrder": 2,
+    "_parentId": "5a8220343865607d6dca1774",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a8260983865607d6dca1cb1",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "ColourAndTheSkin_Links04",
+    "_type": "block",
+    "_courseOrder": "0-6-2"
+  },
+  {
+    "_id": "5a83c9373865607d6dca1f3f",
+    "_sortOrder": 3,
+    "_parentId": "5a8220343865607d6dca1774",
+    "_courseId": "5a8220323865607d6dca171c",
+    "__v": 0,
+    "_refId": "5a83c9373865607d6dca1f3f",
+    "displayTitle": "How are you going to help customers with their colour choices with this new knowledge?",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-3"
+  },
+  {
+    "_id": "5aaa24633865607d6dca30d6",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5aaa24633865607d6dca30d5",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5aaa24633865607d6dca30d6",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  },
+  {
+    "_id": "5a8220343865607d6dca1772",
+    "_courseId": "5a8220323865607d6dca171c",
+    "_parentId": "5a8220333865607d6dca1771",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "591d267dad04f4d3201a7c33",
+    "displayTitle": "",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-8-0"
+  }
+]

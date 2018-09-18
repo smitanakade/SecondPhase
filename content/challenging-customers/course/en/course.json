@@ -1,0 +1,2181 @@
+{
+  "_id": "5aab416f45656339a2ac3481",
+  "_createdAt": 1521172847255,
+  "_modifiedAt": 1524431301126,
+  "_editLog": [
+    {
+      "_id": "5ab055efa937fd7383c97ec0",
+      "_updatedBy": "5a39ac0c478bb0199e43c392",
+      "_updatedAt": "2018-03-20T00:29:35.115Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5ab055e2a937fd7383c97ebf",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-20T00:29:22.152Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5ab055d2a937fd7383c97ebe",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-20T00:29:06.781Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5ab055d1a937fd7383c97ebd",
+      "_updatedBy": "5a39ac0c478bb0199e43c392",
+      "_updatedAt": "2018-03-20T00:29:05.133Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5ab055caa937fd7383c97ebc",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-20T00:28:58.925Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab557a45656339a2ac3584",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:26:18.857Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "5aab556545656339a2ac3583",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:25:57.700Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_03",
+      "_model": "5aab500445656339a2ac356c"
+    },
+    {
+      "_id": "5aab555945656339a2ac3582",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:25:45.562Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab552a45656339a2ac3581",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:24:58.147Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab4e6445656339a2ac355f"
+    },
+    {
+      "_id": "5aab552745656339a2ac3580",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:24:55.023Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab4e6445656339a2ac355f"
+    },
+    {
+      "_id": "5aab551345656339a2ac357f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:24:35.704Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab4e6445656339a2ac355f"
+    },
+    {
+      "_id": "5aab550845656339a2ac357e",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:24:24.235Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab4e6445656339a2ac355f"
+    },
+    {
+      "_id": "5aab550045656339a2ac357d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:24:16.480Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab4e6445656339a2ac355f"
+    },
+    {
+      "_id": "5aab54c945656339a2ac357c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:23:21.338Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_02",
+      "_model": "5aab4e6445656339a2ac355d"
+    },
+    {
+      "_id": "5aab54ad45656339a2ac357b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:22:53.953Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab54ac45656339a2ac357a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:22:52.001Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab541045656339a2ac3579",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:20:16.163Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab540645656339a2ac3577",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:20:06.341Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab509c45656339a2ac3576",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:05:32.019Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_01",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab508845656339a2ac3575",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:05:12.687Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab505545656339a2ac3574",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:04:21.711Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab416f45656339a2ac348a"
+    },
+    {
+      "_id": "5aab505245656339a2ac3573",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:04:18.032Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab416f45656339a2ac348a"
+    },
+    {
+      "_id": "5aab504145656339a2ac3572",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:04:01.222Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab416f45656339a2ac348a"
+    },
+    {
+      "_id": "5aab501645656339a2ac3571",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:03:18.398Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_03",
+      "_model": "5aab500445656339a2ac356c"
+    },
+    {
+      "_id": "5aab501545656339a2ac3570",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:03:17.711Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_0",
+      "_model": "5aab500445656339a2ac356c"
+    },
+    {
+      "_id": "5aab500445656339a2ac356f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:03:00.762Z",
+      "_updateType": "CREATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_02",
+      "_model": "5aab500445656339a2ac356c"
+    },
+    {
+      "_id": "5aab4fee45656339a2ac356b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:02:38.711Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_TextReveal01",
+      "_model": "5aab416f45656339a2ac349b"
+    },
+    {
+      "_id": "5aab4fec45656339a2ac356a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:02:36.466Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_GraphicAndImage01",
+      "_model": "5aab416f45656339a2ac3492"
+    },
+    {
+      "_id": "5aab4fe645656339a2ac3569",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:02:30.049Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_TextReveal02",
+      "_model": "5aab417045656339a2ac34a1"
+    },
+    {
+      "_id": "5aab4fe345656339a2ac3568",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:02:27.793Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_GraphicAndImage02",
+      "_model": "5aab416f45656339a2ac3495"
+    },
+    {
+      "_id": "5aab4fe045656339a2ac3567",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:02:24.787Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_GraphicAndImage04",
+      "_model": "5aab416f45656339a2ac349e"
+    },
+    {
+      "_id": "5aab4fde45656339a2ac3566",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:02:22.647Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_GraphicAndImage_03",
+      "_model": "5aab416f45656339a2ac3498"
+    },
+    {
+      "_id": "5aab4fda45656339a2ac3565",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T05:02:18.599Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_TextReveal02",
+      "_model": "5aab417045656339a2ac34a4"
+    },
+    {
+      "_id": "5aab4ed145656339a2ac3564",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:57:53.138Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab4e6445656339a2ac355f"
+    },
+    {
+      "_id": "5aab4e9a45656339a2ac3563",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:56:58.945Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab4e6445656339a2ac355f"
+    },
+    {
+      "_id": "5aab4e6b45656339a2ac3562",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:56:11.606Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_02",
+      "_model": "5aab4e6445656339a2ac355d"
+    },
+    {
+      "_id": "5aab4e6a45656339a2ac3561",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:56:10.910Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_0",
+      "_model": "5aab4e6445656339a2ac355d"
+    },
+    {
+      "_id": "5aab4e6445656339a2ac3560",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:56:04.448Z",
+      "_updateType": "CREATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_01",
+      "_model": "5aab4e6445656339a2ac355d"
+    },
+    {
+      "_id": "5aab4e5245656339a2ac355c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:46.871Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Flip_01",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab4e5245656339a2ac355b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:46.188Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Fip_01",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab4e4e45656339a2ac355a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:42.344Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_FLip_01",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab4e4d45656339a2ac3559",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:41.298Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_FLip_",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab4e4b45656339a2ac3558",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:39.495Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab4e4a45656339a2ac3557",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:38.466Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab4e3b45656339a2ac3556",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:23.636Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4e2d45656339a2ac3555",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:55:09.598Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4dd945656339a2ac3554",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:53:45.861Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4dd345656339a2ac3553",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:53:39.241Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4dc845656339a2ac3551",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:53:28.904Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d5745656339a2ac3550",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:51:35.184Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d4645656339a2ac354f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:51:18.766Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d4045656339a2ac354e",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:51:12.139Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d3545656339a2ac354d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:51:01.266Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d2b45656339a2ac354c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:50:51.763Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d1c45656339a2ac354b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:50:36.010Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d1445656339a2ac354a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:50:28.488Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d0c45656339a2ac3549",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:50:20.488Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4d0545656339a2ac3548",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:50:13.060Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4cfc45656339a2ac3547",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:50:04.409Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab4cef45656339a2ac3545",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:49:51.401Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab49e945656339a2ac3544",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:36:57.968Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab416f45656339a2ac348a"
+    },
+    {
+      "_id": "5aab49e645656339a2ac3543",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:36:54.479Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab416f45656339a2ac348a"
+    },
+    {
+      "_id": "5aab49b645656339a2ac3542",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:36:06.715Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab49ad45656339a2ac3541",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:35:57.575Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab49a845656339a2ac3540",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:35:52.490Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab49a645656339a2ac353f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:35:50.738Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab499a45656339a2ac353e",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:35:38.070Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab497d45656339a2ac353d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:35:09.337Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab496d45656339a2ac353c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:53.689Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab496245656339a2ac353b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:42.050Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab495b45656339a2ac353a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:35.143Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab495a45656339a2ac3539",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:34.010Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab495145656339a2ac3538",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:25.089Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab494d45656339a2ac3537",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:21.711Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab494c45656339a2ac3536",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:20.343Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab494945656339a2ac3535",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:17.736Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab494045656339a2ac3534",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:08.336Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab493c45656339a2ac3533",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:34:04.603Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab492d45656339a2ac3532",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:49.780Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab492b45656339a2ac3531",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:47.645Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab492645656339a2ac3530",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:42.694Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab491745656339a2ac352f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:27.682Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab491645656339a2ac352e",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:26.094Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab490d45656339a2ac352d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:17.299Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab490b45656339a2ac352c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:15.007Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab490845656339a2ac352b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:33:12.468Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab48e245656339a2ac352a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:32:34.697Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab48e045656339a2ac3529",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:32:32.322Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab48d845656339a2ac3528",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:32:24.351Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab48d745656339a2ac3527",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:32:23.077Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab48a245656339a2ac3526",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:31:30.881Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab489545656339a2ac3525",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:31:17.054Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab488b45656339a2ac3524",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:31:07.879Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab488a45656339a2ac3523",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:31:06.424Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab485045656339a2ac3522",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:30:08.029Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab484345656339a2ac3521",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:29:55.236Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab483845656339a2ac3520",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:29:44.125Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab482945656339a2ac351f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:29:29.556Z",
+      "_updateType": "CREATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Single Flip Card Title",
+      "_model": "5aab482945656339a2ac351e"
+    },
+    {
+      "_id": "5aab481f45656339a2ac351d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:29:19.499Z",
+      "_updateType": "CREATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab481f45656339a2ac351b"
+    },
+    {
+      "_id": "5aab47f045656339a2ac351a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:28:32.394Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab47ed45656339a2ac3519",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:28:29.066Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab470245656339a2ac3518",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:34.414Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab470145656339a2ac3517",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:33.044Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46f745656339a2ac3516",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:23.836Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46f645656339a2ac3515",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:22.912Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46f645656339a2ac3514",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:22.330Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46ee45656339a2ac3513",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:14.474Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46eb45656339a2ac3512",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:11.321Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46e645656339a2ac3511",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:06.018Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46e045656339a2ac3510",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:24:00.649Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46dd45656339a2ac350f",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:23:57.838Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46dc45656339a2ac350e",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:23:56.577Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46d445656339a2ac350d",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:23:48.595Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46cf45656339a2ac350c",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:23:43.654Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46b445656339a2ac350b",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:23:16.951Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46b245656339a2ac350a",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:23:14.054Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46a545656339a2ac3509",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:23:01.532Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab46a045656339a2ac3508",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:22:56.878Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab466145656339a2ac3507",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:53.443Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab465e45656339a2ac3506",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:50.229Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab465b45656339a2ac3505",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:47.728Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab465945656339a2ac3504",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:45.062Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab464345656339a2ac3503",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:23.441Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab464245656339a2ac3502",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:22.197Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab464045656339a2ac3501",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:20.696Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab463f45656339a2ac3500",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:21:19.154Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab45a945656339a2ac34ff",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:49.939Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab45a745656339a2ac34fe",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:47.601Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab45a645656339a2ac34fd",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:46.105Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab45a445656339a2ac34fc",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:44.133Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab45a245656339a2ac34fb",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:42.741Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab45a045656339a2ac34fa",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:40.388Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab459e45656339a2ac34f9",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:38.464Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab459a45656339a2ac34f8",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:18:34.442Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43de45656339a2ac34f7",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:11:10.261Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43db45656339a2ac34f6",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:11:07.246Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43d845656339a2ac34f5",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:11:04.285Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43c545656339a2ac34f4",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:45.195Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43c345656339a2ac34f3",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:43.725Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43bd45656339a2ac34f2",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:37.225Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43bb45656339a2ac34f1",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:35.854Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43b345656339a2ac34f0",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:27.215Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43b045656339a2ac34ef",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:24.737Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43af45656339a2ac34ee",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:23.023Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43ad45656339a2ac34ec",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:21.794Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43ac45656339a2ac34eb",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:20.405Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab43a145656339a2ac34ea",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:09.561Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab439e45656339a2ac34e9",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:06.861Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab439a45656339a2ac34e8",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:02.679Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab439845656339a2ac34e7",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:10:00.499Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab439645656339a2ac34e6",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:09:58.557Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab437f45656339a2ac34e5",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:09:35.708Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab437c45656339a2ac34e4",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:09:32.750Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab437745656339a2ac34e3",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:09:27.989Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab437645656339a2ac34e2",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:09:26.536Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab436e45656339a2ac34e1",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:09:18.201Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab436345656339a2ac34e0",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:09:07.915Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab431645656339a2ac34df",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:07:50.207Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue02",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab431545656339a2ac34de",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:07:49.057Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_Dialogue",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab430d45656339a2ac34dd",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:07:41.781Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "ChallengingCustomers_Dialogue_02Block",
+      "_model": "5aab41d945656339a2ac34bf"
+    },
+    {
+      "_id": "5aab430645656339a2ac34dc",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:07:34.099Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Dialogue_02Article",
+      "_model": "5aab41d945656339a2ac34be"
+    },
+    {
+      "_id": "5aab430545656339a2ac34db",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:07:33.294Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Dialogue_0Article",
+      "_model": "5aab41d945656339a2ac34be"
+    },
+    {
+      "_id": "5aab42eb45656339a2ac34da",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:07:07.558Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42e345656339a2ac34d9",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:59.958Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42e145656339a2ac34d8",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:57.911Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42df45656339a2ac34d7",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:55.639Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42d845656339a2ac34d6",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:48.294Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42d545656339a2ac34d5",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:45.800Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42d445656339a2ac34d4",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:44.448Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42d345656339a2ac34d2",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:43.766Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42cc45656339a2ac34d0",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:36.629Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42c245656339a2ac34cf",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:26.859Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab42b845656339a2ac34ce",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:06:16.786Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab428c45656339a2ac34ca",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:05:32.369Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab427945656339a2ac34c8",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:05:13.875Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab427845656339a2ac34c7",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:05:12.837Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab41d945656339a2ac34c1"
+    },
+    {
+      "_id": "5aab426d45656339a2ac34c6",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:05:01.262Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5aab41d945656339a2ac34c2"
+    },
+    {
+      "_id": "5aab425f45656339a2ac34c4",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:04:47.080Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5aab41d945656339a2ac34c2"
+    },
+    {
+      "_id": "5aab41d945656339a2ac34c3",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:02:33.370Z",
+      "_updateType": "CREATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Dialogue_01Article",
+      "_model": "5aab41d945656339a2ac34be"
+    },
+    {
+      "_id": "5aab41c045656339a2ac34bc",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:02:08.738Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab41bb45656339a2ac34b9"
+    },
+    {
+      "_id": "5aab41bb45656339a2ac34bb",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:02:03.066Z",
+      "_updateType": "CREATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab41bb45656339a2ac34b9"
+    },
+    {
+      "_id": "5aab41ae45656339a2ac34b8",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:01:50.185Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab416f45656339a2ac348a"
+    },
+    {
+      "_id": "5aab41ad45656339a2ac34b6",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:01:49.479Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "ChallengingCustomers_DialogueArticle_01",
+      "_model": "5aab416f45656339a2ac348a"
+    },
+    {
+      "_id": "5aab418f45656339a2ac34b4",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:01:19.501Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab416f45656339a2ac348d"
+    },
+    {
+      "_id": "5aab418c45656339a2ac34b3",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:01:16.017Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aab417045656339a2ac34ac"
+    },
+    {
+      "_id": "5aab418945656339a2ac34b2",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:01:13.368Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ChallengingCustomers_Dialogue_01Article",
+      "_model": "5aab417045656339a2ac34a7"
+    },
+    {
+      "_id": "5aab417c45656339a2ac34b1",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:01:00.795Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "5aab417b45656339a2ac34b0",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:00:59.656Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "5aab417745656339a2ac34af",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-16T04:00:55.576Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    }
+  ],
+  "__v": 0,
+  "_refId": "5aa70d363865607d6dca29e0",
+  "_theme": "590a5e224c6211380e52bd83",
+  "_swipeMenu": {
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    },
+    "_shouldHideDisabledControl": false,
+    "_shouldShowControlsOnHover": false,
+    "_shouldPartiallyShowNextItem": false,
+    "_shouldAlwaysShowItems": false,
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics",
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_desktopBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    }
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerWidth": 0
+  },
+  "_coverMenu": {
+    "homeButtonAriaLabel": "Home",
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View"
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_itemsPerRowMedium": 2,
+    "_itemsPerRowLarge": 2,
+    "itemCompletionText": "Complete",
+    "_showCompletionStatusInFooter": false,
+    "_showCompletionStatusOnMenus": false,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_contentLocking": {
+    "unlockedNotifyMessage": " ",
+    "_isEnabled": true
+  },
+  "_pageCompletionMethod": "components",
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    }
+  },
+  "_courseTags": [],
+  "_fonts": {
+    "_installed": [],
+    "_google": []
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "incorrectIconAriaLabel": "incorrect",
+    "correctIconAriaLabel": "correct",
+    "_feedbackText": {
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "Close"
+    },
+    "_showFeedback": {
+      "_isDisabled": false,
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "Show Feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "Hide Answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "Show Answer"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "Submit"
+    }
+  },
+  "_footerNav": {
+    "_hasHomeButton": false,
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": false
+  },
+  "_notify": {
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "navigationLogoAlt": "",
+    "notifyButtonAriaLabel": "",
+    "navigationSkipContentAriaLabel": "",
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": false
+  },
+  "_version": {
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
+  },
+  "_reviews": {
+    "_reviews": [],
+    "_isUnderReview": false
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "title": "Challenging Customers",
+  "_type": "course",
+  "_childrenIds": [
+    "5aab416f45656339a2ac3484"
+  ]
+}

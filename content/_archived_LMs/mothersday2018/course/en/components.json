@@ -1,0 +1,2922 @@
+[
+  {
+    "_id": "5acd821b1e16803cc70f91b4",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5acd821b1e16803cc70f91b3",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.html",
+        "itemTitle": "BACK",
+        "_id": "5994135aebca4a4008794fd3",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acd821b1e16803cc70f91b4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5ad95613958735596ee1636b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad95608958735596ee1636a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad95613958735596ee1636b",
+    "body": "<p style=\"text-align: center;\">At Myer, we&rsquo;ve got things completely covered when it comes to Mother&rsquo;s Day, providing everything any mum could possibly want &ndash; and then some &ndash; under the one roof(s). Nowhere else comes close to our range, which caters to all types of mums at all price points. This year our Mother&#39;s Day campaign (1-13 May) celebrates our amazing in-store mums who are always on hand to provide excellent advice &ndash; if in doubt, ask a mum on the floor.</p>",
+    "displayTitle": "MYER IS <em>THE</em> DESTINATION FOR MOTHER&#39;S DAY",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5ad69312916a693cd147655f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ac572ee2469de5f135cd69f",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad69312916a693cd147655f",
+    "body": "<p>Of course, the conversation doesn&rsquo;t have to start out being explicitly about Mother&rsquo;s Day. You could be chatting about how quickly the year&rsquo;s going, and then say something like &lsquo;I can&rsquo;t believe Mother&rsquo;s Day is just around the corner again!&rsquo;. Even that old chestnut the weather could be steered towards the topic: &lsquo;It&rsquo;s such a gorgeous autumn day outside, isn&rsquo;t it? I hope it&rsquo;s like this on Mother&rsquo;s Day because I&rsquo;m taking my mum to the botanical gardens.&rsquo;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5ad7b93a8e81821d4a96f49f",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad7b93a8e81821d4a96f49e",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad7b9998e81821d4a96f4a0"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5ad71e4e916a693cd14765dd",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad7b93a8e81821d4a96f49f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5ad53a5c6d2ab7538d0b8066",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad53a256d2ab7538d0b8065",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad53a5c6d2ab7538d0b8066",
+    "displayTitle": "GIFT IDEAS FOR EVERY TYPE OF MUM<br><sup>(AND EVERY BUDGET)</sup>",
+    "body": "<p>Now that you have an idea of the type of person your customer&rsquo;s shopping for, here are some gift suggestions for them at different price points. Each of our stores will have items curated at these price points to make it even easier for you to do the legwork for (and delight!) your customers.</p><p><br></p><p>With anyone who feels they&rsquo;re taking a risk with their gift selection, especially when buying expensive presents, you can give them peace of mind by reminding them of our &lsquo;No regrets policy&rsquo;. We can also provide customers with a gift receipt, making it easier for mum to exchange her gift.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5acd57941e16803cc70f91a3",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5acd577c1e16803cc70f91a2",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad6958b916a693cd1476560"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad69599916a693cd1476561"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5acd57941e16803cc70f91a3",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5acd579b1e16803cc70f91a5",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5acd57961e16803cc70f91a4",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5acd579b1e16803cc70f91a5",
+    "body": "<p style=\"text-align: center;\">This is the mum who loves things like fragrances, fashion and putting her best face forward. She likes to look and feel good, takes grooming seriously and will never say no to a little extra luxe in her life.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5acd57ca1e16803cc70f91a7",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5acd579c1e16803cc70f91a6",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad69701916a693cd1476562",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "_id": "5acd57d31e16803cc70f91a9",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $30</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Help mum get glammed to the max with limited edition Revlon Super Lustrous Live Boldly lipstick.</p><p style=\"text-align: center;\">Only at Myer.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad698b7916a693cd1476565",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5acd57d41e16803cc70f91aa",
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $50</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">VS Sassoon Elegance straightener pack &ndash; includes argan-infused ceramic-technology straightener, salon wrap, sectioning clips and salon brush. All glam mum&rsquo;s hair essentials in one pretty-in-pink kit!</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad69864916a693cd1476564",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5acd57d41e16803cc70f91ab",
+        "itemIndex": 2,
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $80</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Olga Berg Selena mesh pouch in rose gold &ndash; a designer clutch for the sophisticated mum.<br>&nbsp;Also available in black.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5acd57ca1e16803cc70f91a7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "5ad69c41916a693cd147656a",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad69c41916a693cd1476567",
+    "__v": 0,
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad69ca0916a693cd147656d"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad69caf916a693cd147656e"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad69c41916a693cd147656a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5ad69c41916a693cd147656b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad69c41916a693cd1476568",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Sporty mum&rsquo;s preferred attire is activewear and she prioritises health and fitness, never leaving home without her Fitbit. Speaking of which, the new Fitbit Versa health and fitness smartwatch, which has just landed in-store, would be the perfect top-end gift suggestion for this type of mum.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad69c41916a693cd147656b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5ad69c41916a693cd147656c",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad69c41916a693cd1476569",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5ad69e0c916a693cd147656f"
+          }
+        },
+        "title": "",
+        "_id": "5acd57d31e16803cc70f91a9",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $30</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Make sure active mum stays hydrated with a 500mL Oasis stainless-steel insulated drink bottle.<br>&nbsp;Available in tropical or galaxy.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5ad69f21916a693cd1476570"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5acd57d41e16803cc70f91aa",
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $50</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If there&rsquo;s one thing sporty mum can never have enough of, it&rsquo;s leggings. Delight her with this Bonds spliced full-length pair.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad69fdb916a693cd1476571",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5acd57d41e16803cc70f91ab",
+        "itemIndex": 2,
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $80</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Help mum stand out from the active pack in this vibrant and fun, lightweight Bonds jacket with drawstring hood.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad69c41916a693cd147656c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5ad6a590916a693cd147657d",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6a590916a693cd147657a",
+    "__v": 0,
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad6a65e916a693cd1476580"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad6a6a3916a693cd1476581"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6a590916a693cd147657d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5ad6a590916a693cd147657e",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6a590916a693cd147657b",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">This type of mum has elevated relaxation to an art form. She schedules regular massages, takes long baths in the company of candles and would live in her pjs if she could. You really can&rsquo;t go wrong giving a relaxation mum pyjamas, and you really can&rsquo;t go past Myer for sleepwear selection &ndash; we have nearly 30 different pyjama-set styles.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6a590916a693cd147657e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5ad6a590916a693cd147657f",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6a590916a693cd147657c",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5ad6abda916a693cd1476595"
+          }
+        },
+        "title": "",
+        "_id": "5acd57d31e16803cc70f91a9",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $30</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Guaranteed-to-please pyjamas. These ones are a Soho Basics set and they&rsquo;re excellent value &ndash; $30 each or two sets for $50.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad6adfb916a693cd1476598"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5acd57d41e16803cc70f91aa",
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $50</strong></p><p><br></p><p style=\"text-align: center;\">&nbsp;The limited edition pink pepper and violet musk candle from the Aromatherapy Co Therapy range is perfect for creating a relaxing vibe.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6ae8e916a693cd1476599",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5acd57d41e16803cc70f91ab",
+        "itemIndex": 2,
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $80</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Homedics Shiatsu and vibration neck massager &ndash; no need to even get out of your pjs for this massage!</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6a590916a693cd147657f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-2-0"
+  },
+  {
+    "_id": "5ad6aecc916a693cd14765a0",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6aecc916a693cd147659b",
+    "__v": 0,
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad6affb916a693cd14765a4"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad6b031916a693cd14765a5"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6aecc916a693cd14765a0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5ad6aecc916a693cd147659e",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6aecc916a693cd147659c",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Whether she&rsquo;s baking, preparing or serving food, reading about food or simply eating it, foodie mum spends a large chunk of her time engaging with one of life&rsquo;s great pleasures. Oh and don&rsquo;t forget the wine with that!</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6aecc916a693cd147659e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "5ad6aecc916a693cd147659f",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6aecc916a693cd147659d",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6b0ca916a693cd14765a6",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "_id": "5acd57d31e16803cc70f91a9",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $30</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The new Heritage three-tier coupe cake stand is the ideal way for baking mum to display her cupcake-making prowess.<br>&nbsp;Only at Myer.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6b19a916a693cd14765a7",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5acd57d41e16803cc70f91aa",
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $50</strong></p><p><br></p><p style=\"text-align: center;\">What says &lsquo;love you mum&rsquo; more than these &lsquo;love&rsquo; dinner plates by Ellen de Generes for Royal Doulton? With hand-drawn designs, they come gift-boxed in a set of four.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6b234916a693cd14765a8",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5acd57d41e16803cc70f91ab",
+        "itemIndex": 2,
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $80</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Maxwell &amp; Williams Mansion 1.8L decanter &ndash; after all, mum&rsquo;s legendary dinner parties deserve a nicely decanted red.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6aecc916a693cd147659f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  },
+  {
+    "_id": "5ad6b3cc916a693cd14765b5",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6b3cc916a693cd14765b0",
+    "__v": 0,
+    "body": "",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad741978e81821d4a96f49b"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ad741ea8e81821d4a96f49c"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6b3cc916a693cd14765b5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5ad6b3cc916a693cd14765b3",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6b3cc916a693cd14765b1",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Tech mum is switched on, wireless and oh so digitally savvy &ndash; you&rsquo;ll never catch her with anything but the latest smartphone. She&rsquo;s connected 24/7 and wouldn&rsquo;t have it any other way.</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6b3cc916a693cd14765b3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  },
+  {
+    "_id": "5ad6b3cc916a693cd14765b4",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6b3cc916a693cd14765b2",
+    "__v": 0,
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6b52d916a693cd14765ba",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "_id": "5acd57d31e16803cc70f91a9",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $30</strong></p><p><br></p><p style=\"text-align: center;\">The inCharge 2500mAh portable power bank in rose gold &ndash; a permanent power supply at tech mum&rsquo;s fingertips.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6b5cb916a693cd14765bb",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5acd57d41e16803cc70f91aa",
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $50</strong></p><p><br></p><p style=\"text-align: center;\">Protect mum&rsquo;s iPhone X with this gorgeous Saoir Oriental Blossom Ted Baker case.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ad6cd87916a693cd14765bc",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "5acd57d41e16803cc70f91ab",
+        "itemIndex": 2,
+        "title": "",
+        "body": "<p style=\"text-align: center;\"><strong>UNDER $80</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These JBL wireless on-ear headphones will please mum on all fronts &ndash; they&rsquo;re comfortable and stylish, you can switch easily between music and calls, and they sound great!</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6b3cc916a693cd14765b4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-8-2-0"
+  },
+  {
+    "_id": "5ad6d144916a693cd14765bf",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6d144916a693cd14765be",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad71f9a916a693cd14765e0"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5ad71f8c916a693cd14765df",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5ad6d144916a693cd14765bf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5ad6d1a7916a693cd14765c2",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6d16a916a693cd14765c1",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "caption": "",
+      "_isLightboxEnabled": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad6d265916a693cd14765c3"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad6d1a7916a693cd14765c2",
+    "body": "<p>Available in pink and charcoal. Only at Myer.</p>",
+    "graphicText": "",
+    "displayTitle": "Chloe &amp; Lola cable-knit pompom slippers",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5ad6d6b9916a693cd14765ca",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6d6b2916a693cd14765c9",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad6d838916a693cd14765cb"
+      },
+      "_isExternalLink": false,
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad6d6b9916a693cd14765ca",
+    "displayTitle": "Wayne Cooper long, multi-ball earrings in rose",
+    "body": "<p>&nbsp;Only at Myer.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-2-0"
+  },
+  {
+    "_id": "5ad6d86f916a693cd14765ce",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad6d869916a693cd14765cd",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad6d92b916a693cd14765d0"
+      },
+      "_isExternalLink": false,
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad6d86f916a693cd14765ce",
+    "displayTitle": "Salt &amp; Pepper teacups and saucers",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-4-0"
+  },
+  {
+    "_id": "5ad736c6916a693cd14765e5",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad736bd916a693cd14765e4",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad7d2168e81821d4a96f4a4"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad736c6916a693cd14765e5",
+    "displayTitle": "Bonds muscle tank top",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-6-0"
+  },
+  {
+    "_id": "5acd57311e16803cc70f919f",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ac576ed2469de5f135cd6a1",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5ad71e4e916a693cd14765dc",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad7e1ba8e81821d4a96f4aa"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5acd57311e16803cc70f919f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5ad73985916a693cd14765ea",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad73980916a693cd14765e9",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ad73ba38e81821d4a96f486"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "5ad739c6916a693cd14765eb",
+        "title": "​&lsquo;EXPERIENCE&rsquo; GIFTS​<br>",
+        "body": "<p>All Myer gift cards can be used on in-store experience-type gifts, such as at the various hair and beauty salons located in our stores that trade using the Myer POS system. These are available at the following locations: Doncaster, Highpoint, Melbourne, Southland, Fountain Gate and Ballarat in Victoria; and Macquarie, Sydney and Penrith in NSW. Team members at these stores can ask their relevant salon if they will be having any promotions or if they can provide business cards to pop in with gift cards.</p><p><br></p><p>Or you could suggest that your customer takes their mum out for a day of shopping (at Myer, of course!) followed by lunch at one of our cafes &ndash; some take our gift cards, so check whether the cafe(s) at your store, if there is one, is participating.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5ad73c838e81821d4a96f487",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "5ad739c7916a693cd14765ee",
+        "itemIndex": 1,
+        "title": "​BEAUTY-SPECIFIC GIFT CARDS​<br>",
+        "body": "<p>If you&rsquo;ve found out your customer&rsquo;s mum loves cosmetics, you could suggest a beauty-specific gift card. Benefit San Francisco, Napoleon Perdis and Mac all offer cards in $100 values that can be redeemed in-store or online.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Gift cards can also be used for specific in-store events, so make sure you know what&rsquo;s going to be offered at your store by Myer or our brand partners and promote these special dates to your customers.</p>",
+        "title": "​IN-STORE EVENTS​<br>",
+        "_id": "5ad739c7916a693cd14765ed",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad73985916a693cd14765ea",
+    "body": "<p>So what if your customer&rsquo;s mum isn&rsquo;t a particular type, or she&rsquo;s someone who already has everything or is otherwise not easy to buy for? Why, that&rsquo;s when you can suggest a gift card! Check out the following ideas for how to turn gift cards into thoughtful, personalised presents.</p>",
+    "displayTitle": "​FOR THE MUM WHO&rsquo;S IMPOSSIBLE TO CATEGORISE​<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5ad73d3f8e81821d4a96f48c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad73d3b8e81821d4a96f48b",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad73d3f8e81821d4a96f48c",
+    "body": "<p>Your customer&rsquo;s just bought the perfect gift so now&rsquo;s the perfect time to suggest our gift-wrapping service. This will be offered at all stores throughout the campaign (1&ndash;13 May) and will include a pretty pink ribbon, metallic Myer logo sticker and &lsquo;With Love&rsquo; Mother&rsquo;s Day card for $7.95 per parcel. Make sure you find out where in your store this service is being offered.<br><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title_Services",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "5ad73d158e81821d4a96f48a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad73d0c8e81821d4a96f489",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5ad7c2b88e81821d4a96f4a3"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad73d158e81821d4a96f48a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-1-0"
+  },
+  {
+    "_id": "5ad73f0e8e81821d4a96f48f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad73f078e81821d4a96f48e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad73f0e8e81821d4a96f48f",
+    "body": "<p>All stores will also be provided with a free kids&rsquo; colouring-in Mother&rsquo;s Day card template to print and set up as an in-store activity. Find out where this will be located in your store, so kids can be entertained while customers shop at leisure. You could also print out some copies to give to kids as a take-home activity.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-2-0"
+  },
+  {
+    "_id": "5ad73f158e81821d4a96f491",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad73f108e81821d4a96f490",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_id": "5ad73fba8e81821d4a96f492",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "_isLightboxEnabled": false,
+      "caption": "Coloured in with love by our Myer mum Michelle and her daughter Jeannie.&nbsp;"
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad73f158e81821d4a96f491",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-3-0"
+  },
+  {
+    "_id": "5ad73fd68e81821d4a96f494",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad73fd18e81821d4a96f493",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad73fd68e81821d4a96f494",
+    "body": "<p>You can also remind customers who have CommBank awards points that these can be used to pay for their Mother&rsquo;s Day gifts. Find out more in the <strong>CommBank Awards Points Learning Moment</strong> &ndash; see the link at the end of this Learning Moment.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-4-0"
+  },
+  {
+    "_id": "5ad740158e81821d4a96f497",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5ad740098e81821d4a96f496",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5ad740468e81821d4a96f49a",
+        "itemTitle": "​GIVE REGISTRY LEARNING MOMENT​<br>",
+        "link": "http://myeracademy.com.au/content/give_registry/index.html"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "_id": "5ad7403c8e81821d4a96f498",
+        "itemTitle": "​COMMBANK AWARDS POINTS LEARNING MOMENT​<br>",
+        "link": "http://myeracademy.com.au/content/commbank/index.html"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.myer.com.au/shop/mystore/giftorium-mothers-day?promo_name=WK12MothersDay&promo_id=AW18&promo_creative=Homepage",
+        "_id": "5ad740458e81821d4a96f499",
+        "itemIndex": 2,
+        "itemTitle": "MOTHER&rsquo;S DAY CATALOGUE<br>"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ad740158e81821d4a96f497",
+    "displayTitle": "​HELPING MUMS WHO ARE STARTING OVER​<br>",
+    "body": "<p>Team members can help raise awareness for the many women who are victims of domestic violence &ndash; women who may not get the chance to celebrate Mother&rsquo;s Day this year &ndash; by talking to customers about our Give Registry, a collection of essential items women need most when they&#39;re starting over. Find out more in the <strong>Give Registry Learning Moment</strong>, linked to following.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "5acd828a1e16803cc70f91ba",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5acd828a1e16803cc70f91b9",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "",
+        "itemTitle": "BACK",
+        "_id": "59b872cf5dfae0c5453cd495",
+        "itemIndex": 0,
+        "link": "../index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acd828a1e16803cc70f91ba",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  },
+  {
+    "_id": "5acd82541e16803cc70f91b7",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5ac572ec2469de5f135cd69a",
+    "_parentId": "5acd82541e16803cc70f91b6",
+    "__v": 0,
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isLightboxEnabled": false,
+      "small": {
+        "_id": "5924eae5ad04f4d3201a7d54",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "small"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924e8c2ad04f4d3201a7d50"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5acd82541e16803cc70f91b7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "_id": "5785be28a981863c15650adc",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650ad8",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "description": "<br>",
+    "_refId": "5785be28a981863c15650adc",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ab443a451afe207463537bc"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "5ab4439351afe207463537bb",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "alt": "",
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_displayTitleSettings": {
+      "_fontSize": "36",
+      "_textAlign": "center"
+    },
+    "title": "LEONAStrapline",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "57bbd6e677d124f759962e4a",
+      "5abac73ece9f4053424b02cb",
+      "5823f98efc489d639338767e",
+      "5785be28a981863c15650afa",
+      "5785be28a981863c15650af9",
+      "5785be28a981863c15650b01",
+      "5785be28a981863c15650b00",
+      "5785be28a981863c15650ae4",
+      "5785be28a981863c15650ae3",
+      "5785be29a981863c15650b08",
+      "5785be29a981863c15650b14",
+      "5785be29a981863c15650b13",
+      "5aa9eefa3865607d6dca306b",
+      "5785be28a981863c15650aef",
+      "5785be28a981863c15650aed",
+      "5785cb60a981863c15650b17",
+      "5785be28a981863c15650aea",
+      "5823f9c0fc489d6393387686"
+    ],
+    "_childrenIds": [
+      "57bbd6c577d124f759962e48",
+      "5823f98efc489d639338767c",
+      "5785be28a981863c15650af4",
+      "5785be28a981863c15650afc",
+      "5785be28a981863c15650ae0",
+      "5785be29a981863c15650b03",
+      "5785be29a981863c15650b0e",
+      "5aa9eebf3865607d6dca3066",
+      "5785be28a981863c15650aeb",
+      "5785be28a981863c15650ae6",
+      "5823f9c0fc489d6393387681"
+    ]
+  }
+]

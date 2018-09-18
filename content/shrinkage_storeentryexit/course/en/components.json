@@ -1,0 +1,728 @@
+[
+  {
+    "_id": "59e56860960db223cd2d246c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59e56857960db223cd2d246a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59e56860960db223cd2d246c",
+    "body": "<p style=\"text-align: center;\">Welcome to a series of Shrinkage Learning Moments, designed to highlight the importance of shrinkage at Myer and how customer service can deter dishonest behaviour.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This Learning Moment shows you how customer service can deter dishonest behaviour at store exit and entry points.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575388",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575387",
+    "__v": 0,
+    "_refId": "59bf3a0fc7eab8472b8cb6f9",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf3a14c7eab8472b8cb6fa",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "59e6abbb960db223cd2d2684",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575368",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c471890005ec9f2cf64706"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59e6abbb960db223cd2d2684",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f867657537a",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575379",
+    "__v": 0,
+    "_refId": "59c08271d9d8aeaf135a2b8b",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">If EAS gates activate in store you should always provide customer service as a first response. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">All team members are required to respond to EAS gate activations if they are not already serving a customer.</p>",
+        "itemIndex": 0,
+        "_id": "59c08276d9d8aeaf135a2b8c",
+        "title": "WHAT HAPPENS IF A CUSTOMER ACTIVATES THE EAS GATES?"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "_id": "59c08276d9d8aeaf135a2b8d",
+        "itemIndex": 1,
+        "title": "CAN I LEAVE MY CUSTOMER TO APPROACH SOMEONE WHO HAS ACTIVATED THE EAS GATES?",
+        "body": "<div style=\"text-align: center;\">EAS gate activations must be attended by any team members who are not serving customers.<br></div>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "bottom",
+        "body": "<p style=\"text-align: center;\">When the EAS alarm system activates, it does not always mean merchandise is being stolen. It could also be due to things such as:</p><br><ul><li style=\"text-align: center;\">A team member at another store didn’t deactivate or remove a tag<br></li><li style=\"text-align: center;\">A person with tagged merchandise accidentally walked into the field surrounding the pedestal<br></li><li style=\"text-align: center;\">Store merchandise containing alarm devices was put too close to the pedestal causing a false alarm.<br></li></ul><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">As such, it is always important to respond to EAS alarm activations with customer service being the priority.</p>",
+        "title": "WHAT HAPPENS IF IT IS A FALSE ALARM?",
+        "itemIndex": 2,
+        "_id": "59c08277d9d8aeaf135a2b8e"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">No. You can’t ask a customer to present their bags as it is not a condition of entry.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If a customer activates the EAS gates, you must offer customer service as a response. You may also offer to check if someone has left an EAS device on their merchandise if they activate the gates.&nbsp;</p>",
+        "_id": "59c08277d9d8aeaf135a2b8f",
+        "itemIndex": 3,
+        "title": "HOW SHOULD I APPROACH A CUSTOMER WHO ACTIVATES THE EAS GATES?"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "IF A CUSTOMER IS ACTING SUSPICIOUSLY, CAN I ASK TO CHECK THEIR BAG INSIDE THE STORE?",
+        "itemIndex": 4,
+        "_id": "59c08278d9d8aeaf135a2b90",
+        "body": "<p style=\"text-align: center;\">No. You can’t ask a customer to present their bags as it is not a condition of entry.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If a customer activates the EAS gates, you may only offer customer service as a response. You may however, offer to check if someone has left an EAS device on their merchandise if they activate the gates.&nbsp;</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a04fff1d9f1d573fdb21d54",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "5a04fff1d9f1d573fdb21d52",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">If the EAS alarm sounds and you offer customer service as a first response by apologising and asking the customer if you can check their bag, and they allow you to, great!</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">But what happens if the customer does not allow you to check their bag?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You thank the customer and take down a description and inform a member of the Loss Prevention Team or Store Management Team.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Never accuse a customer of theft.&nbsp;</p>",
+    "displayTitle": "WHAT IF THE CUSTOMER IS NON-COMPLIANT?",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a04fff1d9f1d573fdb21d54",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a04fff1d9f1d573fdb21d55",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "5a04fff1d9f1d573fdb21d53",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59c471890005ec9f2cf64708"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5a04fff1d9f1d573fdb21d55",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a0a084ad9f1d573fdb21dc9",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "5a0a083ed9f1d573fdb21dc7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0a084ad9f1d573fdb21dc9",
+    "body": "<p style=\"text-align: center;\">If a customer does not have any shopping bags, ask them if they have any merchandise that may be causing the alarm to activate.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If they produce the merchandise invite them to accompany you to the register to deactivate the item. Ask to see the receipt so you can provide feedback to the selling team member who made the transaction.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If they say they do not wish to purchase the merchandise, take the merchandise to the appropriate department and advise Loss Prevention who will report it as an incident.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a0a0853d9f1d573fdb21dcd",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "5a0a084dd9f1d573fdb21dcb",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "599f60c9ebca4a4008795133"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a0a0853d9f1d573fdb21dcd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575382",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575381",
+    "__v": 0,
+    "_refId": "59bf2a9fc7eab8472b8cb6dd",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59bf2aa5c7eab8472b8cb6de",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59c2f51d00bb5f8676575385",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59c2f51d00bb5f8676575363",
+    "_parentId": "59c2f51d00bb5f8676575384",
+    "__v": 0,
+    "_refId": "59bf2b05c7eab8472b8cb6e1",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_id": "599b80eaebca4a4008795070",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "large"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  }
+]

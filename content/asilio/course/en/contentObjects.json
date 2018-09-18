@@ -1,0 +1,210 @@
+[
+  {
+    "_id": "5a8b955e3865607d6dca208e",
+    "_courseId": "5a8b955e3865607d6dca208b",
+    "_parentId": "5a8b955e3865607d6dca208b",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "description": "<br>",
+    "_refId": "575f8a5f1d1a15230b43701d",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5aab0da83865607d6dca3136"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5aab0da83865607d6dca3135"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "alt": "",
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_displayTitleSettings": {
+      "_fontSize": "70",
+      "_textAlign": "center"
+    },
+    "title": "AsilioStrapline",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "5a8b955f3865607d6dca20ac",
+      "5a8b955f3865607d6dca20ae",
+      "5a8b955f3865607d6dca20b6",
+      "5a8b955e3865607d6dca209e",
+      "5aab0f103865607d6dca3159",
+      "5a8b955f3865607d6dca20a2",
+      "5aab0f8d3865607d6dca3168",
+      "5a8b955e3865607d6dca2092",
+      "5ab9d00f428a2e3e00f24110",
+      "5ab9d015428a2e3e00f24112",
+      "5ab9d01b428a2e3e00f24114",
+      "5ab9d0a9428a2e3e00f2411f",
+      "5ab9d0a9428a2e3e00f2411e",
+      "5ab9d0a9428a2e3e00f2411a",
+      "5ab9d0a9428a2e3e00f2411b",
+      "5ab9d0a9428a2e3e00f2411d",
+      "5ab9d0a9428a2e3e00f2411c",
+      "5a8b955f3865607d6dca20a9",
+      "5a8b955f3865607d6dca20a8",
+      "5a8b955e3865607d6dca209a",
+      "5a8b955e3865607d6dca2098",
+      "5a8b955e3865607d6dca2095",
+      "5a8b955f3865607d6dca20b3",
+      "5a8b955f3865607d6dca20b1"
+    ],
+    "_childrenIds": [
+      "5a8b955f3865607d6dca20aa",
+      "5a8b955f3865607d6dca20b4",
+      "5a8b955e3865607d6dca209b",
+      "5a8b955f3865607d6dca209f",
+      "5a8b955e3865607d6dca208f",
+      "5ab9d0a9428a2e3e00f24115",
+      "5a8b955f3865607d6dca20a6",
+      "5a8b955e3865607d6dca2096",
+      "5a8b955e3865607d6dca2093",
+      "5a8b955f3865607d6dca20af"
+    ]
+  }
+]

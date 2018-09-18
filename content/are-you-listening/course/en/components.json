@@ -1,0 +1,904 @@
+[
+  {
+    "_id": "58b64321ed2155973abb7dea",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64321ed2155973abb7de9",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "589a6e4a1dd3934329759c13",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "58b64321ed2155973abb7dea",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "58b64321ed2155973abb7de8",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64321ed2155973abb7de7",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Most of us aren’t as great at listening as we think. We get distracted by what’s happening around us, and interrupt and jump to conclusions mid-conversation. We’re frequently so caught up in our own thoughts, we remember little of what the speaker was saying, and as a result, can leave the other person feeling unheard. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">In this learning moment we look at the 3 steps to great listening, and give you the opportunity to put your skills to the test. &nbsp;</p>",
+    "_isQuestionType": false,
+    "_refId": "58b64321ed2155973abb7de8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "58b64322ed2155973abb7df5",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7df4",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "body": "",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58d99541ed2155973abb835b"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58d9954eed2155973abb835d"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "58b64322ed2155973abb7df5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "58c89779ed2155973abb815c",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58c89769ed2155973abb815b",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb5ff0ed2155973abb820e"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb6000ed2155973abb8210"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58c89779ed2155973abb815c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "SS_Listening_Step1",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "58c88efbed2155973abb8153",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e04",
+    "_layout": "full",
+    "_component": "mcq",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">Great choice, very open-minded!<br></p>",
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Not quite – remember the best way to understand what the customer wants is to keep an open mind, and ask questions to clarify.<br></p>",
+        "notFinal": "<p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_id": "58c88f18ed2155973abb8154",
+        "itemIndex": 0,
+        "text": "Have you been to Bali before?&nbsp;"
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 1,
+        "_id": "58c88f1aed2155973abb8155",
+        "text": "My friend went to Bali and he came back with dengue fever!"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_id": "58c88f1bed2155973abb8156",
+        "itemIndex": 2,
+        "text": "Great, we can line you up with some beach wear in no time."
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 3,
+        "_id": "58c88f1ced2155973abb8157",
+        "text": "Fantastic, can you tell me a little about what you will you be doing while you’re there?"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">A customer, Carole, tells you that she’s looking for something to wear in Bali. When she finishes speaking, do you respond with…&nbsp;</p>",
+    "_refId": "58c88efbed2155973abb8153",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "58d35d66ed2155973abb8313",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58d35d3bed2155973abb830d",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "58d35d6bed2155973abb8314",
+        "title": "KEEP QUESTIONS TO NATURAL PAUSES",
+        "body": "<p style=\"text-align: center;\">Interruptions send the message that what you have to say is more important than what the speaker has to say. Wait till they have finished before you speak. Only then ask questions only to clarify: “Did you say the wedding’s in June?” “You mentioned you were looking for cropped pants, can you show me the length you have in mind?”</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_id": "58d35d6ced2155973abb8315",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Remember the person is sharing their thoughts, and the only way you will find out what they are is by listening, assumptions and judgements will just get in the way.</p>",
+        "title": "KEEP AN OPEN MIND<br>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "58d35d6eed2155973abb8316",
+        "body": "<p style=\"text-align: center;\">Choose questions that help your understanding, and avoid comments that might lead you off track. &nbsp;</p>",
+        "title": "STAY ON TRACK"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "",
+    "_refId": "58d35d66ed2155973abb8313",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "58c89a41ed2155973abb8162",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e0e",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb64e7ed2155973abb8212"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58cb64f7ed2155973abb8214"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58c89a41ed2155973abb8162",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "58c89951ed2155973abb815e",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e0a",
+    "_layout": "full",
+    "_component": "mcq",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\">'C' is the best way to respond. Why?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Because you did two things. You demonstrated to Carole that you heard her when she said she wanted to travel light, and you also gave an indication of how you could help.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\">'C' is the best way to respond. Why?</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Because you did two things. You demonstrated to Carole that you heard her when she said she wanted to travel light, and you also gave an indication of how you could help.&nbsp;</p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "correct": "<p style=\"text-align: center;\">'C' is the best way to respond. Why? </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Because you did two things. You demonstrated to Carole that you heard her when she said she wanted to travel light, and you also gave an indication of how you could help.&nbsp;</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 0,
+        "_id": "58c8997bed2155973abb815f",
+        "text": "You must be travelling with one of those budget airlines where you have to pay extra for luggage!&nbsp;",
+        "_feedback": "<p style=\"text-align: center;\">Try again! This response won’t help you to learn what Carole’s looking for.&nbsp;<br></p>"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 1,
+        "_id": "58c8997fed2155973abb8161",
+        "text": "Can I help you find some key pieces that you can mix and match that will help you keep your luggage to a minimum?&nbsp;",
+        "_feedback": "<p style=\"text-align: center;\">Outstanding! Not only did you give a great summary, but you also gave Carole an idea of how you could help.</p>"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_id": "58c8997fed2155973abb8160",
+        "itemIndex": 2,
+        "text": "Ok, so you’re keen to keep your luggage to a minimum.&nbsp;",
+        "_feedback": "<p style=\"text-align: center;\">Good try. You summarised what Carole told you. You could improve your answer by explaining some ways you can help her. &nbsp;</p>"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": true,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Carole confirms that she will be spending some time at the beach. She adds that she needs to travel light. When she finishes talking, how do you respond?</p>",
+    "_refId": "58c89951ed2155973abb815e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "58c89bdaed2155973abb8165",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58c89bc9ed2155973abb8164",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58c8973aed2155973abb8159"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58c89bdaed2155973abb8165",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "58c8a13ded2155973abb8167",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58b64322ed2155973abb7e18",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "link": "https://www.ted.com/playlists/92/listen_up",
+        "itemTitle": "TED",
+        "_id": "58c8a144ed2155973abb8168",
+        "itemIndex": 0,
+        "_isComplete": false,
+        "_linkAlignment": "center",
+        "_linkPosition": "top",
+        "_isButton": true,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Check out the TED talks for some interesting ideas of the art of listening. </p>",
+    "_refId": "58c8a13ded2155973abb8167",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "58c8a1aaed2155973abb816a",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58c8a1a4ed2155973abb8169",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "58c8a1b1ed2155973abb816b",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58c8a1aaed2155973abb816a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  },
+  {
+    "_id": "58c8a1f7ed2155973abb816e",
+    "_courseId": "58b64321ed2155973abb7dde",
+    "_parentId": "58c8a1efed2155973abb816c",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58c8a1f7ed2155973abb816e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-3-0"
+  }
+]

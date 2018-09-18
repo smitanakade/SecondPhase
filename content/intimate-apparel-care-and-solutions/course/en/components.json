@@ -1,0 +1,925 @@
+[
+  {
+    "_id": "597342d632b40dca201c4df5",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "59657b23f5bba3477db1936c",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": null,
+      "small": null
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597342d632b40dca201c4df5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59657b23f5bba3477db1936f",
+    "_component": "flowChart",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "59657b23f5bba3477db1936e",
+    "__v": 0,
+    "_refId": "59640519c55828882e726fcb",
+    "_items": [
+      {
+        "_titleSettings": {
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "title": "REFER TO THE CARE LABEL",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">Show the customer the garment’s care label. Care instructions vary from garment to garment. </p>"
+      },
+      {
+        "_titleSettings": {
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "title": "MORE OF THE SAME",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Suggest the customer buys multiple bras in the style they love. A bra is more likely to stretch out of shape if worn for days in a row. </p>"
+      },
+      {
+        "_titleSettings": {
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "body": "<p style=\"text-align: center;\">Recommend the customer stores their bra flat. Explain that they should never fold or twist the bra, or turn the cups inside out. <br></p>",
+        "itemIndex": 2,
+        "title": "STORE THEM CORRECTLY"
+      },
+      {
+        "_titleSettings": {
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "title": "DELICATES WASH BAG",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: center;\">Recommend the customer clasps the bra shut and puts it into a delicates wash bag for washing. The bag will stop the bra from tangling and the wires bending.  </p>"
+      },
+      {
+        "_titleSettings": {
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "title": "PRESERVE THE COLOUR",
+        "itemIndex": 4,
+        "body": "<p style=\"text-align: center;\">To maintain the colour of their intimate apparel, suggest the customer washes their bra with items of a similar colour. </p>"
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flow Chart Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59657b23f5bba3477db19372",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "59657b23f5bba3477db19371",
+    "__v": 0,
+    "_refId": "596407b0c55828882e726fd1",
+    "body": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">Correct.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">These disposable cover-ups are appropriate for one use only, simply peel off the protective backing and press into place.&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Incorrect.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Satin Nipple Covers are disposable cover-ups which are appropriate for one use only, simply peel off the protective backing and press into place</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "A Strapless bra",
+        "_id": "596407eac55828882e726fd2",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "596407efc55828882e726fd3",
+        "text": "HOLLYWOOD Satin Nipple Covers"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "We never recommend not wearing a bra",
+        "_id": "596407fac55828882e726fd4",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5964080dc55828882e726fd5",
+        "text": "A convertible bra"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "59657b23f5bba3477db19374",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "59657b23f5bba3477db19373",
+    "__v": 0,
+    "_refId": "596408dec55828882e726fda",
+    "body": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">Correct.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Inserting our HOLLYWOOD Silicone Breast Enhancers in a customer’s bra will add fullness and cleavage. They can also be used in bathers.</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Incorrect.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Inserting our HOLLYWOOD Silicone Breast Enhancers in our customers bra or bathers will add fullness and cleavage to their look.&nbsp;</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "A smaller fitting bra",
+        "_id": "5964091ac55828882e726fdb",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5964091fc55828882e726fdc",
+        "text": "Having the evening dress altered"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Hollywood Silicone Breast Enhancers",
+        "_id": "5964092bc55828882e726fdd",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "All of the above",
+        "_id": "59640939c55828882e726fde",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "59657b23f5bba3477db19376",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "59657b23f5bba3477db19375",
+    "__v": 0,
+    "_refId": "596409acc55828882e726fe0",
+    "body": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">Correct.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Providing excellent customer service means ‘dressing the whole customer’ and not just focusing on lingerie.&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Incorrect.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Providing excellent customer service means ‘dressing the whole customer’ and not just focusing on lingerie.</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "596409d8c55828882e726fe1",
+        "text": "A satin gown"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "A chemise",
+        "_id": "596409dec55828882e726fe2",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "A suspender belt",
+        "_id": "596409ebc55828882e726fe3",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "596409f4c55828882e726fe4",
+        "text": "All of the above"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "59657b23f5bba3477db19378",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "59657b23f5bba3477db19377",
+    "__v": 0,
+    "_refId": "59640a4ec55828882e726fe6",
+    "body": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">Correct.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Our HOLLYWOOD Bra Band Extenders will seamlessly lengthen a customer’s bra band to give them that extra inch they need to achieve a comfortable fit.&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Incorrect.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Our HOLLYWOOD Bra Band Extenders will seamlessly lengthen your customers bra band to give them that extra inch they need to achieve a comfortable fit.&nbsp;</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "59640a68c55828882e726fe7",
+        "text": "Two maternity bras in differing sizes"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Bra band extenders",
+        "_id": "59640a6ec55828882e726fe8",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Not wearing a bra for the time being",
+        "_id": "59640a7ac55828882e726fe9",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "All of the above",
+        "_id": "59640a8ec55828882e726feb",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "5973450c32b40dca201c4df9",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "59657b23f5bba3477db1937a",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59813c60ebca4a4008794caa"
+      },
+      "large": null,
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5973450c32b40dca201c4df9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5973454132b40dca201c4dfc",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "5973454132b40dca201c4dfb",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "592cf808cc6c57255d381329",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5973454132b40dca201c4dfc",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "597346fd32b40dca201c4dff",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59657b22f5bba3477db1930e",
+    "_parentId": "597346fd32b40dca201c4dfe",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "597346fd32b40dca201c4dff",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "_id": "58d0a41ded2155973abb8273",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d0a41ded2155973abb8272",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57fc35024ea87d56dd3ea4d6",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "58d0a41ded2155973abb8273",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "58d07142ed2155973abb8236",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d07142ed2155973abb8235",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">There are people who believe that their abilities come naturally and remain the same throughout their lives. And then there are people who believe that their abilities and talents can grow over time, with hard work, good strategies and input from others.&nbsp;</p>",
+    "_isQuestionType": false,
+    "_refId": "58d07142ed2155973abb8236",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59d595320482522d25a0be0b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d461b7ed2155973abb831c",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d595320482522d25a0be0b",
+    "body": "<p style=\"text-align: center;\">In this learning moment we look at the power of embracing a ‘growth mindset’ which enables each of us to take charge of, and drive our own development. And we’ll look at how to make most of what the Myer Academy has to offer.</p><p style=\"text-align: center;\">But first a bit of background…&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "59d5957d0482522d25a0be10",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1ddf5ed2155973abb8283",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d5957d0482522d25a0be10",
+    "body": "<p style=\"text-align: center;\">Dweck observed that the children in the first group had what she termed a ‘fixed’ mindset in relation to maths. And the children in the second had a ‘growth’ mindset.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "59d595b20482522d25a0be18",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1ddf8ed2155973abb8284",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d595b20482522d25a0be18",
+    "body": "<p style=\"text-align: center;\">Mindset is the difference between thinking you’re no good at something, whether it’s sport, public speaking, maths, or being creative, and thinking you’re not good at it… yet. In other words, you believe that that with the right effort, you too could become better at those things.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Those with a ‘growth’ mindset view learning as a positive thing, respond better to feedback, and tend to be more resilient. Someone who holds the belief they’re a ‘natural at maths’ might see a poor score on a maths test as a failure, because they can’t see they have the power to improve. However, someone who knows that maths requires effort, might view a poor score not as a failure, but as the feedback that they need to put in more effort.&nbsp;&nbsp;</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "58d1dfe3ed2155973abb8292",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d1de78ed2155973abb828b",
+    "_layout": "full",
+    "_component": "accordion",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "58d1e15ded2155973abb8293",
+        "body": "<p style=\"text-align: center;\"><span>On your own, or with your manager, identify a capability you’d like to work on. Believe you can develop your capability in this area.&nbsp;</span><br></p>",
+        "title": "<b>BELIEVE</b> YOU CAN WORK ON IT"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_id": "58d1e15fed2155973abb8294",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Use the Myer Academy Capability Development Guide for guidance on applying the right effort, and to identify opportunities to learn through experience (also referred to as 70% - Learning Through Experience). You can find a link to the guide at the end of the learning moment.&nbsp;<br></p>",
+        "title": "APPLY THE <b>RIGHT</b> EFFORT"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "58d1e160ed2155973abb8295",
+        "body": "<p style=\"text-align: center;\">Use the Myer Academy Capability Development Guide for ideas on how to learn from the people around you (also referred to as 20% - Learning From Others). Ask for feedback, and use it as an opportunity to learn.</p>",
+        "title": "GET <b>INPUT</b>  FROM OTHERS&nbsp;<br>"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "<p class=\"\">HOW CAN I USE GROWTH MINDSET?<br>",
+    "body": "<p style=\"text-align: center;\">Once you’ve made a commitment to work on your capability…&nbsp;<br></p>",
+    "_refId": "58d1dfe3ed2155973abb8292",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59d595e40482522d25a0be1f",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d47d9fed2155973abb8342",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59d595e40482522d25a0be1f",
+    "body": "<p style=\"text-align: center;\">Even when it's difficult, remember that this is an ongoing journey. Take time to reflect and acknowledge your progress.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "58d203f6ed2155973abb82c5",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d203dced2155973abb82c4",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Watch Carol Dweck’s powerful TED talk on the power of believing that you can improve.<br></p>",
+        "link": "course/en/assets/files/58d9dc0ced2155973abb836e/5694bdc1dde97ae84bc11aacd42f6175.pdf",
+        "itemTitle": "MYER ACADEMY CAPABILITY DEVELOPMENT GUIDE",
+        "itemIndex": 0,
+        "_id": "58d20406ed2155973abb82c6",
+        "_type": "resources"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+        "itemTitle": "CAROL DWECK’S TED TALK",
+        "body": "",
+        "_id": "58d20408ed2155973abb82c7",
+        "itemIndex": 1
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Download your copy of the Myer Academy Capability Development Guide</p>",
+    "_refId": "58d203f6ed2155973abb82c5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "58d20503ed2155973abb82cb",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d204f8ed2155973abb82ca",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "BACK",
+        "body": "",
+        "link": "../index.php",
+        "_id": "58d20509ed2155973abb82cc",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58d20503ed2155973abb82cb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "58d2053ded2155973abb82ce",
+    "_courseId": "58d07141ed2155973abb822a",
+    "_parentId": "58d20532ed2155973abb82cd",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58d2053ded2155973abb82ce",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-8-1-0"
+  }
+]

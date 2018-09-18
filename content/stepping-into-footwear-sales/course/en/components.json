@@ -1,0 +1,1788 @@
+[
+  {
+    "_id": "5a53e07c3865607d6dc9f24e",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a4c0b87ec1ad576d99ed816",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemIndex": 0,
+        "_id": "5a53e09c3865607d6dc9f250",
+        "itemTitle": "BACK"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e07c3865607d6dc9f24e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a53e1573865607d6dc9f259",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e14e3865607d6dc9f257",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e1573865607d6dc9f259",
+    "body": "<p style=\"text-align: center;\">Selling footwear requires a distinctive approach. Understanding customers’ needs and their buying motives is just as important as your product knowledge and sales approach.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This Learning Moment shows you our unique selling footwear technique.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Your confidence in applying the technique outlined in this Learning Moment will not only meet your customers’ needs and expectations, but also achieve your sales targets.</p>",
+    "displayTitle": "MEETING NEEDS",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MEETING NEEDS",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5a558f2c3865607d6dc9f687",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a558f243865607d6dc9f685",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a6905d03865607d6dca0680"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a558f2c3865607d6dc9f687",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "5a53e23a3865607d6dc9f26a",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e22c3865607d6dc9f268",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e23a3865607d6dc9f26a",
+    "displayTitle": "ADAPTING THE SELLING TECHNIQUE",
+    "body": "<p style=\"text-align: center;\">The key to success when using the steps in the selling technique, is the ability to adapt it to suit customer needs, the time of year, seasonal events, and even your own personality!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "ADAPTING THE SELLING TECHNIQUE",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a53e2473865607d6dc9f26e",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e2403865607d6dc9f26c",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a6905c93865607d6dca0657"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e2473865607d6dc9f26e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a53e2543865607d6dc9f272",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e24e3865607d6dc9f270",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e2543865607d6dc9f272",
+    "body": "<p style=\"text-align: center;\">The technique takes you through each step and outlines how it benefits you as a team member selling footwear.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "ADAPTING THE SALES PROCESS",
+    "_type": "component",
+    "_courseOrder": "0-1-2-0"
+  },
+  {
+    "_id": "5a53e4633865607d6dc9f2a0",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e4553865607d6dc9f29e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e4633865607d6dc9f2a0",
+    "body": "<p style=\"text-align: center;\">Footwear is a unique department within the Myer business and can be physically demanding, requiring a hands-on approach.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a53e46a3865607d6dc9f2a4",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e4643865607d6dc9f2a2",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a6905cc3865607d6dca067b"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e46a3865607d6dc9f2a4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a53e4713865607d6dc9f2a8",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e46c3865607d6dc9f2a6",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e4713865607d6dc9f2a8",
+    "body": "<p style=\"text-align: center;\">Providing delightful service is key to your success as a team member in footwear.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">&nbsp;Let’s explore how delightful service translates to the footwear selling technique.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "5a4acaa6ec1ad576d99ed06d",
+    "_component": "textReveal",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a4aca27ec1ad576d99ed05f",
+    "_itemLayout": {
+      "large": 50,
+      "medium": 50,
+      "small": 100
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a6905ca3865607d6dca0663"
+          },
+          "caption": ""
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\"><b>SHOW CUSTOMERS YOU CARE</b><br><br></p><p style=\"text-align: center;\">Acknowledge and engage with your customer:&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">See</p><p style=\"text-align: center;\">Smile</p><p style=\"text-align: center;\">Say hello.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">This is where you start building rapport with your customer by asking open-ended questions.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember to acknowledge waiting customers and let them know you’ll be with them soon.</p>",
+        "_id": "5a4acaa9ec1ad576d99ed06f",
+        "itemIndex": 0,
+        "title": ""
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a4acaa6ec1ad576d99ed06d",
+    "_showNavOnTop": true,
+    "displayTitle": "1",
+    "body": "<p style=\"text-align: center;\">GREET AND APPROACH</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "GREET",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a53e76f3865607d6dc9f2de",
+    "_component": "textReveal",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e7643865607d6dc9f2dc",
+    "_itemLayout": {
+      "small": 100,
+      "medium": 50,
+      "large": 50
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a6f8d883865607d6dca0a85"
+          },
+          "caption": ""
+        },
+        "_shouldSetCompletion": false,
+        "itemIndex": 0,
+        "_id": "5a53e8413865607d6dc9f2f0",
+        "text": "<p style=\"text-align: center;\"><b>TAILOR YOUR APPROACH</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Tailor your approach to your customer’s signs - this could mean serving more than one customer at a time.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Continue to qualify the customer's needs by asking open-ended questions. And based on their needs, you go to the reserve and bring out a minimum of three suitable options.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember that if your store uses the shoe app, you request the shoes via the shoe app. The runner brings out three pairs and places them in the designated location. You will be notified via the app that the shoes are ready for collection.</p>"
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": true,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e76f3865607d6dc9f2de",
+    "displayTitle": "2",
+    "body": "<div style=\"text-align: center;\">QUALIFY NEEDS<br></div>",
+    "_showNavOnTop": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "QUALIFY NEEDS",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "5a53e7983865607d6dc9f2e3",
+    "_component": "textReveal",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e7903865607d6dc9f2e1",
+    "_itemLayout": {
+      "small": 100,
+      "medium": 50,
+      "large": 50
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a6f8e3a3865607d6dca0a87",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": ""
+        },
+        "_shouldSetCompletion": false,
+        "_id": "5a53e94d3865607d6dc9f2fd",
+        "itemIndex": 0,
+        "text": "<p style=\"text-align: center;\"><b>PROMOTE AND SELL OUR PRODUCT</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Present and handle the shoes with respect.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remove shoes from the box and packaging then place them on the floor near your customer’s feet.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Overcome objections and offer solutions using the 3As:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Acknowledge: \"I know what you mean. You need something comfortable if you're on your feet all day.\"</p><p style=\"text-align: center;\">Ask: \"Would you like to try this style in this season's latest colour?\"&nbsp;</p><p style=\"text-align: center;\">Answer: \"Yes, this style does come in half sizes.\"</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember to point out the features and benefits of the shoes and always offer try-on socks.</p>"
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": true,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e7983865607d6dc9f2e3",
+    "displayTitle": "3",
+    "body": "<div style=\"text-align: center;\">SEAT AND SHOWCASE<br></div>",
+    "_showNavOnTop": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "SEAT AND SHOWCASE",
+    "_type": "component",
+    "_courseOrder": "0-3-2-0"
+  },
+  {
+    "_id": "5a53e7b43865607d6dc9f2e9",
+    "_component": "textReveal",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53e7ad3865607d6dc9f2e7",
+    "_itemLayout": {
+      "small": 100,
+      "medium": 50,
+      "large": 50
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a67e1893865607d6dca059d"
+          },
+          "caption": ""
+        },
+        "_shouldSetCompletion": false,
+        "_id": "5a53e9833865607d6dc9f308",
+        "itemIndex": 0,
+        "text": "<p style=\"text-align: center;\">OFFER SHOE CARE ADD-ONS AND CLOSE THE SALE</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Offering shoe care products is a great way to include add-ons to your footwear sales.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Pair check the shoes at POS: do the sizes, colour and styles match what it says on the box? Check there is one left and one right shoe.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember to ask your customer if they are a MYER one member and if they have a Myer Visa Card.&nbsp;</p>"
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": true,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53e7b43865607d6dc9f2e9",
+    "displayTitle": "4",
+    "body": "<div style=\"text-align: center;\">ADD-ON AND CLOSE<br></div>",
+    "_showNavOnTop": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "ADD-ON AND CLOSE",
+    "_type": "component",
+    "_courseOrder": "0-3-3-0"
+  },
+  {
+    "_id": "5a53faf13865607d6dc9f3c1",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53fabb3865607d6dc9f3bb",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53faf13865607d6dc9f3c1",
+    "body": "<p style=\"text-align: center;\">Keep your area tidy.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Always clear shoes, boxes and packaging after every customer. It might be beneficial to discard the internal packaging altogether.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">And remember to replace any shoes from the display that your customer has tried on.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a53faf73865607d6dc9f3c5",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53faf23865607d6dc9f3c3",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a6905ca3865607d6dca066a"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53faf73865607d6dc9f3c5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "5a53eb033865607d6dc9f31e",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53eaf93865607d6dc9f31c",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53eb033865607d6dc9f31e",
+    "body": "<p style=\"text-align: center;\">Now that you’re familiar with the steps in the sales process, how can you start engaging with your customer at each step to make it a personal experience?</p>",
+    "displayTitle": "WHAT TO SAY",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "WHAT TO SAY",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a53eb0a3865607d6dc9f322",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53eb043865607d6dc9f320",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a6905c93865607d6dca0659"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53eb0a3865607d6dc9f322",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5a53eb223865607d6dc9f326",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53eb1b3865607d6dc9f324",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53eb223865607d6dc9f326",
+    "body": "<p style=\"text-align: center;\">Let's take a look.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "5a53eddc3865607d6dc9f334",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53edd63865607d6dc9f332",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53eddc3865607d6dc9f334",
+    "body": "<p style=\"text-align: center;\"><b>GREET THE CUSTOMER</b></p><p style=\"text-align: center;\">“Good morning. I’ll be with in just a moment.”</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>QUALIFY NEEDS</b><br></p><p style=\"text-align: center;\">\"Hello again. What's the occasion you're shopping for today?\"</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>SEAT AND SHOWCASE</b></p><p style=\"text-align: center;\">“This style has a flex sole which means it will be comfortable to walk in all day.”</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>ADD-ON AND CLOSE</b></p><p style=\"text-align: center;\">“Would you prefer to take the black or the blue sandals – or both!?”</p><p style=\"text-align: center;\"><br></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "5a53ef513865607d6dc9f368",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53ef2f3865607d6dc9f362",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53ef513865607d6dc9f368",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Let’s recap some key points.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Understand your customers' needs by asking open-ended questions.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Always bring out a minimum of three suitable options from the reserve.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Overcome objections and offer solutions using the 3As: Acknowledge, Ask, Answer.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">And remember to offer shoe care add-ons and pair check the shoes at POS.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a53ef593865607d6dc9f36c",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53ef533865607d6dc9f36a",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a6905c93865607d6dca065c"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53ef593865607d6dc9f36c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-1-0"
+  },
+  {
+    "_id": "5a53efb43865607d6dc9f37c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53ef9c3865607d6dc9f377",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53efb43865607d6dc9f37c",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Check out these links to further enhance your footwear selling techniques.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remember to always engage with your customer and provide them with a positive shopping experience.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a53f08c3865607d6dc9f38b",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53f0813865607d6dc9f389",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/how-to-fit-kids-shoes/index.html",
+        "itemTitle": "HOW TO FIT KIDS SHOES",
+        "_id": "5a53f0db3865607d6dc9f394",
+        "itemIndex": 1
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "CHOOSING THE RIGHT KIDS SHOE",
+        "itemIndex": 0,
+        "_id": "5a53f0da3865607d6dc9f392",
+        "link": "http://www.myeracademy.com.au/content/choosing-the-right-shoe/index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53f08c3865607d6dc9f38b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "5a53f2fc3865607d6dc9f3a3",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53f1753865607d6dc9f3a1",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5a53f3013865607d6dc9f3a5",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53f2fc3865607d6dc9f3a3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5a53f35e3865607d6dc9f3b4",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5a4aca25ec1ad576d99ed05a",
+    "_parentId": "5a53f33d3865607d6dc9f3af",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5a53f35e3865607d6dc9f3b4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  }
+]

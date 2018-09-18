@@ -1,0 +1,338 @@
+[
+  {
+    "_id": "5a4ad404ec1ad576d99ed168",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "_parentId": "5a4ad404ec1ad576d99ed167",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b88e7b5dfae0c5453cd4b9",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed14c",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "_parentId": "5a4ad403ec1ad576d99ed14b",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b1fa1fdd5a5f5706c391ed",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-1-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed141",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "_parentId": "5a4ad403ec1ad576d99ed140",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59a5f982ebca4a4008795196",
+    "body": "<p style=\"text-align: center;\">Dress option suggestions may include the following:</p><p style=\"text-align: center;\"><br></p><ul><li style=\"text-align: center;\">Beautiful shapes and silhouettes<br></li><li style=\"text-align: center;\">Cinched at the waist  - these offer a classic cut that suits most figures<br></li><li style=\"text-align: center;\">Soft tailoring to give volume<br></li><li style=\"text-align: center;\">Ruffles, lace and soft layers to add interest and texture<br></li><li style=\"text-align: center;\">Floral prints to provide a wider colour palette&nbsp;<br></li><li style=\"text-align: center;\">Outfits in colours that complement skin tones.&nbsp;<br></li></ul>",
+    "displayTitle": "Dresses",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "dresses",
+    "_type": "block",
+    "_courseOrder": "0-2-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed143",
+    "_sortOrder": 1,
+    "_parentId": "5a4ad403ec1ad576d99ed140",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b88fe75dfae0c5453cd4be",
+    "body": "<p style=\"text-align: center;\">Headwear is an essential component of race day dressing and compliment an outfit. As a rule of thumb:</p><p style=\"text-align: center;\"><br></p><ul><li style=\"text-align: center;\">Large headpieces should be paired with dresses in simple shapes or dresses in solid blocks of colour<br></li><li style=\"text-align: center;\">Dramatic dresses should be paired with smaller headpieces<br></li><li style=\"text-align: center;\">Straw hats and ornate headbands are a racing day favourite for a more contemporary take on traditional headwear.<br></li></ul>",
+    "displayTitle": "Headwear",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Headwear",
+    "_type": "block",
+    "_courseOrder": "0-2-1"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed145",
+    "_sortOrder": 2,
+    "_parentId": "5a4ad403ec1ad576d99ed140",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b88ff25dfae0c5453cd4c0",
+    "body": "<p style=\"text-align: center;\">Accessories allow experimentation with colour and can help pull an outfit together. Floral accessories such as shoes and handbags are on trend this spring. As a general rule:<br></p><br><ul><li style=\"text-align: center;\">Match shoes and handbags<br></li><li style=\"text-align: center;\">&nbsp;Nude or blush heels help to simplify an outfit and adds a touch of feminine sophistication<br></li><li style=\"text-align: center;\">Black heels, handbags and fascinators are classic outfit coordinators, as are metallic, nude and blush pink tones.&nbsp;</li></ul>",
+    "displayTitle": "Accessories",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Accessories",
+    "_type": "block",
+    "_courseOrder": "0-2-2"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed149",
+    "_sortOrder": 3,
+    "_parentId": "5a4ad403ec1ad576d99ed140",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b8b3635dfae0c5453cd4d9",
+    "body": "<p style=\"text-align: center;\">Brightly coloured shoes, handbags and fascinators can add a striking pop of colour to an outfit.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "AccessoriesV2",
+    "_type": "block",
+    "_courseOrder": "0-2-3"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed147",
+    "_sortOrder": 4,
+    "_parentId": "5a4ad403ec1ad576d99ed140",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b88ff85dfae0c5453cd4c2",
+    "displayTitle": "Solutions",
+    "body": "<p style=\"text-align: center;\">There are a number of footwear accessories products to help make any race day event comfortable. These include:</p><div><br></div><p><br></p><ul><li style=\"text-align: center;\">Ball of feet gels<br></li><li style=\"text-align: center;\">Heel grips<br></li><li style=\"text-align: center;\">Heel cushions<br></li><li style=\"text-align: center;\">Sole stopperz<br></li><li style=\"text-align: center;\">Strappy straps<br></li></ul>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Solutions",
+    "_type": "block",
+    "_courseOrder": "0-2-4"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed15f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "_parentId": "5a4ad403ec1ad576d99ed15e",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b35b1b388a12ca3fce7a17",
+    "displayTitle": "Suits",
+    "body": "<p style=\"text-align: center;\">Suits offer a more traditional look, with this season's trend leaning towards tailored suits constructed from lightweight fabrics in cotton, linen or wool blends. Offer these suggestions:</p><div style=\"text-align: center;\"><br></div><ul><li style=\"text-align: center;\">Pinstripes and plaids offer alternatives to solid suiting colours<br></li><li style=\"text-align: center;\">Plan suits work well with decorative or colourful shirts in florals, paisleys, stripes or checks<br></li><li style=\"text-align: center;\">Keep the shirt plain if wearing a statement suit - you can’t go past a crisp white shirt and black tie.&nbsp;<br></li></ul>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "suits",
+    "_type": "block",
+    "_courseOrder": "0-3-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed161",
+    "_sortOrder": 1,
+    "_parentId": "5a4ad403ec1ad576d99ed15e",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b893e35dfae0c5453cd4c4",
+    "displayTitle": "Blazers, Shirts, Chinos",
+    "body": "<p style=\"text-align: center;\">Even though a suit speaks of tradition and sophistication, menswear this racing season is anything but boring. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Men’s fashion experiments with pattern, colour and accessories with spring trends offering mix and match separates with blazers, shirts and chinos.&nbsp;</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Blazers, Shirts, Chinos",
+    "_type": "block",
+    "_courseOrder": "0-3-1"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed163",
+    "_sortOrder": 2,
+    "_parentId": "5a4ad403ec1ad576d99ed15e",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b8942e5dfae0c5453cd4c5",
+    "displayTitle": "Colours",
+    "body": "<div style=\"text-align: center;\">This season’s colours are blue and grey with pops of pink and lilac - these colours flatter any skin tone and liven up a suit.<br></div>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Colours",
+    "_type": "block",
+    "_courseOrder": "0-3-2"
+  },
+  {
+    "_id": "5a4ad404ec1ad576d99ed165",
+    "_sortOrder": 3,
+    "_parentId": "5a4ad403ec1ad576d99ed15e",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b894415dfae0c5453cd4c6",
+    "displayTitle": "Accessories",
+    "body": "<p style=\"text-align: center;\">The focus of race day outfits for men is to add 'pops of colour through accessories' such as pocket squares, ties and socks. Suggest these accessories:<br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><ul><li style=\"text-align: center;\">Beaded bracelets<br></li><li style=\"text-align: center;\">Cufflinks, tie bars and watches<br></li><li style=\"text-align: center;\">Metal and leather textures to pull together similar elements<br></li><li style=\"text-align: center;\">Tan leather shoes and boots to match belts and watch straps.<br></li></ul><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Hats are not essential. A fresh haircut and shave will complete sophistication and style goals.&nbsp;</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Accessories",
+    "_type": "block",
+    "_courseOrder": "0-3-3"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed157",
+    "_sortOrder": 0,
+    "_parentId": "5a4ad403ec1ad576d99ed156",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b899935dfae0c5453cd4cf",
+    "displayTitle": "Spring/Summer",
+    "body": "<p style=\"text-align: center;\">Spring celebrates the changing of the seasons with fresh, bright colours and prints. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Flowers, straw hats and fascinators feature in the spring and summer racing seasons. White is a crisp summer staple, with pastels, florals and paisleys featuring across men’s and women’s fashion. Lighter colours absorb less heat, so selecting paler colours and lightweight materials are weather appropriate. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Less than perfect weather conditions require a shawl or cropped jacket.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Spring/Summer",
+    "_type": "block",
+    "_courseOrder": "0-4-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed159",
+    "_sortOrder": 1,
+    "_parentId": "5a4ad403ec1ad576d99ed156",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b899995dfae0c5453cd4d0",
+    "displayTitle": "Autumn/Winter",
+    "body": "<p style=\"text-align: center;\">Autumn celebrates the changing of seasons with dark, muted colours and thick textured fabrics made from wool. </p><p style=\"text-align: center;\">Tailored suiting, felt hats and gloves are autumn racing fashion staples, as are closed shoes and headwear made from leather or metal. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Autumnal colours of marsala, plum and deep green reflect the changing of the season and feature alongside black, navy and grey. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Sleeved dresses, pantsuits and tailored trousers with blouses and jackets are appropriate. For cooler temperatures, consider layering.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Autumn/Winter",
+    "_type": "block",
+    "_courseOrder": "0-4-1"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed14f",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "_parentId": "5a4ad403ec1ad576d99ed14e",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b1fcccdd5a5f5706c391f1",
+    "displayTitle": "",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Conversation starters to assist customers",
+    "_type": "block",
+    "_courseOrder": "0-5-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed152",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "_parentId": "5a4ad403ec1ad576d99ed151",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b20195dd5a5f5706c391fa",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-6-0"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed154",
+    "_sortOrder": 1,
+    "_parentId": "5a4ad403ec1ad576d99ed151",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "__v": 0,
+    "_refId": "59b896815dfae0c5453cd4cb",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "BACK",
+    "_type": "block",
+    "_courseOrder": "0-6-1"
+  },
+  {
+    "_id": "5a4ad403ec1ad576d99ed15c",
+    "_courseId": "5a4ad403ec1ad576d99ed13c",
+    "_parentId": "5a4ad403ec1ad576d99ed15b",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59b35a72388a12ca3fce7a12",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-7-0"
+  }
+]

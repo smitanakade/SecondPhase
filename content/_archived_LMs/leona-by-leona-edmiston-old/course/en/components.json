@@ -1,0 +1,1278 @@
+[
+  {
+    "_id": "57bbd6e677d124f759962e4a",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "57bbd6c577d124f759962e49",
+    "_layout": "full",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57bbd82277d124f759962e4e"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "57bbd93777d124f759962e50"
+      }
+    },
+    "_refId": "57bbd6e677d124f759962e4a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5823f98efc489d639338767e",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5823f98efc489d639338767d",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5823f98efc489d639338767e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5785be28a981863c15650afa",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650af8",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58dde020a72b52de374f14e5"
+      },
+      "_isExternalLink": false
+    },
+    "_isQuestionType": false,
+    "_refId": "5785be28a981863c15650afa",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5785be28a981863c15650af9",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650af8",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE BRAND",
+    "body": "<p style=\"text-align: center;\">Colourful and confident, Leona by Leona Edmiston stands out with fun and unique vintage inspired dresses. Designed in collaboration with Australia’s frock queen, Leona Edmiston herself, the brand celebrates classic femininity, effortless style and sexy sophistication.</p>",
+    "_isQuestionType": false,
+    "_refId": "5785be28a981863c15650af9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "LEONA_TheBrand",
+    "_type": "component",
+    "_courseOrder": "0-2-0-1"
+  },
+  {
+    "_id": "5785be28a981863c15650b01",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650aff",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57c38b58e78e4ccd1140e18d"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "5785be28a981863c15650b01",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5785be28a981863c15650b00",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650aff",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\" class=\"\"><span style=\"background-color: rgb(240, 240, 248);\">•&nbsp;</span><span>Signature jersey dresses</span><br></p><p style=\"text-align: center;\">• Distinctive and quirky prints</p><p style=\"text-align: center;\">• Exclusive to Myer</p><p style=\"text-align: center;\">• Excellent price points</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Leona by Leona Edmiston is available at all Myer stores.&nbsp;</p>",
+    "displayTitle": "SELLING POINTS",
+    "_isQuestionType": false,
+    "_refId": "5785be28a981863c15650b00",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "LEONA_SellingPoints",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "5785be28a981863c15650ae4",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650ae2",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5785d216a981863c15650b33"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "5785be28a981863c15650ae4",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5785be28a981863c15650ae3",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650ae2",
+    "_layout": "right",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">She’s a confident extrovert who loves to play with colours and prints with a vintage aesthetic. Her fashion sense is timeless yet quirky and she wholeheartedly embraces femininity in what she wears. She’s sexy, sophisticated and perfectly nails effortless glamour.<br></p>",
+    "displayTitle": "WHO SHOPS LEONA BY LEONA EDMISTON?<br>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\"><span>A Leona by Leona Edmiston frock is elegant, versatile and ageless. It can be taken from 'Office to Opera' with ease.</span><br></p>",
+        "title": "WEARING LEONA BY&nbsp;<span>LEONA EDMISTON</span>",
+        "_id": "5757745b1d1a15230b436ed6",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "title": "OTHER LOVED BRANDS",
+        "body": "<p> </p><p style=\"text-align: center;\"><span>Wearers of this label may also love Review, Alannah Hill and Hi There From Karen Walker. &nbsp;</span><br></p>",
+        "_id": "57731168253db5b503cbbf9e",
+        "itemIndex": 1
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5785be28a981863c15650ae3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "LEONA_WhoShops",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "5785be29a981863c15650b08",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be29a981863c15650b07",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "FAVOURITE LOOKS",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58dde21ca72b52de374f14e7",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57453331a613ebf65864bba9",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><b>FIT AND FLARE</b><br></div><p style=\"text-align: center;\"><b><br></b></p><span><div style=\"text-align: center;\">The label takes careful consideration of all shapes and sizes to ensure a consistently beautiful fit and figure flattering cut.<br></div></span><p></p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58ead75faf77c6741fdb1d4e",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<div style=\"text-align: center;\"><b>QUALITY JERSEY</b><br></div><p style=\"text-align: center;\"><br></p><span><div style=\"text-align: center;\">The jersey is premium 250 gram Korean fabric, which has stretch qualities for the perfect cut and comfort.<br></div></span>",
+        "title": "",
+        "itemIndex": 1,
+        "_id": "5745322ea613ebf65864bba4"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58ead7e8af77c6741fdb1d50",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57453232a613ebf65864bba5",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><p> </p><p><b>MIX AND MATCH\t   </b></p><p><br></p><p>The range of skirts, blouses and knits offers endless combination of choices.</p></div><p></p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58ead879af77c6741fdb1d52",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>TEXTURAL INTEREST</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Each collection brings with it jacquard and waffle weaves to create textural interest in garments.</p>",
+        "_id": "5785c9e7a981863c15650b16",
+        "itemIndex": 3
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57c39197e78e4ccd1140e196",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "57453330a613ebf65864bba8",
+        "body": "<p style=\"text-align: left;\"></p><div style=\"text-align: center;\"><b>LONG LINE COATS</b><font color=\"#434a54\"><br></font></div><p style=\"text-align: center;\"><br></p><span><div style=\"text-align: center;\">Show off a great frock even in cooler weather with a long line coat. Choose from styles in quirky shapes, colours and textures.<br></div></span><p></p>",
+        "title": ""
+      }
+    ],
+    "_narrativeLayout": "Left",
+    "_isQuestionType": false,
+    "_refId": "5785be29a981863c15650b08",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "LEONA_Narrative ",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5785be29a981863c15650b14",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be29a981863c15650b12",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57c396bfe78e4ccd1140e19e"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "5785be29a981863c15650b14",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "LEONA_FinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5785be29a981863c15650b13",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be29a981863c15650b12",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Leona by Leona Edmiston is a diffusion line of Leona Edmiston. The brand features complementary ranges that include sleepwear, footwear and bags, also available at Myer.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>PRICE POINT</b></p><p style=\"text-align: center;\">Dresses range between $119.95 - $179.95,</p><p style=\"text-align: center;\">with selected Hot Price dresses at $89 - $99.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>SIZES</b></p><p style=\"text-align: center;\">Consistent cuts ranging from size 8 - 16.</p>",
+    "displayTitle": "THE FINE PRINT",
+    "_isQuestionType": false,
+    "_refId": "5785be29a981863c15650b13",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "LEONA_FinePrint",
+    "_type": "component",
+    "_courseOrder": "0-6-0-1"
+  },
+  {
+    "_id": "5785be28a981863c15650aef",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650aee",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Which image portrays the Leona by Leona Edmiston? <br></p>",
+    "displayTitle": "",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>That’s right.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The jersey dress is a Leona by Leona Edmiston signature item. The label ensures a consistently beautiful fit by taking careful consideration of all shapes and sizes.&nbsp;<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Incorrect.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The jersey dress is a Leona by Leona Edmiston signature item. The label ensures a consistently beautiful fit by taking careful consideration of all shapes and sizes.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Refer to Image C.</p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5785d233a981863c15650b35",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57638d065317199730b37c41",
+        "itemIndex": 0,
+        "text": "Image A<br>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5785d24aa981863c15650b37",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "57638d075317199730b37c42",
+        "text": "Image B"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57c388dfe78e4ccd1140e186",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57638d085317199730b37c43",
+        "itemIndex": 2,
+        "text": "Image C"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5785d289a981863c15650b3b",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "57638d095317199730b37c44",
+        "text": "Image D"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_isQuestionType": true,
+    "_refId": "5785be28a981863c15650aef",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "GMCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5785be28a981863c15650aed",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650aec",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Which three are selling points for Leona by Leona Edmiston?<br></p>",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not at all.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Available exclusively at Myer at excellent price points, Leona by Leona Edmiston designs often features distinctive and quirky prints.</p>",
+        "notFinal": "<p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not sure?</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Available exclusively at Myer at excellent price points, Leona by Leona Edmiston designs often features distinctive and quirky prints.</p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Excellent.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Available exclusively at Myer at excellent price points, Leona by Leona Edmiston designs often features distinctive and quirky prints.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "text": "Distinctive and quirky prints",
+        "_id": "57468f311888e3b9604a8ce4",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "Excellent price points  ",
+        "itemIndex": 1,
+        "_id": "57468f321888e3b9604a8ce5"
+      },
+      {
+        "_shouldBeSelected": false,
+        "text": "Fine couture collection",
+        "_id": "57468f331888e3b9604a8ce6",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "Exclusive to Myer  ",
+        "_id": "574f75771d1a15230b436e7e",
+        "itemIndex": 3
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 4,
+        "_id": "574f757f1d1a15230b436e7f",
+        "text": "Edgy, androdynous styling"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "5785be28a981863c15650aed",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "LEONA _MCQ_01",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "5785cb60a981863c15650b17",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650ae9",
+    "_layout": "left",
+    "_component": "media",
+    "_media": {
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "5785d3afa981863c15650b3d"
+      },
+      "_shouldAutoPlay": false,
+      "_isExternalLink": false,
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5785d448a981863c15650b3f"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Hear Leona Edmiston talk about her start in fashion and the source of her much loved print designs.</p>",
+    "_refId": "5785cb60a981863c15650b17",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "LEONA_Video",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5785be28a981863c15650aea",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5785be28a981863c15650ae9",
+    "_layout": "right",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Get a little more of Leona by Leona Edmiston from any of the links below.</p>",
+    "_items": [
+      {
+        "_id": "577b4b7a1ee1bc520af684b9",
+        "itemIndex": 0,
+        "itemTitle": "LEONA BY LEONA EDMISTON @ MYER",
+        "link": "http://www.myer.com.au/webapp/wcs/stores/servlet/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&orderBy=0&maxPrice=&showResultsPage=true&langId=-1&beginIndex=0&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=&catalogId=10051&pageView=image&searchTerm=&facet=mfName_ntk_cs%253A%2522Leona%2Bby%2BLeona%2BEdmiston%2522&minPrice=&categoryId=17808&showFacet=Y&storeId=10251",
+        "_isComplete": false,
+        "_linkAlignment": "center",
+        "_linkPosition": "top",
+        "_isButton": true,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
+      },
+      {
+        "itemIndex": 1,
+        "_id": "577b4b7e1ee1bc520af684ba",
+        "itemTitle": "WEBSITE",
+        "link": "https://leonaedmiston.com",
+        "_isComplete": false,
+        "_linkAlignment": "center",
+        "_linkPosition": "top",
+        "_isButton": true,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
+      },
+      {
+        "itemIndex": 2,
+        "_id": "5785cbaba981863c15650b19",
+        "itemTitle": "FACEBOOK",
+        "link": "https://www.facebook.com/LeonaEdmiston",
+        "_isComplete": false,
+        "_linkAlignment": "center",
+        "_linkPosition": "top",
+        "_isButton": true,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
+      },
+      {
+        "_id": "5785cba7a981863c15650b18",
+        "itemIndex": 3,
+        "itemTitle": "INSTAGRAM",
+        "link": "https://www.instagram.com/leonaedmiston",
+        "_isComplete": false,
+        "_linkAlignment": "center",
+        "_linkPosition": "top",
+        "_isButton": true,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
+      },
+      {
+        "link": "http://www.twitter.com/leonaedmiston",
+        "itemTitle": "TWITTER",
+        "_id": "5785cbd8a981863c15650b1a",
+        "itemIndex": 4,
+        "_isComplete": false,
+        "_linkAlignment": "center",
+        "_linkPosition": "top",
+        "_isButton": true,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5785be28a981863c15650aea",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-1"
+  },
+  {
+    "_id": "5823f9c0fc489d6393387686",
+    "_courseId": "5785be28a981863c15650ad8",
+    "_parentId": "5823f9c0fc489d6393387684",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5823f9c0fc489d6393387686",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  }
+]

@@ -1,0 +1,1614 @@
+[
+  {
+    "_id": "599502a3ebca4a4008795011",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599502a3ebca4a4008795010",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "5994135aebca4a4008794fd3",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "599502a3ebca4a4008795011",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "597a74d8ca4a65a854f9d07a",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "597a74d8ca4a65a854f9d079",
+    "__v": 0,
+    "_refId": "596d55cd32b40dca201c4bcf",
+    "displayTitle": "WHAT DO YOU THINK ARE THE MAIN CAUSES OF SHRINKAGE?&nbsp;",
+    "body": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Select all that are correct.</p><p style=\"text-align: center;\"><br></p>",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<div style=\"text-align: justify;\"><span style=\"background-color: rgb(255, 255, 255);\">Not quite. Not following garment care instructions is shrinkage of another kind! All of the others can contribute to shrinkage in our stores. Remember, we are all responsible for&nbsp;</span>managing shrinkage<span style=\"background-color: rgb(255, 255, 255);\">&nbsp;at Myer.</span></div>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "",
+        "final": "<span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><b>Almost.&nbsp;</b></span><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p>Not quite. Not following garment care instructions can cause shrinkage of another kind! All of the others can contribute to shrinkage in our stores. Remember, we are all responsible for managing shrinkage at Myer.<br></p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><b>That’s right!</b></span><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\"><br></span></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">All of these can contribute to shrinkage in our stores. Remember, we are all responsible for managing shrinkage at Myer.&nbsp;</span></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "597a8d43ca4a65a854f9d09b",
+        "itemIndex": 0,
+        "text": "Theft by customers or team members"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "597a8d45ca4a65a854f9d09d",
+        "itemIndex": 1,
+        "text": "Not following system procedures and compliance"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Incorrect counting during the stocktake process&nbsp;",
+        "itemIndex": 2,
+        "_id": "597a8d45ca4a65a854f9d09e"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "599e0a59ebca4a4008795097",
+        "itemIndex": 4,
+        "text": "Not following garment care instructions"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "&nbsp;Supplier error",
+        "_id": "597a8e63ca4a65a854f9d09f",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 5,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "18"
+    },
+    "title": "Shrinkage_MCQ_01",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "599b6c07ebca4a4008795068",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599b6c00ebca4a4008795067",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599b6c07ebca4a4008795068",
+    "displayTitle": "58%",
+    "body": "<p style=\"text-align: center;\">CUSTOMER THEFT</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "599b6c0febca4a400879506a",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599b6c0aebca4a4008795069",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599b6c0febca4a400879506a",
+    "displayTitle": "22%",
+    "body": "<p style=\"text-align: center;\">TEAM MEMBER THEFT</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "599b6c16ebca4a400879506c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599b6c11ebca4a400879506b",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599b6c16ebca4a400879506c",
+    "displayTitle": "15%",
+    "body": "<p style=\"text-align: center;\">SYSTEMS AND COMPLIANCE</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "599b6c1eebca4a400879506e",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599b6c18ebca4a400879506d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599b6c1eebca4a400879506e",
+    "displayTitle": "5%",
+    "body": "<p style=\"text-align: center;\">SUPPLIER ERRORS</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-3-0"
+  },
+  {
+    "_id": "597a76beca4a65a854f9d093",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "597a74d8ca4a65a854f9d076",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597a76beca4a65a854f9d093",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "599f66b5ebca4a4008795138",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "5994ee62ebca4a4008795005",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "PLANNING AND ONGOING REVIEW",
+        "body": "<p style=\"text-align: center;\">Planning shrinkage management activities at the start of each season and delegation of tasks to various roles. Ongoing review of results to validate effectiveness of implemented tactics.</p>",
+        "_id": "599f66eeebca4a400879513a",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "599f6702ebca4a400879513b",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Effectively engaging all team members to be passionate about, and take responsibility for shrinkage.</p>",
+        "title": "COMMUNICATION AND AWARENESS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "EDUCATION",
+        "body": "<p style=\"text-align: center;\">Provides all team members with the knowledge and information to develop skills to take responsibility for shrinkage.</p>",
+        "_id": "599f678cebca4a4008795140",
+        "itemIndex": 6
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "COMPLIANCE AND GOVERNANCE",
+        "body": "<p style=\"text-align: center;\">Compliance management involves adhering to prescribed procedures and policies. There is a direct correlation between compliance management and the shrinkage result of a store.</p>",
+        "_id": "599f6725ebca4a400879513c",
+        "itemIndex": 2
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 3,
+        "_id": "599f6738ebca4a400879513d",
+        "body": "<p style=\"text-align: center;\">Tags or devices that are applied to merchandise either by the manufacturer or in store to reduce the opportunity of theft.</p>",
+        "title": "MERCHANDISE PROTECTION"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "CHANGE ROOM MANAGEMENT",
+        "body": "<p style=\"text-align: center;\">Provides an opportunity for team members to Delight customers by providing exceptional customer service whilst also reducing the opportunity of theft.</p>",
+        "_id": "599f674debca4a400879513e",
+        "itemIndex": 4
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 5,
+        "_id": "599f675febca4a400879513f",
+        "body": "<p style=\"text-align: center;\">Scan Counts are small stocktakes that are conducted several times a year depending on selected merchandise categories.</p>",
+        "title": "STOCKTAKE OPERATIONS"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599f66b5ebca4a4008795138",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "597a74d8ca4a65a854f9d07d",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "597a74d8ca4a65a854f9d07c",
+    "__v": 0,
+    "_refId": "596c113e8ad91eda6eb8008d",
+    "body": "<p style=\"text-align: center;\">Myer follows best practice to develop tactics and manage shrinkage throughout the business.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We take into consideration impacts on other business objectives such as sales, stock and customer service while striving for continuous improvement.</p><p><br></p>",
+    "displayTitle": "MYER'S APPROACH TO MANAGING SHRINKAGE",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_isColumnItemGraphicAtBottom": false,
+        "_itemTitleTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_id": "59950030ebca4a4008795008",
+        "itemIndex": 0
+      }
+    ],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Myer's approach",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5995003febca4a400879500a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "59950037ebca4a4008795009",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "599500b6ebca4a400879500b"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5995003febca4a400879500a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-1-0"
+  },
+  {
+    "_id": "597ad91eca4a65a854f9d0df",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "597ad918ca4a65a854f9d0de",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "OUR CUSTOMER",
+        "itemIndex": 0,
+        "_id": "597ad923ca4a65a854f9d0e0",
+        "body": "<p style=\"text-align: center;\">Disappointed online customers because the item they ordered will never arrive and they will have to receive a refund for their online purchase.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Disappointed customers in store who can’t find what they’re looking for because it has been stolen.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "OUR TEAM&nbsp;",
+        "_id": "597ad925ca4a65a854f9d0e3",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Team members wasting time and effort looking for merchandise that does not exist because it has been stolen or the book stock is incorrect. </p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Impacts profit not just due to the loss of the cost value of the merchandise, but also due to the lost sales opportunity.</p>",
+        "_id": "597ad923ca4a65a854f9d0e1",
+        "itemIndex": 2,
+        "title": "FINANCIAL PERFORMANCE"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597ad91eca4a65a854f9d0df",
+    "body": "<p style=\"text-align: center;\">Shrinkage impacts many areas of the business as outlined below.</p>",
+    "displayTitle": "THE IMPACTS ON THE BUSINESS",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-4-2-0"
+  },
+  {
+    "_id": "599f89b1ebca4a4008795163",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599f89aaebca4a4008795162",
+    "_media": {
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t3RJbx7S2NA\" frameborder=\"0\" allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599f89b1ebca4a4008795163",
+    "body": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Watch a short clip for tactics and tools that you can use to play your part in deterring shrinkage.</span><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p>",
+    "displayTitle": "MEET 'SHRINKAGE SALLY'",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "597a74d8ca4a65a854f9d085",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "597a74d8ca4a65a854f9d084",
+    "__v": 0,
+    "_refId": "596d4dd532b40dca201c4bc0",
+    "body": "<p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "GREAT CUSTOMER SERVICE",
+        "_id": "597adbfeca4a65a854f9d0e4",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">The best prevention against customer theft is providing delightful service – being present and engaged with your customers and letting them know you are there.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Delightful service could make potential thieves feel uncomfortable, and possibly deter them from stealing, whereas genuine customers will appreciate the service.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "MERCHANDISE PROTECTION",
+        "itemIndex": 1,
+        "_id": "597adbfeca4a65a854f9d0e5",
+        "body": "<p style=\"text-align: center;\">The use of merchandise protection technology is extremely important in protecting merchandise. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"> Remember to deactivate all soft tags and remove hard tags on all merchandise at time of sale, otherwise the alarm at the EAS gate will unnecessarily sound and ruin the customer experience. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">If the alarm at the EAS gate sounds, a team member is expected to approach the customer to ensure no hard tag has been left on paid for merchandise.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">You will learn more on merchandise protection in future learning moments. Meanwhile, see your People Leader for more information on tagging devices.&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "_id": "597adc0bca4a65a854f9d0e6",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">&nbsp;CCTV is recording 24 hours a day, 7 days a week and positioned throughout all Myer stores and cover areas that include:</span><br></p><p style=\"text-align: center;\"><br></p><ul><li style=\"text-align: center;\">Store entry/exit points&nbsp;</li><li style=\"text-align: center;\">Entry to change rooms and toilets</li><li style=\"text-align: center;\">Team member entry</li><li style=\"text-align: center;\">Transaction centres&nbsp;</li><li style=\"text-align: center;\">Loading docks</li><li style=\"text-align: center;\">High risk departments</li></ul>",
+        "title": "CLOSED CIRCUIT TELEVISION (CCTV)"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 3,
+        "_id": "597adc0cca4a65a854f9d0e7",
+        "body": "<div style=\"text-align: center;\"><p>The Loss Prevention team work with stores to support the delivery of Myer’s strategic shrinkage imperatives. </p><p><br></p><p>This is done by focusing on awareness, education, operational efficiency, physical security, theft and fraud prevention and detection, investigation and crime resolution.</p></div>",
+        "title": "LOSS PREVENTION SUPPORT AND AWARENESS"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "FRAUDWATCH",
+        "body": "<p style=\"text-align: center;\">FraudWatch is one of the tools used to detect fraudulent activity at Myer. The system captures and analyses all transaction data, from POS (point of sale), online purchases and My Customer Order (MCO), and flags potentially dishonest activity. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">FraudWatch can detect unauthorised refunds, price overrides, misuse of MYER one cards and team member discount cards.</p>",
+        "_id": "597adc0dca4a65a854f9d0e8",
+        "itemIndex": 4
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "WAYS TO MANAGE SHRINKAGE",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "597a74d9ca4a65a854f9d090",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "597a74d9ca4a65a854f9d08f",
+    "__v": 0,
+    "_refId": "596d51d932b40dca201c4bcd",
+    "displayTitle": "ZERO TOLERANCE POLICY",
+    "body": "Myer has a zero-tolerance policy towards any fraudulent activity including theft committed by our team members or customers.<br><br><p style=\"font-size: 16px; text-align: center;\">Team member and customer dishonesty matters will be referred to police.</p><p style=\"text-align: right;\"><br></p>",
+    "_items": [],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Zero tolerance policy ",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5995020debca4a400879500d",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "59950207ebca4a400879500c",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59950271ebca4a400879500e"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5995020debca4a400879500d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "597a74d9ca4a65a854f9d092",
+    "_component": "textAndGraphic",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "597a74d9ca4a65a854f9d091",
+    "__v": 0,
+    "_refId": "596d58d132b40dca201c4bd6",
+    "displayTitle": "PART OF WHAT YOU DO",
+    "body": "<p style=\"text-align: center;\">Shrinkage management should be considered as part of everything you do.  </p><p style=\"text-align: center;\"><br></p><ul><li style=\"text-align: center;\">Always follow company policies and procedures.<br></li></ul><br><ul><li style=\"text-align: center;\">Ask if you are unsure about anything.<br></li></ul><br><ul><li style=\"text-align: center;\">Report any suspicious behaviour to your manager.<br></li></ul><div style=\"text-align: center;\"><br></div><span style=\"font-size: 16px; text-align: center;\">The Shrinkage Communication Board is regularly updated throughout the year. It is in a permanent location that contains shrinkage related messages for team members.</span><br><p><span style=\"font-size: 16px; text-align: center;\"><br></span></p>",
+    "_items": [],
+    "_columnItemStyles": {
+      "_itemSeperatorBorderWidth": "1px",
+      "_itemSeperatorBorderColor": "transparent",
+      "_showItemSeperatorBorder": false,
+      "_itemContentSpacing": "0px",
+      "_itemBackgroundColor": "transparent"
+    },
+    "_itemTitleTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_numberOfColumns": 3,
+    "_isColumnLayout": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Part of what you do",
+    "_type": "component",
+    "_courseOrder": "0-7-2-0"
+  },
+  {
+    "_id": "59950335ebca4a4008795016",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "59950331ebca4a4008795015",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "599f601bebca4a4008795132"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59950335ebca4a4008795016",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-3-0"
+  },
+  {
+    "_id": "599b8cd5ebca4a4008795074",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599f76a5ebca4a400879514e",
+    "_media": {
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false,
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Cdwc5eSUFyQ\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599b8cd5ebca4a4008795074",
+    "body": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Watch this short video on how you can be part of the plan in deterring shrinkage.</span><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><br></span></p>",
+    "displayTitle": "PLAY YOUR PART",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "0-7-4-0"
+  },
+  {
+    "_id": "5995035cebca4a4008795019",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "59950358ebca4a4008795018",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemIndex": 0,
+        "_id": "59950363ebca4a400879501a",
+        "itemTitle": "BACK"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5995035cebca4a4008795019",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "599502b4ebca4a4008795014",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "597a74d8ca4a65a854f9d071",
+    "_parentId": "599502abebca4a4008795013",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_id": "599b80f9ebca4a4008795071",
+        "_extension": "png",
+        "_type": "image",
+        "_size": "small"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599502b4ebca4a4008795014",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  }
+]

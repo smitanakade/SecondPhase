@@ -1,0 +1,279 @@
+[
+  {
+    "_id": "5b0e22c451c44801a268fa7f",
+    "_courseId": "5b0e22bc51c44801a268fa7c",
+    "_parentId": "5b0e22bc51c44801a268fa7c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5b0e22c451c44801a268fa7f",
+    "displayTitle": "BETWEEN THE SHEETS",
+    "body": "<p>Beautiful bedding solutions</p>",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_search": {
+      "_searchTagIds": []
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "body": "",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "5b1f05d587eee63542614ece",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5b1f052387eee63542614ecd"
+          }
+        }
+      },
+      "_contentWidth": 100,
+      "layout": "bottom",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "New Content Object Title",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "5b1f0d9587eee63542614ed1",
+      "5b1f116787eee63542614ee4",
+      "5b1f0f3187eee63542614ed6",
+      "5b1f4def87eee63542614f78",
+      "5b1f185087eee63542614ef0",
+      "5b1f1c4587eee63542614ef9",
+      "5b1f1cae87eee63542614f01",
+      "5b1f1f5c87eee63542614f0b",
+      "5b1f1f7887eee63542614f0d",
+      "5b1f45d687eee63542614f6d",
+      "5b207c3c87eee63542615008",
+      "5b1f2ab287eee63542614f1b",
+      "5b1f2c5587eee63542614f1d",
+      "5b1f2c8f87eee63542614f1f",
+      "5b1f2db387eee63542614f28",
+      "5b1f2db387eee63542614f26",
+      "5b1f2db387eee63542614f29",
+      "5b1f2ffc87eee63542614f31",
+      "5b1f2ffc87eee63542614f2f",
+      "5b1f2ffc87eee63542614f30",
+      "5b1f306d87eee63542614f36",
+      "5b1f306d87eee63542614f37",
+      "5b1f306d87eee63542614f38",
+      "5b20807987eee6354261500c",
+      "5b1f316187eee63542614f3d",
+      "5b1f329787eee63542614f44",
+      "5b1f3bcc87eee63542614f4b",
+      "5b20769d87eee63542615005",
+      "5b1f3d1c87eee63542614f57",
+      "5b1f40fd87eee63542614f5d",
+      "5b1f49e887eee63542614f76",
+      "5b20841d87eee63542615011",
+      "5b1f416c87eee63542614f60",
+      "5b1f431287eee63542614f65",
+      "5b1f42d687eee63542614f63",
+      "5b1f442a87eee63542614f6a"
+    ],
+    "_childrenIds": [
+      "5b0e22c451c44801a268fa80",
+      "5b1f116787eee63542614ee2",
+      "5b1f0ec087eee63542614ed2",
+      "5b1f133c87eee63542614ee7",
+      "5b1f17dc87eee63542614eee",
+      "5b1f1c0a87eee63542614ef5",
+      "5b1f1e9087eee63542614f07",
+      "5b1f455f87eee63542614f6b",
+      "5b207c3687eee63542615006",
+      "5b1f29cc87eee63542614f17",
+      "5b1f2db287eee63542614f21",
+      "5b1f2ffc87eee63542614f2b",
+      "5b1f306d87eee63542614f32",
+      "5b20807487eee6354261500a",
+      "5b1f30da87eee63542614f39",
+      "5b1f3baa87eee63542614f49",
+      "5b1f3d1b87eee63542614f54",
+      "5b1f40ee87eee63542614f5b",
+      "5b1f49e887eee63542614f74",
+      "5b1f416187eee63542614f5e",
+      "5b1f42d587eee63542614f61",
+      "5b1f442a87eee63542614f68"
+    ]
+  }
+]

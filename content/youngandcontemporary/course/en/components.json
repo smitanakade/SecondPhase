@@ -1,0 +1,1556 @@
+[
+  {
+    "_id": "5832920cf76c00020102f3a8",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3a7",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "YOUNG AND CONTEMPORARY FOOTWEAR",
+    "body": "<p style=\"text-align: center;\"><i>Digital footwear workshop</i></p><p style=\"text-align: center;\"><i><br></i></p>",
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3a8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f3aa",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3a9",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemIndex": 0,
+        "_id": "582bd21e31ac1413a6b3ddf5",
+        "itemTitle": "BACK",
+        "body": ""
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3aa",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5832920bf76c00020102f38d",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920bf76c00020102f38c",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5833db473c0bca19a99f78af"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5832920bf76c00020102f38d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5832920bf76c00020102f38f",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920bf76c00020102f38c",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "AHEAD OF THE PACK",
+    "body": "<p style=\"text-align: center;\">It’s easy to stay ahead of the fashion pack with Myer’s huge range of young and contemporary footwear brands. They’re all about hot-right-now footwear styles at prices to suit everyone’s budget.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Tap into our collection of most wanted young and contemporary brands in this Learning Moment.</p>",
+    "_isQuestionType": false,
+    "_refId": "5832920bf76c00020102f38f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "AHEAD_OF_THE_PACK",
+    "_type": "component",
+    "_courseOrder": "0-1-0-1"
+  },
+  {
+    "_id": "583380e33c0bca19a99f77fa",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "583380e33c0bca19a99f77f9",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "FROM THE EXPERT",
+    "body": "<p style=\"text-align: center;\"><i>\"Our youth customer loves social media and follows all the latest trends. Our range gives them all the looks they want, always at a competitive price.\"</i><br></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: right;\"><b><sub>Renee Hallam</sub></b><br></p><p style=\"text-align: right;\"><sub>Category Buyer, Young and Contemporary Footwear<br></sub></p><p><br></p>",
+    "_isQuestionType": false,
+    "_refId": "583380e33c0bca19a99f77fa",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f3b0",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3af",
+    "_layout": "left",
+    "_component": "gif",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "589948911dd3934329759bcd"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3b0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f3b2",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3af",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>Miss Shop caters for shoe fanatics, with all the latest fashion footwear styles in a wide range of colours. Whether you’re on the hunt for heels, flats, sandals, sneakers or boots, make Miss Shop your first stop.</p><p><br></p><p>Miss Shop is exclusive to Myer and uses non-leather upper, lining and sole.</p><p><br></p><p>The range falls within the $59.95 - $99.95 price range.<br></p></div>",
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3b2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "5832920cf76c00020102f3b8",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3b7",
+    "_layout": "left",
+    "_component": "gif",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "589948ba1dd3934329759bcf"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3b8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f3ba",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3b7",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>Established in 1946 as a manufacturer of biker boots for men, Windsor Smith is now Australia’s number one mens and womens fashion footwear brand. The brand name reflects how the shoes are suitable for everybody from the Smiths to the Windsors.</p><p><br></p><p>Windsor Smith uses leather uppers, and non-leather lining and sole.</p><p><br></p><p>Prices from $99.95 to $199.95 for boots.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3ba",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "5832920ef76c00020102f3f9",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920ef76c00020102f3f8",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Press the image below to learn more.</p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58a0ea40ed2155973abb6f00",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>GET THE EDGE</b>"
+        },
+        "_shouldSetCompletion": false,
+        "itemIndex": 0,
+        "_id": "57e47337ab3d8759a1a58c80",
+        "text": "<p style=\"text-align: center;\"><b>GET THE EDGE</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">To gain height without compromising comfort, try heels with a platform sole.<br></p>"
+      }
+    ],
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_isQuestionType": false,
+    "_numberOfColumns": 4,
+    "_refId": "5832920ef76c00020102f3f9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f3c0",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3bf",
+    "_layout": "left",
+    "_component": "gif",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "589948dd1dd3934329759bd1"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3c0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f3c2",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3bf",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>Piper footwear is continuously redefining urban style with casual cool styling at great value prices.</p><p><br></p><p>Piper footwear is exclusive to Myer and features leather uppers and non-leather lining and soles.</p><p><br></p><p>Prices from $99.95 up to $199.95 for boots.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3c2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-1"
+  },
+  {
+    "_id": "58364c5f948c8b50476dbe0a",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "58364c5f948c8b50476dbe09",
+    "_layout": "left",
+    "_component": "gif",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "58994a7a1dd3934329759bd3"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "58364c5f948c8b50476dbe0a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "58364c5f948c8b50476dbe0b",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "58364c5f948c8b50476dbe09",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<div style=\"text-align: center;\"><p>Wayne Cooper shoes offer effortless glamour for women who dare to take risks. </p><p><br></p><p>Wayne Cooper uses leather uppers, non-leather lining and soles, and is exclusive to Myer.</p><p><br></p><p>Prices from $149.95 to $199.95 for boots.</p></div>",
+    "_isQuestionType": false,
+    "_refId": "58364c5f948c8b50476dbe0b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-1"
+  },
+  {
+    "_id": "583391333c0bca19a99f781b",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "583391333c0bca19a99f7818",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "THE HIT LIST",
+    "body": "<p style=\"text-align: center;\">Get ready for it. Here are more of our hottest young and contemporary footwear brands.<br></p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58a0ed93ed2155973abb6f0d",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Lipstik shoes set the pace in fun, fresh and fashionable footwear at an amazing price.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prices from $79.95 and up to $129.95 for boots.</p>",
+        "_id": "57e4c401ab3d8759a1a58d01",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58994f421dd3934329759bd7",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Starting out in Queens, New York, in the 1990s, the Steve Madden brand has become synonymous with rock and roll inspired footwear for on-trend women and men around the world.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prices from $109.95 to $239.95.</p>",
+        "_id": "57e4c3feab3d8759a1a58cff",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "58994f541dd3934329759bd9",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\">Born and raised in Melbourne, Siren makes no apologies for its bold approach to fashion. For the past decade Siren has been leading the market with inspirational footwear. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Prices from $139.95, and up to $299.95 for long boots.  </p>",
+        "itemIndex": 2,
+        "_id": "57e4c3fdab3d8759a1a58cfe"
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "_refId": "583391333c0bca19a99f781b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "58338f403c0bca19a99f780f",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "58338f403c0bca19a99f780e",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "HOT TIP",
+    "body": "<p style=\"text-align: center;\"><sup>Press the image below to learn more.</sup></p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "589d4a1ced2155973abb6ef4",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>SWEET RELIEF</b>"
+        },
+        "_shouldSetCompletion": false,
+        "itemIndex": 0,
+        "_id": "57e47337ab3d8759a1a58c80",
+        "text": "<p style=\"text-align: center;\"><b>ON YOUR FEET ALL DAY?&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Gel inserts in your shoes will help to distribute weight more evenly, keeping your feet comfy for longer!</p>"
+      }
+    ],
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_isQuestionType": false,
+    "_refId": "58338f403c0bca19a99f780f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5832920ef76c00020102f3eb",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920ef76c00020102f3ea",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Strut your stuff and show how much you know about footwear.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Select the <b>three </b>young and contemporary brands in this list.</p>",
+    "displayTitle": "KNOWLEDGE CHECK",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Not quite.<br></b><p><b><br></b></p></p><p style=\"text-align: center;\">Miss Shop, Lipstik and Windsor Smith are the young and comtemporary brands in this list.<br></p>",
+        "notFinal": "<p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\" class=\"\"><b>Not quite.</b></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\" class=\"\">Miss Shop, Lipstik and Windsor Smith are the young and comtemporary brands in this list.<br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Right on.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Miss Shop, Lipstik and Windsor Smith are the young and comtemporary brands in this list.<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_id": "57730108253db5b503cbbf94",
+        "itemIndex": 0,
+        "text": "Miss Shop"
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 1,
+        "_id": "57730109253db5b503cbbf95",
+        "text": "Jane Debster"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 2,
+        "_id": "5773010b253db5b503cbbf97",
+        "text": "Lipstik<br>"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_id": "5773010c253db5b503cbbf98",
+        "itemIndex": 3,
+        "text": "Kenzo"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 4,
+        "_id": "57730117253db5b503cbbf99",
+        "text": "Windsor Smith"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_refId": "5832920ef76c00020102f3eb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5833b5c33c0bca19a99f7858",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5833b5b93c0bca19a99f7857",
+    "_layout": "full",
+    "_component": "mcq",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Myer’s wide range of young and contemporary footwear is on-trend, with a price tag to suit every budget.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Think again.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Young and contemporary footwear is usually on-trend, with non-leather components and have a lower price tag.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Sure is.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Myer’s wide range of young and contemporary footwear is on-trend, with a price tag to suit every budget.<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "text": "Lower price tags",
+        "_id": "5833b5e33c0bca19a99f7859",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 1,
+        "_id": "5833b62e3c0bca19a99f785a",
+        "text": "Supreme comfort"
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "On-trend styles",
+        "_id": "5833b63d3c0bca19a99f785b",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 3,
+        "_id": "5833b6503c0bca19a99f785c",
+        "text": "Wider fits"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 4,
+        "_id": "5833b7093c0bca19a99f7860",
+        "text": "Wide range"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Select <b>three</b> common features of Myer’s young and contemporary footwear range.<br></p>",
+    "_refId": "5833b5c33c0bca19a99f7858",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-10-1-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f39d",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f39c",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58a0dbeeed2155973abb6efc"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f39d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5832920cf76c00020102f39f",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f39c",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE RUNDOWN",
+    "body": "<p style=\"text-align: center;\">Myer has the widest range of fashion footwear brands with prices to suit every budget so you can spoil yourself with new shoes for every occasion. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">#dangerouslyfun #cantstopwontstop<br></p>",
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f39f",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-1"
+  },
+  {
+    "_id": "5832920cf76c00020102f3a5",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920cf76c00020102f3a4",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE EXTRA MILE",
+    "body": "<p style=\"text-align: center;\">Check out these learning moments to step up your footwear knowledge:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span>•\tFootwear Sizes and Trends</span><br></p><p style=\"text-align: center;\">•\tFootwear Construction</p>",
+    "_isQuestionType": false,
+    "_refId": "5832920cf76c00020102f3a5",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5832920ef76c00020102f3ef",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920ef76c00020102f3ee",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "5832920ef76c00020102f3ef",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "5832920ef76c00020102f3f1",
+    "_courseId": "5832920bf76c00020102f379",
+    "_parentId": "5832920ef76c00020102f3f0",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "5832920ef76c00020102f3f1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-1-0"
+  }
+]

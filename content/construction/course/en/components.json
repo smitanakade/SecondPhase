@@ -1,0 +1,1602 @@
+[
+  {
+    "_id": "57ff05704ea87d56dd3ea859",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff05704ea87d56dd3ea858",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "CONSTRUCTION",
+    "body": "<p style=\"text-align: center;\"><i>Digital footwear workshop</i></p><p style=\"text-align: center;\"><i><br></i></p>",
+    "_isQuestionType": false,
+    "_refId": "57ff05704ea87d56dd3ea859",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "582d23007459023a39ae0ef8",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "582d23007459023a39ae0ef7",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "../index.php",
+        "itemTitle": "BACK",
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemIndex": 0
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "582d23007459023a39ae0ef8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "57ff170f4ea87d56dd3ea875",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff16f64ea87d56dd3ea874",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "DETAILS THAT MATTER",
+    "body": "<p style=\"text-align: center;\">Imagine you’re shopping at Myer for new black stilettos and find two almost identical pairs.</p><p style=\"text-align: center;\">Comparing them, you realise the price on one is 60% more than the other.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">From the way these shoes look, can you guess which one is more expensive?</p><p style=\"text-align: center;\">Press the image to find out.</p>",
+    "_refId": "57ff170f4ea87d56dd3ea875",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "57ff16f24ea87d56dd3ea873",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff16ed4ea87d56dd3ea872",
+    "_layout": "full",
+    "_component": "flipCard",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "itemIndex": 0,
+        "_id": "57ff17aa4ea87d56dd3ea878"
+      }
+    ],
+    "_shouldUseIndividualItemImages": false,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "580022f5f1042a1508a55ccc"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "580022fef1042a1508a55cce"
+    },
+    "_refId": "57ff16f24ea87d56dd3ea873",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "57ff19114ea87d56dd3ea87a",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff19064ea87d56dd3ea879",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">This learning moment looks at how a shoe is made, characteristics of a well-constructed shoe, and the anatomy of a high heeled shoe to reveal how these factors can contribute to the price of footwear.</p><p style=\"text-align: center;\"><br></p>",
+    "_refId": "57ff19114ea87d56dd3ea87a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "57ff19984ea87d56dd3ea87e",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff19434ea87d56dd3ea87b",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "THE MAKING OF A SHOE",
+    "body": "<p style=\"text-align: center;\">In the making a shoe, the technique, material and attention to detail at each step determines whether it’s well-constructed. This video showcases the art and skill required to craft a quality high heeled, court shoe.</p>",
+    "_refId": "57ff19984ea87d56dd3ea87e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "57ff1a0f4ea87d56dd3ea884",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff1a084ea87d56dd3ea883",
+    "_layout": "full",
+    "_component": "media",
+    "_audio": {
+      "_isEnabled": false,
+      "_buttonText": "AD",
+      "ariaLabel": "This button will play an audio description of the video"
+    },
+    "_media": {
+      "mp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "58005b91f1042a1508a55d17"
+      },
+      "ariaLabel": "This button will play the video",
+      "_shouldAutoPlay": false,
+      "_isExternalLink": false,
+      "poster": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58005c7af1042a1508a55d19"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "57ff1a0f4ea87d56dd3ea884",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "57ff056e4ea87d56dd3ea803",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff056e4ea87d56dd3ea802",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57ff1cf94ea87d56dd3ea890"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57ff056e4ea87d56dd3ea803",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "57ff056e4ea87d56dd3ea805",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff056e4ea87d56dd3ea802",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Well-constructed shoes are usually more comfortable, durable and beautiful, with:</p><p style=\"text-align: center;\">• higher quality leather and more leather components</p><p style=\"text-align: center;\">• more attention to the finer&nbsp;<span>details</span></p><p style=\"text-align: center;\">• greater level of manual workmanship<span><br></span></p><p style=\"text-align: center;\">• more quality checks and higher quality standards.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span>These factors result in a longer fabrication process, leading to fewer and more expensive shoes being made.</span><br></p><p style=\"text-align: center;\"><br></p>",
+    "displayTitle": "THE DIFFERENCE",
+    "_isQuestionType": false,
+    "_refId": "57ff056e4ea87d56dd3ea805",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "58006164e40e7f2953278292",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "5800615de40e7f2953278291",
+    "_layout": "full",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><span>Check out this diagram to familiarise yourself with the components of a high heeled shoe.</span></p><p style=\"text-align: center;\"><span>How many of these do you already know?</span><br></p>",
+    "displayTitle": "THE SHOE ANATOMY",
+    "_refId": "58006164e40e7f2953278292",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5800619de40e7f2953278294",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "58006194e40e7f2953278293",
+    "_layout": "full",
+    "_component": "graphic",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5806c05cf8c4307b6cd57b31"
+      },
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5806c082f8c4307b6cd57b33"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5800619de40e7f2953278294",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "5806e552f8c4307b6cd57b36",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "5806e54af8c4307b6cd57b35",
+    "_layout": "full",
+    "_component": "mcq",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Check again.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The main material of the <b>upper</b>, <b>lining</b> and <b>sole</b> must be identified on footwear sold in Australia. It must be displayed along with information on the country where the shoe was made.<br></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Check again.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The main material of the <b>upper</b>, <b>lining</b> and <b>sole</b> must be identified on footwear sold in Australia. It must be displayed along with information on the country where the shoe was made.</p><p style=\"text-align: center;\"><br></p>"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>Exactly right.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The main material of the <b>upper</b>, <b>lining</b> and <b>sole</b> must be identified on footwear sold in Australia. It must be displayed along with information on the country where the shoe was made.<br></p><p style=\"text-align: center;\"><br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "text": "Upper",
+        "_id": "5806e5a0f8c4307b6cd57b37",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 1,
+        "_id": "5806e5aaf8c4307b6cd57b3a",
+        "text": "Insole"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 2,
+        "_id": "5806e5b3f8c4307b6cd57b3c",
+        "text": "Lining"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_id": "5806e5b9f8c4307b6cd57b3d",
+        "itemIndex": 3,
+        "text": "Topline"
+      },
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 4,
+        "_id": "5806e5baf8c4307b6cd57b3e",
+        "text": "Sole"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": false,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 3,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "displayTitle": "KNOWLEDGE CHECK",
+    "body": "<p style=\"text-align: center;\">The main materials for three shoe components must be identified on footwear sold in Australia, to inform customers and comply with labelling laws.</p><p style=\"text-align: center;\">What are the three shoe components?</p>",
+    "_refId": "5806e552f8c4307b6cd57b36",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "57ff056e4ea87d56dd3ea812",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff056e4ea87d56dd3ea811",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "FROM THE EXPERT",
+    "body": "<p style=\"text-align: center;\"><i>The majority of footwear on the Myer floor have leather uppers, and some have leather lining and soles.</i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: center;\"><i>Leather is a natural material, typically a by-product of the meat industry, and usually made from calf, kid or sheep hide. I personally love calf leather because it's soft, smooth and has a premium look.</i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: right;\"><b><sub>Joanne Mercer</sub></b></p><p style=\"text-align: right;\"><sup>General Manager Womens Footwear &amp; Accessories<br></sup></p><p><br></p>",
+    "_isQuestionType": false,
+    "_refId": "57ff056e4ea87d56dd3ea812",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "57ff056f4ea87d56dd3ea832",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff056f4ea87d56dd3ea831",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "LEATHER LOVE",
+    "body": "<p style=\"text-align: center;\">Upper, lining and soles made from leather are usually more comfortable to wear because the material has stretch qualities that mould it to your feet. It also stays fresh over time because it absorbs moisture and breathes, preventing bacteria build-up which can result in an odour.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Here are some leather types commonly used in footwear uppers.</p>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57ff21f54ea87d56dd3ea896",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "57e4c3f8ab3d8759a1a58cfd",
+        "body": "<p style=\"text-align: center;\"><b>TOP GRAIN LEATHER</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Made from the outside of tanned hide that has been buffed and sanded to a smooth finish.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57ff221a4ea87d56dd3ea898",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57e4c3fdab3d8759a1a58cfe",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\"><b>SUEDE</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Made from the underside of tanned leather, suede has a soft, velvety feel.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57ff24264ea87d56dd3ea8a0",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "57e4c3feab3d8759a1a58cff",
+        "body": "<p style=\"text-align: center;\"><b>PATENT</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Patent is leather that has been coated with successive layers of varnish, giving it a smooth, shiny finish.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57ff24374ea87d56dd3ea8a2",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57e4c400ab3d8759a1a58d00",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: center;\"><b>NUBUCK</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Nubuck is the sanded outside of tanned hide and has a velvety feel similar to suede.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "57ff24464ea87d56dd3ea8a4",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 4,
+        "_id": "57e4c401ab3d8759a1a58d01",
+        "body": "<p style=\"text-align: center;\"><b>EMBOSSED LEATHER</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Leather can be embossed to give the effect of hides such as snake, lizard and ostrich. It's a responsible alternative and aligns with Australia's strict rules against the import of endangered species.</p>"
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "_refId": "57ff056f4ea87d56dd3ea832",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "57ff249e4ea87d56dd3ea8a6",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff056e4ea87d56dd3ea7fb",
+    "_layout": "left",
+    "_component": "graphic",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58005d1ae40e7f2953278287"
+      }
+    },
+    "_contentWidth": 100,
+    "_shouldEnableGraphicText": false,
+    "_graphicTextTopPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextRightPadding": 0,
+    "_refId": "57ff249e4ea87d56dd3ea8a6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "57ff25184ea87d56dd3ea8a9",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff056e4ea87d56dd3ea7fb",
+    "_layout": "right",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "LEATHER ALTERNATIVES",
+    "body": "<p style=\"text-align: center;\">Synthetic leather is sought after by customers who want the leather look without the leather pricetag, and don’t mind the quality difference. Made from treated polyurethane to reproduce the look and feel of real leather, it doesn't have the breathability or stretch qualities and tends to be less durable.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">A mid-range alternative is coated leather. Polyurethane is applied to lower grade leather to create a cost-effective, easy-care product with a consistent surface finish.</p><p style=\"text-align: center;\">Footwear uppers can also be made from fabric, rubber, mesh, and canvas.</p>",
+    "_refId": "57ff25184ea87d56dd3ea8a9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-1"
+  },
+  {
+    "_id": "57ff27194ea87d56dd3ea8b6",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff26e64ea87d56dd3ea8b5",
+    "_layout": "left",
+    "_component": "gif",
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "5800548ff1042a1508a55d09"
+      }
+    },
+    "_refId": "57ff27194ea87d56dd3ea8b6",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "57ff27214ea87d56dd3ea8b7",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff26e64ea87d56dd3ea8b5",
+    "_layout": "right",
+    "_component": "text",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "INFORMED BUYING",
+    "body": "<p style=\"text-align: center;\">Let's go back to the black stilettos now.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Examining them more closely, the more expensive pair is made with leather upper, lining and sole. The less expensive pair has a leather upper, and synthetic lining and sole. A detailed inspection may also reveal differences in craftsmanship, such as stiching uniformity, surface finish, quality in the joins and weight.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Details like these inform you of the product quality and benefits, which is often reflected in price even though both pairs may look very similar at first glance.</p><p style=\"text-align: center;\"><br></p>",
+    "_refId": "57ff27214ea87d56dd3ea8b7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-1"
+  },
+  {
+    "_id": "57ff05704ea87d56dd3ea843",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff05704ea87d56dd3ea842",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57ff2d174ea87d56dd3ea8be"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57ff05704ea87d56dd3ea843",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "57ff05704ea87d56dd3ea845",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff05704ea87d56dd3ea842",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE RUNDOWN",
+    "body": "<p style=\"text-align: center;\">Get into the detail when footwear shopping to consider the true value of your footwear choice. The construction quality and material have a direct effect on the price, comfort and durability of the shoe.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Whether it’s a finely crafted shoe in supple kid leather with a hefty pricetag, synthetic leather in a similar design at a fraction of the price, or something in-between, you have the ability to make an informed choice on what’s most important to you.</p><p style=\"text-align: center;\"><br></p>",
+    "_isQuestionType": false,
+    "_refId": "57ff05704ea87d56dd3ea845",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-1"
+  },
+  {
+    "_id": "57ff05704ea87d56dd3ea84b",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff05704ea87d56dd3ea84a",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "57ff313c4ea87d56dd3ea8c0"
+      }
+    },
+    "_isQuestionType": false,
+    "_refId": "57ff05704ea87d56dd3ea84b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "57ff05704ea87d56dd3ea84d",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "57ff05704ea87d56dd3ea84a",
+    "_layout": "right",
+    "_component": "links",
+    "__v": 0,
+    "displayTitle": "THE EXTRA MILE",
+    "body": "<p style=\"text-align: center;\">To learn more about women’s footwear, check out the Sizes and Trends learning moment or explore our huge range of women’s footwear online.</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myer.com.au/shop/mystore/women/shoes",
+        "itemTitle": "WOMEN'S FOOTWEAR @ MYER",
+        "_id": "57eb2c84ab4ef80802834c75",
+        "itemIndex": 0,
+        "body": ""
+      }
+    ],
+    "_isQuestionType": false,
+    "_refId": "57ff05704ea87d56dd3ea84d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-1"
+  },
+  {
+    "_id": "58360f44948c8b50476dbd7d",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "58360f20948c8b50476dbd7c",
+    "_layout": "full",
+    "_component": "links",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58360f4a948c8b50476dbd7e",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "58360f44948c8b50476dbd7d",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "582d22457459023a39ae0eea",
+    "_courseId": "57ff056d4ea87d56dd3ea7d9",
+    "_parentId": "582d22457459023a39ae0ee8",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_isQuestionType": false,
+    "_refId": "582d22457459023a39ae0eea",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-1-0"
+  }
+]

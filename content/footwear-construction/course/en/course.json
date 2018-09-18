@@ -1,0 +1,1125 @@
+{
+  "_id": "5a951e793865607d6dca21a0",
+  "_createdAt": 1519722105964,
+  "_modifiedAt": 1526606678887,
+  "_editLog": [
+    {
+      "_id": "5ab1ee50a937fd7383c981e2",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:32:00.945Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21bb"
+    },
+    {
+      "_id": "5ab1ee46a937fd7383c981e0",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:31:50.562Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21bb"
+    },
+    {
+      "_id": "5ab1ee39a937fd7383c981df",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:31:37.370Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Text Title",
+      "_model": "5a951e7a3865607d6dca21bc"
+    },
+    {
+      "_id": "5ab1ee32a937fd7383c981de",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:31:30.618Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21bb"
+    },
+    {
+      "_id": "5ab1ee2ea937fd7383c981dd",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:31:26.359Z",
+      "_updateType": "CREATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "New Block Title",
+      "_model": "5ab1ee2ea937fd7383c981dc"
+    },
+    {
+      "_id": "5ab1ec9ba937fd7383c981db",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:24:43.871Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1ec8ca937fd7383c981da",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:24:28.820Z",
+      "_updateType": "DELETE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5a951e7a3865607d6dca21ce"
+    },
+    {
+      "_id": "5ab1ec83a937fd7383c981d9",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:24:19.285Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1ec74a937fd7383c981d8",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:24:04.897Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1ec73a937fd7383c981d7",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:24:03.147Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1ec71a937fd7383c981d6",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:24:01.020Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1ec6ea937fd7383c981d5",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:23:58.189Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1ec5da937fd7383c981d4",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:23:41.835Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1ec1fa937fd7383c981d3",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:39.171Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "HomeBtn_Btm",
+      "_model": "5a951e7a3865607d6dca21d5"
+    },
+    {
+      "_id": "5ab1ec1ca937fd7383c981d2",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:36.690Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "FW_W_Sizes_GrTxt_03",
+      "_model": "5a951e7a3865607d6dca21ca"
+    },
+    {
+      "_id": "5ab1ec1aa937fd7383c981d1",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:34.163Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheRundown",
+      "_model": "5a951e7a3865607d6dca21c6"
+    },
+    {
+      "_id": "5ab1ec17a937fd7383c981d0",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:31.864Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "InformedBuying",
+      "_model": "5a951e7a3865607d6dca21d1"
+    },
+    {
+      "_id": "5ab1ec15a937fd7383c981cf",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:29.232Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "LeatherAlternatives",
+      "_model": "5a951e7a3865607d6dca21b5"
+    },
+    {
+      "_id": "5ab1ec12a937fd7383c981ce",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:26.578Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "FW_W_Sizes_Narr_01",
+      "_model": "5a951e7a3865607d6dca21c3"
+    },
+    {
+      "_id": "5ab1ec10a937fd7383c981cd",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:24.249Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "FW_W_sizes_Quote",
+      "_model": "5a951e7a3865607d6dca21bd"
+    },
+    {
+      "_id": "5ab1ec09a937fd7383c981cc",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:17.543Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "ShoeAnatomy",
+      "_model": "5a951e7a3865607d6dca21b0"
+    },
+    {
+      "_id": "5ab1ec06a937fd7383c981cb",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:14.456Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheDifference",
+      "_model": "5a951e7a3865607d6dca21b9"
+    },
+    {
+      "_id": "5ab1ec04a937fd7383c981ca",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:12.547Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec03a937fd7383c981c9",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:11.362Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec03a937fd7383c981c8",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:11.336Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec03a937fd7383c981c7",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:11.326Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec02a937fd7383c981c6",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:10.758Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec02a937fd7383c981c5",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:10.664Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec02a937fd7383c981c4",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:10.642Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec02a937fd7383c981c3",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:10.345Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec01a937fd7383c981c2",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:09.990Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ec01a937fd7383c981c1",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:09.627Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "TheMaking",
+      "_model": "5a951e7a3865607d6dca21ab"
+    },
+    {
+      "_id": "5ab1ebfda937fd7383c981c0",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:05.339Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "DetailsThatMatter",
+      "_model": "5a951e7a3865607d6dca21a4"
+    },
+    {
+      "_id": "5ab1ebfba937fd7383c981bf",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:22:03.855Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5a951e7a3865607d6dca21ce"
+    },
+    {
+      "_id": "5ab1ebe2a937fd7383c981be",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:21:38.987Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1eb89a937fd7383c981bc",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:20:09.478Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1eb87a937fd7383c981bb",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:20:07.208Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5ab1e7fba937fd7383c981b9",
+      "_updatedBy": "56d71bbec9e031dd1fabb2aa",
+      "_updatedAt": "2018-03-21T05:04:59.505Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "5aa1e8773865607d6dca29dc",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-03-09T01:50:47.592Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5aa1e83e3865607d6dca29db",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-03-09T01:49:50.878Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5aa1e8063865607d6dca29da",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-03-09T01:48:54.412Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a95da543865607d6dca2244",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:23:16.503Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a95da4e3865607d6dca2243",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:23:10.381Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a95da4c3865607d6dca2242",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:23:08.204Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a95da443865607d6dca2241",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T22:23:00.751Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a952d9a3865607d6dca2206",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:06:18.014Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21c8"
+    },
+    {
+      "_id": "5a952d913865607d6dca2205",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:06:09.223Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21c8"
+    },
+    {
+      "_id": "5a952d723865607d6dca2204",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:05:38.630Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a952d363865607d6dca2203",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:04:38.511Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a952cfb3865607d6dca2202",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:03:39.263Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21bb"
+    },
+    {
+      "_id": "5a952cf33865607d6dca2201",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:03:31.408Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21bb"
+    },
+    {
+      "_id": "5a952cb63865607d6dca2200",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:02:30.965Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a952caf3865607d6dca21ff",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:02:23.371Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a952cac3865607d6dca21fe",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:02:20.892Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a952ca13865607d6dca21fd",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T10:02:09.506Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a952b2a3865607d6dca21f9",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:55:54.727Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21cc"
+    },
+    {
+      "_id": "5a952b213865607d6dca21f8",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:55:45.620Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21cc"
+    },
+    {
+      "_id": "5a9521e93865607d6dca21ee",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:16:25.274Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21cc"
+    },
+    {
+      "_id": "5a9521cd3865607d6dca21ed",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:15:57.898Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21cc"
+    },
+    {
+      "_id": "5a9521b93865607d6dca21ec",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:15:37.532Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21c8"
+    },
+    {
+      "_id": "5a9521a73865607d6dca21eb",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:15:19.971Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21c8"
+    },
+    {
+      "_id": "5a9521903865607d6dca21ea",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:14:56.752Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21b7"
+    },
+    {
+      "_id": "5a95218c3865607d6dca21e9",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:14:52.542Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21b7"
+    },
+    {
+      "_id": "5a95216b3865607d6dca21e8",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:14:19.392Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21bb"
+    },
+    {
+      "_id": "5a9521663865607d6dca21e7",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:14:14.964Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Graphic Title",
+      "_model": "5a951e7a3865607d6dca21bb"
+    },
+    {
+      "_id": "5a95214c3865607d6dca21e6",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:13:48.759Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a9521473865607d6dca21e5",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:13:43.566Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a9521443865607d6dca21e4",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:13:40.980Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a95211f3865607d6dca21e3",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:13:03.623Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a95211c3865607d6dca21e2",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:13:00.254Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a9521193865607d6dca21e1",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:12:57.695Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a9521163865607d6dca21e0",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:12:54.133Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a9521113865607d6dca21df",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:12:49.054Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a95210c3865607d6dca21de",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:12:44.251Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a9520b03865607d6dca21dd",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:11:12.094Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a9520993865607d6dca21dc",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:10:49.043Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a9520783865607d6dca21db",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:10:16.988Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a9520563865607d6dca21da",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:09:42.629Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Narrative Title",
+      "_model": "5a951e7a3865607d6dca21c5"
+    },
+    {
+      "_id": "5a951eb83865607d6dca21d9",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:02:48.634Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Page",
+      "_model": "5a951e7a3865607d6dca21a3"
+    },
+    {
+      "_id": "5a951e963865607d6dca21d8",
+      "_updatedBy": "594201fdd923276a1f77e3aa",
+      "_updatedAt": "2018-02-27T09:02:14.884Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    }
+  ],
+  "__v": 3,
+  "_refId": "58b3856aed2155973abb7299",
+  "_theme": "590a5e224c6211380e52bd83",
+  "_swipeMenu": {
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    },
+    "_shouldHideDisabledControl": false,
+    "_shouldShowControlsOnHover": false,
+    "_shouldPartiallyShowNextItem": false,
+    "_shouldAlwaysShowItems": false,
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics",
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_desktopBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    }
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerWidth": 0
+  },
+  "_coverMenu": {
+    "homeButtonAriaLabel": "Home",
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View"
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_itemsPerRowMedium": 2,
+    "_itemsPerRowLarge": 2,
+    "itemCompletionText": "Complete",
+    "_showCompletionStatusInFooter": false,
+    "_showCompletionStatusOnMenus": false,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_resources": {
+    "_resourcesItems": [
+      {
+        "title": "SIZING CONVERSION CHART",
+        "_id": "57e46276ab3d8759a1a58c72",
+        "itemIndex": 0,
+        "view": "View",
+        "_asset": {
+          "_id": "57e46620ab3d8759a1a58c75",
+          "_extension": "pdf",
+          "_type": "file"
+        },
+        "_type": "document"
+      }
+    ],
+    "_filterButtons": {
+      "link": "Links",
+      "media": "Media",
+      "document": "Documents",
+      "all": "All"
+    },
+    "title": "Resources",
+    "_shouldDisableNavigationSideItem": false,
+    "_isEnabled": true
+  },
+  "_pageCompletionMethod": "components",
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    }
+  },
+  "_courseTags": [
+    "58b38330ed2155973abb7298",
+    "580449f63567a35f594c44e2"
+  ],
+  "_fonts": {
+    "_installed": [
+      "Apercu-Light"
+    ],
+    "_google": [
+      "Playfair Display"
+    ]
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "incorrectIconAriaLabel": "incorrect",
+    "correctIconAriaLabel": "correct",
+    "_feedbackText": {
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "CLOSE"
+    },
+    "_showFeedback": {
+      "_isDisabled": false,
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "Show Feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "HIDE ANSWER"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "SHOW ANSWER"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "RESET"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "SUBMIT"
+    }
+  },
+  "_footerNav": {
+    "_hasHomeButton": false,
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": false
+  },
+  "_notify": {
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "navigationLogoAlt": "",
+    "notifyButtonAriaLabel": "",
+    "navigationSkipContentAriaLabel": "",
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": false
+  },
+  "_version": {
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
+  },
+  "_reviews": {
+    "_reviews": [],
+    "_isUnderReview": false
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "title": "Footwear Construction 2018",
+  "_type": "course",
+  "_childrenIds": [
+    "5a951e7a3865607d6dca21a3"
+  ]
+}

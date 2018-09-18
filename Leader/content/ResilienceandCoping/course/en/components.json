@@ -1,0 +1,881 @@
+[
+  {
+    "_id": "59965b86052917a2552bf5d0",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "59965b6e052917a2552bf5cf",
+    "__v": 0,
+    "_refId": "59965b86052917a2552bf5d0",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-2",
+          "_fontSize": "35"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b514cc052917a2552bf7c1"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_id": "59b1d489052917a2552bf795",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "frontText": "<br>",
+        "_id": "59965b96052917a2552bf5d1",
+        "itemIndex": 0,
+        "backText": "A manageable amount of stress can help us work at our best, particularly if we already feel competent in our role. Some stress gears us up and produces the bursts of energy we need throughout the day.&nbsp;"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-2",
+          "_fontSize": "35"
+        },
+        "_frontGraphic": {
+          "_id": "59b514d9052917a2552bf7c2",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d489052917a2552bf795"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "When our stress levels become too high, we are less able to think clearly and more likely to feel overwhelmed. When we are learning something new or going through change we can be more sensitive to unproductive stress.&nbsp;",
+        "frontText": "<br>",
+        "_id": "59965d88052917a2552bf5d3",
+        "itemIndex": 1
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "center",
+    "_flipCardsContainerMaxWidth": "600px",
+    "_canSetContainerMaxWidth": true,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": true,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Productive and Unproductive Stress Flip Card",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "59963914052917a2552bf5a2",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "59963914052917a2552bf5a1",
+    "__v": 0,
+    "displayTitle": "<br>",
+    "_refId": "5983eb41e1545e6a6582e0f5",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Fatigue</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Tension headaches</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Tight muscles</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Change in appetite</p>",
+        "title": "PHYSICAL",
+        "_id": "597fe87c3a2dea2f1cf9e55c",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "BEHAVIOURAL",
+        "_id": "5983ecf0e1545e6a6582e0f6",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Snapping at others</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Withdrawing from other people</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Nail biting</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Struggling to concentrate</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Anxiety</p><p><br></p><p>Restlessness</p><p><br></p><p>Irritability</p><p><br></p><p>Feeling overwhelmed</p>",
+        "title": "EMOTIONAL",
+        "_id": "599634d7052917a2552bf592",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Signs of stress",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5996603e052917a2552bf5da",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "59965ff6052917a2552bf5d9",
+    "__v": 0,
+    "_refId": "5996603e052917a2552bf5da",
+    "displayTitle": "",
+    "body": "",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "35"
+        },
+        "_frontGraphic": {
+          "_id": "59b515e6052917a2552bf7c3",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_id": "59b1d489052917a2552bf795",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "frontText": "<br>",
+        "_id": "59965b96052917a2552bf5d1",
+        "itemIndex": 0,
+        "backText": "This strategy works best when you have a reasonable degree of control over your situation. The goal is to eliminate the source of the stress through the decisions you make or actions you take.&nbsp;"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "35"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b515ed052917a2552bf7c4"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d489052917a2552bf795"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "When you have less control over matters, spending precious energy and effort trying to fix it is often a waste.&nbsp;You are better off proactively managing emotions like sadness or anger that have been stirred up by the stress.&nbsp;",
+        "frontText": "<br>",
+        "_id": "59965d88052917a2552bf5d3",
+        "itemIndex": 1
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "center",
+    "_flipCardsContainerMaxWidth": "600px",
+    "_canSetContainerMaxWidth": true,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Problem vs Emotion Focused Coping Flip Cards",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59963914052917a2552bf5b0",
+    "_component": "dragAndDrop",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "59963914052917a2552bf5af",
+    "__v": 0,
+    "_refId": "5983fd63e1545e6a6582e111",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: left;\"><br></p>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\" class=\"\">&nbsp;Well Done!<br></p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\" class=\"\">You correctly categorised all problem-focused and emotion-focused strategies.&nbsp;</p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\" class=\"\">Remember that in situations you can control, problem-focused strategies are usually best. In situations out of your control, consider using an emotion-focused strategy.</p><p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\" class=\"\">An example of a situation in your control may be a scheduling conflict, where as a situation out of your control may be store or office renovations that disrupt work.</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "final": "<p style=\"text-align: center;\">Only some of these are correct.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Problem-focused strategies involve taking direct action to remove the cause of the stress. Emotion-focused strategies do not deal with the source of the stress, instead they help you to cope by alleviating the negative emotions associated with the stress.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">An example of a situation in your control may be a scheduling conflict, where as a situation out of your control may be store or office renovations that disrupt work.<br></p>",
+        "notFinal": "<p style=\"text-align: center;\">Only some of these are correct.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Have another go and remember: </p><p style=\"text-align: center;\">Problem-focused strategies involve taking direct action to remove the cause of the stress. Emotion-focused strategies do not deal with the source of the stress, instead they help you to cope by alleviating the negative emotions associated with the stress.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">An example of a situation in your control may be a scheduling conflict, where as a situation out of your control may be store or office renovations that disrupt work.<br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Thats incorrect.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Problem-focused strategies involve taking direct action to remove the cause of the stress. Emotion-focused strategies do not deal with the source of the stress, instead they help you to cope by alleviating the negative emotions associated with the stress.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">An example of a situation in your control may be a scheduling conflict, where as a situation out of your control may be store or office renovations that disrupt work.<br></p>",
+        "notFinal": "<p style=\"text-align: center;\">Thats incorrect. </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Have another go and remember: </p><p style=\"text-align: center;\">Problem-focused strategies involve taking direct action to remove the cause of the stress. Emotion-focused strategies do not deal with the source of the stress, instead they help you to cope by alleviating the negative emotions associated with the stress.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">An example of a situation in your control may be a scheduling conflict, where as a situation out of your control may be store or office renovations that disrupt work.<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_hasHorizontalDropZones": false,
+    "_hasCompactDropZones": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_useItemGridLayout": false,
+    "_dropZonelayout": "drop-zones-top",
+    "_items": [
+      {
+        "_correctDropZones": [
+          "5983fd6ee1545e6a6582e113"
+        ],
+        "itemIndex": 0,
+        "_id": "5983fd75e1545e6a6582e114",
+        "text": "Look on the bright side of the situation &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+      },
+      {
+        "_correctDropZones": [
+          "5983fd67e1545e6a6582e112"
+        ],
+        "text": "Try to problem solve and fix the issue &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+        "_id": "5983fd78e1545e6a6582e115",
+        "itemIndex": 1
+      },
+      {
+        "_correctDropZones": [
+          "5983fd6ee1545e6a6582e113"
+        ],
+        "text": "Express your emotions by talking with a friend &nbsp; &nbsp; &nbsp;<span style=\"font-size: 16px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>",
+        "itemIndex": 2,
+        "_id": "5983fd7ce1545e6a6582e116"
+      },
+      {
+        "_correctDropZones": [
+          "5983fd67e1545e6a6582e112"
+        ],
+        "itemIndex": 3,
+        "_id": "598915a7e1545e6a6582e174",
+        "text": "Engage the skills of others to help solve the issue &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+      },
+      {
+        "_correctDropZones": [
+          "5983fd67e1545e6a6582e112"
+        ],
+        "itemIndex": 4,
+        "_id": "598915aee1545e6a6582e175",
+        "text": "Find out more information to help solve the issue &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+      },
+      {
+        "_correctDropZones": [
+          "5983fd6ee1545e6a6582e113"
+        ],
+        "itemIndex": 5,
+        "_id": "598915b5e1545e6a6582e176",
+        "text": "Spend time relaxing after work &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+      }
+    ],
+    "_dropZones": [
+      {
+        "_shouldUseCoverBackgroundSize": false,
+        "itemIndex": 0,
+        "_id": "5983fd67e1545e6a6582e112",
+        "text": "Problem-Focused Strategy"
+      },
+      {
+        "_shouldUseCoverBackgroundSize": false,
+        "itemIndex": 1,
+        "_id": "5983fd6ee1545e6a6582e113",
+        "text": "Emotion-Focused Strategy"
+      }
+    ],
+    "_shouldZonesRejectIncorrect": false,
+    "_canSubmitAtAnyTime": false,
+    "_canAutoSubmit": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 4,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Drag and Drop Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5996c596052917a2552bf641",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "5996c596052917a2552bf640",
+    "__v": 0,
+    "_refId": "5996c596052917a2552bf641",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59965226052917a2552bf5cd"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "link": "https://tedsummaries.com/2014/05/08/kelly-mcgonigal-how-to-make-stress-your-friend/",
+        "_id": "59952f33052917a2552bf556",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5996c5bc052917a2552bf645",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "5996c5bc052917a2552bf644",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "5996c5bc052917a2552bf645",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59953a17052917a2552bf559"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://soundcloud.com/cknw/productive-negative-stresses ",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5996c5ed052917a2552bf649",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "5996c5ed052917a2552bf648",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "5996c5ed052917a2552bf649",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "599654bf052917a2552bf5ce"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.forbes.com/sites/jennagoudreau/2013/03/20/12-ways-to-eliminate-stress-at-work/#6459766e7f29",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "59c9a36baeab875c6c490eec",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59963914052917a2552bf599",
+    "_parentId": "59c9a36baeab875c6c490eeb",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59c9a36baeab875c6c490eec",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59c99078aeab875c6c490ed3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_type": "resources",
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "59c9a3caaeab875c6c490eef"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-16-0-0"
+  }
+]

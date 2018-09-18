@@ -1,0 +1,85 @@
+fieldset, form, label, legend,
+caption, tfoot, thead {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+	
+	
+}
+form, form fieldset input, form fieldset textarea, form label {
+	font-family:'aperculight', sans-serif;
+	font-size: 18px;
+	line-height: 19px;
+	color: #ffffff;
+	-webkit-font-smoothing: subpixel-antialiased;
+	
+	
+	
+}
+
+form label {width:100%;background:rgba(0,0,0,0);}
+
+form p { position: relative; margin: 0px;}
+form p label { position: absolute; top: 15px; left: 0px;text-align: center;}
+form p br {display: none;}
+
+
+
+
+form fieldset p input {
+	-webkit-box-sizing: border-box; 
+ 	-moz-box-sizing: border-box;    
+ 	box-sizing: border-box;
+	
+	font-family: 'aperculight', sans-serif;
+	font-size: 20px;
+	letter-spacing: .01em;
+	line-height: auto;
+	color: #ffffff;
+	display: block;
+	padding: 2px 14px 0px 14px;
+	margin: 0px 0px 10px 0px;
+	background: rgba(255,255,255,.1);
+	height:50px;
+	border-radius: 25px;
+	border:2px solid rgba(255,255,255,1);
+	
+	width:100%;
+	max-width:320px;
+	text-align: center;
+}
+
+form fieldset p input:focus {
+	background: rgba(0,0,0,0.1);
+	outline: none;
+	border:2px solid rgba(255,255,255,.8);
+	
+}
+
+.submitbtn {
+	font-family: 'aperculight', sans-serif;
+	font-size: 20px;
+	color: #fff;
+	padding: 12px 0px 0px 0px;
+	margin: 0px 0px;
+	background:rgba(158,197,202,1);
+	height:50px;
+	border-radius: 25px;
+	border:2px solid #ffffff;
+	width:100%;
+	max-width:320px;
+	transition:0.4s
+}
+
+.submitbtn:hover {background:rgba(129,171,176,1);;cursor:pointer}
+	
+
+
+
+

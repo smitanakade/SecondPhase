@@ -1,0 +1,659 @@
+[
+  {
+    "_id": "597fe4883a2dea2f1cf9e558",
+    "_component": "hotgraphic",
+    "_layout": "full",
+    "_courseId": "597fda9d3a2dea2f1cf9e52b",
+    "_parentId": "597fe3a73a2dea2f1cf9e555",
+    "__v": 0,
+    "_refId": "597fe4883a2dea2f1cf9e558",
+    "_items": [
+      {
+        "_hotspotType": "icon",
+        "_shouldDisplayTextHotspotAsButton": false,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_itemGraphicLayout": "right",
+        "_left": 49.51171875,
+        "_top": 91.19769408761337,
+        "_mobileLeft": 50,
+        "_mobileTop": 50,
+        "body": "<p style=\"text-align: center;\">The person resisting change may not understand what it means for them. Do they have all the information they need? Do they understand the information available? ‘Not Knowing’ is the most common source of resistance, and luckily, the easiest to manage.&nbsp;</p>",
+        "itemIndex": 0,
+        "_id": "597fe5133a2dea2f1cf9e559",
+        "title": "Not Knowing"
+      },
+      {
+        "_hotspotType": "icon",
+        "_shouldDisplayTextHotspotAsButton": false,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_itemGraphicLayout": "right",
+        "_left": 49.609375,
+        "_top": 65.5793970715026,
+        "_mobileLeft": 50,
+        "_mobileTop": 50,
+        "title": "Not Able",
+        "_id": "597ff2363a2dea2f1cf9e568",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">The person resisting may lack the skills required for change. Do they know how to use new technology? Do they understand how to execute their new job tasks?&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Being concerned that you do not have ‘what it takes’ to meet new expectations is another common cause of resistance.</p>"
+      },
+      {
+        "_hotspotType": "icon",
+        "_shouldDisplayTextHotspotAsButton": false,
+        "_textHotspotStyles": {
+          "_fontColor": "transparent"
+        },
+        "_textHotspotLayout": "center",
+        "_textHotspotWidth": 50,
+        "_itemGraphicLayout": "right",
+        "_left": 49.70703125,
+        "_top": 35.01152853855211,
+        "_mobileLeft": 50,
+        "_mobileTop": 50,
+        "itemIndex": 2,
+        "_id": "597ff27c3a2dea2f1cf9e569",
+        "title": "Not Willing",
+        "body": "<p style=\"text-align: center;\">Some people may have the skills and information, but may be unwilling to make the change. You will need to find out why they are still resisting. They may think the change will be too difficult, or feel disadvantaged in some way.&nbsp;</p>"
+      }
+    ],
+    "_textHotspotStyles": {
+      "_fontColor": "transparent"
+    },
+    "_visitedHotspotIcon": "checkmark-circle",
+    "_hotspotIcon": "plus-circle",
+    "_showPopupAsCarousel": false,
+    "_mobileScrollableGraphicMaxHeight": 400,
+    "_scrollableGraphicMaxHeight": 400,
+    "_hasScrollableGraphic": false,
+    "_hideInteractionLabelOnMobile": false,
+    "_canUseMobilePositions": false,
+    "_hasFullLayoutOnMobile": true,
+    "_mobileGraphic": {
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "597eab6a3a2dea2f1cf9e4aa"
+      }
+    },
+    "_graphic": {
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "597eab6a3a2dea2f1cf9e4aa"
+      }
+    },
+    "_popupCloseButton": "Close",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Resistance Pyramid",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5980026f3a2dea2f1cf9e5d1",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "597fda9d3a2dea2f1cf9e52b",
+    "_parentId": "598002163a2dea2f1cf9e5d0",
+    "__v": 0,
+    "_refId": "5980026f3a2dea2f1cf9e5d1",
+    "displayTitle": "",
+    "_numberOfColumns": 3,
+    "body": "",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-4",
+          "_fontSize": "35"
+        },
+        "_frontGraphic": {
+          "_id": "59b1d3e5052917a2552bf790",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d47a052917a2552bf793"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "Focus on communication and education.&nbsp;<div>Make sure you provide the person with information so they can understand the change and what is expected.</div>",
+        "itemIndex": 0,
+        "_id": "598002833a2dea2f1cf9e5d2",
+        "frontText": "<br>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-4",
+          "_fontSize": "35"
+        },
+        "_frontGraphic": {
+          "_id": "59b1d405052917a2552bf791",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "16"
+        },
+        "_backGraphic": {
+          "_id": "59b1d482052917a2552bf794",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backText": "Ensure the person has access to appropriate training, coaching and support so they can build their capability.&nbsp;",
+        "frontText": "<br>",
+        "_id": "598004a73a2dea2f1cf9e5e2",
+        "itemIndex": 1
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-4",
+          "_fontSize": "35"
+        },
+        "_frontGraphic": {
+          "_id": "59b1d40f052917a2552bf792",
+          "_extension": "png",
+          "_type": "image"
+        },
+        "_frontContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "59b1d489052917a2552bf795"
+        },
+        "_backContentGraphic": {
+          "_isBottomPosition": false
+        },
+        "itemIndex": 2,
+        "_id": "59800a013a2dea2f1cf9e5fd",
+        "frontText": "<br>",
+        "backText": "Try to understand the resistance.&nbsp;Address misconceptions and seek ways to engage.&nbsp;Remind them it is their responsibility to support change."
+      }
+    ],
+    "_flipCardItemContentAlignment": "center",
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1500px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontSize": "16",
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontSize": "35",
+      "_fontColor": "transparent"
+    },
+    "_backGraphic": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "596701d04c480da3627be819"
+    },
+    "_frontGraphic": {
+      "_type": "image",
+      "_extension": "jpeg",
+      "_id": "598004563a2dea2f1cf9e5e1"
+    },
+    "_shouldDisableCardFocus": true,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Managing Resistance Flip Cards",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "59a4a844052917a2552bf6d2",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fda9d3a2dea2f1cf9e52b",
+    "_parentId": "59a4a844052917a2552bf6d1",
+    "__v": 0,
+    "_refId": "59a4a844052917a2552bf6d2",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59965226052917a2552bf5cd",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59952f33052917a2552bf556",
+        "link": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "59a4a86c052917a2552bf6d6",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fda9d3a2dea2f1cf9e52b",
+    "_parentId": "59a4a86c052917a2552bf6d5",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59a4a86c052917a2552bf6d6",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59953a17052917a2552bf559"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.npr.org/programs/ted-radio-hour/261084166/disruptive-leadership",
+        "body": "",
+        "itemIndex": 0,
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemTitle": "Listen"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "59a4a886052917a2552bf6da",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fda9d3a2dea2f1cf9e52b",
+    "_parentId": "59a4a886052917a2552bf6d9",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59a4a886052917a2552bf6da",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "599654bf052917a2552bf5ce",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "http://changeleadersnetwork.com/free-resources/getting-smart-about-employee-resistance-to-change-part-one"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "59c9a7daaeab875c6c490efd",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "597fda9d3a2dea2f1cf9e52b",
+    "_parentId": "59c9a7daaeab875c6c490efc",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p><br></p><p><br></p>",
+    "_refId": "59c9a7daaeab875c6c490efd",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": {
+            "_id": "59c99078aeab875c6c490ed3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_type": "resources",
+        "itemTitle": "Listen",
+        "_id": "59928915e1545e6a6582e2b5",
+        "itemIndex": 0,
+        "body": "",
+        "link": "59c9a865aeab875c6c490f00"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "To learn more (leadership shadow)",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  }
+]

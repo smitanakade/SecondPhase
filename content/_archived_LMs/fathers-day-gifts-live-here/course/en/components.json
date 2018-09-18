@@ -1,0 +1,1174 @@
+[
+  {
+    "_id": "5983e3a7ebca4a4008794dab",
+    "_component": "media",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "5983e2d2ebca4a4008794daa",
+    "_transcript": {
+      "_shouldNotDisplayTitleInPopup": false,
+      "_shouldOpenTranscriptInPopup": false
+    },
+    "_audio": {
+      "ariaLabel": "This button will play an audio description of the video",
+      "_buttonText": "AD",
+      "_isEnabled": false
+    },
+    "_media": {
+      "poster": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59924104ebca4a4008794f80"
+      },
+      "ariaLabel": "This button will play the video",
+      "_shouldHidePlayButton": false,
+      "_shouldHidePlayerControls": false,
+      "_shouldAutoPlay": false,
+      "mobileMp4": {
+        "_type": "video",
+        "_extension": "mp4",
+        "_id": "598d09f3ebca4a4008794ef0"
+      },
+      "_isExternalLink": false,
+      "mp4": {
+        "_id": "598d09f3ebca4a4008794ef0",
+        "_extension": "mp4",
+        "_type": "video"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5983e3a7ebca4a4008794dab",
+    "displayTitle": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Media Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59923495ebca4a4008794f7a",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "5992345cebca4a4008794f79",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "59923498ebca4a4008794f7b",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59923495ebca4a4008794f7a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "598cf0f5ebca4a4008794ee8",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "598cf0eaebca4a4008794ee7",
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "598d22caebca4a4008794ef4"
+      },
+      "caption": ""
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "center",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598cf0f5ebca4a4008794ee8",
+    "graphicText": "<p style=\"text-align: center;\">BEST.</p><p style=\"text-align: center;\">DAD.</p><p style=\"text-align: center;\">EVER!</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5983e54cebca4a4008794dae",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "5983e493ebca4a4008794dad",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-17",
+          "_fontSize": "36",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "598d0db6ebca4a4008794ef1"
+        },
+        "backTextStyles": {
+          "_fontColor": "@swatch-1",
+          "_fontSize": "70",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "59923c37ebca4a4008794f7e",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backText": "TO THIS!",
+        "frontText": "FROM PRICKLY DAD...",
+        "_id": "5983e566ebca4a4008794daf",
+        "itemIndex": 0
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-17",
+          "_fontSize": "36",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_id": "598d0db6ebca4a4008794ef1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "@swatch-1",
+          "_fontSize": "60",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "598d0e82ebca4a4008794ef2",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "itemIndex": 1,
+        "_id": "5983e5c4ebca4a4008794db0",
+        "frontText": "FROM SOFA DAD...",
+        "backText": "TO THIS!"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "@swatch-17",
+          "_textAlign": "center",
+          "_fontSize": "36"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "598d0db6ebca4a4008794ef1"
+        },
+        "backTextStyles": {
+          "_fontColor": "@swatch-1",
+          "_fontSize": "60",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "598d0f49ebca4a4008794ef3"
+        },
+        "backText": "TO THIS!",
+        "itemIndex": 2,
+        "_id": "5983e5dbebca4a4008794db1",
+        "frontText": "FROM MESSY DAD..."
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": false,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5983e54cebca4a4008794dae",
+    "_numberOfColumns": 3,
+    "body": "<p style=\"text-align: center;\">Whether he needs a new shaver o<span style=\"font-size: 16px;\">r a crisp white shirt, t</span><span style=\"font-size: 16px;\">ap the cards below for ideas on how to make dad feel great this Father's Day.</span></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "FROM THIS...TO THIS",
+    "_type": "component",
+    "_courseOrder": "0-3-1-0"
+  },
+  {
+    "_id": "59827fc1ebca4a4008794d14",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "59827fb9ebca4a4008794d13",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "WE'RE No. 1",
+        "_id": "59829d0febca4a4008794d22",
+        "itemIndex": 0,
+        "body": "<p style=\"text-align: center;\">We want our customers to visit us whenever they have a gift to buy.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Myer is the no. 1 gifting retailer in Australia and we want to keep it that way!&nbsp;</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "WE CARE ABOUT AUSSIE DADS",
+        "itemIndex": 1,
+        "_id": "59829d0febca4a4008794d23",
+        "body": "<p style=\"text-align: center;\">We understand the challenges Aussie dads face and we're here to help solve those challenges!</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "WE CARE ABOUT PROFITABLE SELLING",
+        "_id": "59829d10ebca4a4008794d24",
+        "itemIndex": 2,
+        "body": "<p style=\"text-align: center;\">We’re in retail. We sell.&nbsp;<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Last year, the average transaction value (ATV) for Father's Day was approximately $70.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">We would love to see an increase in average transaction value (ATV) this year. You can help by increasing your units per transaction (UPT) and&nbsp;<span style=\"font-size: 16px;\">keeping your focus on selling.</span></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59827fc1ebca4a4008794d14",
+    "displayTitle": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Campaign importance to Myer",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "599253efebca4a4008794f89",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "599253e9ebca4a4008794f88",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59925405ebca4a4008794f8a"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599253efebca4a4008794f89",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "599248e3ebca4a4008794f83",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "59924864ebca4a4008794f82",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599248e3ebca4a4008794f83",
+    "displayTitle": "Talk about the campaign",
+    "body": "<p style=\"text-align: center;\">\"Have you seen our great range of Father's Day gifts? We have amazing gifts - especially for those hard-to-buy-for dads!\"</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-1-0"
+  },
+  {
+    "_id": "599248e9ebca4a4008794f85",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "599248e4ebca4a4008794f84",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599248e9ebca4a4008794f85",
+    "displayTitle": "Share the Father's Day catalogue with customers",
+    "body": "<p style=\"text-align: center;\">\"Can I show you some of the great offers in store?\"</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-2-0"
+  },
+  {
+    "_id": "599248f2ebca4a4008794f87",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "599248eaebca4a4008794f86",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599248f2ebca4a4008794f87",
+    "displayTitle": "Make it personal",
+    "body": "<p style=\"text-align: center;\" class=\"\">\"I've found the perfect gift for my dad! Tell me about who you're buying for - maybe I can make some recommendations?\"</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-3-0"
+  },
+  {
+    "_id": "599255f4ebca4a4008794f8c",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "599255eaebca4a4008794f8b",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "599258d6ebca4a4008794f92",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>THE ON-TREND DAD</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Solve this dad's fashion confusion with these great gift ideas:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tReserve Polo $37.46</p><p style=\"text-align: center;\">•\tChino Shorts $59.95</p><p style=\"text-align: center;\">•\tGiorgio Armani Code Colonia EDT 125ml $175</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remind customers about:</p><p style=\"text-align: center;\">25% off a great range of men’s polos and tees. Excludes clearance.</p>",
+        "itemIndex": 0,
+        "_id": "599255f9ebca4a4008794f8f",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59925a6aebca4a4008794f93",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "",
+        "_id": "59925607ebca4a4008794f90",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\"><b>THE RELAXATION DAD</b><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Fill dad's spare time with tools to relax:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">•\tPolo Ralph Lauren Sunday Scruff microsuede slippers in tan $37.46 </p><p style=\"text-align: center;\">•\tKindle Paperwhite e-reader $159 </p><p style=\"text-align: center;\">•\tNespresso By Breville Essenza Mini Capsule coffee machine $209 </p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remind customers about:</p><p style=\"text-align: center;\">BONUS $40 cashback and $60 coffee credit when you purchase a Nespresso machine *Terms &amp; Conditions apply.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59925b2aebca4a4008794f94",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p style=\"text-align: center;\"><b>THE HARD-TO-BUY-FOR DAD </b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">How about these for the hard-to-buy-for dad:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">• Gift card from $20</p><p style=\"text-align: center;\">•\t2 buckle reversible belt giftpack $69.95</p><p style=\"text-align: center;\">•\tRoyal Selangor Pewter hip flask 140ml $139.95</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Remind customers about:</p><p style=\"text-align: center;\">25% off business shirts and ties by Van Heusen, Calvin Klein, Jeff Banks, Blaq and more. Excludes clearance and multi-buys.</p>",
+        "title": "",
+        "itemIndex": 2,
+        "_id": "59925607ebca4a4008794f91"
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599255f4ebca4a4008794f8c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "59925d2eebca4a4008794f9a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "59925d29ebca4a4008794f99",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59925d5debca4a4008794f9b"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59925d2eebca4a4008794f9a",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "59891ca0ebca4a4008794e6a",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "598917f7ebca4a4008794e52",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "59891cf3ebca4a4008794e6f",
+        "title": "GIFT CARDS",
+        "body": "<p style=\"text-align: center;\">Did you know that last year the average transaction spend on gift cards was $85?&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Gift cards are the perfect solution if you're completely stuck for ideas!<span style=\"font-size: 16px;\">&nbsp;</span></p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "GIFT WRAPPING",
+        "_id": "59891d1bebca4a4008794e70",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Let our customers know that gift wrapping is available for their beautiful purchases.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "ADD-ONS",
+        "_id": "598bc8f5ebca4a4008794ecf",
+        "itemIndex": 2,
+        "body": "<div style=\"text-align: center;\">Increase your units per transaction by suggesting add-ons. Take inspiration from these examples:</div><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">\"Great choice with the Fitbit Pack. We have a great offer on the Nutri Ninja Pro for dad to really give his fitness routine a boost.\"</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">\"Those chino shorts are a really comfortable fit. Have you seen our great range of polos to complete dad's outfit?\"</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">\"I see you've chosen the Kindle Paperwhite e-reader. How about some Polo Ralph Lauren Sunday Scruff slippers for ultimate relaxation!\"</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59891ca0ebca4a4008794e6a",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Help solve this year's Father's Day challenges by promoting the following:</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Remember...",
+    "_type": "component",
+    "_courseOrder": "0-7-1-0"
+  },
+  {
+    "_id": "598cfe85ebca4a4008794eec",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "598cfe6debca4a4008794eeb",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://myer1.dynamiccatalogue.com.au/catalogue/myer-catalogue-gift-guide-father-39-s-day-gifts-live-here/5bogtxi9q.html#pageNo=0",
+        "itemIndex": 0,
+        "_id": "598cfe96ebca4a4008794eed",
+        "itemTitle": "FATHER'S DAY CATALOGUE"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "_id": "59925c2cebca4a4008794f95",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598cfe85ebca4a4008794eec",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "59925c8bebca4a4008794f98",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59827c0aebca4a4008794d0e",
+    "_parentId": "59925c5cebca4a4008794f97",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "_isExternalLink": false,
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59925c8bebca4a4008794f98",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  }
+]

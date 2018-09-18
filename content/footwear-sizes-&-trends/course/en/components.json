@@ -1,0 +1,2241 @@
+[
+  {
+    "_id": "5a95f1ca3865607d6dca22aa",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1ca3865607d6dca22a9",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_refId": "582d14467459023a39ae0ebd",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "57eb2ce6ab4ef80802834c79",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2272",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca2270",
+    "_layout": "left",
+    "_component": "gif",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "57e3713f6c7da645039171d7",
+    "_shouldReplayOnPageRevisit": false,
+    "_graphic": {
+      "small": {
+        "_type": "image",
+        "_extension": "gif",
+        "_id": "5ac69b70c4e71532e3c515d8"
+      }
+    },
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gif Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2271",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5ac69611c4e71532e3c515d1",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Myer is one of the largest women&rsquo;s footwear retailers in Australia, stocking over 70 brands in a breathtaking array of designer, contemporary, athletic, classic, comfort and youth styles.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Myer has the most comprehensive range of comfort and classic footwear in the country and is a shopping destination for all women indulging their shoe obsession.</p>",
+    "displayTitle": "ENABLING THE SHOE OBSESSION",
+    "_refId": "57e33a076c7da645039171d2",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-1-1-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2276",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca2274",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57f194e4ab4ef80802834cc7",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a96364b3865607d6dca22ef"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2275",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5ac69623c4e71532e3c515d2",
+    "_layout": "full",
+    "_component": "accordion",
+    "__v": 0,
+    "displayTitle": "STANDARD SIZES - LENGTH",
+    "body": "<p style=\"text-align: center;\">Myer uses three footwear sizing standards; European, UK, and Australian/USA. Imprinted inside the shoe or on the sole, and on the shoe box, the size number indicates the shoe length.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Work between the standards using size conversion charts found in the footwear reserve at your store.&nbsp;<span>Ask a footwear team member if you’d like help locating it.</span></p>",
+    "_refId": "57e460e6ab3d8759a1a58c6b",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "57f33309ab4ef80802834d51",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "top",
+        "title": "SIZE CONVERSION CHART",
+        "_id": "57e46122ab3d8759a1a58c6c",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2279",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca2278",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "IT'S A FACT",
+    "body": "<p style=\"text-align: center;\"><sup>Press the image below to learn more.</sup></p>",
+    "_refId": "57e47013ab3d8759a1a58c7f",
+    "_itemLayout": {
+      "small": 100,
+      "medium": 50,
+      "large": 50
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5af3c94dd8a5ad01ea00b9ba",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>SIZE SELLS</b>"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\"><b>SIZE SELLS</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">At Myer, 95% of women’s shoes sold are between size 6 and 10, so most styles only range in these sizes.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Selected styles range smaller or larger sizes.</p>",
+        "_id": "57e47337ab3d8759a1a58c80",
+        "itemIndex": 0
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca227c",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca227b",
+    "_layout": "left",
+    "_component": "textInput",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">What is the EU size equivalent of AU/US size 9?</p>",
+    "_refId": "57f1bfd7ab4ef80802834ce5",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>That's right.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">A women’s AU/US size 9 is equivalent to an <b>EU size 39.5</b>.<br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "notFinal": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">A women’s AU/US size 9 is equivalent to an <b>EU size 39.5</b>.</p>",
+        "final": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">A women’s AU/US size 9 is equivalent to an<b> EU size 39.5</b>.</p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "notFinal": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">A women’s AU/US size 9 is equivalent to an <b>EU size 39.5</b>.</p>",
+        "final": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">A women’s AU/US size 9 is equivalent to an <b>EU size 39.5</b>.</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_answers": [
+          "39.5",
+          "39-5",
+          "395"
+        ],
+        "itemIndex": 0,
+        "_id": "57f1bff1ab4ef80802834ce6"
+      }
+    ],
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldBeMarkedStrictly": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "9"
+    },
+    "title": "Text Input Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca227d",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca227b",
+    "_layout": "right",
+    "_component": "textInput",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">What is the AU/US size equivalent of EU size 38?</p>",
+    "_refId": "57f1c08bab4ef80802834ce7",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>You got it.</b></p><p style=\"text-align: center;\"><b>&nbsp;</b></p><p style=\"text-align: center;\">A women’s EU size 38 is equivalent to an<b> AU/US size 7.5</b>.<br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "notFinal": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">A women’s EU size 38 is equivalent to an<b> AU/US size 7.5</b>.</p>",
+        "final": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">A women’s EU size 38 is equivalent to an <b>AU/US size 7.5</b>.</p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "notFinal": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">A women’s EU size 38 is equivalent to an<b> AU/US size 7.5</b>.</p>",
+        "final": "<p style=\"text-align: center;\"><b>Check the size conversion chart.</b></p><p style=\"text-align: center;\"><br></p><p> </p><p style=\"text-align: center;\">A women’s EU size 38 is equivalent to an<b> AU/US size 7.5</b>.</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_answers": [
+          "7.5",
+          "7-5",
+          "75"
+        ],
+        "itemIndex": 0,
+        "_id": "57f1c0a5ab4ef80802834ce8"
+      }
+    ],
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldBeMarkedStrictly": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "9"
+    },
+    "title": "Text Input Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2280",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca227f",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57e48a2eab3d8759a1a58ca5",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a96364b3865607d6dca22ed"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2281",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca227f",
+    "_layout": "right",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\">Women’s footwear usually come in an average width, also known as ‘B’ or ‘M’ fits. Where the width isn’t specified, you can assume the width is average.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">American brands such as Nine West, Guess and Steve Madden can have slightly narrower fits.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Hush Puppies and Easy Steps offer shoes in wider ‘C’ fits. The widest fit we sell is ‘D’ fit, available in the Widesteps brand.</p>",
+    "displayTitle": "SIZING STANDARDS – WIDTH",
+    "_refId": "57e48a54ab3d8759a1a58ca8",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-1"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2284",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca2283",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "displayTitle": "HOT TIP",
+    "body": "<p style=\"text-align: center;\"><sup>Press the image below to learn more.</sup></p>",
+    "_refId": "57e48ac2ab3d8759a1a58cad",
+    "_itemLayout": {
+      "small": 100,
+      "medium": 50,
+      "large": 50
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6aab3c4e71532e3c515e5",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "caption": "<b>TRY BEFORE YOU BUY</b>"
+        },
+        "_shouldSetCompletion": false,
+        "itemIndex": 0,
+        "_id": "57e47337ab3d8759a1a58c80",
+        "text": "<p style=\"text-align: center;\"><b>TRY BEFORE YOU BUY</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\">Sizes can vary between brands and styles, so it’s essential to try on shoes before buying them. For a realistic fit, shop in the evening as your feet can swell up to 8%.<br></p>"
+      }
+    ],
+    "_shouldDisableItemTitles": false,
+    "_shouldCenterCaption": true,
+    "_shouldDisplayCaptionOverGraphic": true,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca2287",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca2286",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "FROM THE EXPERT",
+    "body": "<p style=\"text-align: center;\"><i>To test shoes for fit, start by putting them on and standing up. They should feel comfortable, not bulge over the top or hang over the insole.</i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: center;\"><i>Next, walk in the shoes. There should be no pain - pressing, pinching, scraping, slipping or sliding are signs the shoe doesn’t fit well, so consider another size or style.</i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: center;\"><i>If they're slightly too big on one foot, then insoles, shoe cushions and heel grips are your secret weapon. They can help fill out the shoe, while providing extra comfort and repelling moisture.</i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: right;\"><b><sub>Joanne Mercer</sub></b></p><p style=\"text-align: right;\"><sup>General Manager Womens Footwear &amp; Accessories<br></sup></p><p><br></p>",
+    "_refId": "57f1f50eab4ef80802834d35",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5a95f1c93865607d6dca228a",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca2289",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">How well do you know the current footwear trends?<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Identify the on-trend style from the shoes below.</p>",
+    "_refId": "57e4b426ab3d8759a1a58cc2",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><strong>You missed it</strong> - t<span>ake a look at&nbsp;</span><strong>Shoe D</strong><span>.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Pumps are a season favourite. It is applied here to another season favourite - the colour red.</span></p><p style=\"text-align: center;\"><span>.</span></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Partly correct</b>&nbsp;- t<span>ake a look at </span><b>Shoe A</b><span>.</span></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span><b>Ghillie ties</b> are so-hot-right-now. This sandal look is completed with embossed leather and a covered block heel.</span></p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><b>That's right!</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Pumps are a season favourite. It is applied here to another season favourite - the colour red.</span><br></p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6a451c4e71532e3c515dd",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "alt": ""
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe A",
+        "itemIndex": 0,
+        "_id": "57e4b459ab3d8759a1a58cc3"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5ac6a488c4e71532e3c515de",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          },
+          "alt": ""
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe B<br>",
+        "_id": "57e4b56cab3d8759a1a58cc6",
+        "itemIndex": 1
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a9dff1c3865607d6dca2556",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe C<br>",
+        "itemIndex": 2,
+        "_id": "57e4b570ab3d8759a1a58cc7"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5acd74e91e16803cc70f91b0"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Shoe D",
+        "_id": "57f432904ea87d56dd3ea147",
+        "itemIndex": 3
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "GMCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca2290",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1c93865607d6dca228f",
+    "_layout": "full",
+    "_component": "gmcq",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">Identify the on-trend style from the shoes below.</p>",
+    "_refId": "57e4c1aeab3d8759a1a58cf0",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><strong>Not quite&nbsp;</strong>- t<span>ake a look at<strong>&nbsp;Shoe B</strong>.</span></p><p style=\"text-align: center;\"><strong><br></strong></p><p style=\"text-align: center;\">The <strong>Sock boot&nbsp;</strong>is<span>&nbsp;a current footwear favourite, and in the colour of the season -red, it&#39;s a double hit</span><span>.</span></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>Not quite</b> - take a look at <b>Shoe A</b>.<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b>Laser cut leather details</b> are a current footwear favourite. Here, it’s applied to navy nubuck leather, combined with a stacked wedge heel and peep toe.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p style=\"text-align: center;\"><strong>That&#39;s right!</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Red is a season favourite. It is applied here to another season favourite - the sock boot.</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_buttonAlignment": "center",
+      "_iconAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_titleTextAlignment": "center",
+      "_isEnabled": false
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a9dff1c3865607d6dca2554",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57e4b459ab3d8759a1a58cc3",
+        "itemIndex": 0,
+        "text": "Shoe A"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5a9dff1c3865607d6dca2551"
+          }
+        },
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "57e4b56cab3d8759a1a58cc6",
+        "text": "Shoe B"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a9dff1c3865607d6dca2553",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "57e4b570ab3d8759a1a58cc7",
+        "itemIndex": 2,
+        "text": "Shoe C"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5a9dff1c3865607d6dca2552",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "57f436034ea87d56dd3ea15b",
+        "text": "Shoe D"
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "GMCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca2293",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1ca3865607d6dca2292",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "displayTitle": "#SHOEGOALS",
+    "body": "<p style=\"text-align: center;\">Here is a collection of other trending footwear styles. How many of these do you know?</p>",
+    "_refId": "57e4c3f2ab3d8759a1a58cfc",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ac6a349c4e71532e3c515d9"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "57e4c3f8ab3d8759a1a58cfd",
+        "body": "<p style=\"text-align: center;\">Red&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The colour of the season and will be seen in heels, flats and boots.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ac6a3c7c4e71532e3c515dc"
+          }
+        },
+        "_id": "57e4c3fdab3d8759a1a58cfe",
+        "itemIndex": 1,
+        "body": "<p style=\"text-align: center;\">Loafers&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">A casual shoe, shaped like a moccasin with a flat heel.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5ac6a360c4e71532e3c515da"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "57e4c3feab3d8759a1a58cff",
+        "body": "<p style=\"text-align: center;\">Sock boots</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Stretch microfiber and knitted shafts give these dress boots a customised fit like a 'sock'.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5acd76a51e16803cc70f91b1",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "57e4c400ab3d8759a1a58d00",
+        "itemIndex": 3,
+        "body": "<p style=\"text-align: center;\">Pointed toe pumps</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">From low kitten to sky scraper heels this classic silhouette is a wardrobe must have this season.</p>"
+      }
+    ],
+    "_shouldDisplayContentOnTop": false,
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca2296",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1ca3865607d6dca2295",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "5806ecd4f8c4307b6cd57b7b",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5ac6a75ac4e71532e3c515e2"
+      },
+      "_isLightboxEnabled": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca2297",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5ac6a691c4e71532e3c515e1",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p style=\"text-align: center;\"><i>There are so many gorgeous styles to choose from this season - I have two favourites. For work I can’t go pass the Becky sling back in red from Innovare made in Italy.  The choked topline adds a contemporary twist to a classic style, the block heel and kid leather lining allow for all day comfort and of course the handcrafted Italian leather upper in this season’s red adds an instant style update to any outfit.</i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: center;\"><i>For weekends I love the Inky boot in taupe from Zazou. The ultra soft leather upper and leather lining makes them super comfortable when I’m dashing from one appointment to another, the taupe colour works back with all my casual outfits and the scratched leather on the back adds material interest.&nbsp;</i></p><p style=\"text-align: center;\"><i><br></i></p><p style=\"text-align: right;\"><b><sub>Joanne Mercer</sub></b></p><p style=\"text-align: right;\"><sup>General Manager Womens Footwear &amp; Accessories</sup></p>",
+    "displayTitle": "FROM THE EXPERT",
+    "_refId": "5806ed60f8c4307b6cd57b7e",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca229b",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5ac69663c4e71532e3c515d4",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE RUNDOWN",
+    "body": "<p style=\"text-align: center;\">In summary, the women’s footwear size conversion table available in every women’s footwear reserve makes it easy to work between AU/US, EU and UK size standards.</p><p style=\"text-align: center;\">In addition, the footwear trends making a splash this season include:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">- Ankle boots – dressy stiletto or covered block heels or casual with stacked heels</p><p style=\"text-align: center;\">- Ballerina flats</p><p style=\"text-align: center;\">- Man tailored loafers and lace ups</p><p style=\"text-align: center;\">- Knit sneakers.</p>",
+    "_refId": "57eb2b47ab4ef80802834c6a",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-13-0-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca229a",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1ca3865607d6dca2299",
+    "_layout": "left",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "57eb2b3fab4ef80802834c69",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "_isExternalLink": false,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5a96364b3865607d6dca22ec"
+      },
+      "_isLightboxEnabled": false,
+      "lightboxZoomInAriaLabel": "zoom in",
+      "lightboxZoomOutAriaLabel": "zoom out",
+      "lightboxCloseAriaLabel": "close"
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-13-1-0"
+  },
+  {
+    "_id": "5af3c9a9d8a5ad01ea00b9bf",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5af3c9a9d8a5ad01ea00b9bc",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "displayTitle": "THE EXTRA MILE",
+    "body": "<p style=\"text-align: center;\">Check out these Learning Moments to step up your knowledge about women&rsquo;s footwear:</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5af3c9a9d8a5ad01ea00b9bf",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center"
+    },
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-14-0-0"
+  },
+  {
+    "_id": "5af3c9a9d8a5ad01ea00b9c0",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5af3c9a9d8a5ad01ea00b9bd",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "5af11e0bbf7f0030d055b801",
+        "itemTitle": "FOOTWEAR CONSTRUCTION",
+        "link": "http://myeracademy.com.au/content/footwear-construction/index.html"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 1,
+        "itemTitle": "YOUNG AND CONTEMPORARY FOOTWEAR",
+        "link": "http://myeracademy.com.au/content/young-and-contemporary-footwear/index.html",
+        "_id": "5af11eacbf7f0030d055b804"
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "_id": "5af11eb0bf7f0030d055b805",
+        "itemIndex": 2,
+        "itemTitle": "CLASSIC FOOTWEAR BRANDS",
+        "link": "http://www.myeracademy.com.au/content/classic-footwear-brands/index.html"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5af3c9a9d8a5ad01ea00b9c0",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-14-1-0"
+  },
+  {
+    "_id": "5af3c9a9d8a5ad01ea00b9c1",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5af3c9a9d8a5ad01ea00b9be",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\">And explore our huge range of women&rsquo;s footwear available online:</p>",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "https://www.myer.com.au/shop/mystore/women/shoes",
+        "itemIndex": 0,
+        "_id": "5af11fe7bf7f0030d055b809",
+        "itemTitle": "WOMEN&#39;S FOOTWEAR @ MYER",
+        "body": ""
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5af3c9a9d8a5ad01ea00b9c1",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-14-2-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca22a7",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1ca3865607d6dca22a6",
+    "_layout": "full",
+    "_component": "links",
+    "__v": 0,
+    "_refId": "5836390a948c8b50476dbd92",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58363913948c8b50476dbd93",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-15-0-0"
+  },
+  {
+    "_id": "5a95f1ca3865607d6dca22a5",
+    "_courseId": "5a95f1c93865607d6dca226b",
+    "_parentId": "5a95f1ca3865607d6dca22a4",
+    "_layout": "full",
+    "_component": "graphic",
+    "__v": 0,
+    "_refId": "582d14167459023a39ae0eb6",
+    "_graphicTextStyles": {
+      "_mobile": {
+        "_fontColor": "transparent"
+      },
+      "_tablet": {
+        "_fontColor": "transparent"
+      },
+      "_desktop": {
+        "_fontColor": "transparent"
+      }
+    },
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80f9ebca4a4008795071"
+      },
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "599b80eaebca4a4008795070"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-15-1-0"
+  }
+]

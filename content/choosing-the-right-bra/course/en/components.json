@@ -1,0 +1,910 @@
+[
+  {
+    "_id": "597171b832b40dca201c4dc7",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "59657b1ff5bba3477db192f1",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": null,
+      "small": null
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597171b832b40dca201c4dc7",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "59657b1ff5bba3477db192f4",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "59657b1ff5bba3477db192f3",
+    "__v": 0,
+    "_refId": "596309133b3d31444afd3ac9",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "596309bc3b3d31444afd3acb"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_id": "591e4284ad04f4d3201a7cc1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "itemIndex": 0,
+        "_id": "596309303b3d31444afd3aca",
+        "frontText": "",
+        "backText": "<div><b>BERLEI: BARELY THERE</b></div><br>The seamless and lightly padded cup creates sleek and sculpted silhouettes underneath clothes. Soft and smooth against the skin, this bra is specifically engineered to give comfort and support all day."
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_frontGraphic": {
+          "_id": "5963fb38c55828882e726f9f",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "backText": "<div><b>TRIUMPH: MINIMIZER</b></div><br>The firm, rigid fabric holds the bust in place and reduces the appearance by one cup size. Cups are lined with cotton for comfort and are available up to a 20G.",
+        "itemIndex": 1,
+        "_id": "5963fac3c55828882e726f9e",
+        "frontText": ""
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5963fbddc55828882e726fa2"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "591e4284ad04f4d3201a7cc1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backText": "<b>CHLOE &amp; LOLA: WIREFREE</b><div><br>The adjustable straps, plunging neckline and quality back hook and eye fastening make this bra a popular choice for customers looking for a wire-free bra. </div>",
+        "frontText": "",
+        "_id": "5963fb5ec55828882e726fa1",
+        "itemIndex": 2
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5963fc58c55828882e726fa5"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "itemIndex": 3,
+        "_id": "5963fbebc55828882e726fa4",
+        "frontText": "<br>",
+        "backText": "<div><b>PLEASURE STATE: MY FIT FMO</b></div><br>Each cup is customised to the size of the bra, meaning the smaller the cup size the larger the push, and the larger the cup size the smaller the push. &nbsp;<span style=\"font-size: 16px;\">Straps are convertible to provide customisation.</span>"
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_frontGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "5963fcf9c55828882e726fa8"
+        },
+        "backTextStyles": {
+          "_fontColor": "transparent",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "591e4284ad04f4d3201a7cc1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backText": "<div><b>FINELINES: MEMORY STRAPLESS&nbsp;<br></b></div><br><span style=\"font-size: 16px;\">Designed to mould to the body shape, this bra offers superior fit and features balconnet contour cups in memory foam which moulds to the customer's shape.&nbsp;</span>Detachable shoulder straps allow this bra to be worn in five different ways.",
+        "frontText": "<br>",
+        "_id": "5963fc96c55828882e726fa7",
+        "itemIndex": 4
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_frontGraphic": {
+          "_id": "5963fd8bc55828882e726fab",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_backGraphic": {
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "591e4284ad04f4d3201a7cc1"
+        },
+        "backText": "<div><b>BERLEI: ELECTRIFY SPORTS</b><br></div><br>This bra is designed for high-impact sports such as running, this bra reduces breast bounce by more than 50%. Both the cups and back wings have breathable mesh panels that create cooling airflow during a workout.",
+        "frontText": "<br>",
+        "_id": "5963fd2ac55828882e726faa",
+        "itemIndex": 5
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "#000000",
+          "_textAlign": "center",
+          "_fontSize": ""
+        },
+        "_frontGraphic": {
+          "_id": "5963fe4ac55828882e726fae",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": "",
+          "_textAlign": "center"
+        },
+        "_backGraphic": {
+          "_id": "591e4284ad04f4d3201a7cc1",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backText": "<div><b>AMOENA: POST-SURGERY</b></div><br>This bra has an extremely supportive soft cup in an embossed fabric. Cotton pockets mean a prosthesis can be work on either side.&nbsp;",
+        "itemIndex": 6,
+        "_id": "5963fdb3c55828882e726fad",
+        "frontText": "<br>"
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_frontGraphic": null,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Flip Card Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5971ab2832b40dca201c4dcd",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "5971aad132b40dca201c4dcb",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "OUTCOME",
+        "itemIndex": 0,
+        "_id": "5971ab2c32b40dca201c4dcf",
+        "body": "<p>By asking this question you will be able to determine which of the bras to start with…</p><p><br></p><p>Is a smoothing solution – such as Berlei: Barely There – what they’re looking for? </p><p><br></p><p>Or is a push-up bra – such as Pleasure State: My Fit FMO: Push-Up – likely to meet their needs?&nbsp;</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5971ab2832b40dca201c4dcd",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5971abb232b40dca201c4dd3",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "5971aba932b40dca201c4dd1",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p style=\"text-align: center;\">Highlights ‘gaps’ in a customer’s lingerie range, and provides an opportunity for you to showcase new trends, designs and stock.</p>",
+        "_id": "5971ac2e32b40dca201c4dd5",
+        "itemIndex": 0,
+        "title": "OUTCOME"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5971abb232b40dca201c4dd3",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-1-0"
+  },
+  {
+    "_id": "5971abaf32b40dca201c4dd2",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "5971aba632b40dca201c4dd0",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "OUTCOME",
+        "itemIndex": 0,
+        "_id": "5971ac9832b40dca201c4dd7",
+        "body": "<p style=\"text-align: center;\">A bra wardrobe should have 2-3 everyday bras, 1-2 sports bras, a strapless/convertible solution for special events and a balconnet or push-up. ‘We’ve found your perfect everyday option, now do you need a sports bra/strapless solution?’</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5971abaf32b40dca201c4dd2",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-2-2-0"
+  },
+  {
+    "_id": "59657b1ff5bba3477db192fa",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "59657b1ff5bba3477db192f9",
+    "__v": 0,
+    "_refId": "59640345c55828882e726fbd",
+    "body": "<p style=\"text-align: center;\">We all need to keep up-to-date with the latest bra designs and technology. How do you stay ahead of intimate apparel trends?&nbsp;</p>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\">Correct.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Use a wide range of tools and resources to learn and stay inspired.&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\">Incorrect.&nbsp;</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Use a wide range of tools and resources to learn and stay inspired.&nbsp;</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "5964035fc55828882e726fbe",
+        "text": "Attend all seasonal roadshows"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Review the style guides &nbsp;",
+        "_id": "5964036cc55828882e726fbf",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Regularly ask about new product launches and marketing campaigns",
+        "_id": "5964037cc55828882e726fc1",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "59640381c55828882e726fc2",
+        "text": "Spend time with our supplier representatives"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 4,
+        "_id": "596403b2c55828882e726fc3",
+        "text": "All of the above"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 1,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5971adaa32b40dca201c4dd8",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "59657b1ff5bba3477db192fc",
+    "_graphic": {
+      "_isExternalLink": false,
+      "large": null,
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59813bcbebca4a4008794ca9"
+      }
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5971adaa32b40dca201c4dd8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5971ade532b40dca201c4ddb",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "5971ade532b40dca201c4dda",
+    "__v": 0,
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "link": "http://www.myeracademy.com.au/content/intimate-apparel-care-and-solutions/index.html",
+        "itemTitle": "INTIMATE APPAREL CARE AND SOLUTIONS",
+        "itemIndex": 1,
+        "_id": "596ef1ea32b40dca201c4c17",
+        "body": ""
+      },
+      {
+        "_isImageLink": false,
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": true,
+        "_linkPosition": "top",
+        "_linkAlignment": "center",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "592cf808cc6c57255d381329",
+        "itemTitle": "BACK",
+        "link": "../index.php"
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5971ade532b40dca201c4ddb",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5971adfa32b40dca201c4dde",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "59657b1ef5bba3477db192a1",
+    "_parentId": "5971adfa32b40dca201c4ddd",
+    "__v": 0,
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5924eae5ad04f4d3201a7d54"
+      },
+      "large": {
+        "_id": "5924e8c2ad04f4d3201a7d50",
+        "_extension": "jpeg",
+        "_type": "image",
+        "_size": "large"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5971adfa32b40dca201c4dde",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  }
+]
